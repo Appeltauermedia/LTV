@@ -1,6 +1,6 @@
-const VERSION = "ltv-1.0.13";
+const VERSION = "ltv-1.0.14";
 const STATIC = `${VERSION}-static`;
-const APP_SHELL = ["./","./index.html","./manifest.webmanifest","./images/book-cover-placeholder.svg","./icons/favicon-32.png","./icons/favicon-48.png","./icons/icon.svg","./icons/icon-192.png","./icons/icon-512.png"];
+const APP_SHELL = ["./","./index.html","./manifest.webmanifest","./favicon.ico","./images/book-cover-placeholder.svg","./icons/favicon-32.png","./icons/favicon-48.png","./icons/icon.svg","./icons/icon-192.png","./icons/icon-512.png"];
 self.addEventListener("install", event => event.waitUntil(caches.open(STATIC).then(cache => cache.addAll(APP_SHELL))));
 self.addEventListener("activate", event => event.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(k => k !== STATIC).map(k => caches.delete(k)))).then(() => self.clients.claim())));
 self.addEventListener("fetch", event => {
