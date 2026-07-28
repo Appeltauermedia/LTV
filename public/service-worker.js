@@ -1,4 +1,4 @@
-const VERSION = "ltv-1.0.17";
+const VERSION = "ltv-1.0.18";
 const STATIC = `${VERSION}-static`;
 const APP_SHELL = ["./","./index.html","./manifest.webmanifest","./favicon.ico","./images/book-cover-placeholder.svg","./icons/favicon-32.png","./icons/favicon-48.png","./icons/icon.svg","./icons/icon-192.png","./icons/icon-512.png"];
 self.addEventListener("install", event => event.waitUntil(caches.open(STATIC).then(cache => cache.addAll(APP_SHELL))));
