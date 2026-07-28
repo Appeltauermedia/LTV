@@ -60,6 +60,10 @@
   font-size:.75rem;
   text-align:center;
 }
+.search-open{
+  font-size:2rem;
+  line-height:1;
+}
 .brand img.brand-mark{
   object-fit:cover;
   background:#f7e7ce;
