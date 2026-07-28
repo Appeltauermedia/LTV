@@ -75,6 +75,20 @@
   stroke-linejoin:round;
   pointer-events:none;
 }
+.hero-copy h2{
+  font-size:clamp(2rem,10vw,4.5rem);
+}
+.large-text .hero-copy h2{
+  font-size:clamp(1.7rem,8vw,3.6rem);
+}
+.button-stack .file-button{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  width:100%;
+  text-align:center;
+  padding:.75rem 1rem;
+}
 .brand img.brand-mark{
   object-fit:cover;
   background:#f7e7ce;
