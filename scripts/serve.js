@@ -18,7 +18,9 @@ const types = {
 };
 
 const server = http.createServer((request, response) => {
-  const urlPath = decodeURIComponent(new URL(request.url, "http://localhost").pathname);
+  const requestedPath = decodeURIComponent(new URL(request.url, "http://localhost").pathname);
+  // Bildet den GitHub-Pages-Unterpfad lokal auf das dist-Wurzelverzeichnis ab.
+  const urlPath = requestedPath === "/LTV" ? "/" : requestedPath.replace(/^\/LTV\//, "/");
   let file = path.resolve(root, `.${urlPath === "/" ? "/index.html" : urlPath}`);
   if (!file.startsWith(root)) return send(response, 403, "Zugriff verweigert");
   if (!fs.existsSync(file) || fs.statSync(file).isDirectory()) file = path.join(root, "index.html");
@@ -34,11 +36,11 @@ const server = http.createServer((request, response) => {
 });
 
 server.listen(port, "0.0.0.0", () => {
-  const local = `http://localhost:${port}`;
+  const local = `http://localhost:${port}/LTV/`;
   console.log(`\nTürkisch-Vokabeltrainer läuft:\n${local}`);
   for (const addresses of Object.values(os.networkInterfaces())) {
     for (const address of addresses || []) {
-      if (address.family === "IPv4" && !address.internal) console.log(`http://${address.address}:${port}`);
+      if (address.family === "IPv4" && !address.internal) console.log(`http://${address.address}:${port}/LTV/`);
     }
   }
   console.log("\nZum Beenden Strg+C drücken.");

@@ -10,7 +10,7 @@
 
 ## GitHub Pages
 
-`npm run build -- --base=/REPOSITORY-NAME/` ausführen und `dist/` per Pages-Workflow veröffentlichen. Für eine Domainwurzel bleibt die Standardbasis `./`. Pages stellt HTTPS bereit.
+Für dieses Repository ist der Vite-Basispfad fest auf `/LTV/` gesetzt. Der Workflow `.github/workflows/deploy-pages.yml` validiert Daten, führt Tests aus, erstellt `dist/` und veröffentlicht ausschließlich dieses Build-Artefakt über GitHub Pages. In den Repository-Einstellungen muss unter **Settings → Pages → Build and deployment → Source** einmalig **GitHub Actions** gewählt sein. Pages stellt anschließend HTTPS bereit.
 
 ## Versionswechsel
 
