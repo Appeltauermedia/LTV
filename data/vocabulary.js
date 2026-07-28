@@ -13,190 +13,190 @@ export default {
   "chapters": [
     {
       "number": 1,
-      "title": "Kapitel 1"
+      "title": "Ankunft in Istanbul"
     },
     {
       "number": 2,
-      "title": "Kapitel 2"
+      "title": "Mit dem Taxi ins Herz von Istanbul"
     },
     {
       "number": 3,
-      "title": "Kapitel 3"
+      "title": "Willkommen im Hotel"
     },
     {
       "number": 4,
-      "title": "Kapitel 4"
+      "title": "Ein türkisches Frühstück"
     },
     {
       "number": 5,
-      "title": "Kapitel 5"
+      "title": "Mit der Straßenbahn durch Istanbul"
     },
     {
       "number": 6,
-      "title": "Kapitel 6"
+      "title": "Der Große Basar – Ein Fest für die Sinne"
     },
     {
       "number": 7,
-      "title": "Kapitel 7"
+      "title": "Ein Tee am Bosporus"
     },
     {
       "number": 8,
-      "title": "Kapitel 8"
+      "title": "Warum heißt es plötzlich „Çayı“?"
     },
     {
       "number": 9,
-      "title": "Kapitel 9"
+      "title": "Mit der Fähre nach Asien"
     },
     {
       "number": 10,
-      "title": "Kapitel 10"
+      "title": "Zu Fuß durch Kadıköy"
     },
     {
       "number": 11,
-      "title": "Kapitel 11"
+      "title": "Der Markt von Kadıköy"
     },
     {
       "number": 12,
-      "title": "Kapitel 12"
+      "title": "Ein Café in Kadıköy"
     },
     {
       "number": 13,
-      "title": "Kapitel 13"
+      "title": "Ein Abend im Lokanta"
     },
     {
       "number": 14,
-      "title": "Kapitel 14"
+      "title": "Zurück nach Sultanahmet"
     },
     {
       "number": 15,
-      "title": "Kapitel 15"
+      "title": "Ein neuer Morgen in Sultanahmet"
     },
     {
       "number": 16,
-      "title": "Kapitel 16"
+      "title": "In der Blauen Moschee"
     },
     {
       "number": 17,
-      "title": "Kapitel 17"
+      "title": "Eine Pause im Gülhane-Park"
     },
     {
       "number": 18,
-      "title": "Kapitel 18"
+      "title": "Auf der Galatabrücke"
     },
     {
       "number": 19,
-      "title": "Kapitel 19"
+      "title": "Hinauf zum Galataturm"
     },
     {
       "number": 20,
-      "title": "Kapitel 20"
+      "title": "Auf der İstiklal Caddesi"
     },
     {
       "number": 21,
-      "title": "Kapitel 21"
+      "title": "Im Dolmabahçe-Palast"
     },
     {
       "number": 22,
-      "title": "Kapitel 22"
+      "title": "Durch Beşiktaş"
     },
     {
       "number": 23,
-      "title": "Kapitel 23"
+      "title": "Ein Abend in Ortaköy"
     },
     {
       "number": 24,
-      "title": "Kapitel 24"
+      "title": "Am Bosporusufer"
     },
     {
       "number": 25,
-      "title": "Kapitel 25"
+      "title": "Mit der Fähre nach Üsküdar"
     },
     {
       "number": 26,
-      "title": "Kapitel 26"
+      "title": "Abend in Üsküdar"
     },
     {
       "number": 27,
-      "title": "Kapitel 27"
+      "title": "Zurück im Hotel"
     },
     {
       "number": 28,
-      "title": "Kapitel 28"
+      "title": "Eine Fahrkarte nach Kappadokien"
     },
     {
       "number": 29,
-      "title": "Kapitel 29"
+      "title": "Abfahrt in die Nacht"
     },
     {
       "number": 30,
-      "title": "Kapitel 30"
+      "title": "Im Nachtbus"
     },
     {
       "number": 31,
-      "title": "Kapitel 31"
+      "title": "Guten Morgen, Kappadokien"
     },
     {
       "number": 32,
-      "title": "Kapitel 32"
+      "title": "Im Freilichtmuseum"
     },
     {
       "number": 33,
-      "title": "Kapitel 33"
+      "title": "Beim Töpfer in Avanos"
     },
     {
       "number": 34,
-      "title": "Kapitel 34"
+      "title": "Zu Gast im Dorf"
     },
     {
       "number": 35,
-      "title": "Kapitel 35"
+      "title": "Durch das Tal"
     },
     {
       "number": 36,
-      "title": "Kapitel 36"
+      "title": "Vor Sonnenaufgang"
     },
     {
       "number": 37,
-      "title": "Kapitel 37"
+      "title": "Über Kappadokien"
     },
     {
       "number": 38,
-      "title": "Kapitel 38"
+      "title": "Ein letzter Abend in Göreme"
     },
     {
       "number": 39,
-      "title": "Kapitel 39"
+      "title": "Wieder in Istanbul"
     },
     {
       "number": 40,
-      "title": "Kapitel 40"
+      "title": "Ein Tag auf Büyükada"
     },
     {
       "number": 41,
-      "title": "Kapitel 41"
+      "title": "In der Apotheke"
     },
     {
       "number": 42,
-      "title": "Kapitel 42"
+      "title": "Geschenke für zu Hause"
     },
     {
       "number": 43,
-      "title": "Kapitel 43"
+      "title": "Ein Gespräch ohne Vorbereitung"
     },
     {
       "number": 44,
-      "title": "Kapitel 44"
+      "title": "Der letzte Abend in Istanbul"
     },
     {
       "number": 45,
-      "title": "Kapitel 45"
+      "title": "Der Bosporus antwortet"
     }
   ],
   "vocabulary": [
     {
       "id": "k01-v001",
       "chapter": 1,
-      "chapterTitle": "Kapitel 1",
+      "chapterTitle": "Ankunft in Istanbul",
       "turkish": "Hoş bulduk",
       "german": [
         "Antwort auf „Willkommen“"
@@ -217,7 +217,7 @@ export default {
     {
       "id": "k01-v002",
       "chapter": 1,
-      "chapterTitle": "Kapitel 1",
+      "chapterTitle": "Ankunft in Istanbul",
       "turkish": "Görüşürüz",
       "german": [
         "Auf Wiedersehen",
@@ -239,7 +239,7 @@ export default {
     {
       "id": "k01-v003",
       "chapter": 1,
-      "chapterTitle": "Kapitel 1",
+      "chapterTitle": "Ankunft in Istanbul",
       "turkish": "Lütfen",
       "german": [
         "bitte"
@@ -260,7 +260,7 @@ export default {
     {
       "id": "k01-v004",
       "chapter": 1,
-      "chapterTitle": "Kapitel 1",
+      "chapterTitle": "Ankunft in Istanbul",
       "turkish": "Rica ederim",
       "german": [
         "Gern geschehen"
@@ -281,7 +281,7 @@ export default {
     {
       "id": "k01-v005",
       "chapter": 1,
-      "chapterTitle": "Kapitel 1",
+      "chapterTitle": "Ankunft in Istanbul",
       "turkish": "İyi akşamlar",
       "german": [
         "Guten Abend"
@@ -302,7 +302,7 @@ export default {
     {
       "id": "k01-v006",
       "chapter": 1,
-      "chapterTitle": "Kapitel 1",
+      "chapterTitle": "Ankunft in Istanbul",
       "turkish": "Günaydın",
       "german": [
         "Guten Morgen"
@@ -323,7 +323,7 @@ export default {
     {
       "id": "k01-v007",
       "chapter": 1,
-      "chapterTitle": "Kapitel 1",
+      "chapterTitle": "Ankunft in Istanbul",
       "turkish": "İyi günler",
       "german": [
         "Guten Tag"
@@ -344,7 +344,7 @@ export default {
     {
       "id": "k01-v008",
       "chapter": 1,
-      "chapterTitle": "Kapitel 1",
+      "chapterTitle": "Ankunft in Istanbul",
       "turkish": "Merhaba",
       "german": [
         "Hallo"
@@ -365,7 +365,7 @@ export default {
     {
       "id": "k01-v009",
       "chapter": 1,
-      "chapterTitle": "Kapitel 1",
+      "chapterTitle": "Ankunft in Istanbul",
       "turkish": "Hoş geldiniz",
       "german": [
         "Herzlich willkommen"
@@ -386,7 +386,7 @@ export default {
     {
       "id": "k01-v010",
       "chapter": 1,
-      "chapterTitle": "Kapitel 1",
+      "chapterTitle": "Ankunft in Istanbul",
       "turkish": "Evet",
       "german": [
         "ja"
@@ -407,7 +407,7 @@ export default {
     {
       "id": "k01-v011",
       "chapter": 1,
-      "chapterTitle": "Kapitel 1",
+      "chapterTitle": "Ankunft in Istanbul",
       "turkish": "Hayır",
       "german": [
         "nein"
@@ -428,7 +428,7 @@ export default {
     {
       "id": "k01-v012",
       "chapter": 1,
-      "chapterTitle": "Kapitel 1",
+      "chapterTitle": "Ankunft in Istanbul",
       "turkish": "Teşekkür ederim",
       "german": [
         "Vielen Dank"
@@ -449,7 +449,7 @@ export default {
     {
       "id": "k02-v001",
       "chapter": 2,
-      "chapterTitle": "Kapitel 2",
+      "chapterTitle": "Mit dem Taxi ins Herz von Istanbul",
       "turkish": "adres",
       "german": [
         "Adresse"
@@ -470,7 +470,7 @@ export default {
     {
       "id": "k02-v002",
       "chapter": 2,
-      "chapterTitle": "Kapitel 2",
+      "chapterTitle": "Mit dem Taxi ins Herz von Istanbul",
       "turkish": "lütfen",
       "german": [
         "bitte"
@@ -491,7 +491,7 @@ export default {
     {
       "id": "k02-v003",
       "chapter": 2,
-      "chapterTitle": "Kapitel 2",
+      "chapterTitle": "Mit dem Taxi ins Herz von Istanbul",
       "turkish": "buyurun",
       "german": [
         "bitte",
@@ -514,7 +514,7 @@ export default {
     {
       "id": "k02-v004",
       "chapter": 2,
-      "chapterTitle": "Kapitel 2",
+      "chapterTitle": "Mit dem Taxi ins Herz von Istanbul",
       "turkish": "şoför",
       "german": [
         "Fahrer"
@@ -535,7 +535,7 @@ export default {
     {
       "id": "k02-v005",
       "chapter": 2,
-      "chapterTitle": "Kapitel 2",
+      "chapterTitle": "Mit dem Taxi ins Herz von Istanbul",
       "turkish": "bagaj",
       "german": [
         "Gepäck",
@@ -557,7 +557,7 @@ export default {
     {
       "id": "k02-v006",
       "chapter": 2,
-      "chapterTitle": "Kapitel 2",
+      "chapterTitle": "Mit dem Taxi ins Herz von Istanbul",
       "turkish": "rica ederim",
       "german": [
         "gern geschehen"
@@ -578,7 +578,7 @@ export default {
     {
       "id": "k02-v007",
       "chapter": 2,
-      "chapterTitle": "Kapitel 2",
+      "chapterTitle": "Mit dem Taxi ins Herz von Istanbul",
       "turkish": "otel",
       "german": [
         "Hotel"
@@ -599,7 +599,7 @@ export default {
     {
       "id": "k02-v008",
       "chapter": 2,
-      "chapterTitle": "Kapitel 2",
+      "chapterTitle": "Mit dem Taxi ins Herz von Istanbul",
       "turkish": "ben",
       "german": [
         "ich"
@@ -620,7 +620,7 @@ export default {
     {
       "id": "k02-v009",
       "chapter": 2,
-      "chapterTitle": "Kapitel 2",
+      "chapterTitle": "Mit dem Taxi ins Herz von Istanbul",
       "turkish": "tamam",
       "german": [
         "in Ordnung"
@@ -641,7 +641,7 @@ export default {
     {
       "id": "k02-v010",
       "chapter": 2,
-      "chapterTitle": "Kapitel 2",
+      "chapterTitle": "Mit dem Taxi ins Herz von Istanbul",
       "turkish": "siz",
       "german": [
         "Sie",
@@ -663,7 +663,7 @@ export default {
     {
       "id": "k02-v011",
       "chapter": 2,
-      "chapterTitle": "Kapitel 2",
+      "chapterTitle": "Mit dem Taxi ins Herz von Istanbul",
       "turkish": "taksi",
       "german": [
         "Taxi"
@@ -684,7 +684,7 @@ export default {
     {
       "id": "k03-v001",
       "chapter": 3,
-      "chapterTitle": "Kapitel 3",
+      "chapterTitle": "Willkommen im Hotel",
       "turkish": "Memnun oldum",
       "german": [
         "Freut mich"
@@ -705,7 +705,7 @@ export default {
     {
       "id": "k03-v002",
       "chapter": 3,
-      "chapterTitle": "Kapitel 3",
+      "chapterTitle": "Willkommen im Hotel",
       "turkish": "Ben de",
       "german": [
         "ich auch"
@@ -726,7 +726,7 @@ export default {
     {
       "id": "k03-v003",
       "chapter": 3,
-      "chapterTitle": "Kapitel 3",
+      "chapterTitle": "Willkommen im Hotel",
       "turkish": "lobi",
       "german": [
         "Lobby"
@@ -747,7 +747,7 @@ export default {
     {
       "id": "k03-v004",
       "chapter": 3,
-      "chapterTitle": "Kapitel 3",
+      "chapterTitle": "Willkommen im Hotel",
       "turkish": "benim",
       "german": [
         "mein",
@@ -769,7 +769,7 @@ export default {
     {
       "id": "k03-v005",
       "chapter": 3,
-      "chapterTitle": "Kapitel 3",
+      "chapterTitle": "Willkommen im Hotel",
       "turkish": "adım",
       "german": [
         "mein Name"
@@ -790,7 +790,7 @@ export default {
     {
       "id": "k03-v006",
       "chapter": 3,
-      "chapterTitle": "Kapitel 3",
+      "chapterTitle": "Willkommen im Hotel",
       "turkish": "ad",
       "german": [
         "Name"
@@ -811,7 +811,7 @@ export default {
     {
       "id": "k03-v007",
       "chapter": 3,
-      "chapterTitle": "Kapitel 3",
+      "chapterTitle": "Willkommen im Hotel",
       "turkish": "pasaport",
       "german": [
         "Reisepass"
@@ -832,7 +832,7 @@ export default {
     {
       "id": "k03-v008",
       "chapter": 3,
-      "chapterTitle": "Kapitel 3",
+      "chapterTitle": "Willkommen im Hotel",
       "turkish": "resepsiyon",
       "german": [
         "Rezeption"
@@ -853,7 +853,7 @@ export default {
     {
       "id": "k03-v009",
       "chapter": 3,
-      "chapterTitle": "Kapitel 3",
+      "chapterTitle": "Willkommen im Hotel",
       "turkish": "anahtar",
       "german": [
         "Schlüssel"
@@ -874,7 +874,7 @@ export default {
     {
       "id": "k03-v010",
       "chapter": 3,
-      "chapterTitle": "Kapitel 3",
+      "chapterTitle": "Willkommen im Hotel",
       "turkish": "Adınız ne?",
       "german": [
         "Wie heißen Sie?"
@@ -895,7 +895,7 @@ export default {
     {
       "id": "k03-v011",
       "chapter": 3,
-      "chapterTitle": "Kapitel 3",
+      "chapterTitle": "Willkommen im Hotel",
       "turkish": "oda",
       "german": [
         "Zimmer"
@@ -916,7 +916,7 @@ export default {
     {
       "id": "k04-v001",
       "chapter": 4,
-      "chapterTitle": "Kapitel 4",
+      "chapterTitle": "Ein türkisches Frühstück",
       "turkish": "ekmek",
       "german": [
         "Brot"
@@ -937,7 +937,7 @@ export default {
     {
       "id": "k04-v002",
       "chapter": 4,
-      "chapterTitle": "Kapitel 4",
+      "chapterTitle": "Ein türkisches Frühstück",
       "turkish": "kahvaltı",
       "german": [
         "Frühstück"
@@ -958,7 +958,7 @@ export default {
     {
       "id": "k04-v003",
       "chapter": 4,
-      "chapterTitle": "Kapitel 4",
+      "chapterTitle": "Ein türkisches Frühstück",
       "turkish": "salatalık",
       "german": [
         "Gurke"
@@ -979,7 +979,7 @@ export default {
     {
       "id": "k04-v004",
       "chapter": 4,
-      "chapterTitle": "Kapitel 4",
+      "chapterTitle": "Ein türkisches Frühstück",
       "turkish": "Afiyet olsun",
       "german": [
         "Guten Appetit"
@@ -1000,7 +1000,7 @@ export default {
     {
       "id": "k04-v005",
       "chapter": 4,
-      "chapterTitle": "Kapitel 4",
+      "chapterTitle": "Ein türkisches Frühstück",
       "turkish": "bal",
       "german": [
         "Honig"
@@ -1021,7 +1021,7 @@ export default {
     {
       "id": "k04-v006",
       "chapter": 4,
-      "chapterTitle": "Kapitel 4",
+      "chapterTitle": "Ein türkisches Frühstück",
       "turkish": "istiyorum",
       "german": [
         "ich möchte"
@@ -1042,7 +1042,7 @@ export default {
     {
       "id": "k04-v007",
       "chapter": 4,
-      "chapterTitle": "Kapitel 4",
+      "chapterTitle": "Ein türkisches Frühstück",
       "turkish": "kahve",
       "german": [
         "Kaffee"
@@ -1063,7 +1063,7 @@ export default {
     {
       "id": "k04-v008",
       "chapter": 4,
-      "chapterTitle": "Kapitel 4",
+      "chapterTitle": "Ein türkisches Frühstück",
       "turkish": "peynir",
       "german": [
         "Käse"
@@ -1084,7 +1084,7 @@ export default {
     {
       "id": "k04-v009",
       "chapter": 4,
-      "chapterTitle": "Kapitel 4",
+      "chapterTitle": "Ein türkisches Frühstück",
       "turkish": "zeytin",
       "german": [
         "Olive"
@@ -1105,7 +1105,7 @@ export default {
     {
       "id": "k04-v010",
       "chapter": 4,
-      "chapterTitle": "Kapitel 4",
+      "chapterTitle": "Ein türkisches Frühstück",
       "turkish": "çay",
       "german": [
         "Tee"
@@ -1126,7 +1126,7 @@ export default {
     {
       "id": "k04-v011",
       "chapter": 4,
-      "chapterTitle": "Kapitel 4",
+      "chapterTitle": "Ein türkisches Frühstück",
       "turkish": "domates",
       "german": [
         "Tomate"
@@ -1147,7 +1147,7 @@ export default {
     {
       "id": "k04-v012",
       "chapter": 4,
-      "chapterTitle": "Kapitel 4",
+      "chapterTitle": "Ein türkisches Frühstück",
       "turkish": "su",
       "german": [
         "Wasser"
@@ -1168,7 +1168,7 @@ export default {
     {
       "id": "k05-v001",
       "chapter": 5,
-      "chapterTitle": "Kapitel 5",
+      "chapterTitle": "Mit der Straßenbahn durch Istanbul",
       "turkish": "sekiz",
       "german": [
         "acht"
@@ -1189,7 +1189,7 @@ export default {
     {
       "id": "k05-v002",
       "chapter": 5,
-      "chapterTitle": "Kapitel 5",
+      "chapterTitle": "Mit der Straßenbahn durch Istanbul",
       "turkish": "otomat",
       "german": [
         "Automat"
@@ -1210,7 +1210,7 @@ export default {
     {
       "id": "k05-v003",
       "chapter": 5,
-      "chapterTitle": "Kapitel 5",
+      "chapterTitle": "Mit der Straßenbahn durch Istanbul",
       "turkish": "orada",
       "german": [
         "dort"
@@ -1231,7 +1231,7 @@ export default {
     {
       "id": "k05-v004",
       "chapter": 5,
-      "chapterTitle": "Kapitel 5",
+      "chapterTitle": "Mit der Straßenbahn durch Istanbul",
       "turkish": "var",
       "german": [
         "es gibt",
@@ -1253,7 +1253,7 @@ export default {
     {
       "id": "k05-v005",
       "chapter": 5,
-      "chapterTitle": "Kapitel 5",
+      "chapterTitle": "Mit der Straßenbahn durch Istanbul",
       "turkish": "yok",
       "german": [
         "es gibt nicht",
@@ -1275,7 +1275,7 @@ export default {
     {
       "id": "k05-v006",
       "chapter": 5,
-      "chapterTitle": "Kapitel 5",
+      "chapterTitle": "Mit der Straßenbahn durch Istanbul",
       "turkish": "bilet",
       "german": [
         "Fahrkarte"
@@ -1296,7 +1296,7 @@ export default {
     {
       "id": "k05-v007",
       "chapter": 5,
-      "chapterTitle": "Kapitel 5",
+      "chapterTitle": "Mit der Straßenbahn durch Istanbul",
       "turkish": "var mı?",
       "german": [
         "Gibt es?"
@@ -1317,7 +1317,7 @@ export default {
     {
       "id": "k05-v008",
       "chapter": 5,
-      "chapterTitle": "Kapitel 5",
+      "chapterTitle": "Mit der Straßenbahn durch Istanbul",
       "turkish": "durak",
       "german": [
         "Haltestelle"
@@ -1338,7 +1338,7 @@ export default {
     {
       "id": "k05-v009",
       "chapter": 5,
-      "chapterTitle": "Kapitel 5",
+      "chapterTitle": "Mit der Straßenbahn durch Istanbul",
       "turkish": "burada",
       "german": [
         "hier"
@@ -1359,7 +1359,7 @@ export default {
     {
       "id": "k05-v010",
       "chapter": 5,
-      "chapterTitle": "Kapitel 5",
+      "chapterTitle": "Mit der Straßenbahn durch Istanbul",
       "turkish": "İstanbulkart",
       "german": [
         "Nahverkehrskarte"
@@ -1380,7 +1380,7 @@ export default {
     {
       "id": "k05-v011",
       "chapter": 5,
-      "chapterTitle": "Kapitel 5",
+      "chapterTitle": "Mit der Straßenbahn durch Istanbul",
       "turkish": "dokuz",
       "german": [
         "neun"
@@ -1401,7 +1401,7 @@ export default {
     {
       "id": "k05-v012",
       "chapter": 5,
-      "chapterTitle": "Kapitel 5",
+      "chapterTitle": "Mit der Straßenbahn durch Istanbul",
       "turkish": "altı",
       "german": [
         "sechs"
@@ -1422,7 +1422,7 @@ export default {
     {
       "id": "k05-v013",
       "chapter": 5,
-      "chapterTitle": "Kapitel 5",
+      "chapterTitle": "Mit der Straßenbahn durch Istanbul",
       "turkish": "simit",
       "german": [
         "Sesamgebäck"
@@ -1443,7 +1443,7 @@ export default {
     {
       "id": "k05-v014",
       "chapter": 5,
-      "chapterTitle": "Kapitel 5",
+      "chapterTitle": "Mit der Straßenbahn durch Istanbul",
       "turkish": "yedi",
       "german": [
         "sieben"
@@ -1464,7 +1464,7 @@ export default {
     {
       "id": "k05-v015",
       "chapter": 5,
-      "chapterTitle": "Kapitel 5",
+      "chapterTitle": "Mit der Straßenbahn durch Istanbul",
       "turkish": "tramvay",
       "german": [
         "Straßenbahn"
@@ -1485,7 +1485,7 @@ export default {
     {
       "id": "k05-v016",
       "chapter": 5,
-      "chapterTitle": "Kapitel 5",
+      "chapterTitle": "Mit der Straßenbahn durch Istanbul",
       "turkish": "nerede?",
       "german": [
         "Wo?"
@@ -1506,7 +1506,7 @@ export default {
     {
       "id": "k05-v017",
       "chapter": 5,
-      "chapterTitle": "Kapitel 5",
+      "chapterTitle": "Mit der Straßenbahn durch Istanbul",
       "turkish": "on",
       "german": [
         "zehn"
@@ -1527,7 +1527,7 @@ export default {
     {
       "id": "k06-v001",
       "chapter": 6,
-      "chapterTitle": "Kapitel 6",
+      "chapterTitle": "Der Große Basar – Ein Fest für die Sinne",
       "turkish": "seksen",
       "german": [
         "achtzig"
@@ -1548,7 +1548,7 @@ export default {
     {
       "id": "k06-v002",
       "chapter": 6,
-      "chapterTitle": "Kapitel 6",
+      "chapterTitle": "Der Große Basar – Ein Fest für die Sinne",
       "turkish": "otuz",
       "german": [
         "dreißig"
@@ -1569,7 +1569,7 @@ export default {
     {
       "id": "k06-v003",
       "chapter": 6,
-      "chapterTitle": "Kapitel 6",
+      "chapterTitle": "Der Große Basar – Ein Fest für die Sinne",
       "turkish": "elli",
       "german": [
         "fünfzig"
@@ -1590,7 +1590,7 @@ export default {
     {
       "id": "k06-v004",
       "chapter": 6,
-      "chapterTitle": "Kapitel 6",
+      "chapterTitle": "Der Große Basar – Ein Fest für die Sinne",
       "turkish": "ucuz",
       "german": [
         "günstig"
@@ -1611,7 +1611,7 @@ export default {
     {
       "id": "k06-v005",
       "chapter": 6,
-      "chapterTitle": "Kapitel 6",
+      "chapterTitle": "Der Große Basar – Ein Fest für die Sinne",
       "turkish": "yüz",
       "german": [
         "hundert"
@@ -1632,7 +1632,7 @@ export default {
     {
       "id": "k06-v006",
       "chapter": 6,
-      "chapterTitle": "Kapitel 6",
+      "chapterTitle": "Der Große Basar – Ein Fest für die Sinne",
       "turkish": "istiyorum",
       "german": [
         "ich möchte"
@@ -1653,7 +1653,7 @@ export default {
     {
       "id": "k06-v007",
       "chapter": 6,
-      "chapterTitle": "Kapitel 6",
+      "chapterTitle": "Der Große Basar – Ein Fest für die Sinne",
       "turkish": "almak",
       "german": [
         "kaufen"
@@ -1674,7 +1674,7 @@ export default {
     {
       "id": "k06-v008",
       "chapter": 6,
-      "chapterTitle": "Kapitel 6",
+      "chapterTitle": "Der Große Basar – Ein Fest für die Sinne",
       "turkish": "lira",
       "german": [
         "Lira"
@@ -1695,7 +1695,7 @@ export default {
     {
       "id": "k06-v009",
       "chapter": 6,
-      "chapterTitle": "Kapitel 6",
+      "chapterTitle": "Der Große Basar – Ein Fest für die Sinne",
       "turkish": "doksan",
       "german": [
         "neunzig"
@@ -1716,7 +1716,7 @@ export default {
     {
       "id": "k06-v010",
       "chapter": 6,
-      "chapterTitle": "Kapitel 6",
+      "chapterTitle": "Der Große Basar – Ein Fest für die Sinne",
       "turkish": "güzel",
       "german": [
         "schön"
@@ -1737,7 +1737,7 @@ export default {
     {
       "id": "k06-v011",
       "chapter": 6,
-      "chapterTitle": "Kapitel 6",
+      "chapterTitle": "Der Große Basar – Ein Fest für die Sinne",
       "turkish": "altmış",
       "german": [
         "sechzig"
@@ -1758,7 +1758,7 @@ export default {
     {
       "id": "k06-v012",
       "chapter": 6,
-      "chapterTitle": "Kapitel 6",
+      "chapterTitle": "Der Große Basar – Ein Fest für die Sinne",
       "turkish": "çok",
       "german": [
         "sehr"
@@ -1779,7 +1779,7 @@ export default {
     {
       "id": "k06-v013",
       "chapter": 6,
-      "chapterTitle": "Kapitel 6",
+      "chapterTitle": "Der Große Basar – Ein Fest für die Sinne",
       "turkish": "yetmiş",
       "german": [
         "siebzig"
@@ -1800,7 +1800,7 @@ export default {
     {
       "id": "k06-v014",
       "chapter": 6,
-      "chapterTitle": "Kapitel 6",
+      "chapterTitle": "Der Große Basar – Ein Fest für die Sinne",
       "turkish": "pahalı",
       "german": [
         "teuer"
@@ -1821,7 +1821,7 @@ export default {
     {
       "id": "k06-v015",
       "chapter": 6,
-      "chapterTitle": "Kapitel 6",
+      "chapterTitle": "Der Große Basar – Ein Fest für die Sinne",
       "turkish": "kırk",
       "german": [
         "vierzig"
@@ -1842,7 +1842,7 @@ export default {
     {
       "id": "k06-v016",
       "chapter": 6,
-      "chapterTitle": "Kapitel 6",
+      "chapterTitle": "Der Große Basar – Ein Fest für die Sinne",
       "turkish": "ne kadar?",
       "german": [
         "Wie viel kostet das?"
@@ -1863,7 +1863,7 @@ export default {
     {
       "id": "k06-v017",
       "chapter": 6,
-      "chapterTitle": "Kapitel 6",
+      "chapterTitle": "Der Große Basar – Ein Fest für die Sinne",
       "turkish": "yirmi",
       "german": [
         "zwanzig"
@@ -1884,7 +1884,7 @@ export default {
     {
       "id": "k07-v001",
       "chapter": 7,
-      "chapterTitle": "Kapitel 7",
+      "chapterTitle": "Ein Tee am Bosporus",
       "turkish": "kafe",
       "german": [
         "Café"
@@ -1905,7 +1905,7 @@ export default {
     {
       "id": "k07-v002",
       "chapter": 7,
-      "chapterTitle": "Kapitel 7",
+      "chapterTitle": "Ein Tee am Bosporus",
       "turkish": "seviyorum",
       "german": [
         "ich mag"
@@ -1926,7 +1926,7 @@ export default {
     {
       "id": "k07-v003",
       "chapter": 7,
-      "chapterTitle": "Kapitel 7",
+      "chapterTitle": "Ein Tee am Bosporus",
       "turkish": "sevmiyorum",
       "german": [
         "ich mag nicht"
@@ -1947,7 +1947,7 @@ export default {
     {
       "id": "k07-v004",
       "chapter": 7,
-      "chapterTitle": "Kapitel 7",
+      "chapterTitle": "Ein Tee am Bosporus",
       "turkish": "garson",
       "german": [
         "Kellner"
@@ -1968,7 +1968,7 @@ export default {
     {
       "id": "k07-v005",
       "chapter": 7,
-      "chapterTitle": "Kapitel 7",
+      "chapterTitle": "Ein Tee am Bosporus",
       "turkish": "Bosporus",
       "german": [
         "Meerenge zwischen Europa und Asien"
@@ -1989,7 +1989,7 @@ export default {
     {
       "id": "k07-v006",
       "chapter": 7,
-      "chapterTitle": "Kapitel 7",
+      "chapterTitle": "Ein Tee am Bosporus",
       "turkish": "sevmek",
       "german": [
         "mögen"
@@ -2010,7 +2010,7 @@ export default {
     {
       "id": "k07-v007",
       "chapter": 7,
-      "chapterTitle": "Kapitel 7",
+      "chapterTitle": "Ein Tee am Bosporus",
       "turkish": "menü",
       "german": [
         "Speisekarte"
@@ -2031,7 +2031,7 @@ export default {
     {
       "id": "k07-v008",
       "chapter": 7,
-      "chapterTitle": "Kapitel 7",
+      "chapterTitle": "Ein Tee am Bosporus",
       "turkish": "simit",
       "german": [
         "türkischer Sesamring"
@@ -2052,7 +2052,7 @@ export default {
     {
       "id": "k07-v009",
       "chapter": 7,
-      "chapterTitle": "Kapitel 7",
+      "chapterTitle": "Ein Tee am Bosporus",
       "turkish": "ne?",
       "german": [
         "was?"
@@ -2073,7 +2073,7 @@ export default {
     {
       "id": "k07-v010",
       "chapter": 7,
-      "chapterTitle": "Kapitel 7",
+      "chapterTitle": "Ein Tee am Bosporus",
       "turkish": "hangi?",
       "german": [
         "welcher?"
@@ -2094,7 +2094,7 @@ export default {
     {
       "id": "k08-v001",
       "chapter": 8,
-      "chapterTitle": "Kapitel 8",
+      "chapterTitle": "Warum heißt es plötzlich „Çayı“?",
       "turkish": "suyu",
       "german": [
         "das Wasser"
@@ -2115,7 +2115,7 @@ export default {
     {
       "id": "k08-v002",
       "chapter": 8,
-      "chapterTitle": "Kapitel 8",
+      "chapterTitle": "Warum heißt es plötzlich „Çayı“?",
       "turkish": "kahveyi",
       "german": [
         "den Kaffee"
@@ -2136,7 +2136,7 @@ export default {
     {
       "id": "k08-v003",
       "chapter": 8,
-      "chapterTitle": "Kapitel 8",
+      "chapterTitle": "Warum heißt es plötzlich „Çayı“?",
       "turkish": "çayı",
       "german": [
         "den Tee"
@@ -2157,7 +2157,7 @@ export default {
     {
       "id": "k08-v004",
       "chapter": 8,
-      "chapterTitle": "Kapitel 8",
+      "chapterTitle": "Warum heißt es plötzlich „Çayı“?",
       "turkish": "içiyorum",
       "german": [
         "ich trinke"
@@ -2178,7 +2178,7 @@ export default {
     {
       "id": "k08-v005",
       "chapter": 8,
-      "chapterTitle": "Kapitel 8",
+      "chapterTitle": "Warum heißt es plötzlich „Çayı“?",
       "turkish": "istemek",
       "german": [
         "möchten, wollen"
@@ -2199,7 +2199,7 @@ export default {
     {
       "id": "k08-v006",
       "chapter": 8,
-      "chapterTitle": "Kapitel 8",
+      "chapterTitle": "Warum heißt es plötzlich „Çayı“?",
       "turkish": "tabii",
       "german": [
         "natürlich"
@@ -2220,7 +2220,7 @@ export default {
     {
       "id": "k08-v007",
       "chapter": 8,
-      "chapterTitle": "Kapitel 8",
+      "chapterTitle": "Warum heißt es plötzlich „Çayı“?",
       "turkish": "istersiniz",
       "german": [
         "Sie möchten"
@@ -2241,7 +2241,7 @@ export default {
     {
       "id": "k08-v008",
       "chapter": 8,
-      "chapterTitle": "Kapitel 8",
+      "chapterTitle": "Warum heißt es plötzlich „Çayı“?",
       "turkish": "içmek",
       "german": [
         "trinken"
@@ -2262,7 +2262,7 @@ export default {
     {
       "id": "k08-v009",
       "chapter": 8,
-      "chapterTitle": "Kapitel 8",
+      "chapterTitle": "Warum heißt es plötzlich „Çayı“?",
       "turkish": "neden?",
       "german": [
         "warum?"
@@ -2283,7 +2283,7 @@ export default {
     {
       "id": "k08-v010",
       "chapter": 8,
-      "chapterTitle": "Kapitel 8",
+      "chapterTitle": "Warum heißt es plötzlich „Çayı“?",
       "turkish": "çünkü",
       "german": [
         "weil"
@@ -2304,7 +2304,7 @@ export default {
     {
       "id": "k09-v001",
       "chapter": 9,
-      "chapterTitle": "Kapitel 9",
+      "chapterTitle": "Mit der Fähre nach Asien",
       "turkish": "Boğaz",
       "german": [
         "Bosporus"
@@ -2325,7 +2325,7 @@ export default {
     {
       "id": "k09-v002",
       "chapter": 9,
-      "chapterTitle": "Kapitel 9",
+      "chapterTitle": "Mit der Fähre nach Asien",
       "turkish": "iskele",
       "german": [
         "Fähranleger"
@@ -2346,7 +2346,7 @@ export default {
     {
       "id": "k09-v003",
       "chapter": 9,
-      "chapterTitle": "Kapitel 9",
+      "chapterTitle": "Mit der Fähre nach Asien",
       "turkish": "vapur",
       "german": [
         "Fähre"
@@ -2367,7 +2367,7 @@ export default {
     {
       "id": "k09-v004",
       "chapter": 9,
-      "chapterTitle": "Kapitel 9",
+      "chapterTitle": "Mit der Fähre nach Asien",
       "turkish": "gitmek",
       "german": [
         "gehen, fahren"
@@ -2388,7 +2388,7 @@ export default {
     {
       "id": "k09-v005",
       "chapter": 9,
-      "chapterTitle": "Kapitel 9",
+      "chapterTitle": "Mit der Fähre nach Asien",
       "turkish": "bugün",
       "german": [
         "heute"
@@ -2409,7 +2409,7 @@ export default {
     {
       "id": "k09-v006",
       "chapter": 9,
-      "chapterTitle": "Kapitel 9",
+      "chapterTitle": "Mit der Fähre nach Asien",
       "turkish": "gidiyorum",
       "german": [
         "ich gehe, ich fahre"
@@ -2430,7 +2430,7 @@ export default {
     {
       "id": "k09-v007",
       "chapter": 9,
-      "chapterTitle": "Kapitel 9",
+      "chapterTitle": "Mit der Fähre nach Asien",
       "turkish": "geliyorum",
       "german": [
         "ich komme"
@@ -2451,7 +2451,7 @@ export default {
     {
       "id": "k09-v008",
       "chapter": 9,
-      "chapterTitle": "Kapitel 9",
+      "chapterTitle": "Mit der Fähre nach Asien",
       "turkish": "gelmek",
       "german": [
         "kommen"
@@ -2472,7 +2472,7 @@ export default {
     {
       "id": "k09-v009",
       "chapter": 9,
-      "chapterTitle": "Kapitel 9",
+      "chapterTitle": "Mit der Fähre nach Asien",
       "turkish": "Kadıköy",
       "german": [
         "Stadtteil auf der asiatischen Seite Istanbuls"
@@ -2493,7 +2493,7 @@ export default {
     {
       "id": "k09-v010",
       "chapter": 9,
-      "chapterTitle": "Kapitel 9",
+      "chapterTitle": "Mit der Fähre nach Asien",
       "turkish": "nereye?",
       "german": [
         "wohin?"
@@ -2514,7 +2514,7 @@ export default {
     {
       "id": "k10-v001",
       "chapter": 10,
-      "chapterTitle": "Kapitel 10",
+      "chapterTitle": "Zu Fuß durch Kadıköy",
       "turkish": "sonra",
       "german": [
         "dann, danach"
@@ -2535,7 +2535,7 @@ export default {
     {
       "id": "k10-v002",
       "chapter": 10,
-      "chapterTitle": "Kapitel 10",
+      "chapterTitle": "Zu Fuß durch Kadıköy",
       "turkish": "affedersiniz",
       "german": [
         "Entschuldigen Sie"
@@ -2556,7 +2556,7 @@ export default {
     {
       "id": "k10-v003",
       "chapter": 10,
-      "chapterTitle": "Kapitel 10",
+      "chapterTitle": "Zu Fuß durch Kadıköy",
       "turkish": "karşı",
       "german": [
         "gegenüber"
@@ -2577,7 +2577,7 @@ export default {
     {
       "id": "k10-v004",
       "chapter": 10,
-      "chapterTitle": "Kapitel 10",
+      "chapterTitle": "Zu Fuß durch Kadıköy",
       "turkish": "düz",
       "german": [
         "geradeaus"
@@ -2598,7 +2598,7 @@ export default {
     {
       "id": "k10-v005",
       "chapter": 10,
-      "chapterTitle": "Kapitel 10",
+      "chapterTitle": "Zu Fuß durch Kadıköy",
       "turkish": "gösterir misiniz?",
       "german": [
         "Können Sie mir zeigen?"
@@ -2619,7 +2619,7 @@ export default {
     {
       "id": "k10-v006",
       "chapter": 10,
-      "chapterTitle": "Kapitel 10",
+      "chapterTitle": "Zu Fuß durch Kadıköy",
       "turkish": "sol",
       "german": [
         "links"
@@ -2640,7 +2640,7 @@ export default {
     {
       "id": "k10-v007",
       "chapter": 10,
-      "chapterTitle": "Kapitel 10",
+      "chapterTitle": "Zu Fuß durch Kadıköy",
       "turkish": "pazar",
       "german": [
         "Markt"
@@ -2661,7 +2661,7 @@ export default {
     {
       "id": "k10-v008",
       "chapter": 10,
-      "chapterTitle": "Kapitel 10",
+      "chapterTitle": "Zu Fuß durch Kadıköy",
       "turkish": "sağ",
       "german": [
         "rechts"
@@ -2682,7 +2682,7 @@ export default {
     {
       "id": "k10-v009",
       "chapter": 10,
-      "chapterTitle": "Kapitel 10",
+      "chapterTitle": "Zu Fuß durch Kadıköy",
       "turkish": "sokak",
       "german": [
         "Straße"
@@ -2703,7 +2703,7 @@ export default {
     {
       "id": "k10-v010",
       "chapter": 10,
-      "chapterTitle": "Kapitel 10",
+      "chapterTitle": "Zu Fuß durch Kadıköy",
       "turkish": "neresi?",
       "german": [
         "welcher Ort?"
@@ -2724,7 +2724,7 @@ export default {
     {
       "id": "k10-v011",
       "chapter": 10,
-      "chapterTitle": "Kapitel 10",
+      "chapterTitle": "Zu Fuß durch Kadıköy",
       "turkish": "göstermek",
       "german": [
         "zeigen"
@@ -2745,7 +2745,7 @@ export default {
     {
       "id": "k11-v001",
       "chapter": 11,
-      "chapterTitle": "Kapitel 11",
+      "chapterTitle": "Der Markt von Kadıköy",
       "turkish": "elma",
       "german": [
         "Apfel"
@@ -2766,7 +2766,7 @@ export default {
     {
       "id": "k11-v002",
       "chapter": 11,
-      "chapterTitle": "Kapitel 11",
+      "chapterTitle": "Der Markt von Kadıköy",
       "turkish": "lütfen",
       "german": [
         "bitte"
@@ -2787,7 +2787,7 @@ export default {
     {
       "id": "k11-v003",
       "chapter": 11,
-      "chapterTitle": "Kapitel 11",
+      "chapterTitle": "Der Markt von Kadıköy",
       "turkish": "ekmek",
       "german": [
         "Brot"
@@ -2808,7 +2808,7 @@ export default {
     {
       "id": "k11-v004",
       "chapter": 11,
-      "chapterTitle": "Kapitel 11",
+      "chapterTitle": "Der Markt von Kadıköy",
       "turkish": "salatalık",
       "german": [
         "Gurke"
@@ -2829,7 +2829,7 @@ export default {
     {
       "id": "k11-v005",
       "chapter": 11,
-      "chapterTitle": "Kapitel 11",
+      "chapterTitle": "Der Markt von Kadıköy",
       "turkish": "afiyet olsun",
       "german": [
         "Guten Appetit"
@@ -2850,7 +2850,7 @@ export default {
     {
       "id": "k11-v006",
       "chapter": 11,
-      "chapterTitle": "Kapitel 11",
+      "chapterTitle": "Der Markt von Kadıköy",
       "turkish": "yarım",
       "german": [
         "halb"
@@ -2871,7 +2871,7 @@ export default {
     {
       "id": "k11-v007",
       "chapter": 11,
-      "chapterTitle": "Kapitel 11",
+      "chapterTitle": "Der Markt von Kadıköy",
       "turkish": "peynir",
       "german": [
         "Käse"
@@ -2892,7 +2892,7 @@ export default {
     {
       "id": "k11-v008",
       "chapter": 11,
-      "chapterTitle": "Kapitel 11",
+      "chapterTitle": "Der Markt von Kadıköy",
       "turkish": "kilo",
       "german": [
         "Kilogramm"
@@ -2913,7 +2913,7 @@ export default {
     {
       "id": "k11-v009",
       "chapter": 11,
-      "chapterTitle": "Kapitel 11",
+      "chapterTitle": "Der Markt von Kadıköy",
       "turkish": "zeytin",
       "german": [
         "Olive"
@@ -2934,7 +2934,7 @@ export default {
     {
       "id": "k11-v010",
       "chapter": 11,
-      "chapterTitle": "Kapitel 11",
+      "chapterTitle": "Der Markt von Kadıköy",
       "turkish": "domates",
       "german": [
         "Tomate"
@@ -2955,7 +2955,7 @@ export default {
     {
       "id": "k11-v011",
       "chapter": 11,
-      "chapterTitle": "Kapitel 11",
+      "chapterTitle": "Der Markt von Kadıköy",
       "turkish": "ne kadar?",
       "german": [
         "Wie viel?",
@@ -2977,7 +2977,7 @@ export default {
     {
       "id": "k12-v001",
       "chapter": 12,
-      "chapterTitle": "Kapitel 12",
+      "chapterTitle": "Ein Café in Kadıköy",
       "turkish": "ayran",
       "german": [
         "Ayran"
@@ -2998,7 +2998,7 @@ export default {
     {
       "id": "k12-v002",
       "chapter": 12,
-      "chapterTitle": "Kapitel 12",
+      "chapterTitle": "Ein Café in Kadıköy",
       "turkish": "baklava",
       "german": [
         "Baklava"
@@ -3019,7 +3019,7 @@ export default {
     {
       "id": "k12-v003",
       "chapter": 12,
-      "chapterTitle": "Kapitel 12",
+      "chapterTitle": "Ein Café in Kadıköy",
       "turkish": "biraz",
       "german": [
         "ein bisschen"
@@ -3040,7 +3040,7 @@ export default {
     {
       "id": "k12-v004",
       "chapter": 12,
-      "chapterTitle": "Kapitel 12",
+      "chapterTitle": "Ein Café in Kadıköy",
       "turkish": "Türkçe öğreniyorum",
       "german": [
         "Ich lerne Türkisch."
@@ -3061,7 +3061,7 @@ export default {
     {
       "id": "k12-v005",
       "chapter": 12,
-      "chapterTitle": "Kapitel 12",
+      "chapterTitle": "Ein Café in Kadıköy",
       "turkish": "istiyorum",
       "german": [
         "ich möchte"
@@ -3082,7 +3082,7 @@ export default {
     {
       "id": "k12-v006",
       "chapter": 12,
-      "chapterTitle": "Kapitel 12",
+      "chapterTitle": "Ein Café in Kadıköy",
       "turkish": "kahve",
       "german": [
         "Kaffee"
@@ -3103,7 +3103,7 @@ export default {
     {
       "id": "k12-v007",
       "chapter": 12,
-      "chapterTitle": "Kapitel 12",
+      "chapterTitle": "Ein Café in Kadıköy",
       "turkish": "ister misiniz?",
       "german": [
         "Möchten Sie?"
@@ -3124,7 +3124,7 @@ export default {
     {
       "id": "k12-v008",
       "chapter": 12,
-      "chapterTitle": "Kapitel 12",
+      "chapterTitle": "Ein Café in Kadıköy",
       "turkish": "hesap",
       "german": [
         "Rechnung"
@@ -3145,7 +3145,7 @@ export default {
     {
       "id": "k12-v009",
       "chapter": 12,
-      "chapterTitle": "Kapitel 12",
+      "chapterTitle": "Ein Café in Kadıköy",
       "turkish": "menü",
       "german": [
         "Speisekarte"
@@ -3166,7 +3166,7 @@ export default {
     {
       "id": "k12-v010",
       "chapter": 12,
-      "chapterTitle": "Kapitel 12",
+      "chapterTitle": "Ein Café in Kadıköy",
       "turkish": "Türk kahvesi",
       "german": [
         "türkischer Kaffee"
@@ -3187,7 +3187,7 @@ export default {
     {
       "id": "k12-v011",
       "chapter": 12,
-      "chapterTitle": "Kapitel 12",
+      "chapterTitle": "Ein Café in Kadıköy",
       "turkish": "su",
       "german": [
         "Wasser"
@@ -3208,7 +3208,7 @@ export default {
     {
       "id": "k13-v001",
       "chapter": 13,
-      "chapterTitle": "Kapitel 13",
+      "chapterTitle": "Ein Abend im Lokanta",
       "turkish": "dolu",
       "german": [
         "besetzt"
@@ -3229,7 +3229,7 @@ export default {
     {
       "id": "k13-v002",
       "chapter": 13,
-      "chapterTitle": "Kapitel 13",
+      "chapterTitle": "Ein Abend im Lokanta",
       "turkish": "hesap lütfen",
       "german": [
         "Die Rechnung, bitte."
@@ -3250,7 +3250,7 @@ export default {
     {
       "id": "k13-v003",
       "chapter": 13,
-      "chapterTitle": "Kapitel 13",
+      "chapterTitle": "Ein Abend im Lokanta",
       "turkish": "yemek",
       "german": [
         "Essen"
@@ -3271,7 +3271,7 @@ export default {
     {
       "id": "k13-v004",
       "chapter": 13,
-      "chapterTitle": "Kapitel 13",
+      "chapterTitle": "Ein Abend im Lokanta",
       "turkish": "boş",
       "german": [
         "frei"
@@ -3292,7 +3292,7 @@ export default {
     {
       "id": "k13-v005",
       "chapter": 13,
-      "chapterTitle": "Kapitel 13",
+      "chapterTitle": "Ein Abend im Lokanta",
       "turkish": "kebap",
       "german": [
         "Kebab"
@@ -3313,7 +3313,7 @@ export default {
     {
       "id": "k13-v006",
       "chapter": 13,
-      "chapterTitle": "Kapitel 13",
+      "chapterTitle": "Ein Abend im Lokanta",
       "turkish": "lezzetli",
       "german": [
         "lecker"
@@ -3334,7 +3334,7 @@ export default {
     {
       "id": "k13-v007",
       "chapter": 13,
-      "chapterTitle": "Kapitel 13",
+      "chapterTitle": "Ein Abend im Lokanta",
       "turkish": "hesap",
       "german": [
         "Rechnung"
@@ -3355,7 +3355,7 @@ export default {
     {
       "id": "k13-v008",
       "chapter": 13,
-      "chapterTitle": "Kapitel 13",
+      "chapterTitle": "Ein Abend im Lokanta",
       "turkish": "çok",
       "german": [
         "sehr"
@@ -3376,7 +3376,7 @@ export default {
     {
       "id": "k13-v009",
       "chapter": 13,
-      "chapterTitle": "Kapitel 13",
+      "chapterTitle": "Ein Abend im Lokanta",
       "turkish": "masa",
       "german": [
         "Tisch"
@@ -3397,7 +3397,7 @@ export default {
     {
       "id": "k13-v010",
       "chapter": 13,
-      "chapterTitle": "Kapitel 13",
+      "chapterTitle": "Ein Abend im Lokanta",
       "turkish": "lokanta",
       "german": [
         "traditionelles Restaurant"
@@ -3418,7 +3418,7 @@ export default {
     {
       "id": "k13-v011",
       "chapter": 13,
-      "chapterTitle": "Kapitel 13",
+      "chapterTitle": "Ein Abend im Lokanta",
       "turkish": "menemen",
       "german": [
         "türkisches Eiergericht"
@@ -3439,7 +3439,7 @@ export default {
     {
       "id": "k14-v001",
       "chapter": 14,
-      "chapterTitle": "Kapitel 14",
+      "chapterTitle": "Zurück nach Sultanahmet",
       "turkish": "iskelede",
       "german": [
         "am Fähranleger"
@@ -3460,7 +3460,7 @@ export default {
     {
       "id": "k14-v002",
       "chapter": 14,
-      "chapterTitle": "Kapitel 14",
+      "chapterTitle": "Zurück nach Sultanahmet",
       "turkish": "vapurda",
       "german": [
         "auf der Fähre"
@@ -3481,7 +3481,7 @@ export default {
     {
       "id": "k14-v003",
       "chapter": 14,
-      "chapterTitle": "Kapitel 14",
+      "chapterTitle": "Zurück nach Sultanahmet",
       "turkish": "son vapur",
       "german": [
         "die letzte Fähre"
@@ -3502,7 +3502,7 @@ export default {
     {
       "id": "k14-v004",
       "chapter": 14,
-      "chapterTitle": "Kapitel 14",
+      "chapterTitle": "Zurück nach Sultanahmet",
       "turkish": "otele dönüyorum",
       "german": [
         "ich kehre zum Hotel zurück"
@@ -3523,7 +3523,7 @@ export default {
     {
       "id": "k14-v005",
       "chapter": 14,
-      "chapterTitle": "Kapitel 14",
+      "chapterTitle": "Zurück nach Sultanahmet",
       "turkish": "otelde",
       "german": [
         "im Hotel"
@@ -3544,7 +3544,7 @@ export default {
     {
       "id": "k14-v006",
       "chapter": 14,
-      "chapterTitle": "Kapitel 14",
+      "chapterTitle": "Zurück nach Sultanahmet",
       "turkish": "Sultanahmet'te",
       "german": [
         "in Sultanahmet"
@@ -3565,7 +3565,7 @@ export default {
     {
       "id": "k14-v007",
       "chapter": 14,
-      "chapterTitle": "Kapitel 14",
+      "chapterTitle": "Zurück nach Sultanahmet",
       "turkish": "şimdi",
       "german": [
         "jetzt"
@@ -3586,7 +3586,7 @@ export default {
     {
       "id": "k14-v008",
       "chapter": 14,
-      "chapterTitle": "Kapitel 14",
+      "chapterTitle": "Zurück nach Sultanahmet",
       "turkish": "son",
       "german": [
         "letzter; Ende"
@@ -3607,7 +3607,7 @@ export default {
     {
       "id": "k14-v009",
       "chapter": 14,
-      "chapterTitle": "Kapitel 14",
+      "chapterTitle": "Zurück nach Sultanahmet",
       "turkish": "saat",
       "german": [
         "Uhr; Stunde"
@@ -3628,7 +3628,7 @@ export default {
     {
       "id": "k14-v010",
       "chapter": 14,
-      "chapterTitle": "Kapitel 14",
+      "chapterTitle": "Zurück nach Sultanahmet",
       "turkish": "saat kaçta?",
       "german": [
         "um wie viel Uhr?"
@@ -3649,7 +3649,7 @@ export default {
     {
       "id": "k14-v011",
       "chapter": 14,
-      "chapterTitle": "Kapitel 14",
+      "chapterTitle": "Zurück nach Sultanahmet",
       "turkish": "Saat kaç?",
       "german": [
         "Wie spät ist es?"
@@ -3670,7 +3670,7 @@ export default {
     {
       "id": "k14-v012",
       "chapter": 14,
-      "chapterTitle": "Kapitel 14",
+      "chapterTitle": "Zurück nach Sultanahmet",
       "turkish": "kaç?",
       "german": [
         "wie viele?; wie spät?"
@@ -3691,7 +3691,7 @@ export default {
     {
       "id": "k14-v013",
       "chapter": 14,
-      "chapterTitle": "Kapitel 14",
+      "chapterTitle": "Zurück nach Sultanahmet",
       "turkish": "dönmek",
       "german": [
         "zurückkehren; sich wenden"
@@ -3712,7 +3712,7 @@ export default {
     {
       "id": "k15-v001",
       "chapter": 15,
-      "chapterTitle": "Kapitel 15",
+      "chapterTitle": "Ein neuer Morgen in Sultanahmet",
       "turkish": "on sekiz",
       "german": [
         "achtzehn"
@@ -3733,7 +3733,7 @@ export default {
     {
       "id": "k15-v002",
       "chapter": 15,
-      "chapterTitle": "Kapitel 15",
+      "chapterTitle": "Ein neuer Morgen in Sultanahmet",
       "turkish": "ziyaret",
       "german": [
         "Besuch"
@@ -3754,7 +3754,7 @@ export default {
     {
       "id": "k15-v003",
       "chapter": 15,
-      "chapterTitle": "Kapitel 15",
+      "chapterTitle": "Ein neuer Morgen in Sultanahmet",
       "turkish": "ziyaretçi",
       "german": [
         "Besucher"
@@ -3775,7 +3775,7 @@ export default {
     {
       "id": "k15-v004",
       "chapter": 15,
-      "chapterTitle": "Kapitel 15",
+      "chapterTitle": "Ein neuer Morgen in Sultanahmet",
       "turkish": "on üç",
       "german": [
         "dreizehn"
@@ -3796,7 +3796,7 @@ export default {
     {
       "id": "k15-v005",
       "chapter": 15,
-      "chapterTitle": "Kapitel 15",
+      "chapterTitle": "Ein neuer Morgen in Sultanahmet",
       "turkish": "giriş",
       "german": [
         "Eingang; Eintritt"
@@ -3817,7 +3817,7 @@ export default {
     {
       "id": "k15-v006",
       "chapter": 15,
-      "chapterTitle": "Kapitel 15",
+      "chapterTitle": "Ein neuer Morgen in Sultanahmet",
       "turkish": "on bir",
       "german": [
         "elf"
@@ -3838,7 +3838,7 @@ export default {
     {
       "id": "k15-v007",
       "chapter": 15,
-      "chapterTitle": "Kapitel 15",
+      "chapterTitle": "Ein neuer Morgen in Sultanahmet",
       "turkish": "on beş",
       "german": [
         "fünfzehn"
@@ -3859,7 +3859,7 @@ export default {
     {
       "id": "k15-v008",
       "chapter": 15,
-      "chapterTitle": "Kapitel 15",
+      "chapterTitle": "Ein neuer Morgen in Sultanahmet",
       "turkish": "açık",
       "german": [
         "geöffnet; offen"
@@ -3880,7 +3880,7 @@ export default {
     {
       "id": "k15-v009",
       "chapter": 15,
-      "chapterTitle": "Kapitel 15",
+      "chapterTitle": "Ein neuer Morgen in Sultanahmet",
       "turkish": "kapalı",
       "german": [
         "geschlossen"
@@ -3901,7 +3901,7 @@ export default {
     {
       "id": "k15-v010",
       "chapter": 15,
-      "chapterTitle": "Kapitel 15",
+      "chapterTitle": "Ein neuer Morgen in Sultanahmet",
       "turkish": "açık mı?",
       "german": [
         "ist es geöffnet?"
@@ -3922,7 +3922,7 @@ export default {
     {
       "id": "k15-v011",
       "chapter": 15,
-      "chapterTitle": "Kapitel 15",
+      "chapterTitle": "Ein neuer Morgen in Sultanahmet",
       "turkish": "bugün açık mı?",
       "german": [
         "ist es heute geöffnet?"
@@ -3943,7 +3943,7 @@ export default {
     {
       "id": "k15-v012",
       "chapter": 15,
-      "chapterTitle": "Kapitel 15",
+      "chapterTitle": "Ein neuer Morgen in Sultanahmet",
       "turkish": "ücretsiz",
       "german": [
         "kostenlos"
@@ -3964,7 +3964,7 @@ export default {
     {
       "id": "k15-v013",
       "chapter": 15,
-      "chapterTitle": "Kapitel 15",
+      "chapterTitle": "Ein neuer Morgen in Sultanahmet",
       "turkish": "on dokuz",
       "german": [
         "neunzehn"
@@ -3985,7 +3985,7 @@ export default {
     {
       "id": "k15-v014",
       "chapter": 15,
-      "chapterTitle": "Kapitel 15",
+      "chapterTitle": "Ein neuer Morgen in Sultanahmet",
       "turkish": "on altı",
       "german": [
         "sechzehn"
@@ -4006,7 +4006,7 @@ export default {
     {
       "id": "k15-v015",
       "chapter": 15,
-      "chapterTitle": "Kapitel 15",
+      "chapterTitle": "Ein neuer Morgen in Sultanahmet",
       "turkish": "on yedi",
       "german": [
         "siebzehn"
@@ -4027,7 +4027,7 @@ export default {
     {
       "id": "k15-v016",
       "chapter": 15,
-      "chapterTitle": "Kapitel 15",
+      "chapterTitle": "Ein neuer Morgen in Sultanahmet",
       "turkish": "on dört",
       "german": [
         "vierzehn"
@@ -4048,7 +4048,7 @@ export default {
     {
       "id": "k15-v017",
       "chapter": 15,
-      "chapterTitle": "Kapitel 15",
+      "chapterTitle": "Ein neuer Morgen in Sultanahmet",
       "turkish": "on iki",
       "german": [
         "zwölf"
@@ -4069,7 +4069,7 @@ export default {
     {
       "id": "k16-v001",
       "chapter": 16,
-      "chapterTitle": "Kapitel 16",
+      "chapterTitle": "In der Blauen Moschee",
       "turkish": "çıkarmak",
       "german": [
         "ausziehen; herausnehmen"
@@ -4090,7 +4090,7 @@ export default {
     {
       "id": "k16-v002",
       "chapter": 16,
-      "chapterTitle": "Kapitel 16",
+      "chapterTitle": "In der Blauen Moschee",
       "turkish": "örtmek",
       "german": [
         "bedecken"
@@ -4111,7 +4111,7 @@ export default {
     {
       "id": "k16-v003",
       "chapter": 16,
-      "chapterTitle": "Kapitel 16",
+      "chapterTitle": "In der Blauen Moschee",
       "turkish": "serbest",
       "german": [
         "erlaubt; frei"
@@ -4132,7 +4132,7 @@ export default {
     {
       "id": "k16-v004",
       "chapter": 16,
-      "chapterTitle": "Kapitel 16",
+      "chapterTitle": "In der Blauen Moschee",
       "turkish": "fotoğraf",
       "german": [
         "Foto"
@@ -4153,7 +4153,7 @@ export default {
     {
       "id": "k16-v005",
       "chapter": 16,
-      "chapterTitle": "Kapitel 16",
+      "chapterTitle": "In der Blauen Moschee",
       "turkish": "baş",
       "german": [
         "Kopf"
@@ -4174,7 +4174,7 @@ export default {
     {
       "id": "k16-v006",
       "chapter": 16,
-      "chapterTitle": "Kapitel 16",
+      "chapterTitle": "In der Blauen Moschee",
       "turkish": "sessiz",
       "german": [
         "leise; still"
@@ -4195,7 +4195,7 @@ export default {
     {
       "id": "k16-v007",
       "chapter": 16,
-      "chapterTitle": "Kapitel 16",
+      "chapterTitle": "In der Blauen Moschee",
       "turkish": "mümkün",
       "german": [
         "möglich"
@@ -4216,7 +4216,7 @@ export default {
     {
       "id": "k16-v008",
       "chapter": 16,
-      "chapterTitle": "Kapitel 16",
+      "chapterTitle": "In der Blauen Moschee",
       "turkish": "cami",
       "german": [
         "Moschee"
@@ -4237,7 +4237,7 @@ export default {
     {
       "id": "k16-v009",
       "chapter": 16,
-      "chapterTitle": "Kapitel 16",
+      "chapterTitle": "In der Blauen Moschee",
       "turkish": "ayakkabı",
       "german": [
         "Schuh"
@@ -4258,7 +4258,7 @@ export default {
     {
       "id": "k16-v010",
       "chapter": 16,
-      "chapterTitle": "Kapitel 16",
+      "chapterTitle": "In der Blauen Moschee",
       "turkish": "Fotoğraf mümkün mü?",
       "german": [
         "Sind Fotos möglich?"
@@ -4279,7 +4279,7 @@ export default {
     {
       "id": "k16-v011",
       "chapter": 16,
-      "chapterTitle": "Kapitel 16",
+      "chapterTitle": "In der Blauen Moschee",
       "turkish": "yasak",
       "german": [
         "verboten"
@@ -4300,7 +4300,7 @@ export default {
     {
       "id": "k16-v012",
       "chapter": 16,
-      "chapterTitle": "Kapitel 16",
+      "chapterTitle": "In der Blauen Moschee",
       "turkish": "ayakkabınızı çıkarın",
       "german": [
         "Ziehen Sie Ihre Schuhe aus."
@@ -4321,7 +4321,7 @@ export default {
     {
       "id": "k16-v013",
       "chapter": 16,
-      "chapterTitle": "Kapitel 16",
+      "chapterTitle": "In der Blauen Moschee",
       "turkish": "çekmek",
       "german": [
         "ziehen; aufnehmen"
@@ -4342,7 +4342,7 @@ export default {
     {
       "id": "k17-v001",
       "chapter": 17,
-      "chapterTitle": "Kapitel 17",
+      "chapterTitle": "Eine Pause im Gülhane-Park",
       "turkish": "ağaç",
       "german": [
         "Baum"
@@ -4363,7 +4363,7 @@ export default {
     {
       "id": "k17-v002",
       "chapter": 17,
-      "chapterTitle": "Kapitel 17",
+      "chapterTitle": "Eine Pause im Gülhane-Park",
       "turkish": "çiçek",
       "german": [
         "Blume"
@@ -4384,7 +4384,7 @@ export default {
     {
       "id": "k17-v003",
       "chapter": 17,
-      "chapterTitle": "Kapitel 17",
+      "chapterTitle": "Eine Pause im Gülhane-Park",
       "turkish": "yürümek",
       "german": [
         "gehen; spazieren"
@@ -4405,7 +4405,7 @@ export default {
     {
       "id": "k17-v004",
       "chapter": 17,
-      "chapterTitle": "Kapitel 17",
+      "chapterTitle": "Eine Pause im Gülhane-Park",
       "turkish": "sarı",
       "german": [
         "gelb"
@@ -4426,7 +4426,7 @@ export default {
     {
       "id": "k17-v005",
       "chapter": 17,
-      "chapterTitle": "Kapitel 17",
+      "chapterTitle": "Eine Pause im Gülhane-Park",
       "turkish": "yeşil",
       "german": [
         "grün"
@@ -4447,7 +4447,7 @@ export default {
     {
       "id": "k17-v006",
       "chapter": 17,
-      "chapterTitle": "Kapitel 17",
+      "chapterTitle": "Eine Pause im Gülhane-Park",
       "turkish": "İyi dinlenmeler.",
       "german": [
         "Gute Erholung."
@@ -4468,7 +4468,7 @@ export default {
     {
       "id": "k17-v007",
       "chapter": 17,
-      "chapterTitle": "Kapitel 17",
+      "chapterTitle": "Eine Pause im Gülhane-Park",
       "turkish": "yürüyorum",
       "german": [
         "ich gehe/spaziere"
@@ -4489,7 +4489,7 @@ export default {
     {
       "id": "k17-v008",
       "chapter": 17,
-      "chapterTitle": "Kapitel 17",
+      "chapterTitle": "Eine Pause im Gülhane-Park",
       "turkish": "okuyorum",
       "german": [
         "ich lese"
@@ -4510,7 +4510,7 @@ export default {
     {
       "id": "k17-v009",
       "chapter": 17,
-      "chapterTitle": "Kapitel 17",
+      "chapterTitle": "Eine Pause im Gülhane-Park",
       "turkish": "dinleniyorum",
       "german": [
         "ich ruhe mich aus"
@@ -4531,7 +4531,7 @@ export default {
     {
       "id": "k17-v010",
       "chapter": 17,
-      "chapterTitle": "Kapitel 17",
+      "chapterTitle": "Eine Pause im Gülhane-Park",
       "turkish": "oturuyorum",
       "german": [
         "ich sitze"
@@ -4552,7 +4552,7 @@ export default {
     {
       "id": "k17-v011",
       "chapter": 17,
-      "chapterTitle": "Kapitel 17",
+      "chapterTitle": "Eine Pause im Gülhane-Park",
       "turkish": "okumak",
       "german": [
         "lesen"
@@ -4573,7 +4573,7 @@ export default {
     {
       "id": "k17-v012",
       "chapter": 17,
-      "chapterTitle": "Kapitel 17",
+      "chapterTitle": "Eine Pause im Gülhane-Park",
       "turkish": "park",
       "german": [
         "Park"
@@ -4594,7 +4594,7 @@ export default {
     {
       "id": "k17-v013",
       "chapter": 17,
-      "chapterTitle": "Kapitel 17",
+      "chapterTitle": "Eine Pause im Gülhane-Park",
       "turkish": "kırmızı",
       "german": [
         "rot"
@@ -4615,7 +4615,7 @@ export default {
     {
       "id": "k17-v014",
       "chapter": 17,
-      "chapterTitle": "Kapitel 17",
+      "chapterTitle": "Eine Pause im Gülhane-Park",
       "turkish": "dinlenmek",
       "german": [
         "sich ausruhen"
@@ -4636,7 +4636,7 @@ export default {
     {
       "id": "k17-v015",
       "chapter": 17,
-      "chapterTitle": "Kapitel 17",
+      "chapterTitle": "Eine Pause im Gülhane-Park",
       "turkish": "oturmak",
       "german": [
         "sitzen"
@@ -4657,7 +4657,7 @@ export default {
     {
       "id": "k18-v001",
       "chapter": 18,
-      "chapterTitle": "Kapitel 18",
+      "chapterTitle": "Auf der Galatabrücke",
       "turkish": "balık tutmak",
       "german": [
         "angeln"
@@ -4678,7 +4678,7 @@ export default {
     {
       "id": "k18-v002",
       "chapter": 18,
-      "chapterTitle": "Kapitel 18",
+      "chapterTitle": "Auf der Galatabrücke",
       "turkish": "köprü",
       "german": [
         "Brücke"
@@ -4699,7 +4699,7 @@ export default {
     {
       "id": "k18-v003",
       "chapter": 18,
-      "chapterTitle": "Kapitel 18",
+      "chapterTitle": "Auf der Galatabrücke",
       "turkish": "bakıyor",
       "german": [
         "er/sie schaut"
@@ -4720,7 +4720,7 @@ export default {
     {
       "id": "k18-v004",
       "chapter": 18,
-      "chapterTitle": "Kapitel 18",
+      "chapterTitle": "Auf der Galatabrücke",
       "turkish": "konuşuyor",
       "german": [
         "er/sie spricht"
@@ -4741,7 +4741,7 @@ export default {
     {
       "id": "k18-v005",
       "chapter": 18,
-      "chapterTitle": "Kapitel 18",
+      "chapterTitle": "Auf der Galatabrücke",
       "turkish": "beklemiyor",
       "german": [
         "er/sie wartet nicht"
@@ -4762,7 +4762,7 @@ export default {
     {
       "id": "k18-v006",
       "chapter": 18,
-      "chapterTitle": "Kapitel 18",
+      "chapterTitle": "Auf der Galatabrücke",
       "turkish": "balık",
       "german": [
         "Fisch"
@@ -4783,7 +4783,7 @@ export default {
     {
       "id": "k18-v007",
       "chapter": 18,
-      "chapterTitle": "Kapitel 18",
+      "chapterTitle": "Auf der Galatabrücke",
       "turkish": "balıkçı",
       "german": [
         "Fischer; Fischverkäufer"
@@ -4804,7 +4804,7 @@ export default {
     {
       "id": "k18-v008",
       "chapter": 18,
-      "chapterTitle": "Kapitel 18",
+      "chapterTitle": "Auf der Galatabrücke",
       "turkish": "tutmak",
       "german": [
         "halten; fangen"
@@ -4825,7 +4825,7 @@ export default {
     {
       "id": "k18-v009",
       "chapter": 18,
-      "chapterTitle": "Kapitel 18",
+      "chapterTitle": "Auf der Galatabrücke",
       "turkish": "balık tutuyorum",
       "german": [
         "ich angle"
@@ -4846,7 +4846,7 @@ export default {
     {
       "id": "k18-v010",
       "chapter": 18,
-      "chapterTitle": "Kapitel 18",
+      "chapterTitle": "Auf der Galatabrücke",
       "turkish": "her gün",
       "german": [
         "jeden Tag"
@@ -4867,7 +4867,7 @@ export default {
     {
       "id": "k18-v011",
       "chapter": 18,
-      "chapterTitle": "Kapitel 18",
+      "chapterTitle": "Auf der Galatabrücke",
       "turkish": "bakmak",
       "german": [
         "schauen"
@@ -4888,7 +4888,7 @@ export default {
     {
       "id": "k18-v012",
       "chapter": 18,
-      "chapterTitle": "Kapitel 18",
+      "chapterTitle": "Auf der Galatabrücke",
       "turkish": "konuşmak",
       "german": [
         "sprechen"
@@ -4909,7 +4909,7 @@ export default {
     {
       "id": "k18-v013",
       "chapter": 18,
-      "chapterTitle": "Kapitel 18",
+      "chapterTitle": "Auf der Galatabrücke",
       "turkish": "satmak",
       "german": [
         "verkaufen"
@@ -4930,7 +4930,7 @@ export default {
     {
       "id": "k18-v014",
       "chapter": 18,
-      "chapterTitle": "Kapitel 18",
+      "chapterTitle": "Auf der Galatabrücke",
       "turkish": "beklemek",
       "german": [
         "warten"
@@ -4951,7 +4951,7 @@ export default {
     {
       "id": "k18-v015",
       "chapter": 18,
-      "chapterTitle": "Kapitel 18",
+      "chapterTitle": "Auf der Galatabrücke",
       "turkish": "ne yapıyorsunuz?",
       "german": [
         "Was machen Sie gerade?"
@@ -4972,7 +4972,7 @@ export default {
     {
       "id": "k19-v001",
       "chapter": 19,
-      "chapterTitle": "Kapitel 19",
+      "chapterTitle": "Hinauf zum Galataturm",
       "turkish": "Almanya'dan",
       "german": [
         "aus Deutschland"
@@ -4993,7 +4993,7 @@ export default {
     {
       "id": "k19-v002",
       "chapter": 19,
-      "chapterTitle": "Kapitel 19",
+      "chapterTitle": "Hinauf zum Galataturm",
       "turkish": "manzara",
       "german": [
         "Aussicht; Landschaft"
@@ -5014,7 +5014,7 @@ export default {
     {
       "id": "k19-v003",
       "chapter": 19,
-      "chapterTitle": "Kapitel 19",
+      "chapterTitle": "Hinauf zum Galataturm",
       "turkish": "Galata Kulesi",
       "german": [
         "Galataturm"
@@ -5035,7 +5035,7 @@ export default {
     {
       "id": "k19-v004",
       "chapter": 19,
-      "chapterTitle": "Kapitel 19",
+      "chapterTitle": "Hinauf zum Galataturm",
       "turkish": "yukarı",
       "german": [
         "nach oben; oben"
@@ -5056,7 +5056,7 @@ export default {
     {
       "id": "k19-v005",
       "chapter": 19,
-      "chapterTitle": "Kapitel 19",
+      "chapterTitle": "Hinauf zum Galataturm",
       "turkish": "aşağı",
       "german": [
         "nach unten; unten"
@@ -5077,7 +5077,7 @@ export default {
     {
       "id": "k19-v006",
       "chapter": 19,
-      "chapterTitle": "Kapitel 19",
+      "chapterTitle": "Hinauf zum Galataturm",
       "turkish": "yokuş",
       "german": [
         "Steigung; steile Straße"
@@ -5098,7 +5098,7 @@ export default {
     {
       "id": "k19-v007",
       "chapter": 19,
-      "chapterTitle": "Kapitel 19",
+      "chapterTitle": "Hinauf zum Galataturm",
       "turkish": "kule",
       "german": [
         "Turm"
@@ -5119,7 +5119,7 @@ export default {
     {
       "id": "k19-v008",
       "chapter": 19,
-      "chapterTitle": "Kapitel 19",
+      "chapterTitle": "Hinauf zum Galataturm",
       "turkish": "otelden",
       "german": [
         "vom Hotel"
@@ -5140,7 +5140,7 @@ export default {
     {
       "id": "k19-v009",
       "chapter": 19,
-      "chapterTitle": "Kapitel 19",
+      "chapterTitle": "Hinauf zum Galataturm",
       "turkish": "kuleden",
       "german": [
         "vom Turm"
@@ -5161,7 +5161,7 @@ export default {
     {
       "id": "k19-v010",
       "chapter": 19,
-      "chapterTitle": "Kapitel 19",
+      "chapterTitle": "Hinauf zum Galataturm",
       "turkish": "köprüden",
       "german": [
         "von der Brücke"
@@ -5182,7 +5182,7 @@ export default {
     {
       "id": "k19-v011",
       "chapter": 19,
-      "chapterTitle": "Kapitel 19",
+      "chapterTitle": "Hinauf zum Galataturm",
       "turkish": "oradan",
       "german": [
         "von dort"
@@ -5203,7 +5203,7 @@ export default {
     {
       "id": "k19-v012",
       "chapter": 19,
-      "chapterTitle": "Kapitel 19",
+      "chapterTitle": "Hinauf zum Galataturm",
       "turkish": "buradan",
       "german": [
         "von hier"
@@ -5224,7 +5224,7 @@ export default {
     {
       "id": "k19-v013",
       "chapter": 19,
-      "chapterTitle": "Kapitel 19",
+      "chapterTitle": "Hinauf zum Galataturm",
       "turkish": "nereden?",
       "german": [
         "woher?"
@@ -5245,7 +5245,7 @@ export default {
     {
       "id": "k20-v001",
       "chapter": 20,
-      "chapterTitle": "Kapitel 20",
+      "chapterTitle": "Auf der İstiklal Caddesi",
       "turkish": "mavi",
       "german": [
         "blau"
@@ -5266,7 +5266,7 @@ export default {
     {
       "id": "k20-v002",
       "chapter": 20,
-      "chapterTitle": "Kapitel 20",
+      "chapterTitle": "Auf der İstiklal Caddesi",
       "turkish": "cadde",
       "german": [
         "breite Straße; Allee"
@@ -5287,7 +5287,7 @@ export default {
     {
       "id": "k20-v003",
       "chapter": 20,
-      "chapterTitle": "Kapitel 20",
+      "chapterTitle": "Auf der İstiklal Caddesi",
       "turkish": "şu",
       "german": [
         "das da"
@@ -5308,7 +5308,7 @@ export default {
     {
       "id": "k20-v004",
       "chapter": 20,
-      "chapterTitle": "Kapitel 20",
+      "chapterTitle": "Auf der İstiklal Caddesi",
       "turkish": "bu",
       "german": [
         "dies; dieses hier"
@@ -5329,7 +5329,7 @@ export default {
     {
       "id": "k20-v005",
       "chapter": 20,
-      "chapterTitle": "Kapitel 20",
+      "chapterTitle": "Auf der İstiklal Caddesi",
       "turkish": "bunlar",
       "german": [
         "diese hier"
@@ -5350,7 +5350,7 @@ export default {
     {
       "id": "k20-v006",
       "chapter": 20,
-      "chapterTitle": "Kapitel 20",
+      "chapterTitle": "Auf der İstiklal Caddesi",
       "turkish": "renk",
       "german": [
         "Farbe"
@@ -5371,7 +5371,7 @@ export default {
     {
       "id": "k20-v007",
       "chapter": 20,
-      "chapterTitle": "Kapitel 20",
+      "chapterTitle": "Auf der İstiklal Caddesi",
       "turkish": "mağaza",
       "german": [
         "Geschäft"
@@ -5392,7 +5392,7 @@ export default {
     {
       "id": "k20-v008",
       "chapter": 20,
-      "chapterTitle": "Kapitel 20",
+      "chapterTitle": "Auf der İstiklal Caddesi",
       "turkish": "gömlek",
       "german": [
         "Hemd"
@@ -5413,7 +5413,7 @@ export default {
     {
       "id": "k20-v009",
       "chapter": 20,
-      "chapterTitle": "Kapitel 20",
+      "chapterTitle": "Auf der İstiklal Caddesi",
       "turkish": "pantolon",
       "german": [
         "Hose"
@@ -5434,7 +5434,7 @@ export default {
     {
       "id": "k20-v010",
       "chapter": 20,
-      "chapterTitle": "Kapitel 20",
+      "chapterTitle": "Auf der İstiklal Caddesi",
       "turkish": "ceket",
       "german": [
         "Jacke"
@@ -5455,7 +5455,7 @@ export default {
     {
       "id": "k20-v011",
       "chapter": 20,
-      "chapterTitle": "Kapitel 20",
+      "chapterTitle": "Auf der İstiklal Caddesi",
       "turkish": "o",
       "german": [
         "jenes dort; er/sie/es"
@@ -5476,7 +5476,7 @@ export default {
     {
       "id": "k20-v012",
       "chapter": 20,
-      "chapterTitle": "Kapitel 20",
+      "chapterTitle": "Auf der İstiklal Caddesi",
       "turkish": "kıyafet",
       "german": [
         "Kleidung"
@@ -5497,7 +5497,7 @@ export default {
     {
       "id": "k20-v013",
       "chapter": 20,
-      "chapterTitle": "Kapitel 20",
+      "chapterTitle": "Auf der İstiklal Caddesi",
       "turkish": "siyah",
       "german": [
         "schwarz"
@@ -5518,7 +5518,7 @@ export default {
     {
       "id": "k20-v014",
       "chapter": 20,
-      "chapterTitle": "Kapitel 20",
+      "chapterTitle": "Auf der İstiklal Caddesi",
       "turkish": "Türk müziği",
       "german": [
         "türkische Musik"
@@ -5539,7 +5539,7 @@ export default {
     {
       "id": "k20-v015",
       "chapter": 20,
-      "chapterTitle": "Kapitel 20",
+      "chapterTitle": "Auf der İstiklal Caddesi",
       "turkish": "bağlama",
       "german": [
         "türkisches Saiteninstrument"
@@ -5560,7 +5560,7 @@ export default {
     {
       "id": "k20-v016",
       "chapter": 20,
-      "chapterTitle": "Kapitel 20",
+      "chapterTitle": "Auf der İstiklal Caddesi",
       "turkish": "beyaz",
       "german": [
         "weiß"
@@ -5581,7 +5581,7 @@ export default {
     {
       "id": "k20-v017",
       "chapter": 20,
-      "chapterTitle": "Kapitel 20",
+      "chapterTitle": "Auf der İstiklal Caddesi",
       "turkish": "Bu ceket kaç lira?",
       "german": [
         "Wie viel kostet diese Jacke?"
@@ -5602,7 +5602,7 @@ export default {
     {
       "id": "k21-v001",
       "chapter": 21,
-      "chapterTitle": "Kapitel 21",
+      "chapterTitle": "Im Dolmabahçe-Palast",
       "turkish": "Bu sizin mi?",
       "german": [
         "Gehört das Ihnen?"
@@ -5623,7 +5623,7 @@ export default {
     {
       "id": "k21-v002",
       "chapter": 21,
-      "chapterTitle": "Kapitel 21",
+      "chapterTitle": "Im Dolmabahçe-Palast",
       "turkish": "biletiniz",
       "german": [
         "Ihr Ticket"
@@ -5644,7 +5644,7 @@ export default {
     {
       "id": "k21-v003",
       "chapter": 21,
-      "chapterTitle": "Kapitel 21",
+      "chapterTitle": "Im Dolmabahçe-Palast",
       "turkish": "çantanız",
       "german": [
         "Ihre Tasche"
@@ -5665,7 +5665,7 @@ export default {
     {
       "id": "k21-v004",
       "chapter": 21,
-      "chapterTitle": "Kapitel 21",
+      "chapterTitle": "Im Dolmabahçe-Palast",
       "turkish": "Evet, benim.",
       "german": [
         "Ja, mir."
@@ -5686,7 +5686,7 @@ export default {
     {
       "id": "k21-v005",
       "chapter": 21,
-      "chapterTitle": "Kapitel 21",
+      "chapterTitle": "Im Dolmabahçe-Palast",
       "turkish": "anahtarım",
       "german": [
         "mein Schlüssel"
@@ -5707,7 +5707,7 @@ export default {
     {
       "id": "k21-v006",
       "chapter": 21,
-      "chapterTitle": "Kapitel 21",
+      "chapterTitle": "Im Dolmabahçe-Palast",
       "turkish": "telefonum",
       "german": [
         "mein Telefon"
@@ -5728,7 +5728,7 @@ export default {
     {
       "id": "k21-v007",
       "chapter": 21,
-      "chapterTitle": "Kapitel 21",
+      "chapterTitle": "Im Dolmabahçe-Palast",
       "turkish": "biletim",
       "german": [
         "mein Ticket"
@@ -5749,7 +5749,7 @@ export default {
     {
       "id": "k21-v008",
       "chapter": 21,
-      "chapterTitle": "Kapitel 21",
+      "chapterTitle": "Im Dolmabahçe-Palast",
       "turkish": "çantam",
       "german": [
         "meine Tasche"
@@ -5770,7 +5770,7 @@ export default {
     {
       "id": "k21-v009",
       "chapter": 21,
-      "chapterTitle": "Kapitel 21",
+      "chapterTitle": "Im Dolmabahçe-Palast",
       "turkish": "saray",
       "german": [
         "Palast"
@@ -5791,7 +5791,7 @@ export default {
     {
       "id": "k21-v010",
       "chapter": 21,
-      "chapterTitle": "Kapitel 21",
+      "chapterTitle": "Im Dolmabahçe-Palast",
       "turkish": "kimin?",
       "german": [
         "wessen?"
@@ -5812,7 +5812,7 @@ export default {
     {
       "id": "k22-v001",
       "chapter": 22,
-      "chapterTitle": "Kapitel 22",
+      "chapterTitle": "Durch Beşiktaş",
       "turkish": "hareket",
       "german": [
         "Abfahrt; Bewegung"
@@ -5833,7 +5833,7 @@ export default {
     {
       "id": "k22-v002",
       "chapter": 22,
-      "chapterTitle": "Kapitel 22",
+      "chapterTitle": "Durch Beşiktaş",
       "turkish": "otobüs",
       "german": [
         "Bus"
@@ -5854,7 +5854,7 @@ export default {
     {
       "id": "k22-v003",
       "chapter": 22,
-      "chapterTitle": "Kapitel 22",
+      "chapterTitle": "Durch Beşiktaş",
       "turkish": "erken",
       "german": [
         "früh"
@@ -5875,7 +5875,7 @@ export default {
     {
       "id": "k22-v004",
       "chapter": 22,
-      "chapterTitle": "Kapitel 22",
+      "chapterTitle": "Durch Beşiktaş",
       "turkish": "buçuk",
       "german": [
         "halb"
@@ -5896,7 +5896,7 @@ export default {
     {
       "id": "k22-v005",
       "chapter": 22,
-      "chapterTitle": "Kapitel 22",
+      "chapterTitle": "Durch Beşiktaş",
       "turkish": "buluşmak",
       "german": [
         "sich treffen"
@@ -5917,7 +5917,7 @@ export default {
     {
       "id": "k22-v006",
       "chapter": 22,
-      "chapterTitle": "Kapitel 22",
+      "chapterTitle": "Durch Beşiktaş",
       "turkish": "geç",
       "german": [
         "spät"
@@ -5938,7 +5938,7 @@ export default {
     {
       "id": "k22-v007",
       "chapter": 22,
-      "chapterTitle": "Kapitel 22",
+      "chapterTitle": "Durch Beşiktaş",
       "turkish": "saat üçte",
       "german": [
         "um drei Uhr"
@@ -5959,7 +5959,7 @@ export default {
     {
       "id": "k22-v008",
       "chapter": 22,
-      "chapterTitle": "Kapitel 22",
+      "chapterTitle": "Durch Beşiktaş",
       "turkish": "saat üç buçukta",
       "german": [
         "um halb vier"
@@ -5980,7 +5980,7 @@ export default {
     {
       "id": "k22-v009",
       "chapter": 22,
-      "chapterTitle": "Kapitel 22",
+      "chapterTitle": "Durch Beşiktaş",
       "turkish": "çeyrek",
       "german": [
         "Viertel"
@@ -6001,7 +6001,7 @@ export default {
     {
       "id": "k22-v010",
       "chapter": 22,
-      "chapterTitle": "Kapitel 22",
+      "chapterTitle": "Durch Beşiktaş",
       "turkish": "Ne zaman?",
       "german": [
         "Wann?"
@@ -6022,7 +6022,7 @@ export default {
     {
       "id": "k23-v001",
       "chapter": 23,
-      "chapterTitle": "Kapitel 23",
+      "chapterTitle": "Ein Abend in Ortaköy",
       "turkish": "akşam",
       "german": [
         "Abend"
@@ -6043,7 +6043,7 @@ export default {
     {
       "id": "k23-v002",
       "chapter": 23,
-      "chapterTitle": "Kapitel 23",
+      "chapterTitle": "Ein Abend in Ortaköy",
       "turkish": "kumpir",
       "german": [
         "gefüllte Ofenkartoffel"
@@ -6064,7 +6064,7 @@ export default {
     {
       "id": "k23-v003",
       "chapter": 23,
-      "chapterTitle": "Kapitel 23",
+      "chapterTitle": "Ein Abend in Ortaköy",
       "turkish": "yiyeceğim",
       "german": [
         "ich werde essen"
@@ -6085,7 +6085,7 @@ export default {
     {
       "id": "k23-v004",
       "chapter": 23,
-      "chapterTitle": "Kapitel 23",
+      "chapterTitle": "Ein Abend in Ortaköy",
       "turkish": "gideceğim",
       "german": [
         "ich werde gehen/fahren"
@@ -6106,7 +6106,7 @@ export default {
     {
       "id": "k23-v005",
       "chapter": 23,
-      "chapterTitle": "Kapitel 23",
+      "chapterTitle": "Ein Abend in Ortaköy",
       "turkish": "içeceğim",
       "german": [
         "ich werde trinken"
@@ -6127,7 +6127,7 @@ export default {
     {
       "id": "k23-v006",
       "chapter": 23,
-      "chapterTitle": "Kapitel 23",
+      "chapterTitle": "Ein Abend in Ortaköy",
       "turkish": "yapmak",
       "german": [
         "machen; tun"
@@ -6148,7 +6148,7 @@ export default {
     {
       "id": "k23-v007",
       "chapter": 23,
-      "chapterTitle": "Kapitel 23",
+      "chapterTitle": "Ein Abend in Ortaköy",
       "turkish": "yarın",
       "german": [
         "morgen"
@@ -6169,7 +6169,7 @@ export default {
     {
       "id": "k23-v008",
       "chapter": 23,
-      "chapterTitle": "Kapitel 23",
+      "chapterTitle": "Ein Abend in Ortaköy",
       "turkish": "plan",
       "german": [
         "Plan"
@@ -6190,7 +6190,7 @@ export default {
     {
       "id": "k23-v009",
       "chapter": 23,
-      "chapterTitle": "Kapitel 23",
+      "chapterTitle": "Ein Abend in Ortaköy",
       "turkish": "Ne yapacaksınız?",
       "german": [
         "Was werden Sie tun?"
@@ -6211,7 +6211,7 @@ export default {
     {
       "id": "k23-v010",
       "chapter": 23,
-      "chapterTitle": "Kapitel 23",
+      "chapterTitle": "Ein Abend in Ortaköy",
       "turkish": "önce",
       "german": [
         "zuerst; vorher"
@@ -6232,7 +6232,7 @@ export default {
     {
       "id": "k24-v001",
       "chapter": 24,
-      "chapterTitle": "Kapitel 24",
+      "chapterTitle": "Am Bosporusufer",
       "turkish": "en",
       "german": [
         "am meisten; ...ste"
@@ -6253,7 +6253,7 @@ export default {
     {
       "id": "k24-v002",
       "chapter": 24,
-      "chapterTitle": "Kapitel 24",
+      "chapterTitle": "Am Bosporusufer",
       "turkish": "yavaş",
       "german": [
         "langsam"
@@ -6274,7 +6274,7 @@ export default {
     {
       "id": "k24-v003",
       "chapter": 24,
-      "chapterTitle": "Kapitel 24",
+      "chapterTitle": "Am Bosporusufer",
       "turkish": "kolay",
       "german": [
         "leicht; einfach"
@@ -6295,7 +6295,7 @@ export default {
     {
       "id": "k24-v004",
       "chapter": 24,
-      "chapterTitle": "Kapitel 24",
+      "chapterTitle": "Am Bosporusufer",
       "turkish": "daha",
       "german": [
         "mehr; -er"
@@ -6316,7 +6316,7 @@ export default {
     {
       "id": "k24-v005",
       "chapter": 24,
-      "chapterTitle": "Kapitel 24",
+      "chapterTitle": "Am Bosporusufer",
       "turkish": "sakin",
       "german": [
         "ruhig"
@@ -6337,7 +6337,7 @@ export default {
     {
       "id": "k24-v006",
       "chapter": 24,
-      "chapterTitle": "Kapitel 24",
+      "chapterTitle": "Am Bosporusufer",
       "turkish": "hızlı",
       "german": [
         "schnell"
@@ -6358,7 +6358,7 @@ export default {
     {
       "id": "k24-v007",
       "chapter": 24,
-      "chapterTitle": "Kapitel 24",
+      "chapterTitle": "Am Bosporusufer",
       "turkish": "zor",
       "german": [
         "schwierig"
@@ -6379,7 +6379,7 @@ export default {
     {
       "id": "k24-v008",
       "chapter": 24,
-      "chapterTitle": "Kapitel 24",
+      "chapterTitle": "Am Bosporusufer",
       "turkish": "kalabalık",
       "german": [
         "voll; belebt"
@@ -6400,7 +6400,7 @@ export default {
     {
       "id": "k24-v009",
       "chapter": 24,
-      "chapterTitle": "Kapitel 24",
+      "chapterTitle": "Am Bosporusufer",
       "turkish": "hangisi?",
       "german": [
         "welches davon?"
@@ -6421,7 +6421,7 @@ export default {
     {
       "id": "k24-v010",
       "chapter": 24,
-      "chapterTitle": "Kapitel 24",
+      "chapterTitle": "Am Bosporusufer",
       "turkish": "Hangisi daha güzel?",
       "german": [
         "Welches ist schöner?"
@@ -6442,7 +6442,7 @@ export default {
     {
       "id": "k25-v001",
       "chapter": 25,
-      "chapterTitle": "Kapitel 25",
+      "chapterTitle": "Mit der Fähre nach Üsküdar",
       "turkish": "karşı taraf",
       "german": [
         "andere Seite"
@@ -6463,7 +6463,7 @@ export default {
     {
       "id": "k25-v002",
       "chapter": 25,
-      "chapterTitle": "Kapitel 25",
+      "chapterTitle": "Mit der Fähre nach Üsküdar",
       "turkish": "Görüşürüz!",
       "german": [
         "Bis später!"
@@ -6484,7 +6484,7 @@ export default {
     {
       "id": "k25-v003",
       "chapter": 25,
-      "chapterTitle": "Kapitel 25",
+      "chapterTitle": "Mit der Fähre nach Üsküdar",
       "turkish": "deniz",
       "german": [
         "Meer"
@@ -6505,7 +6505,7 @@ export default {
     {
       "id": "k25-v004",
       "chapter": 25,
-      "chapterTitle": "Kapitel 25",
+      "chapterTitle": "Mit der Fähre nach Üsküdar",
       "turkish": "otobüsle",
       "german": [
         "mit dem Bus"
@@ -6526,7 +6526,7 @@ export default {
     {
       "id": "k25-v005",
       "chapter": 25,
-      "chapterTitle": "Kapitel 25",
+      "chapterTitle": "Mit der Fähre nach Üsküdar",
       "turkish": "taksiyle",
       "german": [
         "mit dem Taxi"
@@ -6547,7 +6547,7 @@ export default {
     {
       "id": "k25-v006",
       "chapter": 25,
-      "chapterTitle": "Kapitel 25",
+      "chapterTitle": "Mit der Fähre nach Üsküdar",
       "turkish": "vapurla",
       "german": [
         "mit der Fähre"
@@ -6568,7 +6568,7 @@ export default {
     {
       "id": "k25-v007",
       "chapter": 25,
-      "chapterTitle": "Kapitel 25",
+      "chapterTitle": "Mit der Fähre nach Üsküdar",
       "turkish": "tramvayla",
       "german": [
         "mit der Straßenbahn"
@@ -6589,7 +6589,7 @@ export default {
     {
       "id": "k25-v008",
       "chapter": 25,
-      "chapterTitle": "Kapitel 25",
+      "chapterTitle": "Mit der Fähre nach Üsküdar",
       "turkish": "arkadaşımla",
       "german": [
         "mit meinem Freund"
@@ -6610,7 +6610,7 @@ export default {
     {
       "id": "k25-v009",
       "chapter": 25,
-      "chapterTitle": "Kapitel 25",
+      "chapterTitle": "Mit der Fähre nach Üsküdar",
       "turkish": "ile",
       "german": [
         "mit; und"
@@ -6631,7 +6631,7 @@ export default {
     {
       "id": "k25-v010",
       "chapter": 25,
-      "chapterTitle": "Kapitel 25",
+      "chapterTitle": "Mit der Fähre nach Üsküdar",
       "turkish": "martı",
       "german": [
         "Möwe"
@@ -6652,7 +6652,7 @@ export default {
     {
       "id": "k25-v011",
       "chapter": 25,
-      "chapterTitle": "Kapitel 25",
+      "chapterTitle": "Mit der Fähre nach Üsküdar",
       "turkish": "Nasıl gidiyorsunuz?",
       "german": [
         "Wie fahren Sie?"
@@ -6673,7 +6673,7 @@ export default {
     {
       "id": "k25-v012",
       "chapter": 25,
-      "chapterTitle": "Kapitel 25",
+      "chapterTitle": "Mit der Fähre nach Üsküdar",
       "turkish": "birlikte",
       "german": [
         "zusammen"
@@ -6694,7 +6694,7 @@ export default {
     {
       "id": "k26-v001",
       "chapter": 26,
-      "chapterTitle": "Kapitel 26",
+      "chapterTitle": "Abend in Üsküdar",
       "turkish": "gezmek",
       "german": [
         "besichtigen, umhergehen"
@@ -6715,7 +6715,7 @@ export default {
     {
       "id": "k26-v002",
       "chapter": 26,
-      "chapterTitle": "Kapitel 26",
+      "chapterTitle": "Abend in Üsküdar",
       "turkish": "sonra",
       "german": [
         "danach"
@@ -6736,7 +6736,7 @@ export default {
     {
       "id": "k26-v003",
       "chapter": 26,
-      "chapterTitle": "Kapitel 26",
+      "chapterTitle": "Abend in Üsküdar",
       "turkish": "dün",
       "german": [
         "gestern"
@@ -6757,7 +6757,7 @@ export default {
     {
       "id": "k26-v004",
       "chapter": 26,
-      "chapterTitle": "Kapitel 26",
+      "chapterTitle": "Abend in Üsküdar",
       "turkish": "bugün",
       "german": [
         "heute"
@@ -6778,7 +6778,7 @@ export default {
     {
       "id": "k26-v005",
       "chapter": 26,
-      "chapterTitle": "Kapitel 26",
+      "chapterTitle": "Abend in Üsküdar",
       "turkish": "yedim",
       "german": [
         "ich aß"
@@ -6799,7 +6799,7 @@ export default {
     {
       "id": "k26-v006",
       "chapter": 26,
-      "chapterTitle": "Kapitel 26",
+      "chapterTitle": "Abend in Üsküdar",
       "turkish": "gezdim",
       "german": [
         "ich besichtigte"
@@ -6820,7 +6820,7 @@ export default {
     {
       "id": "k26-v007",
       "chapter": 26,
-      "chapterTitle": "Kapitel 26",
+      "chapterTitle": "Abend in Üsküdar",
       "turkish": "gittim",
       "german": [
         "ich ging, fuhr"
@@ -6841,7 +6841,7 @@ export default {
     {
       "id": "k26-v008",
       "chapter": 26,
-      "chapterTitle": "Kapitel 26",
+      "chapterTitle": "Abend in Üsküdar",
       "turkish": "geldim",
       "german": [
         "ich kam"
@@ -6862,7 +6862,7 @@ export default {
     {
       "id": "k26-v009",
       "chapter": 26,
-      "chapterTitle": "Kapitel 26",
+      "chapterTitle": "Abend in Üsküdar",
       "turkish": "yaptım",
       "german": [
         "ich machte"
@@ -6883,7 +6883,7 @@ export default {
     {
       "id": "k26-v010",
       "chapter": 26,
-      "chapterTitle": "Kapitel 26",
+      "chapterTitle": "Abend in Üsküdar",
       "turkish": "gördüm",
       "german": [
         "ich sah"
@@ -6904,7 +6904,7 @@ export default {
     {
       "id": "k26-v011",
       "chapter": 26,
-      "chapterTitle": "Kapitel 26",
+      "chapterTitle": "Abend in Üsküdar",
       "turkish": "içtim",
       "german": [
         "ich trank"
@@ -6925,7 +6925,7 @@ export default {
     {
       "id": "k26-v012",
       "chapter": 26,
-      "chapterTitle": "Kapitel 26",
+      "chapterTitle": "Abend in Üsküdar",
       "turkish": "yapmak",
       "german": [
         "machen, tun"
@@ -6946,7 +6946,7 @@ export default {
     {
       "id": "k26-v013",
       "chapter": 26,
-      "chapterTitle": "Kapitel 26",
+      "chapterTitle": "Abend in Üsküdar",
       "turkish": "görmek",
       "german": [
         "sehen"
@@ -6967,7 +6967,7 @@ export default {
     {
       "id": "k26-v014",
       "chapter": 26,
-      "chapterTitle": "Kapitel 26",
+      "chapterTitle": "Abend in Üsküdar",
       "turkish": "gün batımı",
       "german": [
         "Sonnenuntergang"
@@ -6988,7 +6988,7 @@ export default {
     {
       "id": "k26-v015",
       "chapter": 26,
-      "chapterTitle": "Kapitel 26",
+      "chapterTitle": "Abend in Üsküdar",
       "turkish": "sahil",
       "german": [
         "Ufer, Küste"
@@ -7009,7 +7009,7 @@ export default {
     {
       "id": "k26-v016",
       "chapter": 26,
-      "chapterTitle": "Kapitel 26",
+      "chapterTitle": "Abend in Üsküdar",
       "turkish": "önce",
       "german": [
         "vorher, zuerst"
@@ -7030,7 +7030,7 @@ export default {
     {
       "id": "k26-v017",
       "chapter": 26,
-      "chapterTitle": "Kapitel 26",
+      "chapterTitle": "Abend in Üsküdar",
       "turkish": "dikkat",
       "german": [
         "Vorsicht, Aufmerksamkeit"
@@ -7051,7 +7051,7 @@ export default {
     {
       "id": "k26-v018",
       "chapter": 26,
-      "chapterTitle": "Kapitel 26",
+      "chapterTitle": "Abend in Üsküdar",
       "turkish": "Bugün ne yaptınız?",
       "german": [
         "Was haben Sie heute gemacht?"
@@ -7072,7 +7072,7 @@ export default {
     {
       "id": "k27-v001",
       "chapter": 27,
-      "chapterTitle": "Kapitel 27",
+      "chapterTitle": "Zurück im Hotel",
       "turkish": "ama",
       "german": [
         "aber"
@@ -7093,7 +7093,7 @@ export default {
     {
       "id": "k27-v002",
       "chapter": 27,
-      "chapterTitle": "Kapitel 27",
+      "chapterTitle": "Zurück im Hotel",
       "turkish": "alışveriş yapmak",
       "german": [
         "einkaufen"
@@ -7114,7 +7114,7 @@ export default {
     {
       "id": "k27-v003",
       "chapter": 27,
-      "chapterTitle": "Kapitel 27",
+      "chapterTitle": "Zurück im Hotel",
       "turkish": "erken",
       "german": [
         "früh"
@@ -7135,7 +7135,7 @@ export default {
     {
       "id": "k27-v004",
       "chapter": 27,
-      "chapterTitle": "Kapitel 27",
+      "chapterTitle": "Zurück im Hotel",
       "turkish": "İyi uyudunuz mu?",
       "german": [
         "Haben Sie gut geschlafen?"
@@ -7156,7 +7156,7 @@ export default {
     {
       "id": "k27-v005",
       "chapter": 27,
-      "chapterTitle": "Kapitel 27",
+      "chapterTitle": "Zurück im Hotel",
       "turkish": "gitmedim",
       "german": [
         "ich ging nicht"
@@ -7177,7 +7177,7 @@ export default {
     {
       "id": "k27-v006",
       "chapter": 27,
-      "chapterTitle": "Kapitel 27",
+      "chapterTitle": "Zurück im Hotel",
       "turkish": "yapmadım",
       "german": [
         "ich machte nicht"
@@ -7198,7 +7198,7 @@ export default {
     {
       "id": "k27-v007",
       "chapter": 27,
-      "chapterTitle": "Kapitel 27",
+      "chapterTitle": "Zurück im Hotel",
       "turkish": "görmedim",
       "german": [
         "ich sah nicht"
@@ -7219,7 +7219,7 @@ export default {
     {
       "id": "k27-v008",
       "chapter": 27,
-      "chapterTitle": "Kapitel 27",
+      "chapterTitle": "Zurück im Hotel",
       "turkish": "içmedim",
       "german": [
         "ich trank nicht"
@@ -7240,7 +7240,7 @@ export default {
     {
       "id": "k27-v009",
       "chapter": 27,
-      "chapterTitle": "Kapitel 27",
+      "chapterTitle": "Zurück im Hotel",
       "turkish": "yorgun",
       "german": [
         "müde"
@@ -7261,7 +7261,7 @@ export default {
     {
       "id": "k27-v010",
       "chapter": 27,
-      "chapterTitle": "Kapitel 27",
+      "chapterTitle": "Zurück im Hotel",
       "turkish": "sadece",
       "german": [
         "nur"
@@ -7282,7 +7282,7 @@ export default {
     {
       "id": "k27-v011",
       "chapter": 27,
-      "chapterTitle": "Kapitel 27",
+      "chapterTitle": "Zurück im Hotel",
       "turkish": "uyumak",
       "german": [
         "schlafen"
@@ -7303,7 +7303,7 @@ export default {
     {
       "id": "k27-v012",
       "chapter": 27,
-      "chapterTitle": "Kapitel 27",
+      "chapterTitle": "Zurück im Hotel",
       "turkish": "uykulu",
       "german": [
         "schläfrig"
@@ -7324,7 +7324,7 @@ export default {
     {
       "id": "k27-v013",
       "chapter": 27,
-      "chapterTitle": "Kapitel 27",
+      "chapterTitle": "Zurück im Hotel",
       "turkish": "dinlenmek",
       "german": [
         "sich ausruhen"
@@ -7345,7 +7345,7 @@ export default {
     {
       "id": "k27-v014",
       "chapter": 27,
-      "chapterTitle": "Kapitel 27",
+      "chapterTitle": "Zurück im Hotel",
       "turkish": "geç",
       "german": [
         "spät"
@@ -7366,7 +7366,7 @@ export default {
     {
       "id": "k27-v015",
       "chapter": 27,
-      "chapterTitle": "Kapitel 27",
+      "chapterTitle": "Zurück im Hotel",
       "turkish": "çünkü",
       "german": [
         "weil, denn"
@@ -7387,7 +7387,7 @@ export default {
     {
       "id": "k27-v016",
       "chapter": 27,
-      "chapterTitle": "Kapitel 27",
+      "chapterTitle": "Zurück im Hotel",
       "turkish": "Gününüz nasıl geçti?",
       "german": [
         "Wie war Ihr Tag?"
@@ -7408,7 +7408,7 @@ export default {
     {
       "id": "k27-v017",
       "chapter": 27,
-      "chapterTitle": "Kapitel 27",
+      "chapterTitle": "Zurück im Hotel",
       "turkish": "memnun",
       "german": [
         "zufrieden"
@@ -7429,7 +7429,7 @@ export default {
     {
       "id": "k28-v001",
       "chapter": 28,
-      "chapterTitle": "Kapitel 28",
+      "chapterTitle": "Eine Fahrkarte nach Kappadokien",
       "turkish": "hareket etmek",
       "german": [
         "abfahren, sich bewegen"
@@ -7450,7 +7450,7 @@ export default {
     {
       "id": "k28-v002",
       "chapter": 28,
-      "chapterTitle": "Kapitel 28",
+      "chapterTitle": "Eine Fahrkarte nach Kappadokien",
       "turkish": "varmak",
       "german": [
         "ankommen"
@@ -7471,7 +7471,7 @@ export default {
     {
       "id": "k28-v003",
       "chapter": 28,
-      "chapterTitle": "Kapitel 28",
+      "chapterTitle": "Eine Fahrkarte nach Kappadokien",
       "turkish": "sürmek",
       "german": [
         "dauern"
@@ -7492,7 +7492,7 @@ export default {
     {
       "id": "k28-v004",
       "chapter": 28,
-      "chapterTitle": "Kapitel 28",
+      "chapterTitle": "Eine Fahrkarte nach Kappadokien",
       "turkish": "tek yön",
       "german": [
         "einfache Fahrt"
@@ -7513,7 +7513,7 @@ export default {
     {
       "id": "k28-v005",
       "chapter": 28,
-      "chapterTitle": "Kapitel 28",
+      "chapterTitle": "Eine Fahrkarte nach Kappadokien",
       "turkish": "bilet almak",
       "german": [
         "Fahrkarte kaufen"
@@ -7534,7 +7534,7 @@ export default {
     {
       "id": "k28-v006",
       "chapter": 28,
-      "chapterTitle": "Kapitel 28",
+      "chapterTitle": "Eine Fahrkarte nach Kappadokien",
       "turkish": "pencere kenarı",
       "german": [
         "Fensterplatz"
@@ -7555,7 +7555,7 @@ export default {
     {
       "id": "k28-v007",
       "chapter": 28,
-      "chapterTitle": "Kapitel 28",
+      "chapterTitle": "Eine Fahrkarte nach Kappadokien",
       "turkish": "şehirlerarası otobüs",
       "german": [
         "Fernbus"
@@ -7576,7 +7576,7 @@ export default {
     {
       "id": "k28-v008",
       "chapter": 28,
-      "chapterTitle": "Kapitel 28",
+      "chapterTitle": "Eine Fahrkarte nach Kappadokien",
       "turkish": "otogar",
       "german": [
         "Fernbusbahnhof"
@@ -7597,7 +7597,7 @@ export default {
     {
       "id": "k28-v009",
       "chapter": 28,
-      "chapterTitle": "Kapitel 28",
+      "chapterTitle": "Eine Fahrkarte nach Kappadokien",
       "turkish": "koridor",
       "german": [
         "Gang"
@@ -7618,7 +7618,7 @@ export default {
     {
       "id": "k28-v010",
       "chapter": 28,
-      "chapterTitle": "Kapitel 28",
+      "chapterTitle": "Eine Fahrkarte nach Kappadokien",
       "turkish": "gidiş dönüş",
       "german": [
         "Hin- und Rückfahrt"
@@ -7639,7 +7639,7 @@ export default {
     {
       "id": "k28-v011",
       "chapter": 28,
-      "chapterTitle": "Kapitel 28",
+      "chapterTitle": "Eine Fahrkarte nach Kappadokien",
       "turkish": "gitmeliyim",
       "german": [
         "ich muss gehen/fahren"
@@ -7660,7 +7660,7 @@ export default {
     {
       "id": "k28-v012",
       "chapter": 28,
-      "chapterTitle": "Kapitel 28",
+      "chapterTitle": "Eine Fahrkarte nach Kappadokien",
       "turkish": "almalıyım",
       "german": [
         "ich muss kaufen"
@@ -7681,7 +7681,7 @@ export default {
     {
       "id": "k28-v013",
       "chapter": 28,
-      "chapterTitle": "Kapitel 28",
+      "chapterTitle": "Eine Fahrkarte nach Kappadokien",
       "turkish": "Kapadokya",
       "german": [
         "Kappadokien"
@@ -7702,7 +7702,7 @@ export default {
     {
       "id": "k28-v014",
       "chapter": 28,
-      "chapterTitle": "Kapitel 28",
+      "chapterTitle": "Eine Fahrkarte nach Kappadokien",
       "turkish": "yolculuk",
       "german": [
         "Reise, Fahrt"
@@ -7723,7 +7723,7 @@ export default {
     {
       "id": "k28-v015",
       "chapter": 28,
-      "chapterTitle": "Kapitel 28",
+      "chapterTitle": "Eine Fahrkarte nach Kappadokien",
       "turkish": "koltuk",
       "german": [
         "Sitzplatz"
@@ -7744,7 +7744,7 @@ export default {
     {
       "id": "k28-v016",
       "chapter": 28,
-      "chapterTitle": "Kapitel 28",
+      "chapterTitle": "Eine Fahrkarte nach Kappadokien",
       "turkish": "Ne yapmalıyım?",
       "german": [
         "Was soll/muss ich tun?"
@@ -7765,7 +7765,7 @@ export default {
     {
       "id": "k29-v001",
       "chapter": 29,
-      "chapterTitle": "Kapitel 29",
+      "chapterTitle": "Abfahrt in die Nacht",
       "turkish": "danışma",
       "german": [
         "Auskunft"
@@ -7786,7 +7786,7 @@ export default {
     {
       "id": "k29-v002",
       "chapter": 29,
-      "chapterTitle": "Kapitel 29",
+      "chapterTitle": "Abfahrt in die Nacht",
       "turkish": "muavin",
       "german": [
         "Busbegleiter"
@@ -7807,7 +7807,7 @@ export default {
     {
       "id": "k29-v003",
       "chapter": 29,
-      "chapterTitle": "Kapitel 29",
+      "chapterTitle": "Abfahrt in die Nacht",
       "turkish": "peron",
       "german": [
         "Bussteig"
@@ -7828,7 +7828,7 @@ export default {
     {
       "id": "k29-v004",
       "chapter": 29,
-      "chapterTitle": "Kapitel 29",
+      "chapterTitle": "Abfahrt in die Nacht",
       "turkish": "şoför",
       "german": [
         "Fahrer"
@@ -7849,7 +7849,7 @@ export default {
     {
       "id": "k29-v005",
       "chapter": 29,
-      "chapterTitle": "Kapitel 29",
+      "chapterTitle": "Abfahrt in die Nacht",
       "turkish": "bagaj",
       "german": [
         "Gepäck, Gepäckraum"
@@ -7870,7 +7870,7 @@ export default {
     {
       "id": "k29-v006",
       "chapter": 29,
-      "chapterTitle": "Kapitel 29",
+      "chapterTitle": "Abfahrt in die Nacht",
       "turkish": "emanet",
       "german": [
         "Gepäckaufbewahrung"
@@ -7891,7 +7891,7 @@ export default {
     {
       "id": "k29-v007",
       "chapter": 29,
-      "chapterTitle": "Kapitel 29",
+      "chapterTitle": "Abfahrt in die Nacht",
       "turkish": "İyi yolculuklar!",
       "german": [
         "Gute Reise!"
@@ -7912,7 +7912,7 @@ export default {
     {
       "id": "k29-v008",
       "chapter": 29,
-      "chapterTitle": "Kapitel 29",
+      "chapterTitle": "Abfahrt in die Nacht",
       "turkish": "el çantası",
       "german": [
         "Handgepäck"
@@ -7933,7 +7933,7 @@ export default {
     {
       "id": "k29-v009",
       "chapter": 29,
-      "chapterTitle": "Kapitel 29",
+      "chapterTitle": "Abfahrt in die Nacht",
       "turkish": "yardım etmek",
       "german": [
         "helfen"
@@ -7954,7 +7954,7 @@ export default {
     {
       "id": "k29-v010",
       "chapter": 29,
-      "chapterTitle": "Kapitel 29",
+      "chapterTitle": "Abfahrt in die Nacht",
       "turkish": "binebilirim",
       "german": [
         "ich kann einsteigen"
@@ -7975,7 +7975,7 @@ export default {
     {
       "id": "k29-v011",
       "chapter": 29,
-      "chapterTitle": "Kapitel 29",
+      "chapterTitle": "Abfahrt in die Nacht",
       "turkish": "koyabilir miyim?",
       "german": [
         "Kann/darf ich hinstellen?"
@@ -7996,7 +7996,7 @@ export default {
     {
       "id": "k29-v012",
       "chapter": 29,
-      "chapterTitle": "Kapitel 29",
+      "chapterTitle": "Abfahrt in die Nacht",
       "turkish": "valiz",
       "german": [
         "Koffer"
@@ -8017,7 +8017,7 @@ export default {
     {
       "id": "k29-v013",
       "chapter": 29,
-      "chapterTitle": "Kapitel 29",
+      "chapterTitle": "Abfahrt in die Nacht",
       "turkish": "açmak",
       "german": [
         "öffnen"
@@ -8038,7 +8038,7 @@ export default {
     {
       "id": "k29-v014",
       "chapter": 29,
-      "chapterTitle": "Kapitel 29",
+      "chapterTitle": "Abfahrt in die Nacht",
       "turkish": "mola",
       "german": [
         "Pause"
@@ -8059,7 +8059,7 @@ export default {
     {
       "id": "k29-v015",
       "chapter": 29,
-      "chapterTitle": "Kapitel 29",
+      "chapterTitle": "Abfahrt in die Nacht",
       "turkish": "kapatmak",
       "german": [
         "schließen"
@@ -8080,7 +8080,7 @@ export default {
     {
       "id": "k29-v016",
       "chapter": 29,
-      "chapterTitle": "Kapitel 29",
+      "chapterTitle": "Abfahrt in die Nacht",
       "turkish": "emniyet kemeri",
       "german": [
         "Sicherheitsgurt"
@@ -8101,7 +8101,7 @@ export default {
     {
       "id": "k29-v017",
       "chapter": 29,
-      "chapterTitle": "Kapitel 29",
+      "chapterTitle": "Abfahrt in die Nacht",
       "turkish": "koymak",
       "german": [
         "stellen, legen"
@@ -8122,7 +8122,7 @@ export default {
     {
       "id": "k30-v001",
       "chapter": 30,
-      "chapterTitle": "Kapitel 30",
+      "chapterTitle": "Im Nachtbus",
       "turkish": "bir süre",
       "german": [
         "eine Weile"
@@ -8143,7 +8143,7 @@ export default {
     {
       "id": "k30-v002",
       "chapter": 30,
-      "chapterTitle": "Kapitel 30",
+      "chapterTitle": "Im Nachtbus",
       "turkish": "yolcu",
       "german": [
         "Fahrgast"
@@ -8164,7 +8164,7 @@ export default {
     {
       "id": "k30-v003",
       "chapter": 30,
-      "chapterTitle": "Kapitel 30",
+      "chapterTitle": "Im Nachtbus",
       "turkish": "devam etmek",
       "german": [
         "fortfahren"
@@ -8185,7 +8185,7 @@ export default {
     {
       "id": "k30-v004",
       "chapter": 30,
-      "chapterTitle": "Kapitel 30",
+      "chapterTitle": "Im Nachtbus",
       "turkish": "hareket etti",
       "german": [
         "fuhr ab"
@@ -8206,7 +8206,7 @@ export default {
     {
       "id": "k30-v005",
       "chapter": 30,
-      "chapterTitle": "Kapitel 30",
+      "chapterTitle": "Im Nachtbus",
       "turkish": "sabaha karşı",
       "german": [
         "gegen Morgen"
@@ -8227,7 +8227,7 @@ export default {
     {
       "id": "k30-v006",
       "chapter": 30,
-      "chapterTitle": "Kapitel 30",
+      "chapterTitle": "Im Nachtbus",
       "turkish": "uyudum",
       "german": [
         "ich schlief"
@@ -8248,7 +8248,7 @@ export default {
     {
       "id": "k30-v007",
       "chapter": 30,
-      "chapterTitle": "Kapitel 30",
+      "chapterTitle": "Im Nachtbus",
       "turkish": "uyandım",
       "german": [
         "ich wachte auf"
@@ -8269,7 +8269,7 @@ export default {
     {
       "id": "k30-v008",
       "chapter": 30,
-      "chapterTitle": "Kapitel 30",
+      "chapterTitle": "Im Nachtbus",
       "turkish": "herkes",
       "german": [
         "jeder, alle"
@@ -8290,7 +8290,7 @@ export default {
     {
       "id": "k30-v009",
       "chapter": 30,
-      "chapterTitle": "Kapitel 30",
+      "chapterTitle": "Im Nachtbus",
       "turkish": "kimse",
       "german": [
         "jemand; niemand bei Verneinung"
@@ -8311,7 +8311,7 @@ export default {
     {
       "id": "k30-v010",
       "chapter": 30,
-      "chapterTitle": "Kapitel 30",
+      "chapterTitle": "Im Nachtbus",
       "turkish": "mercimek çorbası",
       "german": [
         "Linsensuppe"
@@ -8332,7 +8332,7 @@ export default {
     {
       "id": "k30-v011",
       "chapter": 30,
-      "chapterTitle": "Kapitel 30",
+      "chapterTitle": "Im Nachtbus",
       "turkish": "gece yarısı",
       "german": [
         "Mitternacht"
@@ -8353,7 +8353,7 @@ export default {
     {
       "id": "k30-v012",
       "chapter": 30,
-      "chapterTitle": "Kapitel 30",
+      "chapterTitle": "Im Nachtbus",
       "turkish": "gece yolculuğu",
       "german": [
         "Nachtfahrt"
@@ -8374,7 +8374,7 @@ export default {
     {
       "id": "k30-v013",
       "chapter": 30,
-      "chapterTitle": "Kapitel 30",
+      "chapterTitle": "Im Nachtbus",
       "turkish": "henüz",
       "german": [
         "noch, bislang"
@@ -8395,7 +8395,7 @@ export default {
     {
       "id": "k30-v014",
       "chapter": 30,
-      "chapterTitle": "Kapitel 30",
+      "chapterTitle": "Im Nachtbus",
       "turkish": "sonunda",
       "german": [
         "schließlich"
@@ -8416,7 +8416,7 @@ export default {
     {
       "id": "k30-v015",
       "chapter": 30,
-      "chapterTitle": "Kapitel 30",
+      "chapterTitle": "Im Nachtbus",
       "turkish": "hemen",
       "german": [
         "sofort"
@@ -8437,7 +8437,7 @@ export default {
     {
       "id": "k30-v016",
       "chapter": 30,
-      "chapterTitle": "Kapitel 30",
+      "chapterTitle": "Im Nachtbus",
       "turkish": "durduk",
       "german": [
         "wir hielten an"
@@ -8458,7 +8458,7 @@ export default {
     {
       "id": "k30-v017",
       "chapter": 30,
-      "chapterTitle": "Kapitel 30",
+      "chapterTitle": "Im Nachtbus",
       "turkish": "vardık",
       "german": [
         "wir kamen an"
@@ -8479,7 +8479,7 @@ export default {
     {
       "id": "k30-v018",
       "chapter": 30,
-      "chapterTitle": "Kapitel 30",
+      "chapterTitle": "Im Nachtbus",
       "turkish": "mola verdik",
       "german": [
         "wir machten Pause"
@@ -8500,7 +8500,7 @@ export default {
     {
       "id": "k30-v019",
       "chapter": 30,
-      "chapterTitle": "Kapitel 30",
+      "chapterTitle": "Im Nachtbus",
       "turkish": "dinlendik",
       "german": [
         "wir ruhten uns aus"
@@ -8521,7 +8521,7 @@ export default {
     {
       "id": "k30-v020",
       "chapter": 30,
-      "chapterTitle": "Kapitel 30",
+      "chapterTitle": "Im Nachtbus",
       "turkish": "konuştuk",
       "german": [
         "wir sprachen"
@@ -8542,7 +8542,7 @@ export default {
     {
       "id": "k31-v001",
       "chapter": 31,
-      "chapterTitle": "Kapitel 31",
+      "chapterTitle": "Guten Morgen, Kappadokien",
       "turkish": "benzemek",
       "german": [
         "ähneln"
@@ -8563,7 +8563,7 @@ export default {
     {
       "id": "k31-v002",
       "chapter": 31,
-      "chapterTitle": "Kapitel 31",
+      "chapterTitle": "Guten Morgen, Kappadokien",
       "turkish": "farklı",
       "german": [
         "anders"
@@ -8584,7 +8584,7 @@ export default {
     {
       "id": "k31-v003",
       "chapter": 31,
-      "chapterTitle": "Kapitel 31",
+      "chapterTitle": "Guten Morgen, Kappadokien",
       "turkish": "manzara",
       "german": [
         "Aussicht"
@@ -8605,7 +8605,7 @@ export default {
     {
       "id": "k31-v004",
       "chapter": 31,
-      "chapterTitle": "Kapitel 31",
+      "chapterTitle": "Guten Morgen, Kappadokien",
       "turkish": "rahat",
       "german": [
         "bequem"
@@ -8626,7 +8626,7 @@ export default {
     {
       "id": "k31-v005",
       "chapter": 31,
-      "chapterTitle": "Kapitel 31",
+      "chapterTitle": "Guten Morgen, Kappadokien",
       "turkish": "az kaldı",
       "german": [
         "es ist nicht mehr weit"
@@ -8647,7 +8647,7 @@ export default {
     {
       "id": "k31-v006",
       "chapter": 31,
-      "chapterTitle": "Kapitel 31",
+      "chapterTitle": "Guten Morgen, Kappadokien",
       "turkish": "peri bacası",
       "german": [
         "Feenkamin"
@@ -8668,7 +8668,7 @@ export default {
     {
       "id": "k31-v007",
       "chapter": 31,
-      "chapterTitle": "Kapitel 31",
+      "chapterTitle": "Guten Morgen, Kappadokien",
       "turkish": "kaya",
       "german": [
         "Fels"
@@ -8689,7 +8689,7 @@ export default {
     {
       "id": "k31-v008",
       "chapter": 31,
-      "chapterTitle": "Kapitel 31",
+      "chapterTitle": "Guten Morgen, Kappadokien",
       "turkish": "kaya odası",
       "german": [
         "Felsenzimmer"
@@ -8710,7 +8710,7 @@ export default {
     {
       "id": "k31-v009",
       "chapter": 31,
-      "chapterTitle": "Kapitel 31",
+      "chapterTitle": "Guten Morgen, Kappadokien",
       "turkish": "hazır",
       "german": [
         "fertig, bereit"
@@ -8731,7 +8731,7 @@ export default {
     {
       "id": "k31-v010",
       "chapter": 31,
-      "chapterTitle": "Kapitel 31",
+      "chapterTitle": "Guten Morgen, Kappadokien",
       "turkish": "Göreme",
       "german": [
         "Göreme"
@@ -8752,7 +8752,7 @@ export default {
     {
       "id": "k31-v011",
       "chapter": 31,
-      "chapterTitle": "Kapitel 31",
+      "chapterTitle": "Guten Morgen, Kappadokien",
       "turkish": "mağara",
       "german": [
         "Höhle"
@@ -8773,7 +8773,7 @@ export default {
     {
       "id": "k31-v012",
       "chapter": 31,
-      "chapterTitle": "Kapitel 31",
+      "chapterTitle": "Guten Morgen, Kappadokien",
       "turkish": "dahil",
       "german": [
         "inbegriffen"
@@ -8794,7 +8794,7 @@ export default {
     {
       "id": "k31-v013",
       "chapter": 31,
-      "chapterTitle": "Kapitel 31",
+      "chapterTitle": "Guten Morgen, Kappadokien",
       "turkish": "Kapadokya",
       "german": [
         "Kappadokien"
@@ -8815,7 +8815,7 @@ export default {
     {
       "id": "k31-v014",
       "chapter": 31,
-      "chapterTitle": "Kapitel 31",
+      "chapterTitle": "Guten Morgen, Kappadokien",
       "turkish": "rezervasyon",
       "german": [
         "Reservierung"
@@ -8836,7 +8836,7 @@ export default {
     {
       "id": "k31-v015",
       "chapter": 31,
-      "chapterTitle": "Kapitel 31",
+      "chapterTitle": "Guten Morgen, Kappadokien",
       "turkish": "sakin",
       "german": [
         "ruhig"
@@ -8857,7 +8857,7 @@ export default {
     {
       "id": "k31-v016",
       "chapter": 31,
-      "chapterTitle": "Kapitel 31",
+      "chapterTitle": "Guten Morgen, Kappadokien",
       "turkish": "sessiz",
       "german": [
         "still"
@@ -8878,7 +8878,7 @@ export default {
     {
       "id": "k31-v017",
       "chapter": 31,
-      "chapterTitle": "Kapitel 31",
+      "chapterTitle": "Guten Morgen, Kappadokien",
       "turkish": "vadi",
       "german": [
         "Tal"
@@ -8899,7 +8899,7 @@ export default {
     {
       "id": "k31-v018",
       "chapter": 31,
-      "chapterTitle": "Kapitel 31",
+      "chapterTitle": "Guten Morgen, Kappadokien",
       "turkish": "teras",
       "german": [
         "Terrasse"
@@ -8920,7 +8920,7 @@ export default {
     {
       "id": "k31-v019",
       "chapter": 31,
-      "chapterTitle": "Kapitel 31",
+      "chapterTitle": "Guten Morgen, Kappadokien",
       "turkish": "gibi",
       "german": [
         "wie"
@@ -8941,7 +8941,7 @@ export default {
     {
       "id": "k31-v020",
       "chapter": 31,
-      "chapterTitle": "Kapitel 31",
+      "chapterTitle": "Guten Morgen, Kappadokien",
       "turkish": "ilk defa",
       "german": [
         "zum ersten Mal"
@@ -8962,7 +8962,7 @@ export default {
     {
       "id": "k32-v001",
       "chapter": 32,
-      "chapterTitle": "Kapitel 32",
+      "chapterTitle": "Im Freilichtmuseum",
       "turkish": "dokunmak",
       "german": [
         "berühren"
@@ -8983,7 +8983,7 @@ export default {
     {
       "id": "k32-v002",
       "chapter": 32,
-      "chapterTitle": "Kapitel 32",
+      "chapterTitle": "Im Freilichtmuseum",
       "turkish": "ziyaretçi",
       "german": [
         "Besucher"
@@ -9004,7 +9004,7 @@ export default {
     {
       "id": "k32-v003",
       "chapter": 32,
-      "chapterTitle": "Kapitel 32",
+      "chapterTitle": "Im Freilichtmuseum",
       "turkish": "karanlık",
       "german": [
         "dunkel"
@@ -9025,7 +9025,7 @@ export default {
     {
       "id": "k32-v004",
       "chapter": 32,
-      "chapterTitle": "Kapitel 32",
+      "chapterTitle": "Im Freilichtmuseum",
       "turkish": "anlatmak",
       "german": [
         "erklären, erzählen"
@@ -9046,7 +9046,7 @@ export default {
     {
       "id": "k32-v005",
       "chapter": 32,
-      "chapterTitle": "Kapitel 32",
+      "chapterTitle": "Im Freilichtmuseum",
       "turkish": "serbest",
       "german": [
         "erlaubt"
@@ -9067,7 +9067,7 @@ export default {
     {
       "id": "k32-v006",
       "chapter": 32,
-      "chapterTitle": "Kapitel 32",
+      "chapterTitle": "Im Freilichtmuseum",
       "turkish": "fotoğraf çekmek",
       "german": [
         "fotografieren"
@@ -9088,7 +9088,7 @@ export default {
     {
       "id": "k32-v007",
       "chapter": 32,
-      "chapterTitle": "Kapitel 32",
+      "chapterTitle": "Im Freilichtmuseum",
       "turkish": "açık hava müzesi",
       "german": [
         "Freilichtmuseum"
@@ -9109,7 +9109,7 @@ export default {
     {
       "id": "k32-v008",
       "chapter": 32,
-      "chapterTitle": "Kapitel 32",
+      "chapterTitle": "Im Freilichtmuseum",
       "turkish": "rehber",
       "german": [
         "Fremdenführer"
@@ -9130,7 +9130,7 @@ export default {
     {
       "id": "k32-v009",
       "chapter": 32,
-      "chapterTitle": "Kapitel 32",
+      "chapterTitle": "Im Freilichtmuseum",
       "turkish": "fresk",
       "german": [
         "Fresko"
@@ -9151,7 +9151,7 @@ export default {
     {
       "id": "k32-v010",
       "chapter": 32,
-      "chapterTitle": "Kapitel 32",
+      "chapterTitle": "Im Freilichtmuseum",
       "turkish": "yüzyıl",
       "german": [
         "Jahrhundert"
@@ -9172,7 +9172,7 @@ export default {
     {
       "id": "k32-v011",
       "chapter": 32,
-      "chapterTitle": "Kapitel 32",
+      "chapterTitle": "Im Freilichtmuseum",
       "turkish": "kilise",
       "german": [
         "Kirche"
@@ -9193,7 +9193,7 @@ export default {
     {
       "id": "k32-v012",
       "chapter": 32,
-      "chapterTitle": "Kapitel 32",
+      "chapterTitle": "Im Freilichtmuseum",
       "turkish": "görevli",
       "german": [
         "Mitarbeiter, Aufseher"
@@ -9214,7 +9214,7 @@ export default {
     {
       "id": "k32-v013",
       "chapter": 32,
-      "chapterTitle": "Kapitel 32",
+      "chapterTitle": "Im Freilichtmuseum",
       "turkish": "zarar vermek",
       "german": [
         "schaden"
@@ -9235,7 +9235,7 @@ export default {
     {
       "id": "k32-v014",
       "chapter": 32,
-      "chapterTitle": "Kapitel 32",
+      "chapterTitle": "Im Freilichtmuseum",
       "turkish": "bakmak",
       "german": [
         "schauen"
@@ -9256,7 +9256,7 @@ export default {
     {
       "id": "k32-v015",
       "chapter": 32,
-      "chapterTitle": "Kapitel 32",
+      "chapterTitle": "Im Freilichtmuseum",
       "turkish": "korumak",
       "german": [
         "schützen"
@@ -9277,7 +9277,7 @@ export default {
     {
       "id": "k32-v016",
       "chapter": 32,
-      "chapterTitle": "Kapitel 32",
+      "chapterTitle": "Im Freilichtmuseum",
       "turkish": "yasak",
       "german": [
         "verboten"
@@ -9298,7 +9298,7 @@ export default {
     {
       "id": "k32-v017",
       "chapter": 32,
-      "chapterTitle": "Kapitel 32",
+      "chapterTitle": "Im Freilichtmuseum",
       "turkish": "dikkatli",
       "german": [
         "vorsichtig"
@@ -9319,7 +9319,7 @@ export default {
     {
       "id": "k32-v018",
       "chapter": 32,
-      "chapterTitle": "Kapitel 32",
+      "chapterTitle": "Im Freilichtmuseum",
       "turkish": "duvar",
       "german": [
         "Wand"
@@ -9340,7 +9340,7 @@ export default {
     {
       "id": "k32-v019",
       "chapter": 32,
-      "chapterTitle": "Kapitel 32",
+      "chapterTitle": "Im Freilichtmuseum",
       "turkish": "duvar resmi",
       "german": [
         "Wandmalerei"
@@ -9361,7 +9361,7 @@ export default {
     {
       "id": "k32-v020",
       "chapter": 32,
-      "chapterTitle": "Kapitel 32",
+      "chapterTitle": "Im Freilichtmuseum",
       "turkish": "dinlemek",
       "german": [
         "zuhören"
@@ -9382,7 +9382,7 @@ export default {
     {
       "id": "k33-v001",
       "chapter": 33,
-      "chapterTitle": "Kapitel 33",
+      "chapterTitle": "Beim Töpfer in Avanos",
       "turkish": "denemek",
       "german": [
         "ausprobieren"
@@ -9403,7 +9403,7 @@ export default {
     {
       "id": "k33-v002",
       "chapter": 33,
-      "chapterTitle": "Kapitel 33",
+      "chapterTitle": "Beim Töpfer in Avanos",
       "turkish": "ıslatmak",
       "german": [
         "befeuchten"
@@ -9424,7 +9424,7 @@ export default {
     {
       "id": "k33-v003",
       "chapter": 33,
-      "chapterTitle": "Kapitel 33",
+      "chapterTitle": "Beim Töpfer in Avanos",
       "turkish": "pişirmek",
       "german": [
         "brennen, kochen"
@@ -9445,7 +9445,7 @@ export default {
     {
       "id": "k33-v004",
       "chapter": 33,
-      "chapterTitle": "Kapitel 33",
+      "chapterTitle": "Beim Töpfer in Avanos",
       "turkish": "çevirmek",
       "german": [
         "drehen"
@@ -9466,7 +9466,7 @@ export default {
     {
       "id": "k33-v005",
       "chapter": 33,
-      "chapterTitle": "Kapitel 33",
+      "chapterTitle": "Beim Töpfer in Avanos",
       "turkish": "bastırmak",
       "german": [
         "drücken"
@@ -9487,7 +9487,7 @@ export default {
     {
       "id": "k33-v006",
       "chapter": 33,
-      "chapterTitle": "Kapitel 33",
+      "chapterTitle": "Beim Töpfer in Avanos",
       "turkish": "şekil",
       "german": [
         "Form"
@@ -9508,7 +9508,7 @@ export default {
     {
       "id": "k33-v007",
       "chapter": 33,
-      "chapterTitle": "Kapitel 33",
+      "chapterTitle": "Beim Töpfer in Avanos",
       "turkish": "biçim vermek",
       "german": [
         "formen"
@@ -9529,7 +9529,7 @@ export default {
     {
       "id": "k33-v008",
       "chapter": 33,
-      "chapterTitle": "Kapitel 33",
+      "chapterTitle": "Beim Töpfer in Avanos",
       "turkish": "el yapımı",
       "german": [
         "handgemacht"
@@ -9550,7 +9550,7 @@ export default {
     {
       "id": "k33-v009",
       "chapter": 33,
-      "chapterTitle": "Kapitel 33",
+      "chapterTitle": "Beim Töpfer in Avanos",
       "turkish": "testi",
       "german": [
         "Krug"
@@ -9571,7 +9571,7 @@ export default {
     {
       "id": "k33-v010",
       "chapter": 33,
-      "chapterTitle": "Kapitel 33",
+      "chapterTitle": "Beim Töpfer in Avanos",
       "turkish": "çamur",
       "german": [
         "Lehm, Schlamm"
@@ -9592,7 +9592,7 @@ export default {
     {
       "id": "k33-v011",
       "chapter": 33,
-      "chapterTitle": "Kapitel 33",
+      "chapterTitle": "Beim Töpfer in Avanos",
       "turkish": "yerel",
       "german": [
         "örtlich, lokal"
@@ -9613,7 +9613,7 @@ export default {
     {
       "id": "k33-v012",
       "chapter": 33,
-      "chapterTitle": "Kapitel 33",
+      "chapterTitle": "Beim Töpfer in Avanos",
       "turkish": "kase",
       "german": [
         "Schale"
@@ -9634,7 +9634,7 @@ export default {
     {
       "id": "k33-v013",
       "chapter": 33,
-      "chapterTitle": "Kapitel 33",
+      "chapterTitle": "Beim Töpfer in Avanos",
       "turkish": "tabak",
       "german": [
         "Teller"
@@ -9655,7 +9655,7 @@ export default {
     {
       "id": "k33-v014",
       "chapter": 33,
-      "chapterTitle": "Kapitel 33",
+      "chapterTitle": "Beim Töpfer in Avanos",
       "turkish": "kil",
       "german": [
         "Ton"
@@ -9676,7 +9676,7 @@ export default {
     {
       "id": "k33-v015",
       "chapter": 33,
-      "chapterTitle": "Kapitel 33",
+      "chapterTitle": "Beim Töpfer in Avanos",
       "turkish": "çömlek",
       "german": [
         "Tontopf"
@@ -9697,7 +9697,7 @@ export default {
     {
       "id": "k33-v016",
       "chapter": 33,
-      "chapterTitle": "Kapitel 33",
+      "chapterTitle": "Beim Töpfer in Avanos",
       "turkish": "çömlekçi",
       "german": [
         "Töpfer"
@@ -9718,7 +9718,7 @@ export default {
     {
       "id": "k33-v017",
       "chapter": 33,
-      "chapterTitle": "Kapitel 33",
+      "chapterTitle": "Beim Töpfer in Avanos",
       "turkish": "çark",
       "german": [
         "Töpferscheibe"
@@ -9739,7 +9739,7 @@ export default {
     {
       "id": "k33-v018",
       "chapter": 33,
-      "chapterTitle": "Kapitel 33",
+      "chapterTitle": "Beim Töpfer in Avanos",
       "turkish": "kurumak",
       "german": [
         "trocknen"
@@ -9760,7 +9760,7 @@ export default {
     {
       "id": "k33-v019",
       "chapter": 33,
-      "chapterTitle": "Kapitel 33",
+      "chapterTitle": "Beim Töpfer in Avanos",
       "turkish": "eser",
       "german": [
         "Werk"
@@ -9781,7 +9781,7 @@ export default {
     {
       "id": "k33-v020",
       "chapter": 33,
-      "chapterTitle": "Kapitel 33",
+      "chapterTitle": "Beim Töpfer in Avanos",
       "turkish": "atölye",
       "german": [
         "Werkstatt"
@@ -9802,7 +9802,7 @@ export default {
     {
       "id": "k34-v001",
       "chapter": 34,
-      "chapterTitle": "Kapitel 34",
+      "chapterTitle": "Zu Gast im Dorf",
       "turkish": "ikram",
       "german": [
         "Bewirtung"
@@ -9823,7 +9823,7 @@ export default {
     {
       "id": "k34-v002",
       "chapter": 34,
-      "chapterTitle": "Kapitel 34",
+      "chapterTitle": "Zu Gast im Dorf",
       "turkish": "Ellerinize sağlık.",
       "german": [
         "Danke, es war köstlich."
@@ -9844,7 +9844,7 @@ export default {
     {
       "id": "k34-v003",
       "chapter": 34,
-      "chapterTitle": "Kapitel 34",
+      "chapterTitle": "Zu Gast im Dorf",
       "turkish": "köy",
       "german": [
         "Dorf"
@@ -9865,7 +9865,7 @@ export default {
     {
       "id": "k34-v004",
       "chapter": 34,
-      "chapterTitle": "Kapitel 34",
+      "chapterTitle": "Zu Gast im Dorf",
       "turkish": "torun",
       "german": [
         "Enkel"
@@ -9886,7 +9886,7 @@ export default {
     {
       "id": "k34-v005",
       "chapter": 34,
-      "chapterTitle": "Kapitel 34",
+      "chapterTitle": "Zu Gast im Dorf",
       "turkish": "aile",
       "german": [
         "Familie"
@@ -9907,7 +9907,7 @@ export default {
     {
       "id": "k34-v006",
       "chapter": 34,
-      "chapterTitle": "Kapitel 34",
+      "chapterTitle": "Zu Gast im Dorf",
       "turkish": "bahçe",
       "german": [
         "Garten"
@@ -9928,7 +9928,7 @@ export default {
     {
       "id": "k34-v007",
       "chapter": 34,
-      "chapterTitle": "Kapitel 34",
+      "chapterTitle": "Zu Gast im Dorf",
       "turkish": "misafir",
       "german": [
         "Gast"
@@ -9949,7 +9949,7 @@ export default {
     {
       "id": "k34-v008",
       "chapter": 34,
-      "chapterTitle": "Kapitel 34",
+      "chapterTitle": "Zu Gast im Dorf",
       "turkish": "ev sahibi",
       "german": [
         "Gastgeber"
@@ -9970,7 +9970,7 @@ export default {
     {
       "id": "k34-v009",
       "chapter": 34,
-      "chapterTitle": "Kapitel 34",
+      "chapterTitle": "Zu Gast im Dorf",
       "turkish": "sofra",
       "german": [
         "gedeckter Tisch"
@@ -9991,7 +9991,7 @@ export default {
     {
       "id": "k34-v010",
       "chapter": 34,
-      "chapterTitle": "Kapitel 34",
+      "chapterTitle": "Zu Gast im Dorf",
       "turkish": "hediye",
       "german": [
         "Geschenk"
@@ -10012,7 +10012,7 @@ export default {
     {
       "id": "k34-v011",
       "chapter": 34,
-      "chapterTitle": "Kapitel 34",
+      "chapterTitle": "Zu Gast im Dorf",
       "turkish": "büyükanne",
       "german": [
         "Großmutter"
@@ -10033,7 +10033,7 @@ export default {
     {
       "id": "k34-v012",
       "chapter": 34,
-      "chapterTitle": "Kapitel 34",
+      "chapterTitle": "Zu Gast im Dorf",
       "turkish": "büyükbaba",
       "german": [
         "Großvater"
@@ -10054,7 +10054,7 @@ export default {
     {
       "id": "k34-v013",
       "chapter": 34,
-      "chapterTitle": "Kapitel 34",
+      "chapterTitle": "Zu Gast im Dorf",
       "turkish": "ev yapımı",
       "german": [
         "hausgemacht"
@@ -10075,7 +10075,7 @@ export default {
     {
       "id": "k34-v014",
       "chapter": 34,
-      "chapterTitle": "Kapitel 34",
+      "chapterTitle": "Zu Gast im Dorf",
       "turkish": "anne",
       "german": [
         "Mutter"
@@ -10096,7 +10096,7 @@ export default {
     {
       "id": "k34-v015",
       "chapter": 34,
-      "chapterTitle": "Kapitel 34",
+      "chapterTitle": "Zu Gast im Dorf",
       "turkish": "komşu",
       "german": [
         "Nachbar"
@@ -10117,7 +10117,7 @@ export default {
     {
       "id": "k34-v016",
       "chapter": 34,
-      "chapterTitle": "Kapitel 34",
+      "chapterTitle": "Zu Gast im Dorf",
       "turkish": "doymak",
       "german": [
         "satt werden"
@@ -10138,7 +10138,7 @@ export default {
     {
       "id": "k34-v017",
       "chapter": 34,
-      "chapterTitle": "Kapitel 34",
+      "chapterTitle": "Zu Gast im Dorf",
       "turkish": "Memnuniyetle.",
       "german": [
         "Sehr gern."
@@ -10159,7 +10159,7 @@ export default {
     {
       "id": "k34-v018",
       "chapter": 34,
-      "chapterTitle": "Kapitel 34",
+      "chapterTitle": "Zu Gast im Dorf",
       "turkish": "kapı",
       "german": [
         "Tür"
@@ -10180,7 +10180,7 @@ export default {
     {
       "id": "k34-v019",
       "chapter": 34,
-      "chapterTitle": "Kapitel 34",
+      "chapterTitle": "Zu Gast im Dorf",
       "turkish": "baba",
       "german": [
         "Vater"
@@ -10201,7 +10201,7 @@ export default {
     {
       "id": "k34-v020",
       "chapter": 34,
-      "chapterTitle": "Kapitel 34",
+      "chapterTitle": "Zu Gast im Dorf",
       "turkish": "kimin",
       "german": [
         "wessen"
@@ -10222,7 +10222,7 @@ export default {
     {
       "id": "k35-v001",
       "chapter": 35,
-      "chapterTitle": "Kapitel 35",
+      "chapterTitle": "Durch das Tal",
       "turkish": "bu yüzden",
       "german": [
         "deshalb"
@@ -10243,7 +10243,7 @@ export default {
     {
       "id": "k35-v002",
       "chapter": 35,
-      "chapterTitle": "Kapitel 35",
+      "chapterTitle": "Durch das Tal",
       "turkish": "susamak",
       "german": [
         "Durst bekommen"
@@ -10264,7 +10264,7 @@ export default {
     {
       "id": "k35-v003",
       "chapter": 35,
-      "chapterTitle": "Kapitel 35",
+      "chapterTitle": "Durch das Tal",
       "turkish": "düz",
       "german": [
         "eben"
@@ -10285,7 +10285,7 @@ export default {
     {
       "id": "k35-v004",
       "chapter": 35,
-      "chapterTitle": "Kapitel 35",
+      "chapterTitle": "Durch das Tal",
       "turkish": "sık sık",
       "german": [
         "häufig"
@@ -10306,7 +10306,7 @@ export default {
     {
       "id": "k35-v005",
       "chapter": 35,
-      "chapterTitle": "Kapitel 35",
+      "chapterTitle": "Durch das Tal",
       "turkish": "sıcak",
       "german": [
         "heiß"
@@ -10327,7 +10327,7 @@ export default {
     {
       "id": "k35-v006",
       "chapter": 35,
-      "chapterTitle": "Kapitel 35",
+      "chapterTitle": "Durch das Tal",
       "turkish": "yardım",
       "german": [
         "Hilfe"
@@ -10348,7 +10348,7 @@ export default {
     {
       "id": "k35-v007",
       "chapter": 35,
-      "chapterTitle": "Kapitel 35",
+      "chapterTitle": "Durch das Tal",
       "turkish": "serin",
       "german": [
         "kühl"
@@ -10369,7 +10369,7 @@ export default {
     {
       "id": "k35-v008",
       "chapter": 35,
-      "chapterTitle": "Kapitel 35",
+      "chapterTitle": "Durch das Tal",
       "turkish": "yorulmak",
       "german": [
         "müde werden"
@@ -10390,7 +10390,7 @@ export default {
     {
       "id": "k35-v009",
       "chapter": 35,
-      "chapterTitle": "Kapitel 35",
+      "chapterTitle": "Durch das Tal",
       "turkish": "patika",
       "german": [
         "Pfad"
@@ -10411,7 +10411,7 @@ export default {
     {
       "id": "k35-v010",
       "chapter": 35,
-      "chapterTitle": "Kapitel 35",
+      "chapterTitle": "Durch das Tal",
       "turkish": "gölge",
       "german": [
         "Schatten"
@@ -10432,7 +10432,7 @@ export default {
     {
       "id": "k35-v011",
       "chapter": 35,
-      "chapterTitle": "Kapitel 35",
+      "chapterTitle": "Durch das Tal",
       "turkish": "dinlenmek",
       "german": [
         "sich ausruhen"
@@ -10453,7 +10453,7 @@ export default {
     {
       "id": "k35-v012",
       "chapter": 35,
-      "chapterTitle": "Kapitel 35",
+      "chapterTitle": "Durch das Tal",
       "turkish": "kaybolmak",
       "german": [
         "sich verirren"
@@ -10474,7 +10474,7 @@ export default {
     {
       "id": "k35-v013",
       "chapter": 35,
-      "chapterTitle": "Kapitel 35",
+      "chapterTitle": "Durch das Tal",
       "turkish": "güneş",
       "german": [
         "Sonne"
@@ -10495,7 +10495,7 @@ export default {
     {
       "id": "k35-v014",
       "chapter": 35,
-      "chapterTitle": "Kapitel 35",
+      "chapterTitle": "Durch das Tal",
       "turkish": "yokuş",
       "german": [
         "Steigung"
@@ -10516,7 +10516,7 @@ export default {
     {
       "id": "k35-v015",
       "chapter": 35,
-      "chapterTitle": "Kapitel 35",
+      "chapterTitle": "Durch das Tal",
       "turkish": "dik",
       "german": [
         "steil"
@@ -10537,7 +10537,7 @@ export default {
     {
       "id": "k35-v016",
       "chapter": 35,
-      "chapterTitle": "Kapitel 35",
+      "chapterTitle": "Durch das Tal",
       "turkish": "yürüyüş",
       "german": [
         "Wanderung"
@@ -10558,7 +10558,7 @@ export default {
     {
       "id": "k35-v017",
       "chapter": 35,
-      "chapterTitle": "Kapitel 35",
+      "chapterTitle": "Durch das Tal",
       "turkish": "yürüyüş yolu",
       "german": [
         "Wanderweg"
@@ -10579,7 +10579,7 @@ export default {
     {
       "id": "k35-v018",
       "chapter": 35,
-      "chapterTitle": "Kapitel 35",
+      "chapterTitle": "Durch das Tal",
       "turkish": "çünkü",
       "german": [
         "weil"
@@ -10600,7 +10600,7 @@ export default {
     {
       "id": "k35-v019",
       "chapter": 35,
-      "chapterTitle": "Kapitel 35",
+      "chapterTitle": "Durch das Tal",
       "turkish": "rüzgâr",
       "german": [
         "Wind"
@@ -10621,7 +10621,7 @@ export default {
     {
       "id": "k35-v020",
       "chapter": 35,
-      "chapterTitle": "Kapitel 35",
+      "chapterTitle": "Durch das Tal",
       "turkish": "bulut",
       "german": [
         "Wolke"
@@ -10642,7 +10642,7 @@ export default {
     {
       "id": "k36-v001",
       "chapter": 36,
-      "chapterTitle": "Kapitel 36",
+      "chapterTitle": "Vor Sonnenaufgang",
       "turkish": "servis",
       "german": [
         "Abholbus, Zubringer"
@@ -10663,7 +10663,7 @@ export default {
     {
       "id": "k36-v002",
       "chapter": 36,
-      "chapterTitle": "Kapitel 36",
+      "chapterTitle": "Vor Sonnenaufgang",
       "turkish": "iptal etmek",
       "german": [
         "absagen"
@@ -10684,7 +10684,7 @@ export default {
     {
       "id": "k36-v003",
       "chapter": 36,
-      "chapterTitle": "Kapitel 36",
+      "chapterTitle": "Vor Sonnenaufgang",
       "turkish": "inmek",
       "german": [
         "aussteigen"
@@ -10705,7 +10705,7 @@ export default {
     {
       "id": "k36-v004",
       "chapter": 36,
-      "chapterTitle": "Kapitel 36",
+      "chapterTitle": "Vor Sonnenaufgang",
       "turkish": "şart",
       "german": [
         "Bedingung"
@@ -10726,7 +10726,7 @@ export default {
     {
       "id": "k36-v005",
       "chapter": 36,
-      "chapterTitle": "Kapitel 36",
+      "chapterTitle": "Vor Sonnenaufgang",
       "turkish": "hazır",
       "german": [
         "bereit"
@@ -10747,7 +10747,7 @@ export default {
     {
       "id": "k36-v006",
       "chapter": 36,
-      "chapterTitle": "Kapitel 36",
+      "chapterTitle": "Vor Sonnenaufgang",
       "turkish": "mürettebat",
       "german": [
         "Besatzung"
@@ -10768,7 +10768,7 @@ export default {
     {
       "id": "k36-v007",
       "chapter": 36,
-      "chapterTitle": "Kapitel 36",
+      "chapterTitle": "Vor Sonnenaufgang",
       "turkish": "karanlık",
       "german": [
         "dunkel; Dunkelheit"
@@ -10789,7 +10789,7 @@ export default {
     {
       "id": "k36-v008",
       "chapter": 36,
-      "chapterTitle": "Kapitel 36",
+      "chapterTitle": "Vor Sonnenaufgang",
       "turkish": "binmek",
       "german": [
         "einsteigen"
@@ -10810,7 +10810,7 @@ export default {
     {
       "id": "k36-v009",
       "chapter": 36,
-      "chapterTitle": "Kapitel 36",
+      "chapterTitle": "Vor Sonnenaufgang",
       "turkish": "karar vermek",
       "german": [
         "entscheiden"
@@ -10831,7 +10831,7 @@ export default {
     {
       "id": "k36-v010",
       "chapter": 36,
-      "chapterTitle": "Kapitel 36",
+      "chapterTitle": "Vor Sonnenaufgang",
       "turkish": "uygun",
       "german": [
         "geeignet"
@@ -10852,7 +10852,7 @@ export default {
     {
       "id": "k36-v011",
       "chapter": 36,
-      "chapterTitle": "Kapitel 36",
+      "chapterTitle": "Vor Sonnenaufgang",
       "turkish": "kontrol etmek",
       "german": [
         "kontrollieren"
@@ -10873,7 +10873,7 @@ export default {
     {
       "id": "k36-v012",
       "chapter": 36,
-      "chapterTitle": "Kapitel 36",
+      "chapterTitle": "Vor Sonnenaufgang",
       "turkish": "kuvvetli",
       "german": [
         "kräftig, stark"
@@ -10894,7 +10894,7 @@ export default {
     {
       "id": "k36-v013",
       "chapter": 36,
-      "chapterTitle": "Kapitel 36",
+      "chapterTitle": "Vor Sonnenaufgang",
       "turkish": "pilot",
       "german": [
         "Pilot"
@@ -10915,7 +10915,7 @@ export default {
     {
       "id": "k36-v014",
       "chapter": 36,
-      "chapterTitle": "Kapitel 36",
+      "chapterTitle": "Vor Sonnenaufgang",
       "turkish": "sakin",
       "german": [
         "ruhig"
@@ -10936,7 +10936,7 @@ export default {
     {
       "id": "k36-v015",
       "chapter": 36,
-      "chapterTitle": "Kapitel 36",
+      "chapterTitle": "Vor Sonnenaufgang",
       "turkish": "güvenli",
       "german": [
         "sicher"
@@ -10957,7 +10957,7 @@ export default {
     {
       "id": "k36-v016",
       "chapter": 36,
-      "chapterTitle": "Kapitel 36",
+      "chapterTitle": "Vor Sonnenaufgang",
       "turkish": "gün doğumu",
       "german": [
         "Sonnenaufgang"
@@ -10978,7 +10978,7 @@ export default {
     {
       "id": "k36-v017",
       "chapter": 36,
-      "chapterTitle": "Kapitel 36",
+      "chapterTitle": "Vor Sonnenaufgang",
       "turkish": "yıldız",
       "german": [
         "Stern"
@@ -10999,7 +10999,7 @@ export default {
     {
       "id": "k36-v018",
       "chapter": 36,
-      "chapterTitle": "Kapitel 36",
+      "chapterTitle": "Vor Sonnenaufgang",
       "turkish": "beklemek",
       "german": [
         "warten"
@@ -11020,7 +11020,7 @@ export default {
     {
       "id": "k36-v019",
       "chapter": 36,
-      "chapterTitle": "Kapitel 36",
+      "chapterTitle": "Vor Sonnenaufgang",
       "turkish": "olursa",
       "german": [
         "wenn es geschieht"
@@ -11041,7 +11041,7 @@ export default {
     {
       "id": "k36-v020",
       "chapter": 36,
-      "chapterTitle": "Kapitel 36",
+      "chapterTitle": "Vor Sonnenaufgang",
       "turkish": "isterseniz",
       "german": [
         "wenn Sie möchten"
@@ -11062,7 +11062,7 @@ export default {
     {
       "id": "k36-v021",
       "chapter": 36,
-      "chapterTitle": "Kapitel 36",
+      "chapterTitle": "Vor Sonnenaufgang",
       "turkish": "eğer",
       "german": [
         "wenn, falls"
@@ -11083,7 +11083,7 @@ export default {
     {
       "id": "k36-v022",
       "chapter": 36,
-      "chapterTitle": "Kapitel 36",
+      "chapterTitle": "Vor Sonnenaufgang",
       "turkish": "hava durumu",
       "german": [
         "Wetterlage"
@@ -11104,7 +11104,7 @@ export default {
     {
       "id": "k37-v001",
       "chapter": 37,
-      "chapterTitle": "Kapitel 37",
+      "chapterTitle": "Über Kappadokien",
       "turkish": "manzara",
       "german": [
         "Aussicht"
@@ -11125,7 +11125,7 @@ export default {
     {
       "id": "k37-v002",
       "chapter": 37,
-      "chapterTitle": "Kapitel 37",
+      "chapterTitle": "Über Kappadokien",
       "turkish": "fark etmek",
       "german": [
         "bemerken"
@@ -11146,7 +11146,7 @@ export default {
     {
       "id": "k37-v003",
       "chapter": 37,
-      "chapterTitle": "Kapitel 37",
+      "chapterTitle": "Über Kappadokien",
       "turkish": "sıcak hava balonu",
       "german": [
         "Heißluftballon"
@@ -11167,7 +11167,7 @@ export default {
     {
       "id": "k37-v004",
       "chapter": 37,
-      "chapterTitle": "Kapitel 37",
+      "chapterTitle": "Über Kappadokien",
       "turkish": "gökyüzü",
       "german": [
         "Himmel"
@@ -11188,7 +11188,7 @@ export default {
     {
       "id": "k37-v005",
       "chapter": 37,
-      "chapterTitle": "Kapitel 37",
+      "chapterTitle": "Über Kappadokien",
       "turkish": "yükseklik",
       "german": [
         "Höhe"
@@ -11209,7 +11209,7 @@ export default {
     {
       "id": "k37-v006",
       "chapter": 37,
-      "chapterTitle": "Kapitel 37",
+      "chapterTitle": "Über Kappadokien",
       "turkish": "ufuk",
       "german": [
         "Horizont"
@@ -11230,7 +11230,7 @@ export default {
     {
       "id": "k37-v007",
       "chapter": 37,
-      "chapterTitle": "Kapitel 37",
+      "chapterTitle": "Über Kappadokien",
       "turkish": "sepet",
       "german": [
         "Korb"
@@ -11251,7 +11251,7 @@ export default {
     {
       "id": "k37-v008",
       "chapter": 37,
-      "chapterTitle": "Kapitel 37",
+      "chapterTitle": "Über Kappadokien",
       "turkish": "yukarıda",
       "german": [
         "oben"
@@ -11272,7 +11272,7 @@ export default {
     {
       "id": "k37-v009",
       "chapter": 37,
-      "chapterTitle": "Kapitel 37",
+      "chapterTitle": "Über Kappadokien",
       "turkish": "süzülmek",
       "german": [
         "schweben"
@@ -11293,7 +11293,7 @@ export default {
     {
       "id": "k37-v010",
       "chapter": 37,
-      "chapterTitle": "Kapitel 37",
+      "chapterTitle": "Über Kappadokien",
       "turkish": "uzaklaşmak",
       "german": [
         "sich entfernen"
@@ -11314,7 +11314,7 @@ export default {
     {
       "id": "k37-v011",
       "chapter": 37,
-      "chapterTitle": "Kapitel 37",
+      "chapterTitle": "Über Kappadokien",
       "turkish": "değmek",
       "german": [
         "sich lohnen; wert sein"
@@ -11335,7 +11335,7 @@ export default {
     {
       "id": "k37-v012",
       "chapter": 37,
-      "chapterTitle": "Kapitel 37",
+      "chapterTitle": "Über Kappadokien",
       "turkish": "yaklaşmak",
       "german": [
         "sich nähern"
@@ -11356,7 +11356,7 @@ export default {
     {
       "id": "k37-v013",
       "chapter": 37,
-      "chapterTitle": "Kapitel 37",
+      "chapterTitle": "Über Kappadokien",
       "turkish": "alçalmak",
       "german": [
         "sinken"
@@ -11377,7 +11377,7 @@ export default {
     {
       "id": "k37-v014",
       "chapter": 37,
-      "chapterTitle": "Kapitel 37",
+      "chapterTitle": "Über Kappadokien",
       "turkish": "güneşin doğuşu",
       "german": [
         "Sonnenaufgang"
@@ -11398,7 +11398,7 @@ export default {
     {
       "id": "k37-v015",
       "chapter": 37,
-      "chapterTitle": "Kapitel 37",
+      "chapterTitle": "Über Kappadokien",
       "turkish": "yükselmek",
       "german": [
         "steigen"
@@ -11419,7 +11419,7 @@ export default {
     {
       "id": "k37-v016",
       "chapter": 37,
-      "chapterTitle": "Kapitel 37",
+      "chapterTitle": "Über Kappadokien",
       "turkish": "sessiz",
       "german": [
         "still"
@@ -11440,7 +11440,7 @@ export default {
     {
       "id": "k37-v017",
       "chapter": 37,
-      "chapterTitle": "Kapitel 37",
+      "chapterTitle": "Über Kappadokien",
       "turkish": "vadi",
       "german": [
         "Tal"
@@ -11461,7 +11461,7 @@ export default {
     {
       "id": "k37-v018",
       "chapter": 37,
-      "chapterTitle": "Kapitel 37",
+      "chapterTitle": "Über Kappadokien",
       "turkish": "şaşırmak",
       "german": [
         "überrascht sein"
@@ -11482,7 +11482,7 @@ export default {
     {
       "id": "k37-v019",
       "chapter": 37,
-      "chapterTitle": "Kapitel 37",
+      "chapterTitle": "Über Kappadokien",
       "turkish": "aşağıda",
       "german": [
         "unten"
@@ -11503,7 +11503,7 @@ export default {
     {
       "id": "k37-v020",
       "chapter": 37,
-      "chapterTitle": "Kapitel 37",
+      "chapterTitle": "Über Kappadokien",
       "turkish": "unutulmaz",
       "german": [
         "unvergesslich"
@@ -11524,7 +11524,7 @@ export default {
     {
       "id": "k37-v021",
       "chapter": 37,
-      "chapterTitle": "Kapitel 37",
+      "chapterTitle": "Über Kappadokien",
       "turkish": "yukarıdan",
       "german": [
         "von oben"
@@ -11545,7 +11545,7 @@ export default {
     {
       "id": "k37-v022",
       "chapter": 37,
-      "chapterTitle": "Kapitel 37",
+      "chapterTitle": "Über Kappadokien",
       "turkish": "meğer",
       "german": [
         "wie sich herausstellt"
@@ -11566,7 +11566,7 @@ export default {
     {
       "id": "k38-v001",
       "chapter": 38,
-      "chapterTitle": "Kapitel 38",
+      "chapterTitle": "Ein letzter Abend in Göreme",
       "turkish": "veda",
       "german": [
         "Abschied"
@@ -11587,7 +11587,7 @@ export default {
     {
       "id": "k38-v002",
       "chapter": 38,
-      "chapterTitle": "Kapitel 38",
+      "chapterTitle": "Ein letzter Abend in Göreme",
       "turkish": "hatıra",
       "german": [
         "Andenken"
@@ -11608,7 +11608,7 @@ export default {
     {
       "id": "k38-v003",
       "chapter": 38,
-      "chapterTitle": "Kapitel 38",
+      "chapterTitle": "Ein letzter Abend in Göreme",
       "turkish": "teşekkür etmek",
       "german": [
         "danken"
@@ -11629,7 +11629,7 @@ export default {
     {
       "id": "k38-v004",
       "chapter": 38,
-      "chapterTitle": "Kapitel 38",
+      "chapterTitle": "Ein letzter Abend in Göreme",
       "turkish": "anı",
       "german": [
         "Erinnerung, Moment"
@@ -11650,7 +11650,7 @@ export default {
     {
       "id": "k38-v005",
       "chapter": 38,
-      "chapterTitle": "Kapitel 38",
+      "chapterTitle": "Ein letzter Abend in Göreme",
       "turkish": "tekrar",
       "german": [
         "erneut"
@@ -11671,7 +11671,7 @@ export default {
     {
       "id": "k38-v006",
       "chapter": 38,
-      "chapterTitle": "Kapitel 38",
+      "chapterTitle": "Ein letzter Abend in Göreme",
       "turkish": "ayrılmak",
       "german": [
         "fortgehen"
@@ -11692,7 +11692,7 @@ export default {
     {
       "id": "k38-v007",
       "chapter": 38,
-      "chapterTitle": "Kapitel 38",
+      "chapterTitle": "Ein letzter Abend in Göreme",
       "turkish": "fotoğraf",
       "german": [
         "Foto"
@@ -11713,7 +11713,7 @@ export default {
     {
       "id": "k38-v008",
       "chapter": 38,
-      "chapterTitle": "Kapitel 38",
+      "chapterTitle": "Ein letzter Abend in Göreme",
       "turkish": "misafirperverlik",
       "german": [
         "Gastfreundschaft"
@@ -11734,7 +11734,7 @@ export default {
     {
       "id": "k38-v009",
       "chapter": 38,
-      "chapterTitle": "Kapitel 38",
+      "chapterTitle": "Ein letzter Abend in Göreme",
       "turkish": "hediye",
       "german": [
         "Geschenk"
@@ -11755,7 +11755,7 @@ export default {
     {
       "id": "k38-v010",
       "chapter": 38,
-      "chapterTitle": "Kapitel 38",
+      "chapterTitle": "Ein letzter Abend in Göreme",
       "turkish": "yolunuz açık olsun",
       "german": [
         "gute Reise"
@@ -11776,7 +11776,7 @@ export default {
     {
       "id": "k38-v011",
       "chapter": 38,
-      "chapterTitle": "Kapitel 38",
+      "chapterTitle": "Ein letzter Abend in Göreme",
       "turkish": "umarım",
       "german": [
         "hoffentlich"
@@ -11797,7 +11797,7 @@ export default {
     {
       "id": "k38-v012",
       "chapter": 38,
-      "chapterTitle": "Kapitel 38",
+      "chapterTitle": "Ein letzter Abend in Göreme",
       "turkish": "son akşam",
       "german": [
         "letzter Abend"
@@ -11818,7 +11818,7 @@ export default {
     {
       "id": "k38-v013",
       "chapter": 38,
-      "chapterTitle": "Kapitel 38",
+      "chapterTitle": "Ein letzter Abend in Göreme",
       "turkish": "hatırlamak",
       "german": [
         "sich erinnern"
@@ -11839,7 +11839,7 @@ export default {
     {
       "id": "k38-v014",
       "chapter": 38,
-      "chapterTitle": "Kapitel 38",
+      "chapterTitle": "Ein letzter Abend in Göreme",
       "turkish": "memnun olmak",
       "german": [
         "sich freuen"
@@ -11860,7 +11860,7 @@ export default {
     {
       "id": "k38-v015",
       "chapter": 38,
-      "chapterTitle": "Kapitel 38",
+      "chapterTitle": "Ein letzter Abend in Göreme",
       "turkish": "vedalaşmak",
       "german": [
         "sich verabschieden"
@@ -11881,7 +11881,7 @@ export default {
     {
       "id": "k38-v016",
       "chapter": 38,
-      "chapterTitle": "Kapitel 38",
+      "chapterTitle": "Ein letzter Abend in Göreme",
       "turkish": "mutlaka",
       "german": [
         "unbedingt"
@@ -11902,7 +11902,7 @@ export default {
     {
       "id": "k38-v017",
       "chapter": 38,
-      "chapterTitle": "Kapitel 38",
+      "chapterTitle": "Ein letzter Abend in Göreme",
       "turkish": "unutmak",
       "german": [
         "vergessen"
@@ -11923,7 +11923,7 @@ export default {
     {
       "id": "k38-v018",
       "chapter": 38,
-      "chapterTitle": "Kapitel 38",
+      "chapterTitle": "Ein letzter Abend in Göreme",
       "turkish": "özlemek",
       "german": [
         "vermissen"
@@ -11944,7 +11944,7 @@ export default {
     {
       "id": "k38-v019",
       "chapter": 38,
-      "chapterTitle": "Kapitel 38",
+      "chapterTitle": "Ein letzter Abend in Göreme",
       "turkish": "belki",
       "german": [
         "vielleicht"
@@ -11965,7 +11965,7 @@ export default {
     {
       "id": "k38-v020",
       "chapter": 38,
-      "chapterTitle": "Kapitel 38",
+      "chapterTitle": "Ein letzter Abend in Göreme",
       "turkish": "keşke",
       "german": [
         "wenn doch"
@@ -11986,7 +11986,7 @@ export default {
     {
       "id": "k38-v021",
       "chapter": 38,
-      "chapterTitle": "Kapitel 38",
+      "chapterTitle": "Ein letzter Abend in Göreme",
       "turkish": "yine",
       "german": [
         "wieder"
@@ -12007,7 +12007,7 @@ export default {
     {
       "id": "k39-v001",
       "chapter": 39,
-      "chapterTitle": "Kapitel 39",
+      "chapterTitle": "Wieder in Istanbul",
       "turkish": "başlangıç",
       "german": [
         "Anfang"
@@ -12028,7 +12028,7 @@ export default {
     {
       "id": "k39-v002",
       "chapter": 39,
-      "chapterTitle": "Kapitel 39",
+      "chapterTitle": "Wieder in Istanbul",
       "turkish": "rahat",
       "german": [
         "entspannt"
@@ -12049,7 +12049,7 @@ export default {
     {
       "id": "k39-v003",
       "chapter": 39,
-      "chapterTitle": "Kapitel 39",
+      "chapterTitle": "Wieder in Istanbul",
       "turkish": "yeniden",
       "german": [
         "erneut"
@@ -12070,7 +12070,7 @@ export default {
     {
       "id": "k39-v004",
       "chapter": 39,
-      "chapterTitle": "Kapitel 39",
+      "chapterTitle": "Wieder in Istanbul",
       "turkish": "eskiden",
       "german": [
         "früher"
@@ -12091,7 +12091,7 @@ export default {
     {
       "id": "k39-v005",
       "chapter": 39,
-      "chapterTitle": "Kapitel 39",
+      "chapterTitle": "Wieder in Istanbul",
       "turkish": "artık",
       "german": [
         "inzwischen"
@@ -12112,7 +12112,7 @@ export default {
     {
       "id": "k39-v006",
       "chapter": 39,
-      "chapterTitle": "Kapitel 39",
+      "chapterTitle": "Wieder in Istanbul",
       "turkish": "dönüş",
       "german": [
         "Rückkehr"
@@ -12133,7 +12133,7 @@ export default {
     {
       "id": "k39-v007",
       "chapter": 39,
-      "chapterTitle": "Kapitel 39",
+      "chapterTitle": "Wieder in Istanbul",
       "turkish": "dönüş yolculuğu",
       "german": [
         "Rückreise"
@@ -12154,7 +12154,7 @@ export default {
     {
       "id": "k39-v008",
       "chapter": 39,
-      "chapterTitle": "Kapitel 39",
+      "chapterTitle": "Wieder in Istanbul",
       "turkish": "beri",
       "german": [
         "seit"
@@ -12175,7 +12175,7 @@ export default {
     {
       "id": "k39-v009",
       "chapter": 39,
-      "chapterTitle": "Kapitel 39",
+      "chapterTitle": "Wieder in Istanbul",
       "turkish": "üç gündür",
       "german": [
         "seit drei Tagen"
@@ -12196,7 +12196,7 @@ export default {
     {
       "id": "k39-v010",
       "chapter": 39,
-      "chapterTitle": "Kapitel 39",
+      "chapterTitle": "Wieder in Istanbul",
       "turkish": "bir haftadır",
       "german": [
         "seit einer Woche"
@@ -12217,7 +12217,7 @@ export default {
     {
       "id": "k39-v011",
       "chapter": 39,
-      "chapterTitle": "Kapitel 39",
+      "chapterTitle": "Wieder in Istanbul",
       "turkish": "geldiğimden beri",
       "german": [
         "seit ich gekommen bin"
@@ -12238,7 +12238,7 @@ export default {
     {
       "id": "k39-v012",
       "chapter": 39,
-      "chapterTitle": "Kapitel 39",
+      "chapterTitle": "Wieder in Istanbul",
       "turkish": "ne zamandan beri?",
       "german": [
         "seit wann?"
@@ -12259,7 +12259,7 @@ export default {
     {
       "id": "k39-v013",
       "chapter": 39,
-      "chapterTitle": "Kapitel 39",
+      "chapterTitle": "Wieder in Istanbul",
       "turkish": "gelişmek",
       "german": [
         "sich entwickeln"
@@ -12280,7 +12280,7 @@ export default {
     {
       "id": "k39-v014",
       "chapter": 39,
-      "chapterTitle": "Kapitel 39",
+      "chapterTitle": "Wieder in Istanbul",
       "turkish": "kendine güvenmek",
       "german": [
         "sich selbst vertrauen"
@@ -12301,7 +12301,7 @@ export default {
     {
       "id": "k39-v015",
       "chapter": 39,
-      "chapterTitle": "Kapitel 39",
+      "chapterTitle": "Wieder in Istanbul",
       "turkish": "değişmek",
       "german": [
         "sich verändern"
@@ -12322,7 +12322,7 @@ export default {
     {
       "id": "k39-v016",
       "chapter": 39,
-      "chapterTitle": "Kapitel 39",
+      "chapterTitle": "Wieder in Istanbul",
       "turkish": "fark",
       "german": [
         "Unterschied"
@@ -12343,7 +12343,7 @@ export default {
     {
       "id": "k39-v017",
       "chapter": 39,
-      "chapterTitle": "Kapitel 39",
+      "chapterTitle": "Wieder in Istanbul",
       "turkish": "tanıdık",
       "german": [
         "vertraut"
@@ -12364,7 +12364,7 @@ export default {
     {
       "id": "k39-v018",
       "chapter": 39,
-      "chapterTitle": "Kapitel 39",
+      "chapterTitle": "Wieder in Istanbul",
       "turkish": "ilerlemek",
       "german": [
         "vorankommen"
@@ -12385,7 +12385,7 @@ export default {
     {
       "id": "k39-v019",
       "chapter": 39,
-      "chapterTitle": "Kapitel 39",
+      "chapterTitle": "Wieder in Istanbul",
       "turkish": "önceden",
       "german": [
         "vorher"
@@ -12406,7 +12406,7 @@ export default {
     {
       "id": "k39-v020",
       "chapter": 39,
-      "chapterTitle": "Kapitel 39",
+      "chapterTitle": "Wieder in Istanbul",
       "turkish": "ilk defa",
       "german": [
         "zum ersten Mal"
@@ -12427,7 +12427,7 @@ export default {
     {
       "id": "k40-v001",
       "chapter": 40,
-      "chapterTitle": "Kapitel 40",
+      "chapterTitle": "Ein Tag auf Büyükada",
       "turkish": "iskeleye yanaşmak",
       "german": [
         "am Anleger anlegen"
@@ -12448,7 +12448,7 @@ export default {
     {
       "id": "k40-v002",
       "chapter": 40,
-      "chapterTitle": "Kapitel 40",
+      "chapterTitle": "Ein Tag auf Büyükada",
       "turkish": "iskele",
       "german": [
         "Anleger"
@@ -12469,7 +12469,7 @@ export default {
     {
       "id": "k40-v003",
       "chapter": 40,
-      "chapterTitle": "Kapitel 40",
+      "chapterTitle": "Ein Tag auf Büyükada",
       "turkish": "kalabalık",
       "german": [
         "belebt; Menschenmenge"
@@ -12490,7 +12490,7 @@ export default {
     {
       "id": "k40-v004",
       "chapter": 40,
-      "chapterTitle": "Kapitel 40",
+      "chapterTitle": "Ein Tag auf Büyükada",
       "turkish": "Büyükada",
       "german": [
         "Büyükada"
@@ -12511,7 +12511,7 @@ export default {
     {
       "id": "k40-v005",
       "chapter": 40,
-      "chapterTitle": "Kapitel 40",
+      "chapterTitle": "Ein Tag auf Büyükada",
       "turkish": "doğrudan",
       "german": [
         "direkt"
@@ -12532,7 +12532,7 @@ export default {
     {
       "id": "k40-v006",
       "chapter": 40,
-      "chapterTitle": "Kapitel 40",
+      "chapterTitle": "Ein Tag auf Büyükada",
       "turkish": "bisiklet kiralamak",
       "german": [
         "ein Fahrrad mieten"
@@ -12553,7 +12553,7 @@ export default {
     {
       "id": "k40-v007",
       "chapter": 40,
-      "chapterTitle": "Kapitel 40",
+      "chapterTitle": "Ein Tag auf Büyükada",
       "turkish": "vapur",
       "german": [
         "Fähre"
@@ -12574,7 +12574,7 @@ export default {
     {
       "id": "k40-v008",
       "chapter": 40,
-      "chapterTitle": "Kapitel 40",
+      "chapterTitle": "Ein Tag auf Büyükada",
       "turkish": "bisiklet",
       "german": [
         "Fahrrad"
@@ -12595,7 +12595,7 @@ export default {
     {
       "id": "k40-v009",
       "chapter": 40,
-      "chapterTitle": "Kapitel 40",
+      "chapterTitle": "Ein Tag auf Büyükada",
       "turkish": "sefer",
       "german": [
         "Fahrt, Verbindung"
@@ -12616,7 +12616,7 @@ export default {
     {
       "id": "k40-v010",
       "chapter": 40,
-      "chapterTitle": "Kapitel 40",
+      "chapterTitle": "Ein Tag auf Büyükada",
       "turkish": "giden",
       "german": [
         "gehend, fahrend"
@@ -12637,7 +12637,7 @@ export default {
     {
       "id": "k40-v011",
       "chapter": 40,
-      "chapterTitle": "Kapitel 40",
+      "chapterTitle": "Ein Tag auf Büyükada",
       "turkish": "ada",
       "german": [
         "Insel"
@@ -12658,7 +12658,7 @@ export default {
     {
       "id": "k40-v012",
       "chapter": 40,
-      "chapterTitle": "Kapitel 40",
+      "chapterTitle": "Ein Tag auf Büyükada",
       "turkish": "ada turu",
       "german": [
         "Inselrundfahrt"
@@ -12679,7 +12679,7 @@ export default {
     {
       "id": "k40-v013",
       "chapter": 40,
-      "chapterTitle": "Kapitel 40",
+      "chapterTitle": "Ein Tag auf Büyükada",
       "turkish": "çam ağacı",
       "german": [
         "Kiefer"
@@ -12700,7 +12700,7 @@ export default {
     {
       "id": "k40-v014",
       "chapter": 40,
-      "chapterTitle": "Kapitel 40",
+      "chapterTitle": "Ein Tag auf Büyükada",
       "turkish": "gelen",
       "german": [
         "kommend"
@@ -12721,7 +12721,7 @@ export default {
     {
       "id": "k40-v015",
       "chapter": 40,
-      "chapterTitle": "Kapitel 40",
+      "chapterTitle": "Ein Tag auf Büyükada",
       "turkish": "denizi gören",
       "german": [
         "mit Meerblick"
@@ -12742,7 +12742,7 @@ export default {
     {
       "id": "k40-v016",
       "chapter": 40,
-      "chapterTitle": "Kapitel 40",
+      "chapterTitle": "Ein Tag auf Büyükada",
       "turkish": "konuşan",
       "german": [
         "sprechend"
@@ -12763,7 +12763,7 @@ export default {
     {
       "id": "k40-v017",
       "chapter": 40,
-      "chapterTitle": "Kapitel 40",
+      "chapterTitle": "Ein Tag auf Büyükada",
       "turkish": "yokuş",
       "german": [
         "Steigung"
@@ -12784,7 +12784,7 @@ export default {
     {
       "id": "k40-v018",
       "chapter": 40,
-      "chapterTitle": "Kapitel 40",
+      "chapterTitle": "Ein Tag auf Büyükada",
       "turkish": "sessizlik",
       "german": [
         "Stille"
@@ -12805,7 +12805,7 @@ export default {
     {
       "id": "k40-v019",
       "chapter": 40,
-      "chapterTitle": "Kapitel 40",
+      "chapterTitle": "Ein Tag auf Büyükada",
       "turkish": "sahil",
       "german": [
         "Ufer"
@@ -12826,7 +12826,7 @@ export default {
     {
       "id": "k40-v020",
       "chapter": 40,
-      "chapterTitle": "Kapitel 40",
+      "chapterTitle": "Ein Tag auf Büyükada",
       "turkish": "köşk",
       "german": [
         "Villa, Herrenhaus"
@@ -12847,7 +12847,7 @@ export default {
     {
       "id": "k40-v021",
       "chapter": 40,
-      "chapterTitle": "Kapitel 40",
+      "chapterTitle": "Ein Tag auf Büyükada",
       "turkish": "tahminî",
       "german": [
         "voraussichtlich"
@@ -12868,7 +12868,7 @@ export default {
     {
       "id": "k40-v022",
       "chapter": 40,
-      "chapterTitle": "Kapitel 40",
+      "chapterTitle": "Ein Tag auf Büyükada",
       "turkish": "bekleyen",
       "german": [
         "wartend"
@@ -12889,7 +12889,7 @@ export default {
     {
       "id": "k41-v001",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "alerji",
       "german": [
         "Allergie"
@@ -12910,7 +12910,7 @@ export default {
     {
       "id": "k41-v002",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "kullanmak",
       "german": [
         "anwenden"
@@ -12931,7 +12931,7 @@ export default {
     {
       "id": "k41-v003",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "eczane",
       "german": [
         "Apotheke"
@@ -12952,7 +12952,7 @@ export default {
     {
       "id": "k41-v004",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "eczacı",
       "german": [
         "Apotheker"
@@ -12973,7 +12973,7 @@ export default {
     {
       "id": "k41-v005",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "dikkatli",
       "german": [
         "aufmerksam"
@@ -12994,7 +12994,7 @@ export default {
     {
       "id": "k41-v006",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "karın",
       "german": [
         "Bauch"
@@ -13015,7 +13015,7 @@ export default {
     {
       "id": "k41-v007",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "şikâyet",
       "german": [
         "Beschwerde"
@@ -13036,7 +13036,7 @@ export default {
     {
       "id": "k41-v008",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "ateş",
       "german": [
         "Fieber"
@@ -13057,7 +13057,7 @@ export default {
     {
       "id": "k41-v009",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "boğaz",
       "german": [
         "Hals"
@@ -13078,7 +13078,7 @@ export default {
     {
       "id": "k41-v010",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "öksürmek",
       "german": [
         "husten"
@@ -13099,7 +13099,7 @@ export default {
     {
       "id": "k41-v011",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "baş",
       "german": [
         "Kopf"
@@ -13120,7 +13120,7 @@ export default {
     {
       "id": "k41-v012",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "kez",
       "german": [
         "Mal"
@@ -13141,7 +13141,7 @@ export default {
     {
       "id": "k41-v013",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "ilaç",
       "german": [
         "Medikament"
@@ -13162,7 +13162,7 @@ export default {
     {
       "id": "k41-v014",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "yemekten sonra",
       "german": [
         "nach dem Essen"
@@ -13183,7 +13183,7 @@ export default {
     {
       "id": "k41-v015",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "günde",
       "german": [
         "pro Tag"
@@ -13204,7 +13204,7 @@ export default {
     {
       "id": "k41-v016",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "sırt",
       "german": [
         "Rücken"
@@ -13225,7 +13225,7 @@ export default {
     {
       "id": "k41-v017",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "ağrımak",
       "german": [
         "schmerzen"
@@ -13246,7 +13246,7 @@ export default {
     {
       "id": "k41-v018",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "dünden beri",
       "german": [
         "seit gestern"
@@ -13267,7 +13267,7 @@ export default {
     {
       "id": "k41-v019",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "şurup",
       "german": [
         "Sirup"
@@ -13288,7 +13288,7 @@ export default {
     {
       "id": "k41-v020",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "tablet",
       "german": [
         "Tablette"
@@ -13309,7 +13309,7 @@ export default {
     {
       "id": "k41-v021",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "geçmek",
       "german": [
         "vergehen"
@@ -13330,7 +13330,7 @@ export default {
     {
       "id": "k41-v022",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "yemekten önce",
       "german": [
         "vor dem Essen"
@@ -13351,7 +13351,7 @@ export default {
     {
       "id": "k41-v023",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "diş",
       "german": [
         "Zahn"
@@ -13372,7 +13372,7 @@ export default {
     {
       "id": "k41-v024",
       "chapter": 41,
-      "chapterTitle": "Kapitel 41",
+      "chapterTitle": "In der Apotheke",
       "turkish": "doktora gitmek",
       "german": [
         "zum Arzt gehen"
@@ -13393,7 +13393,7 @@ export default {
     {
       "id": "k42-v001",
       "chapter": 42,
-      "chapterTitle": "Kapitel 42",
+      "chapterTitle": "Geschenke für zu Hause",
       "turkish": "seçim",
       "german": [
         "Auswahl"
@@ -13414,7 +13414,7 @@ export default {
     {
       "id": "k42-v002",
       "chapter": 42,
-      "chapterTitle": "Kapitel 42",
+      "chapterTitle": "Geschenke für zu Hause",
       "turkish": "bu kadar",
       "german": [
         "das ist alles"
@@ -13435,7 +13435,7 @@ export default {
     {
       "id": "k42-v003",
       "chapter": 42,
-      "chapterTitle": "Kapitel 42",
+      "chapterTitle": "Geschenke für zu Hause",
       "turkish": "eş",
       "german": [
         "Ehepartner"
@@ -13456,7 +13456,7 @@ export default {
     {
       "id": "k42-v004",
       "chapter": 42,
-      "chapterTitle": "Kapitel 42",
+      "chapterTitle": "Geschenke für zu Hause",
       "turkish": "paketlemek",
       "german": [
         "einpacken"
@@ -13477,7 +13477,7 @@ export default {
     {
       "id": "k42-v005",
       "chapter": 42,
-      "chapterTitle": "Kapitel 42",
+      "chapterTitle": "Geschenke für zu Hause",
       "turkish": "tavsiye etmek",
       "german": [
         "empfehlen"
@@ -13498,7 +13498,7 @@ export default {
     {
       "id": "k42-v006",
       "chapter": 42,
-      "chapterTitle": "Kapitel 42",
+      "chapterTitle": "Geschenke für zu Hause",
       "turkish": "tavsiye",
       "german": [
         "Empfehlung"
@@ -13519,7 +13519,7 @@ export default {
     {
       "id": "k42-v007",
       "chapter": 42,
-      "chapterTitle": "Kapitel 42",
+      "chapterTitle": "Geschenke für zu Hause",
       "turkish": "hatıra",
       "german": [
         "Erinnerung, Andenken"
@@ -13540,7 +13540,7 @@ export default {
     {
       "id": "k42-v008",
       "chapter": 42,
-      "chapterTitle": "Kapitel 42",
+      "chapterTitle": "Geschenke für zu Hause",
       "turkish": "aile",
       "german": [
         "Familie"
@@ -13561,7 +13561,7 @@ export default {
     {
       "id": "k42-v009",
       "chapter": 42,
-      "chapterTitle": "Kapitel 42",
+      "chapterTitle": "Geschenke für zu Hause",
       "turkish": "arkadaş",
       "german": [
         "Freund"
@@ -13582,7 +13582,7 @@ export default {
     {
       "id": "k42-v010",
       "chapter": 42,
-      "chapterTitle": "Kapitel 42",
+      "chapterTitle": "Geschenke für zu Hause",
       "turkish": "için",
       "german": [
         "für; um zu"
@@ -13603,7 +13603,7 @@ export default {
     {
       "id": "k42-v011",
       "chapter": 42,
-      "chapterTitle": "Kapitel 42",
+      "chapterTitle": "Geschenke für zu Hause",
       "turkish": "hediye",
       "german": [
         "Geschenk"
@@ -13624,7 +13624,7 @@ export default {
     {
       "id": "k42-v012",
       "chapter": 42,
-      "chapterTitle": "Kapitel 42",
+      "chapterTitle": "Geschenke für zu Hause",
       "turkish": "ayrı ayrı",
       "german": [
         "getrennt, einzeln"
@@ -13645,7 +13645,7 @@ export default {
     {
       "id": "k42-v013",
       "chapter": 42,
-      "chapterTitle": "Kapitel 42",
+      "chapterTitle": "Geschenke für zu Hause",
       "turkish": "baharat",
       "german": [
         "Gewürz"
@@ -13666,7 +13666,7 @@ export default {
     {
       "id": "k42-v014",
       "chapter": 42,
-      "chapterTitle": "Kapitel 42",
+      "chapterTitle": "Geschenke für zu Hause",
       "turkish": "çini",
       "german": [
         "glasierte Keramik"
@@ -13687,7 +13687,7 @@ export default {
     {
       "id": "k42-v015",
       "chapter": 42,
-      "chapterTitle": "Kapitel 42",
+      "chapterTitle": "Geschenke für zu Hause",
       "turkish": "el yapımı",
       "german": [
         "handgemacht"
@@ -13708,7 +13708,7 @@ export default {
     {
       "id": "k42-v016",
       "chapter": 42,
-      "chapterTitle": "Kapitel 42",
+      "chapterTitle": "Geschenke für zu Hause",
       "turkish": "desen",
       "german": [
         "Muster"
@@ -13729,7 +13729,7 @@ export default {
     {
       "id": "k42-v017",
       "chapter": 42,
-      "chapterTitle": "Kapitel 42",
+      "chapterTitle": "Geschenke für zu Hause",
       "turkish": "başka bir şey",
       "german": [
         "noch etwas anderes"
@@ -13750,7 +13750,7 @@ export default {
     {
       "id": "k42-v018",
       "chapter": 42,
-      "chapterTitle": "Kapitel 42",
+      "chapterTitle": "Geschenke für zu Hause",
       "turkish": "uygun",
       "german": [
         "passend"
@@ -13771,7 +13771,7 @@ export default {
     {
       "id": "k42-v019",
       "chapter": 42,
-      "chapterTitle": "Kapitel 42",
+      "chapterTitle": "Geschenke für zu Hause",
       "turkish": "kâse",
       "german": [
         "Schale"
@@ -13792,7 +13792,7 @@ export default {
     {
       "id": "k42-v020",
       "chapter": 42,
-      "chapterTitle": "Kapitel 42",
+      "chapterTitle": "Geschenke für zu Hause",
       "turkish": "karar vermek",
       "german": [
         "sich entscheiden"
@@ -13813,7 +13813,7 @@ export default {
     {
       "id": "k42-v021",
       "chapter": 42,
-      "chapterTitle": "Kapitel 42",
+      "chapterTitle": "Geschenke für zu Hause",
       "turkish": "hatırlamak",
       "german": [
         "sich erinnern"
@@ -13834,7 +13834,7 @@ export default {
     {
       "id": "k42-v022",
       "chapter": 42,
-      "chapterTitle": "Kapitel 42",
+      "chapterTitle": "Geschenke für zu Hause",
       "turkish": "lale",
       "german": [
         "Tulpe"
@@ -13855,7 +13855,7 @@ export default {
     {
       "id": "k42-v023",
       "chapter": 42,
-      "chapterTitle": "Kapitel 42",
+      "chapterTitle": "Geschenke für zu Hause",
       "turkish": "kırılabilir",
       "german": [
         "zerbrechlich"
@@ -13876,7 +13876,7 @@ export default {
     {
       "id": "k43-v001",
       "chapter": 43,
-      "chapterTitle": "Kapitel 43",
+      "chapterTitle": "Ein Gespräch ohne Vorbereitung",
       "turkish": "yorucu",
       "german": [
         "anstrengend"
@@ -13897,7 +13897,7 @@ export default {
     {
       "id": "k43-v002",
       "chapter": 43,
-      "chapterTitle": "Kapitel 43",
+      "chapterTitle": "Ein Gespräch ohne Vorbereitung",
       "turkish": "tarif etmek",
       "german": [
         "beschreiben"
@@ -13918,7 +13918,7 @@ export default {
     {
       "id": "k43-v003",
       "chapter": 43,
-      "chapterTitle": "Kapitel 43",
+      "chapterTitle": "Ein Gespräch ohne Vorbereitung",
       "turkish": "sence",
       "german": [
         "deiner Meinung nach"
@@ -13939,7 +13939,7 @@ export default {
     {
       "id": "k43-v004",
       "chapter": 43,
-      "chapterTitle": "Kapitel 43",
+      "chapterTitle": "Ein Gespräch ohne Vorbereitung",
       "turkish": "gerçek",
       "german": [
         "echt, wirklich"
@@ -13960,7 +13960,7 @@ export default {
     {
       "id": "k43-v005",
       "chapter": 43,
-      "chapterTitle": "Kapitel 43",
+      "chapterTitle": "Ein Gespräch ohne Vorbereitung",
       "turkish": "aslında",
       "german": [
         "eigentlich"
@@ -13981,7 +13981,7 @@ export default {
     {
       "id": "k43-v006",
       "chapter": 43,
-      "chapterTitle": "Kapitel 43",
+      "chapterTitle": "Ein Gespräch ohne Vorbereitung",
       "turkish": "kusursuz",
       "german": [
         "fehlerfrei"
@@ -14002,7 +14002,7 @@ export default {
     {
       "id": "k43-v007",
       "chapter": 43,
-      "chapterTitle": "Kapitel 43",
+      "chapterTitle": "Ein Gespräch ohne Vorbereitung",
       "turkish": "devam etmek",
       "german": [
         "fortsetzen"
@@ -14023,7 +14023,7 @@ export default {
     {
       "id": "k43-v008",
       "chapter": 43,
-      "chapterTitle": "Kapitel 43",
+      "chapterTitle": "Ein Gespräch ohne Vorbereitung",
       "turkish": "sizce",
       "german": [
         "Ihrer Meinung nach"
@@ -14044,7 +14044,7 @@ export default {
     {
       "id": "k43-v009",
       "chapter": 43,
-      "chapterTitle": "Kapitel 43",
+      "chapterTitle": "Ein Gespräch ohne Vorbereitung",
       "turkish": "haklı",
       "german": [
         "im Recht"
@@ -14065,7 +14065,7 @@ export default {
     {
       "id": "k43-v010",
       "chapter": 43,
-      "chapterTitle": "Kapitel 43",
+      "chapterTitle": "Ein Gespräch ohne Vorbereitung",
       "turkish": "bir bakıma",
       "german": [
         "in gewisser Weise"
@@ -14086,7 +14086,7 @@ export default {
     {
       "id": "k43-v011",
       "chapter": 43,
-      "chapterTitle": "Kapitel 43",
+      "chapterTitle": "Ein Gespräch ohne Vorbereitung",
       "turkish": "canlı",
       "german": [
         "lebendig"
@@ -14107,7 +14107,7 @@ export default {
     {
       "id": "k43-v012",
       "chapter": 43,
-      "chapterTitle": "Kapitel 43",
+      "chapterTitle": "Ein Gespräch ohne Vorbereitung",
       "turkish": "bana göre",
       "german": [
         "meiner Ansicht nach"
@@ -14128,7 +14128,7 @@ export default {
     {
       "id": "k43-v013",
       "chapter": 43,
-      "chapterTitle": "Kapitel 43",
+      "chapterTitle": "Ein Gespräch ohne Vorbereitung",
       "turkish": "bence",
       "german": [
         "meiner Meinung nach"
@@ -14149,7 +14149,7 @@ export default {
     {
       "id": "k43-v014",
       "chapter": 43,
-      "chapterTitle": "Kapitel 43",
+      "chapterTitle": "Ein Gespräch ohne Vorbereitung",
       "turkish": "fikir",
       "german": [
         "Meinung, Idee"
@@ -14170,7 +14170,7 @@ export default {
     {
       "id": "k43-v015",
       "chapter": 43,
-      "chapterTitle": "Kapitel 43",
+      "chapterTitle": "Ein Gespräch ohne Vorbereitung",
       "turkish": "merak etmek",
       "german": [
         "neugierig sein"
@@ -14191,7 +14191,7 @@ export default {
     {
       "id": "k43-v016",
       "chapter": 43,
-      "chapterTitle": "Kapitel 43",
+      "chapterTitle": "Ein Gespräch ohne Vorbereitung",
       "turkish": "sakin",
       "german": [
         "ruhig"
@@ -14212,7 +14212,7 @@ export default {
     {
       "id": "k43-v017",
       "chapter": 43,
-      "chapterTitle": "Kapitel 43",
+      "chapterTitle": "Ein Gespräch ohne Vorbereitung",
       "turkish": "değişmek",
       "german": [
         "sich verändern"
@@ -14233,7 +14233,7 @@ export default {
     {
       "id": "k43-v018",
       "chapter": 43,
-      "chapterTitle": "Kapitel 43",
+      "chapterTitle": "Ein Gespräch ohne Vorbereitung",
       "turkish": "kısmen",
       "german": [
         "teilweise"
@@ -14254,7 +14254,7 @@ export default {
     {
       "id": "k43-v019",
       "chapter": 43,
-      "chapterTitle": "Kapitel 43",
+      "chapterTitle": "Ein Gespräch ohne Vorbereitung",
       "turkish": "belki",
       "german": [
         "vielleicht"
@@ -14275,7 +14275,7 @@ export default {
     {
       "id": "k43-v020",
       "chapter": 43,
-      "chapterTitle": "Kapitel 43",
+      "chapterTitle": "Ein Gespräch ohne Vorbereitung",
       "turkish": "kelime",
       "german": [
         "Wort"
@@ -14296,7 +14296,7 @@ export default {
     {
       "id": "k43-v021",
       "chapter": 43,
-      "chapterTitle": "Kapitel 43",
+      "chapterTitle": "Ein Gespräch ohne Vorbereitung",
       "turkish": "katılmak",
       "german": [
         "zustimmen; teilnehmen"
@@ -14317,7 +14317,7 @@ export default {
     {
       "id": "k44-v001",
       "chapter": 44,
-      "chapterTitle": "Kapitel 44",
+      "chapterTitle": "Der letzte Abend in Istanbul",
       "turkish": "fark etmek",
       "german": [
         "bemerken"
@@ -14338,7 +14338,7 @@ export default {
     {
       "id": "k44-v002",
       "chapter": 44,
-      "chapterTitle": "Kapitel 44",
+      "chapterTitle": "Der letzte Abend in Istanbul",
       "turkish": "görüşmek üzere",
       "german": [
         "bis zum Wiedersehen"
@@ -14359,7 +14359,7 @@ export default {
     {
       "id": "k44-v003",
       "chapter": 44,
-      "chapterTitle": "Kapitel 44",
+      "chapterTitle": "Der letzte Abend in Istanbul",
       "turkish": "sürdürmek",
       "german": [
         "fortführen"
@@ -14380,7 +14380,7 @@ export default {
     {
       "id": "k44-v004",
       "chapter": 44,
-      "chapterTitle": "Kapitel 44",
+      "chapterTitle": "Der letzte Abend in Istanbul",
       "turkish": "alışkanlık",
       "german": [
         "Gewohnheit"
@@ -14401,7 +14401,7 @@ export default {
     {
       "id": "k44-v005",
       "chapter": 44,
-      "chapterTitle": "Kapitel 44",
+      "chapterTitle": "Der letzte Abend in Istanbul",
       "turkish": "genellikle",
       "german": [
         "gewöhnlich"
@@ -14422,7 +14422,7 @@ export default {
     {
       "id": "k44-v006",
       "chapter": 44,
-      "chapterTitle": "Kapitel 44",
+      "chapterTitle": "Der letzte Abend in Istanbul",
       "turkish": "sık sık",
       "german": [
         "häufig"
@@ -14443,7 +14443,7 @@ export default {
     {
       "id": "k44-v007",
       "chapter": 44,
-      "chapterTitle": "Kapitel 44",
+      "chapterTitle": "Der letzte Abend in Istanbul",
       "turkish": "gelirim",
       "german": [
         "ich komme gewöhnlich/wieder"
@@ -14464,7 +14464,7 @@ export default {
     {
       "id": "k44-v008",
       "chapter": 44,
-      "chapterTitle": "Kapitel 44",
+      "chapterTitle": "Der letzte Abend in Istanbul",
       "turkish": "okurum",
       "german": [
         "ich lese gewöhnlich"
@@ -14485,7 +14485,7 @@ export default {
     {
       "id": "k44-v009",
       "chapter": 44,
-      "chapterTitle": "Kapitel 44",
+      "chapterTitle": "Der letzte Abend in Istanbul",
       "turkish": "yaparım",
       "german": [
         "ich mache gewöhnlich"
@@ -14506,7 +14506,7 @@ export default {
     {
       "id": "k44-v010",
       "chapter": 44,
-      "chapterTitle": "Kapitel 44",
+      "chapterTitle": "Der letzte Abend in Istanbul",
       "turkish": "severim",
       "german": [
         "ich mag"
@@ -14527,7 +14527,7 @@ export default {
     {
       "id": "k44-v011",
       "chapter": 44,
-      "chapterTitle": "Kapitel 44",
+      "chapterTitle": "Der letzte Abend in Istanbul",
       "turkish": "içerim",
       "german": [
         "ich trinke gewöhnlich"
@@ -14548,7 +14548,7 @@ export default {
     {
       "id": "k44-v012",
       "chapter": 44,
-      "chapterTitle": "Kapitel 44",
+      "chapterTitle": "Der letzte Abend in Istanbul",
       "turkish": "unutmam",
       "german": [
         "ich vergesse nicht"
@@ -14569,7 +14569,7 @@ export default {
     {
       "id": "k44-v013",
       "chapter": 44,
-      "chapterTitle": "Kapitel 44",
+      "chapterTitle": "Der letzte Abend in Istanbul",
       "turkish": "her zaman",
       "german": [
         "immer"
@@ -14590,7 +14590,7 @@ export default {
     {
       "id": "k44-v014",
       "chapter": 44,
-      "chapterTitle": "Kapitel 44",
+      "chapterTitle": "Der letzte Abend in Istanbul",
       "turkish": "bazen",
       "german": [
         "manchmal"
@@ -14611,7 +14611,7 @@ export default {
     {
       "id": "k44-v015",
       "chapter": 44,
-      "chapterTitle": "Kapitel 44",
+      "chapterTitle": "Der letzte Abend in Istanbul",
       "turkish": "yanında götürmek",
       "german": [
         "mitnehmen"
@@ -14632,7 +14632,7 @@ export default {
     {
       "id": "k44-v016",
       "chapter": 44,
-      "chapterTitle": "Kapitel 44",
+      "chapterTitle": "Der letzte Abend in Istanbul",
       "turkish": "yolunuz açık olsun",
       "german": [
         "möge Ihr Weg offen sein"
@@ -14653,7 +14653,7 @@ export default {
     {
       "id": "k44-v017",
       "chapter": 44,
-      "chapterTitle": "Kapitel 44",
+      "chapterTitle": "Der letzte Abend in Istanbul",
       "turkish": "cesaret",
       "german": [
         "Mut"
@@ -14674,7 +14674,7 @@ export default {
     {
       "id": "k44-v018",
       "chapter": 44,
-      "chapterTitle": "Kapitel 44",
+      "chapterTitle": "Der letzte Abend in Istanbul",
       "turkish": "henüz",
       "german": [
         "noch, bislang"
@@ -14695,7 +14695,7 @@ export default {
     {
       "id": "k44-v019",
       "chapter": 44,
-      "chapterTitle": "Kapitel 44",
+      "chapterTitle": "Der letzte Abend in Istanbul",
       "turkish": "artık",
       "german": [
         "nun, inzwischen"
@@ -14716,7 +14716,7 @@ export default {
     {
       "id": "k44-v020",
       "chapter": 44,
-      "chapterTitle": "Kapitel 44",
+      "chapterTitle": "Der letzte Abend in Istanbul",
       "turkish": "nadiren",
       "german": [
         "selten"
@@ -14737,7 +14737,7 @@ export default {
     {
       "id": "k44-v021",
       "chapter": 44,
-      "chapterTitle": "Kapitel 44",
+      "chapterTitle": "Der letzte Abend in Istanbul",
       "turkish": "söz vermek",
       "german": [
         "versprechen"
@@ -14758,7 +14758,7 @@ export default {
     {
       "id": "k44-v022",
       "chapter": 44,
-      "chapterTitle": "Kapitel 44",
+      "chapterTitle": "Der letzte Abend in Istanbul",
       "turkish": "geride bırakmak",
       "german": [
         "zurücklassen"
@@ -14779,7 +14779,7 @@ export default {
     {
       "id": "k45-v001",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "cevap",
       "german": [
         "Antwort"
@@ -14800,7 +14800,7 @@ export default {
     {
       "id": "k45-v002",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "cevap vermek",
       "german": [
         "antworten"
@@ -14821,7 +14821,7 @@ export default {
     {
       "id": "k45-v003",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "görev",
       "german": [
         "Aufgabe"
@@ -14842,7 +14842,7 @@ export default {
     {
       "id": "k45-v004",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "yeterli",
       "german": [
         "ausreichend"
@@ -14863,7 +14863,7 @@ export default {
     {
       "id": "k45-v005",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "anlam",
       "german": [
         "Bedeutung"
@@ -14884,7 +14884,7 @@ export default {
     {
       "id": "k45-v006",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "karşılaşmak",
       "german": [
         "begegnen"
@@ -14905,7 +14905,7 @@ export default {
     {
       "id": "k45-v007",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "teşekkür etmek",
       "german": [
         "danken"
@@ -14926,7 +14926,7 @@ export default {
     {
       "id": "k45-v008",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "ait olmak",
       "german": [
         "dazugehören"
@@ -14947,7 +14947,7 @@ export default {
     {
       "id": "k45-v009",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "hatırlatmak",
       "german": [
         "erinnern"
@@ -14968,7 +14968,7 @@ export default {
     {
       "id": "k45-v010",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "yabancı",
       "german": [
         "Fremder"
@@ -14989,7 +14989,7 @@ export default {
     {
       "id": "k45-v011",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "sessizce",
       "german": [
         "leise"
@@ -15010,7 +15010,7 @@ export default {
     {
       "id": "k45-v012",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "yolcu",
       "german": [
         "Reisender"
@@ -15031,7 +15031,7 @@ export default {
     {
       "id": "k45-v013",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "anahtar",
       "german": [
         "Schlüssel"
@@ -15052,7 +15052,7 @@ export default {
     {
       "id": "k45-v014",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "hatırlamak",
       "german": [
         "sich erinnern"
@@ -15073,7 +15073,7 @@ export default {
     {
       "id": "k45-v015",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "yansımak",
       "german": [
         "sich spiegeln"
@@ -15094,7 +15094,7 @@ export default {
     {
       "id": "k45-v016",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "cesaret etmek",
       "german": [
         "sich trauen"
@@ -15115,7 +15115,7 @@ export default {
     {
       "id": "k45-v017",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "ses",
       "german": [
         "Stimme, Laut"
@@ -15136,7 +15136,7 @@ export default {
     {
       "id": "k45-v018",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "taşımak",
       "german": [
         "tragen"
@@ -15157,7 +15157,7 @@ export default {
     {
       "id": "k45-v019",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "tercüme etmek",
       "german": [
         "übersetzen"
@@ -15178,7 +15178,7 @@ export default {
     {
       "id": "k45-v020",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "kıyı",
       "german": [
         "Ufer"
@@ -15199,7 +15199,7 @@ export default {
     {
       "id": "k45-v021",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "görünmez",
       "german": [
         "unsichtbar"
@@ -15220,7 +15220,7 @@ export default {
     {
       "id": "k45-v022",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "değişiklik",
       "german": [
         "Veränderung"
@@ -15241,7 +15241,7 @@ export default {
     {
       "id": "k45-v023",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "kaybolmak",
       "german": [
         "verloren gehen"
@@ -15262,7 +15262,7 @@ export default {
     {
       "id": "k45-v024",
       "chapter": 45,
-      "chapterTitle": "Kapitel 45",
+      "chapterTitle": "Der Bosporus antwortet",
       "turkish": "kendi kendine",
       "german": [
         "zu sich selbst"

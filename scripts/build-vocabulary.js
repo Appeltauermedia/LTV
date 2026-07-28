@@ -3,6 +3,9 @@ import path from "node:path";
 
 const source = process.argv[2] || "C:/Users/apple/Downloads/Vokabel-Extrakt_Kapitel_1-45.md";
 const destination = process.argv[3] || "data/vocabulary.json";
+const titlesFile = process.argv[4] || "data/chapter-titles.json";
+const chapterDefinitions = JSON.parse(fs.readFileSync(titlesFile, "utf8")).chapters;
+const chapterTitles = new Map(chapterDefinitions.map((item) => [item.number, item.title]));
 const raw = fs.readFileSync(source, "utf8");
 if (raw.includes("\uFFFD")) throw new Error("Quelldatei enthält ungültige UTF-8-Ersatzzeichen.");
 
@@ -24,7 +27,7 @@ for (const [lineIndex, line] of raw.split(/\r?\n/).entries()) {
   vocabulary.push({
     id: `k${String(chapter).padStart(2, "0")}-v${String(n).padStart(3, "0")}`,
     chapter,
-    chapterTitle: `Kapitel ${chapter}`,
+    chapterTitle: chapterTitles.get(chapter) || `Kapitel ${chapter}`,
     turkish: cells[1],
     german: cells[0].split(/\s+\/\s+/).filter(Boolean),
     pronunciation: cells[2],
@@ -42,7 +45,7 @@ const output = {
   contentVersion: "2026.07.28",
   language: { source: "tr", target: "de" },
   source: { file: path.basename(source), unchanged: true },
-  chapters: Array.from({ length: 45 }, (_, i) => ({ number: i + 1, title: `Kapitel ${i + 1}` })),
+  chapters: Array.from({ length: 45 }, (_, i) => ({ number: i + 1, title: chapterTitles.get(i + 1) || `Kapitel ${i + 1}` })),
   vocabulary
 };
 fs.mkdirSync(path.dirname(destination), { recursive: true });

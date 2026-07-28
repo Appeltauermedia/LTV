@@ -19,7 +19,7 @@ Die Vorschau unter der angezeigten `http://localhost`-Adresse öffnen. Service W
 
 ## Vokabeldaten aktualisieren
 
-Der Programmcode und die Daten sind getrennt. Die Quelldatei wird mit `node scripts/build-vocabulary.js "PFAD/ZUR/DATEI.md"` neu eingelesen. Anschließend `npm run data:validate` ausführen und `docs/DATENPRUEFBERICHT.md` kontrollieren. Das Skript verändert keine Originaldatei.
+Der Programmcode und die Daten sind getrennt. Die Vokabel-Quelldatei wird mit `node scripts/build-vocabulary.js "PFAD/ZUR/VOKABELDATEI.md"` neu eingelesen. Die unabhängig pflegbaren Kapitelbezeichnungen stehen in `data/chapter-titles.json`. Anschließend `npm run data:validate` ausführen und `docs/DATENPRUEFBERICHT.md` kontrollieren. Das Skript verändert keine Originaldatei.
 
 ## Veröffentlichung
 

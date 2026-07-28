@@ -5,7 +5,7 @@ import { emptyProgress, isDue, schedule } from "./learning/spaced-repetition.js"
 import { evaluateAnswer, searchKey } from "./utils/text.js";
 import { createExport, validateImport } from "./storage/backup.js";
 
-const APP_VERSION = "1.0.21";
+const APP_VERSION = "1.0.22";
 const vocab = vocabularyData.vocabulary.filter((v) => v.active);
 const byId = new Map(vocab.map((v) => [v.id, v]));
 const state = {

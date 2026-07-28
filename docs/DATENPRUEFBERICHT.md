@@ -13,6 +13,6 @@ Keine.
 
 Keine.
 
-## Nicht erfundene Angaben
+## Datenquellen
 
-Der Extrakt enthält keine Kapiteltitel. Daher wird neutral „Kapitel N“ verwendet. Originalwerte stehen zusätzlich in den source-Feldern.
+Die Vokabelwerte stammen unverändert aus dem Vokabel-Extrakt. Die 45 Kapitelbezeichnungen stammen aus der separat bereitgestellten Datei „Kapitelbezeichnungen_1-45.md“ und werden in `data/chapter-titles.json` gepflegt.

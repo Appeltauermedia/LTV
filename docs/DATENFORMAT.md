@@ -14,7 +14,7 @@ Pflicht: `id`, `chapter`, `chapterTitle`, `turkish`, `german` als nicht leeres A
 
 IDs folgen `kNN-vNNN`. Sie werden aus Kapitel und unveränderter Quellreihenfolge gebildet. Bestehende Zeilen dürfen deshalb nicht umsortiert werden; neue Zeilen werden am Kapitelende ergänzt oder erhalten redaktionell eine explizite freie ID. Deutsche Texte, die im Extrakt durch ` / ` getrennt sind, werden als mehrere gültige Übersetzungen gespeichert. Der vollständige deutsche Originalwert bleibt unter `source.originalGerman` erhalten.
 
-Der Extrakt liefert keine Kapiteltitel. Deshalb steht bewusst `Kapitel N` statt erfundener Titel in den Daten. Eine spätere redaktionelle Titelliste kann nur in den Daten ergänzt werden.
+Der Extrakt liefert keine Kapiteltitel. Die separat bereitgestellte redaktionelle Titelliste wird deshalb in `data/chapter-titles.json` gepflegt und beim Daten-Build in die Kapiteldefinitionen und Vokabeleinträge übernommen.
 
 ## Validierung
 

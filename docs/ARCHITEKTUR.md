@@ -6,7 +6,7 @@ Die App nutzt modernes, modulares Vanilla JavaScript und Vite ausschließlich al
 
 ## Komponenten und Datenfluss
 
-`data/vocabulary.json` ist die einzige redaktionelle Datenquelle der App. `src/main.js` rendert Ansichten und Sitzungen; `src/learning` enthält den unabhängig getesteten Algorithmus; `src/database` kapselt IndexedDB; `src/storage` validiert Sicherungen; `src/utils` normalisiert Eingaben und Suche.
+`data/vocabulary.json` enthält den erzeugten Wortschatz; `data/chapter-titles.json` enthält die unabhängig pflegbaren redaktionellen Kapitelbezeichnungen. `src/main.js` rendert Ansichten und Sitzungen; `src/learning` enthält den unabhängig getesteten Algorithmus; `src/database` kapselt IndexedDB; `src/storage` validiert Sicherungen; `src/utils` normalisiert Eingaben und Suche.
 
 Vokabeldaten werden nur gelesen. Personenbezogene Lernereignisse verbleiben in drei IndexedDB-Stores:
 

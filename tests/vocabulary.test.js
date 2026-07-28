@@ -2,6 +2,7 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import data from "../data/vocabulary.json" with { type:"json" };
 import { validateVocabulary } from "../scripts/validate-vocabulary.js";
+import { searchKey } from "../src/utils/text.js";
 
 test("Vokabelbestand ist vollständig und valide", () => {
   const r=validateVocabulary(data);assert.deepEqual(r.errors,[]);assert.equal(data.chapters.length,45);assert.equal(data.vocabulary.length,718);
@@ -19,4 +20,16 @@ test("Kapitelwahl und Filter sind technisch auf alle Kapitel anwendbar", () => {
 });
 test("Fortschritt kann aus Lernstufen berechnet werden", () => {
   const ps=[{level:0},{level:1},{level:5},{level:5}];assert.equal(ps.filter(p=>p.level>=5).length/ps.length,0.5);
+});
+test("alle Kapitel besitzen redaktionelle Titel", () => {
+  assert.equal(data.chapters.length,45);
+  assert.equal(data.chapters[0].title,"Ankunft in Istanbul");
+  assert.equal(data.chapters[44].title,"Der Bosporus antwortet");
+  assert.ok(data.vocabulary.every(v=>v.chapterTitle===data.chapters[v.chapter-1].title));
+});
+test("Kapitel können über ihre Titel gesucht werden", () => {
+  const query=searchKey("Büyükada");
+  const hits=data.vocabulary.filter(v=>searchKey(`${v.turkish} ${v.german.join(" ")} ${v.chapter} ${v.chapterTitle} ${v.category}`).includes(query));
+  assert.ok(hits.length>0);
+  assert.ok(hits.every(v=>v.chapter===40));
 });
