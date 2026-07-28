@@ -5,7 +5,7 @@ import { emptyProgress, isDue, schedule } from "./learning/spaced-repetition.js"
 import { evaluateAnswer, searchKey } from "./utils/text.js";
 import { createExport, validateImport } from "./storage/backup.js";
 
-const APP_VERSION = "1.0.20";
+const APP_VERSION = "1.0.21";
 const vocab = vocabularyData.vocabulary.filter((v) => v.active);
 const byId = new Map(vocab.map((v) => [v.id, v]));
 const state = {
@@ -244,13 +244,14 @@ function setupIOSKeyboardViewport(){
   if(!viewport)return;
   const defaultContent=viewport.getAttribute("content");
   const lockedContent=`${defaultContent.replace(/,\s*(maximum-scale|user-scalable)=[^,]+/gi,"")}, maximum-scale=1`;
+  const stabilizedFields=new Set(["answer","global-search","chapter-search"]);
   document.addEventListener("focusin",(event)=>{
-    if(event.target?.id!=="answer")return;
+    if(!stabilizedFields.has(event.target?.id))return;
     viewport.setAttribute("content",lockedContent);
     requestAnimationFrame(()=>event.target.scrollIntoView({block:"center",inline:"nearest"}));
   });
   document.addEventListener("focusout",(event)=>{
-    if(event.target?.id!=="answer")return;
+    if(!stabilizedFields.has(event.target?.id))return;
     setTimeout(()=>viewport.setAttribute("content",defaultContent),300);
   });
 }

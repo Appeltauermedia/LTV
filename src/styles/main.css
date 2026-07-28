@@ -104,6 +104,10 @@ body,#app{
   font-size:max(16px,1.25rem);
   touch-action:manipulation;
 }
+.search-field input{
+  font-size:max(16px,1rem);
+  touch-action:manipulation;
+}
 .hero:after{
   display:none;
 }
@@ -111,7 +115,7 @@ body,#app{
   background:radial-gradient(circle at 50% -20%,color-mix(in srgb,var(--red) 10%,var(--bg)),var(--bg) 58%);
 }
 @supports(-webkit-touch-callout:none){
-  .answer-box input{
+  .answer-box input,.search-field input{
     font-size:max(16px,1.25rem);
   }
 }
