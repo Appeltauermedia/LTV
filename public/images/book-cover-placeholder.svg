@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1040" role="img" aria-labelledby="t d">
+<title id="t">Platzhalter für das Buchcover</title><desc id="d">Bitte durch das finale Cover ersetzen.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8e1725"/><stop offset="1" stop-color="#d99a2b"/></linearGradient></defs>
+<rect width="720" height="1040" rx="30" fill="url(#g)"/><circle cx="540" cy="220" r="160" fill="#fff" opacity=".1"/>
+<path d="M0 750c170-130 290 70 450-70 110-95 190-40 270-100v460H0z" fill="#1f5962" opacity=".86"/>
+<text x="72" y="170" fill="#fff" font-family="system-ui,sans-serif" font-size="36" font-weight="700">BUCHCOVER</text>
+<text x="72" y="230" fill="#fff" font-family="system-ui,sans-serif" font-size="25">PLATZHALTER</text>
+<text x="72" y="520" fill="#fff" font-family="system-ui,sans-serif" font-size="76" font-weight="800">Lerne</text>
+<text x="72" y="610" fill="#fff" font-family="system-ui,sans-serif" font-size="76" font-weight="800">Türkisch</text>
+<text x="72" y="920" fill="#fff" font-family="system-ui,sans-serif" font-size="24">Bild später austauschen</text>
+</svg>

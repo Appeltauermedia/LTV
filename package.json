@@ -1,0 +1,18 @@
+{
+  "name": "tuerkisch-vokabeltrainer",
+  "version": "1.0.12",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "data:build": "node scripts/build-vocabulary.js",
+    "data:validate": "node scripts/validate-vocabulary.js",
+    "dev": "vite --host 0.0.0.0",
+    "build": "npm run data:validate && vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "test": "node --test",
+    "check": "npm run data:validate && npm test && npm run build"
+  },
+  "devDependencies": {
+    "vite": "^7.0.6"
+  }
+}

@@ -1,0 +1,15284 @@
+// Automatisch erzeugt aus Vokabel-Extrakt_Kapitel_1-45.md – nicht manuell bearbeiten.
+export default {
+  "schemaVersion": 1,
+  "contentVersion": "2026.07.28",
+  "language": {
+    "source": "tr",
+    "target": "de"
+  },
+  "source": {
+    "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+    "unchanged": true
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Kapitel 1"
+    },
+    {
+      "number": 2,
+      "title": "Kapitel 2"
+    },
+    {
+      "number": 3,
+      "title": "Kapitel 3"
+    },
+    {
+      "number": 4,
+      "title": "Kapitel 4"
+    },
+    {
+      "number": 5,
+      "title": "Kapitel 5"
+    },
+    {
+      "number": 6,
+      "title": "Kapitel 6"
+    },
+    {
+      "number": 7,
+      "title": "Kapitel 7"
+    },
+    {
+      "number": 8,
+      "title": "Kapitel 8"
+    },
+    {
+      "number": 9,
+      "title": "Kapitel 9"
+    },
+    {
+      "number": 10,
+      "title": "Kapitel 10"
+    },
+    {
+      "number": 11,
+      "title": "Kapitel 11"
+    },
+    {
+      "number": 12,
+      "title": "Kapitel 12"
+    },
+    {
+      "number": 13,
+      "title": "Kapitel 13"
+    },
+    {
+      "number": 14,
+      "title": "Kapitel 14"
+    },
+    {
+      "number": 15,
+      "title": "Kapitel 15"
+    },
+    {
+      "number": 16,
+      "title": "Kapitel 16"
+    },
+    {
+      "number": 17,
+      "title": "Kapitel 17"
+    },
+    {
+      "number": 18,
+      "title": "Kapitel 18"
+    },
+    {
+      "number": 19,
+      "title": "Kapitel 19"
+    },
+    {
+      "number": 20,
+      "title": "Kapitel 20"
+    },
+    {
+      "number": 21,
+      "title": "Kapitel 21"
+    },
+    {
+      "number": 22,
+      "title": "Kapitel 22"
+    },
+    {
+      "number": 23,
+      "title": "Kapitel 23"
+    },
+    {
+      "number": 24,
+      "title": "Kapitel 24"
+    },
+    {
+      "number": 25,
+      "title": "Kapitel 25"
+    },
+    {
+      "number": 26,
+      "title": "Kapitel 26"
+    },
+    {
+      "number": 27,
+      "title": "Kapitel 27"
+    },
+    {
+      "number": 28,
+      "title": "Kapitel 28"
+    },
+    {
+      "number": 29,
+      "title": "Kapitel 29"
+    },
+    {
+      "number": 30,
+      "title": "Kapitel 30"
+    },
+    {
+      "number": 31,
+      "title": "Kapitel 31"
+    },
+    {
+      "number": 32,
+      "title": "Kapitel 32"
+    },
+    {
+      "number": 33,
+      "title": "Kapitel 33"
+    },
+    {
+      "number": 34,
+      "title": "Kapitel 34"
+    },
+    {
+      "number": 35,
+      "title": "Kapitel 35"
+    },
+    {
+      "number": 36,
+      "title": "Kapitel 36"
+    },
+    {
+      "number": 37,
+      "title": "Kapitel 37"
+    },
+    {
+      "number": 38,
+      "title": "Kapitel 38"
+    },
+    {
+      "number": 39,
+      "title": "Kapitel 39"
+    },
+    {
+      "number": 40,
+      "title": "Kapitel 40"
+    },
+    {
+      "number": 41,
+      "title": "Kapitel 41"
+    },
+    {
+      "number": 42,
+      "title": "Kapitel 42"
+    },
+    {
+      "number": 43,
+      "title": "Kapitel 43"
+    },
+    {
+      "number": 44,
+      "title": "Kapitel 44"
+    },
+    {
+      "number": 45,
+      "title": "Kapitel 45"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "k01-v001",
+      "chapter": 1,
+      "chapterTitle": "Kapitel 1",
+      "turkish": "Hoş bulduk",
+      "german": [
+        "Antwort auf „Willkommen“"
+      ],
+      "pronunciation": "hosch bul-duk",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 11,
+        "originalGerman": "Antwort auf „Willkommen“"
+      }
+    },
+    {
+      "id": "k01-v002",
+      "chapter": 1,
+      "chapterTitle": "Kapitel 1",
+      "turkish": "Görüşürüz",
+      "german": [
+        "Auf Wiedersehen",
+        "Bis bald"
+      ],
+      "pronunciation": "gö-rü-schü-rüs",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 12,
+        "originalGerman": "Auf Wiedersehen / Bis bald"
+      }
+    },
+    {
+      "id": "k01-v003",
+      "chapter": 1,
+      "chapterTitle": "Kapitel 1",
+      "turkish": "Lütfen",
+      "german": [
+        "bitte"
+      ],
+      "pronunciation": "lüt-fen",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 13,
+        "originalGerman": "bitte"
+      }
+    },
+    {
+      "id": "k01-v004",
+      "chapter": 1,
+      "chapterTitle": "Kapitel 1",
+      "turkish": "Rica ederim",
+      "german": [
+        "Gern geschehen"
+      ],
+      "pronunciation": "ri-dscha e-de-rim",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 14,
+        "originalGerman": "Gern geschehen"
+      }
+    },
+    {
+      "id": "k01-v005",
+      "chapter": 1,
+      "chapterTitle": "Kapitel 1",
+      "turkish": "İyi akşamlar",
+      "german": [
+        "Guten Abend"
+      ],
+      "pronunciation": "i-ji ak-scham-lar",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 15,
+        "originalGerman": "Guten Abend"
+      }
+    },
+    {
+      "id": "k01-v006",
+      "chapter": 1,
+      "chapterTitle": "Kapitel 1",
+      "turkish": "Günaydın",
+      "german": [
+        "Guten Morgen"
+      ],
+      "pronunciation": "gü-nai-dün",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 16,
+        "originalGerman": "Guten Morgen"
+      }
+    },
+    {
+      "id": "k01-v007",
+      "chapter": 1,
+      "chapterTitle": "Kapitel 1",
+      "turkish": "İyi günler",
+      "german": [
+        "Guten Tag"
+      ],
+      "pronunciation": "i-ji gün-ler",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 17,
+        "originalGerman": "Guten Tag"
+      }
+    },
+    {
+      "id": "k01-v008",
+      "chapter": 1,
+      "chapterTitle": "Kapitel 1",
+      "turkish": "Merhaba",
+      "german": [
+        "Hallo"
+      ],
+      "pronunciation": "mer-ha-ba",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 18,
+        "originalGerman": "Hallo"
+      }
+    },
+    {
+      "id": "k01-v009",
+      "chapter": 1,
+      "chapterTitle": "Kapitel 1",
+      "turkish": "Hoş geldiniz",
+      "german": [
+        "Herzlich willkommen"
+      ],
+      "pronunciation": "hosch gel-di-nis",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 19,
+        "originalGerman": "Herzlich willkommen"
+      }
+    },
+    {
+      "id": "k01-v010",
+      "chapter": 1,
+      "chapterTitle": "Kapitel 1",
+      "turkish": "Evet",
+      "german": [
+        "ja"
+      ],
+      "pronunciation": "e-wet",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 20,
+        "originalGerman": "ja"
+      }
+    },
+    {
+      "id": "k01-v011",
+      "chapter": 1,
+      "chapterTitle": "Kapitel 1",
+      "turkish": "Hayır",
+      "german": [
+        "nein"
+      ],
+      "pronunciation": "ha-jır",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 21,
+        "originalGerman": "nein"
+      }
+    },
+    {
+      "id": "k01-v012",
+      "chapter": 1,
+      "chapterTitle": "Kapitel 1",
+      "turkish": "Teşekkür ederim",
+      "german": [
+        "Vielen Dank"
+      ],
+      "pronunciation": "te-schek-kür e-de-rim",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 22,
+        "originalGerman": "Vielen Dank"
+      }
+    },
+    {
+      "id": "k02-v001",
+      "chapter": 2,
+      "chapterTitle": "Kapitel 2",
+      "turkish": "adres",
+      "german": [
+        "Adresse"
+      ],
+      "pronunciation": "ad-res",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 28,
+        "originalGerman": "Adresse"
+      }
+    },
+    {
+      "id": "k02-v002",
+      "chapter": 2,
+      "chapterTitle": "Kapitel 2",
+      "turkish": "lütfen",
+      "german": [
+        "bitte"
+      ],
+      "pronunciation": "lüt-fen",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 29,
+        "originalGerman": "bitte"
+      }
+    },
+    {
+      "id": "k02-v003",
+      "chapter": 2,
+      "chapterTitle": "Kapitel 2",
+      "turkish": "buyurun",
+      "german": [
+        "bitte",
+        "nur zu",
+        "hier entlang"
+      ],
+      "pronunciation": "bu-ju-run",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 30,
+        "originalGerman": "bitte / nur zu / hier entlang"
+      }
+    },
+    {
+      "id": "k02-v004",
+      "chapter": 2,
+      "chapterTitle": "Kapitel 2",
+      "turkish": "şoför",
+      "german": [
+        "Fahrer"
+      ],
+      "pronunciation": "scho-för",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 31,
+        "originalGerman": "Fahrer"
+      }
+    },
+    {
+      "id": "k02-v005",
+      "chapter": 2,
+      "chapterTitle": "Kapitel 2",
+      "turkish": "bagaj",
+      "german": [
+        "Gepäck",
+        "Kofferraum"
+      ],
+      "pronunciation": "ba-gasch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 32,
+        "originalGerman": "Gepäck / Kofferraum"
+      }
+    },
+    {
+      "id": "k02-v006",
+      "chapter": 2,
+      "chapterTitle": "Kapitel 2",
+      "turkish": "rica ederim",
+      "german": [
+        "gern geschehen"
+      ],
+      "pronunciation": "ri-dscha e-de-rim",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 33,
+        "originalGerman": "gern geschehen"
+      }
+    },
+    {
+      "id": "k02-v007",
+      "chapter": 2,
+      "chapterTitle": "Kapitel 2",
+      "turkish": "otel",
+      "german": [
+        "Hotel"
+      ],
+      "pronunciation": "o-tel",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 34,
+        "originalGerman": "Hotel"
+      }
+    },
+    {
+      "id": "k02-v008",
+      "chapter": 2,
+      "chapterTitle": "Kapitel 2",
+      "turkish": "ben",
+      "german": [
+        "ich"
+      ],
+      "pronunciation": "ben",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 35,
+        "originalGerman": "ich"
+      }
+    },
+    {
+      "id": "k02-v009",
+      "chapter": 2,
+      "chapterTitle": "Kapitel 2",
+      "turkish": "tamam",
+      "german": [
+        "in Ordnung"
+      ],
+      "pronunciation": "ta-mam",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 36,
+        "originalGerman": "in Ordnung"
+      }
+    },
+    {
+      "id": "k02-v010",
+      "chapter": 2,
+      "chapterTitle": "Kapitel 2",
+      "turkish": "siz",
+      "german": [
+        "Sie",
+        "ihr"
+      ],
+      "pronunciation": "sis",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 37,
+        "originalGerman": "Sie / ihr"
+      }
+    },
+    {
+      "id": "k02-v011",
+      "chapter": 2,
+      "chapterTitle": "Kapitel 2",
+      "turkish": "taksi",
+      "german": [
+        "Taxi"
+      ],
+      "pronunciation": "tak-si",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 38,
+        "originalGerman": "Taxi"
+      }
+    },
+    {
+      "id": "k03-v001",
+      "chapter": 3,
+      "chapterTitle": "Kapitel 3",
+      "turkish": "Memnun oldum",
+      "german": [
+        "Freut mich"
+      ],
+      "pronunciation": "mem-nun ol-dum",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 44,
+        "originalGerman": "Freut mich"
+      }
+    },
+    {
+      "id": "k03-v002",
+      "chapter": 3,
+      "chapterTitle": "Kapitel 3",
+      "turkish": "Ben de",
+      "german": [
+        "ich auch"
+      ],
+      "pronunciation": "ben de",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 45,
+        "originalGerman": "ich auch"
+      }
+    },
+    {
+      "id": "k03-v003",
+      "chapter": 3,
+      "chapterTitle": "Kapitel 3",
+      "turkish": "lobi",
+      "german": [
+        "Lobby"
+      ],
+      "pronunciation": "lo-bi",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 46,
+        "originalGerman": "Lobby"
+      }
+    },
+    {
+      "id": "k03-v004",
+      "chapter": 3,
+      "chapterTitle": "Kapitel 3",
+      "turkish": "benim",
+      "german": [
+        "mein",
+        "von mir"
+      ],
+      "pronunciation": "be-nim",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 47,
+        "originalGerman": "mein / von mir"
+      }
+    },
+    {
+      "id": "k03-v005",
+      "chapter": 3,
+      "chapterTitle": "Kapitel 3",
+      "turkish": "adım",
+      "german": [
+        "mein Name"
+      ],
+      "pronunciation": "a-dım",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 48,
+        "originalGerman": "mein Name"
+      }
+    },
+    {
+      "id": "k03-v006",
+      "chapter": 3,
+      "chapterTitle": "Kapitel 3",
+      "turkish": "ad",
+      "german": [
+        "Name"
+      ],
+      "pronunciation": "ad",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 49,
+        "originalGerman": "Name"
+      }
+    },
+    {
+      "id": "k03-v007",
+      "chapter": 3,
+      "chapterTitle": "Kapitel 3",
+      "turkish": "pasaport",
+      "german": [
+        "Reisepass"
+      ],
+      "pronunciation": "pa-sa-port",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 50,
+        "originalGerman": "Reisepass"
+      }
+    },
+    {
+      "id": "k03-v008",
+      "chapter": 3,
+      "chapterTitle": "Kapitel 3",
+      "turkish": "resepsiyon",
+      "german": [
+        "Rezeption"
+      ],
+      "pronunciation": "re-sep-si-jon",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 51,
+        "originalGerman": "Rezeption"
+      }
+    },
+    {
+      "id": "k03-v009",
+      "chapter": 3,
+      "chapterTitle": "Kapitel 3",
+      "turkish": "anahtar",
+      "german": [
+        "Schlüssel"
+      ],
+      "pronunciation": "a-nach-tar",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 52,
+        "originalGerman": "Schlüssel"
+      }
+    },
+    {
+      "id": "k03-v010",
+      "chapter": 3,
+      "chapterTitle": "Kapitel 3",
+      "turkish": "Adınız ne?",
+      "german": [
+        "Wie heißen Sie?"
+      ],
+      "pronunciation": "a-dı-nıs ne",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 53,
+        "originalGerman": "Wie heißen Sie?"
+      }
+    },
+    {
+      "id": "k03-v011",
+      "chapter": 3,
+      "chapterTitle": "Kapitel 3",
+      "turkish": "oda",
+      "german": [
+        "Zimmer"
+      ],
+      "pronunciation": "o-da",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 54,
+        "originalGerman": "Zimmer"
+      }
+    },
+    {
+      "id": "k04-v001",
+      "chapter": 4,
+      "chapterTitle": "Kapitel 4",
+      "turkish": "ekmek",
+      "german": [
+        "Brot"
+      ],
+      "pronunciation": "ek-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 60,
+        "originalGerman": "Brot"
+      }
+    },
+    {
+      "id": "k04-v002",
+      "chapter": 4,
+      "chapterTitle": "Kapitel 4",
+      "turkish": "kahvaltı",
+      "german": [
+        "Frühstück"
+      ],
+      "pronunciation": "kah-wal-tı",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 61,
+        "originalGerman": "Frühstück"
+      }
+    },
+    {
+      "id": "k04-v003",
+      "chapter": 4,
+      "chapterTitle": "Kapitel 4",
+      "turkish": "salatalık",
+      "german": [
+        "Gurke"
+      ],
+      "pronunciation": "sa-la-ta-lık",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 62,
+        "originalGerman": "Gurke"
+      }
+    },
+    {
+      "id": "k04-v004",
+      "chapter": 4,
+      "chapterTitle": "Kapitel 4",
+      "turkish": "Afiyet olsun",
+      "german": [
+        "Guten Appetit"
+      ],
+      "pronunciation": "a-fi-jet ol-sun",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 63,
+        "originalGerman": "Guten Appetit"
+      }
+    },
+    {
+      "id": "k04-v005",
+      "chapter": 4,
+      "chapterTitle": "Kapitel 4",
+      "turkish": "bal",
+      "german": [
+        "Honig"
+      ],
+      "pronunciation": "bal",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 64,
+        "originalGerman": "Honig"
+      }
+    },
+    {
+      "id": "k04-v006",
+      "chapter": 4,
+      "chapterTitle": "Kapitel 4",
+      "turkish": "istiyorum",
+      "german": [
+        "ich möchte"
+      ],
+      "pronunciation": "is-ti-jo-rum",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 65,
+        "originalGerman": "ich möchte"
+      }
+    },
+    {
+      "id": "k04-v007",
+      "chapter": 4,
+      "chapterTitle": "Kapitel 4",
+      "turkish": "kahve",
+      "german": [
+        "Kaffee"
+      ],
+      "pronunciation": "kah-we",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 66,
+        "originalGerman": "Kaffee"
+      }
+    },
+    {
+      "id": "k04-v008",
+      "chapter": 4,
+      "chapterTitle": "Kapitel 4",
+      "turkish": "peynir",
+      "german": [
+        "Käse"
+      ],
+      "pronunciation": "pej-nir",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 67,
+        "originalGerman": "Käse"
+      }
+    },
+    {
+      "id": "k04-v009",
+      "chapter": 4,
+      "chapterTitle": "Kapitel 4",
+      "turkish": "zeytin",
+      "german": [
+        "Olive"
+      ],
+      "pronunciation": "sej-tin",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 68,
+        "originalGerman": "Olive"
+      }
+    },
+    {
+      "id": "k04-v010",
+      "chapter": 4,
+      "chapterTitle": "Kapitel 4",
+      "turkish": "çay",
+      "german": [
+        "Tee"
+      ],
+      "pronunciation": "tschai",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 69,
+        "originalGerman": "Tee"
+      }
+    },
+    {
+      "id": "k04-v011",
+      "chapter": 4,
+      "chapterTitle": "Kapitel 4",
+      "turkish": "domates",
+      "german": [
+        "Tomate"
+      ],
+      "pronunciation": "do-ma-tes",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 70,
+        "originalGerman": "Tomate"
+      }
+    },
+    {
+      "id": "k04-v012",
+      "chapter": 4,
+      "chapterTitle": "Kapitel 4",
+      "turkish": "su",
+      "german": [
+        "Wasser"
+      ],
+      "pronunciation": "su",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 71,
+        "originalGerman": "Wasser"
+      }
+    },
+    {
+      "id": "k05-v001",
+      "chapter": 5,
+      "chapterTitle": "Kapitel 5",
+      "turkish": "sekiz",
+      "german": [
+        "acht"
+      ],
+      "pronunciation": "se-kis",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 77,
+        "originalGerman": "acht"
+      }
+    },
+    {
+      "id": "k05-v002",
+      "chapter": 5,
+      "chapterTitle": "Kapitel 5",
+      "turkish": "otomat",
+      "german": [
+        "Automat"
+      ],
+      "pronunciation": "o-to-mat",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 78,
+        "originalGerman": "Automat"
+      }
+    },
+    {
+      "id": "k05-v003",
+      "chapter": 5,
+      "chapterTitle": "Kapitel 5",
+      "turkish": "orada",
+      "german": [
+        "dort"
+      ],
+      "pronunciation": "o-ra-da",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 79,
+        "originalGerman": "dort"
+      }
+    },
+    {
+      "id": "k05-v004",
+      "chapter": 5,
+      "chapterTitle": "Kapitel 5",
+      "turkish": "var",
+      "german": [
+        "es gibt",
+        "vorhanden"
+      ],
+      "pronunciation": "war",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 80,
+        "originalGerman": "es gibt / vorhanden"
+      }
+    },
+    {
+      "id": "k05-v005",
+      "chapter": 5,
+      "chapterTitle": "Kapitel 5",
+      "turkish": "yok",
+      "german": [
+        "es gibt nicht",
+        "nicht vorhanden"
+      ],
+      "pronunciation": "jok",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 81,
+        "originalGerman": "es gibt nicht / nicht vorhanden"
+      }
+    },
+    {
+      "id": "k05-v006",
+      "chapter": 5,
+      "chapterTitle": "Kapitel 5",
+      "turkish": "bilet",
+      "german": [
+        "Fahrkarte"
+      ],
+      "pronunciation": "bi-let",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 82,
+        "originalGerman": "Fahrkarte"
+      }
+    },
+    {
+      "id": "k05-v007",
+      "chapter": 5,
+      "chapterTitle": "Kapitel 5",
+      "turkish": "var mı?",
+      "german": [
+        "Gibt es?"
+      ],
+      "pronunciation": "war mı",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 83,
+        "originalGerman": "Gibt es?"
+      }
+    },
+    {
+      "id": "k05-v008",
+      "chapter": 5,
+      "chapterTitle": "Kapitel 5",
+      "turkish": "durak",
+      "german": [
+        "Haltestelle"
+      ],
+      "pronunciation": "du-rak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 84,
+        "originalGerman": "Haltestelle"
+      }
+    },
+    {
+      "id": "k05-v009",
+      "chapter": 5,
+      "chapterTitle": "Kapitel 5",
+      "turkish": "burada",
+      "german": [
+        "hier"
+      ],
+      "pronunciation": "bu-ra-da",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 85,
+        "originalGerman": "hier"
+      }
+    },
+    {
+      "id": "k05-v010",
+      "chapter": 5,
+      "chapterTitle": "Kapitel 5",
+      "turkish": "İstanbulkart",
+      "german": [
+        "Nahverkehrskarte"
+      ],
+      "pronunciation": "is-tan-bul-kart",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 86,
+        "originalGerman": "Nahverkehrskarte"
+      }
+    },
+    {
+      "id": "k05-v011",
+      "chapter": 5,
+      "chapterTitle": "Kapitel 5",
+      "turkish": "dokuz",
+      "german": [
+        "neun"
+      ],
+      "pronunciation": "do-kus",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 87,
+        "originalGerman": "neun"
+      }
+    },
+    {
+      "id": "k05-v012",
+      "chapter": 5,
+      "chapterTitle": "Kapitel 5",
+      "turkish": "altı",
+      "german": [
+        "sechs"
+      ],
+      "pronunciation": "al-tı",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 88,
+        "originalGerman": "sechs"
+      }
+    },
+    {
+      "id": "k05-v013",
+      "chapter": 5,
+      "chapterTitle": "Kapitel 5",
+      "turkish": "simit",
+      "german": [
+        "Sesamgebäck"
+      ],
+      "pronunciation": "si-mit",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 89,
+        "originalGerman": "Sesamgebäck"
+      }
+    },
+    {
+      "id": "k05-v014",
+      "chapter": 5,
+      "chapterTitle": "Kapitel 5",
+      "turkish": "yedi",
+      "german": [
+        "sieben"
+      ],
+      "pronunciation": "je-di",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 90,
+        "originalGerman": "sieben"
+      }
+    },
+    {
+      "id": "k05-v015",
+      "chapter": 5,
+      "chapterTitle": "Kapitel 5",
+      "turkish": "tramvay",
+      "german": [
+        "Straßenbahn"
+      ],
+      "pronunciation": "tram-wai",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 91,
+        "originalGerman": "Straßenbahn"
+      }
+    },
+    {
+      "id": "k05-v016",
+      "chapter": 5,
+      "chapterTitle": "Kapitel 5",
+      "turkish": "nerede?",
+      "german": [
+        "Wo?"
+      ],
+      "pronunciation": "ne-re-de",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 92,
+        "originalGerman": "Wo?"
+      }
+    },
+    {
+      "id": "k05-v017",
+      "chapter": 5,
+      "chapterTitle": "Kapitel 5",
+      "turkish": "on",
+      "german": [
+        "zehn"
+      ],
+      "pronunciation": "on",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 93,
+        "originalGerman": "zehn"
+      }
+    },
+    {
+      "id": "k06-v001",
+      "chapter": 6,
+      "chapterTitle": "Kapitel 6",
+      "turkish": "seksen",
+      "german": [
+        "achtzig"
+      ],
+      "pronunciation": "sek-sen",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 99,
+        "originalGerman": "achtzig"
+      }
+    },
+    {
+      "id": "k06-v002",
+      "chapter": 6,
+      "chapterTitle": "Kapitel 6",
+      "turkish": "otuz",
+      "german": [
+        "dreißig"
+      ],
+      "pronunciation": "o-tus",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 100,
+        "originalGerman": "dreißig"
+      }
+    },
+    {
+      "id": "k06-v003",
+      "chapter": 6,
+      "chapterTitle": "Kapitel 6",
+      "turkish": "elli",
+      "german": [
+        "fünfzig"
+      ],
+      "pronunciation": "el-li",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 101,
+        "originalGerman": "fünfzig"
+      }
+    },
+    {
+      "id": "k06-v004",
+      "chapter": 6,
+      "chapterTitle": "Kapitel 6",
+      "turkish": "ucuz",
+      "german": [
+        "günstig"
+      ],
+      "pronunciation": "u-dschus",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 102,
+        "originalGerman": "günstig"
+      }
+    },
+    {
+      "id": "k06-v005",
+      "chapter": 6,
+      "chapterTitle": "Kapitel 6",
+      "turkish": "yüz",
+      "german": [
+        "hundert"
+      ],
+      "pronunciation": "jüs",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 103,
+        "originalGerman": "hundert"
+      }
+    },
+    {
+      "id": "k06-v006",
+      "chapter": 6,
+      "chapterTitle": "Kapitel 6",
+      "turkish": "istiyorum",
+      "german": [
+        "ich möchte"
+      ],
+      "pronunciation": "is-ti-jo-rum",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 104,
+        "originalGerman": "ich möchte"
+      }
+    },
+    {
+      "id": "k06-v007",
+      "chapter": 6,
+      "chapterTitle": "Kapitel 6",
+      "turkish": "almak",
+      "german": [
+        "kaufen"
+      ],
+      "pronunciation": "al-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 105,
+        "originalGerman": "kaufen"
+      }
+    },
+    {
+      "id": "k06-v008",
+      "chapter": 6,
+      "chapterTitle": "Kapitel 6",
+      "turkish": "lira",
+      "german": [
+        "Lira"
+      ],
+      "pronunciation": "li-ra",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 106,
+        "originalGerman": "Lira"
+      }
+    },
+    {
+      "id": "k06-v009",
+      "chapter": 6,
+      "chapterTitle": "Kapitel 6",
+      "turkish": "doksan",
+      "german": [
+        "neunzig"
+      ],
+      "pronunciation": "dok-san",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 107,
+        "originalGerman": "neunzig"
+      }
+    },
+    {
+      "id": "k06-v010",
+      "chapter": 6,
+      "chapterTitle": "Kapitel 6",
+      "turkish": "güzel",
+      "german": [
+        "schön"
+      ],
+      "pronunciation": "gü-sel",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 108,
+        "originalGerman": "schön"
+      }
+    },
+    {
+      "id": "k06-v011",
+      "chapter": 6,
+      "chapterTitle": "Kapitel 6",
+      "turkish": "altmış",
+      "german": [
+        "sechzig"
+      ],
+      "pronunciation": "alt-məsch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 109,
+        "originalGerman": "sechzig"
+      }
+    },
+    {
+      "id": "k06-v012",
+      "chapter": 6,
+      "chapterTitle": "Kapitel 6",
+      "turkish": "çok",
+      "german": [
+        "sehr"
+      ],
+      "pronunciation": "tschok",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 110,
+        "originalGerman": "sehr"
+      }
+    },
+    {
+      "id": "k06-v013",
+      "chapter": 6,
+      "chapterTitle": "Kapitel 6",
+      "turkish": "yetmiş",
+      "german": [
+        "siebzig"
+      ],
+      "pronunciation": "jet-məsch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 111,
+        "originalGerman": "siebzig"
+      }
+    },
+    {
+      "id": "k06-v014",
+      "chapter": 6,
+      "chapterTitle": "Kapitel 6",
+      "turkish": "pahalı",
+      "german": [
+        "teuer"
+      ],
+      "pronunciation": "pa-ha-lə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 112,
+        "originalGerman": "teuer"
+      }
+    },
+    {
+      "id": "k06-v015",
+      "chapter": 6,
+      "chapterTitle": "Kapitel 6",
+      "turkish": "kırk",
+      "german": [
+        "vierzig"
+      ],
+      "pronunciation": "kərk",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 113,
+        "originalGerman": "vierzig"
+      }
+    },
+    {
+      "id": "k06-v016",
+      "chapter": 6,
+      "chapterTitle": "Kapitel 6",
+      "turkish": "ne kadar?",
+      "german": [
+        "Wie viel kostet das?"
+      ],
+      "pronunciation": "ne ka-dar",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 114,
+        "originalGerman": "Wie viel kostet das?"
+      }
+    },
+    {
+      "id": "k06-v017",
+      "chapter": 6,
+      "chapterTitle": "Kapitel 6",
+      "turkish": "yirmi",
+      "german": [
+        "zwanzig"
+      ],
+      "pronunciation": "jir-mi",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 115,
+        "originalGerman": "zwanzig"
+      }
+    },
+    {
+      "id": "k07-v001",
+      "chapter": 7,
+      "chapterTitle": "Kapitel 7",
+      "turkish": "kafe",
+      "german": [
+        "Café"
+      ],
+      "pronunciation": "ka-fe",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 121,
+        "originalGerman": "Café"
+      }
+    },
+    {
+      "id": "k07-v002",
+      "chapter": 7,
+      "chapterTitle": "Kapitel 7",
+      "turkish": "seviyorum",
+      "german": [
+        "ich mag"
+      ],
+      "pronunciation": "se-wi-jo-rum",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 122,
+        "originalGerman": "ich mag"
+      }
+    },
+    {
+      "id": "k07-v003",
+      "chapter": 7,
+      "chapterTitle": "Kapitel 7",
+      "turkish": "sevmiyorum",
+      "german": [
+        "ich mag nicht"
+      ],
+      "pronunciation": "sew-mi-jo-rum",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 123,
+        "originalGerman": "ich mag nicht"
+      }
+    },
+    {
+      "id": "k07-v004",
+      "chapter": 7,
+      "chapterTitle": "Kapitel 7",
+      "turkish": "garson",
+      "german": [
+        "Kellner"
+      ],
+      "pronunciation": "gar-son",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 124,
+        "originalGerman": "Kellner"
+      }
+    },
+    {
+      "id": "k07-v005",
+      "chapter": 7,
+      "chapterTitle": "Kapitel 7",
+      "turkish": "Bosporus",
+      "german": [
+        "Meerenge zwischen Europa und Asien"
+      ],
+      "pronunciation": "bos-po-rus",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 125,
+        "originalGerman": "Meerenge zwischen Europa und Asien"
+      }
+    },
+    {
+      "id": "k07-v006",
+      "chapter": 7,
+      "chapterTitle": "Kapitel 7",
+      "turkish": "sevmek",
+      "german": [
+        "mögen"
+      ],
+      "pronunciation": "sew-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 126,
+        "originalGerman": "mögen"
+      }
+    },
+    {
+      "id": "k07-v007",
+      "chapter": 7,
+      "chapterTitle": "Kapitel 7",
+      "turkish": "menü",
+      "german": [
+        "Speisekarte"
+      ],
+      "pronunciation": "me-nü",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 127,
+        "originalGerman": "Speisekarte"
+      }
+    },
+    {
+      "id": "k07-v008",
+      "chapter": 7,
+      "chapterTitle": "Kapitel 7",
+      "turkish": "simit",
+      "german": [
+        "türkischer Sesamring"
+      ],
+      "pronunciation": "si-mit",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 128,
+        "originalGerman": "türkischer Sesamring"
+      }
+    },
+    {
+      "id": "k07-v009",
+      "chapter": 7,
+      "chapterTitle": "Kapitel 7",
+      "turkish": "ne?",
+      "german": [
+        "was?"
+      ],
+      "pronunciation": "ne",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 129,
+        "originalGerman": "was?"
+      }
+    },
+    {
+      "id": "k07-v010",
+      "chapter": 7,
+      "chapterTitle": "Kapitel 7",
+      "turkish": "hangi?",
+      "german": [
+        "welcher?"
+      ],
+      "pronunciation": "han-gi",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 130,
+        "originalGerman": "welcher?"
+      }
+    },
+    {
+      "id": "k08-v001",
+      "chapter": 8,
+      "chapterTitle": "Kapitel 8",
+      "turkish": "suyu",
+      "german": [
+        "das Wasser"
+      ],
+      "pronunciation": "su-ju",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 136,
+        "originalGerman": "das Wasser"
+      }
+    },
+    {
+      "id": "k08-v002",
+      "chapter": 8,
+      "chapterTitle": "Kapitel 8",
+      "turkish": "kahveyi",
+      "german": [
+        "den Kaffee"
+      ],
+      "pronunciation": "kah-we-ji",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 137,
+        "originalGerman": "den Kaffee"
+      }
+    },
+    {
+      "id": "k08-v003",
+      "chapter": 8,
+      "chapterTitle": "Kapitel 8",
+      "turkish": "çayı",
+      "german": [
+        "den Tee"
+      ],
+      "pronunciation": "tschai-jə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 138,
+        "originalGerman": "den Tee"
+      }
+    },
+    {
+      "id": "k08-v004",
+      "chapter": 8,
+      "chapterTitle": "Kapitel 8",
+      "turkish": "içiyorum",
+      "german": [
+        "ich trinke"
+      ],
+      "pronunciation": "itschi-jo-rum",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 139,
+        "originalGerman": "ich trinke"
+      }
+    },
+    {
+      "id": "k08-v005",
+      "chapter": 8,
+      "chapterTitle": "Kapitel 8",
+      "turkish": "istemek",
+      "german": [
+        "möchten, wollen"
+      ],
+      "pronunciation": "is-te-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 140,
+        "originalGerman": "möchten, wollen"
+      }
+    },
+    {
+      "id": "k08-v006",
+      "chapter": 8,
+      "chapterTitle": "Kapitel 8",
+      "turkish": "tabii",
+      "german": [
+        "natürlich"
+      ],
+      "pronunciation": "ta-bii",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 141,
+        "originalGerman": "natürlich"
+      }
+    },
+    {
+      "id": "k08-v007",
+      "chapter": 8,
+      "chapterTitle": "Kapitel 8",
+      "turkish": "istersiniz",
+      "german": [
+        "Sie möchten"
+      ],
+      "pronunciation": "is-ter-si-nis",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 142,
+        "originalGerman": "Sie möchten"
+      }
+    },
+    {
+      "id": "k08-v008",
+      "chapter": 8,
+      "chapterTitle": "Kapitel 8",
+      "turkish": "içmek",
+      "german": [
+        "trinken"
+      ],
+      "pronunciation": "itsch-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 143,
+        "originalGerman": "trinken"
+      }
+    },
+    {
+      "id": "k08-v009",
+      "chapter": 8,
+      "chapterTitle": "Kapitel 8",
+      "turkish": "neden?",
+      "german": [
+        "warum?"
+      ],
+      "pronunciation": "ne-den",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 144,
+        "originalGerman": "warum?"
+      }
+    },
+    {
+      "id": "k08-v010",
+      "chapter": 8,
+      "chapterTitle": "Kapitel 8",
+      "turkish": "çünkü",
+      "german": [
+        "weil"
+      ],
+      "pronunciation": "tschün-kü",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 145,
+        "originalGerman": "weil"
+      }
+    },
+    {
+      "id": "k09-v001",
+      "chapter": 9,
+      "chapterTitle": "Kapitel 9",
+      "turkish": "Boğaz",
+      "german": [
+        "Bosporus"
+      ],
+      "pronunciation": "bo-as",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 151,
+        "originalGerman": "Bosporus"
+      }
+    },
+    {
+      "id": "k09-v002",
+      "chapter": 9,
+      "chapterTitle": "Kapitel 9",
+      "turkish": "iskele",
+      "german": [
+        "Fähranleger"
+      ],
+      "pronunciation": "is-ke-le",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 152,
+        "originalGerman": "Fähranleger"
+      }
+    },
+    {
+      "id": "k09-v003",
+      "chapter": 9,
+      "chapterTitle": "Kapitel 9",
+      "turkish": "vapur",
+      "german": [
+        "Fähre"
+      ],
+      "pronunciation": "wa-pur",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 153,
+        "originalGerman": "Fähre"
+      }
+    },
+    {
+      "id": "k09-v004",
+      "chapter": 9,
+      "chapterTitle": "Kapitel 9",
+      "turkish": "gitmek",
+      "german": [
+        "gehen, fahren"
+      ],
+      "pronunciation": "git-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 154,
+        "originalGerman": "gehen, fahren"
+      }
+    },
+    {
+      "id": "k09-v005",
+      "chapter": 9,
+      "chapterTitle": "Kapitel 9",
+      "turkish": "bugün",
+      "german": [
+        "heute"
+      ],
+      "pronunciation": "bu-gün",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 155,
+        "originalGerman": "heute"
+      }
+    },
+    {
+      "id": "k09-v006",
+      "chapter": 9,
+      "chapterTitle": "Kapitel 9",
+      "turkish": "gidiyorum",
+      "german": [
+        "ich gehe, ich fahre"
+      ],
+      "pronunciation": "gi-di-jo-rum",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 156,
+        "originalGerman": "ich gehe, ich fahre"
+      }
+    },
+    {
+      "id": "k09-v007",
+      "chapter": 9,
+      "chapterTitle": "Kapitel 9",
+      "turkish": "geliyorum",
+      "german": [
+        "ich komme"
+      ],
+      "pronunciation": "ge-li-jo-rum",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 157,
+        "originalGerman": "ich komme"
+      }
+    },
+    {
+      "id": "k09-v008",
+      "chapter": 9,
+      "chapterTitle": "Kapitel 9",
+      "turkish": "gelmek",
+      "german": [
+        "kommen"
+      ],
+      "pronunciation": "gel-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 158,
+        "originalGerman": "kommen"
+      }
+    },
+    {
+      "id": "k09-v009",
+      "chapter": 9,
+      "chapterTitle": "Kapitel 9",
+      "turkish": "Kadıköy",
+      "german": [
+        "Stadtteil auf der asiatischen Seite Istanbuls"
+      ],
+      "pronunciation": "ka-də-köj",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 159,
+        "originalGerman": "Stadtteil auf der asiatischen Seite Istanbuls"
+      }
+    },
+    {
+      "id": "k09-v010",
+      "chapter": 9,
+      "chapterTitle": "Kapitel 9",
+      "turkish": "nereye?",
+      "german": [
+        "wohin?"
+      ],
+      "pronunciation": "ne-re-je",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 160,
+        "originalGerman": "wohin?"
+      }
+    },
+    {
+      "id": "k10-v001",
+      "chapter": 10,
+      "chapterTitle": "Kapitel 10",
+      "turkish": "sonra",
+      "german": [
+        "dann, danach"
+      ],
+      "pronunciation": "son-ra",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 166,
+        "originalGerman": "dann, danach"
+      }
+    },
+    {
+      "id": "k10-v002",
+      "chapter": 10,
+      "chapterTitle": "Kapitel 10",
+      "turkish": "affedersiniz",
+      "german": [
+        "Entschuldigen Sie"
+      ],
+      "pronunciation": "af-fe-der-si-nis",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 167,
+        "originalGerman": "Entschuldigen Sie"
+      }
+    },
+    {
+      "id": "k10-v003",
+      "chapter": 10,
+      "chapterTitle": "Kapitel 10",
+      "turkish": "karşı",
+      "german": [
+        "gegenüber"
+      ],
+      "pronunciation": "kar-schə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 168,
+        "originalGerman": "gegenüber"
+      }
+    },
+    {
+      "id": "k10-v004",
+      "chapter": 10,
+      "chapterTitle": "Kapitel 10",
+      "turkish": "düz",
+      "german": [
+        "geradeaus"
+      ],
+      "pronunciation": "düs",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 169,
+        "originalGerman": "geradeaus"
+      }
+    },
+    {
+      "id": "k10-v005",
+      "chapter": 10,
+      "chapterTitle": "Kapitel 10",
+      "turkish": "gösterir misiniz?",
+      "german": [
+        "Können Sie mir zeigen?"
+      ],
+      "pronunciation": "gös-te-rir mi-si-nis",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 170,
+        "originalGerman": "Können Sie mir zeigen?"
+      }
+    },
+    {
+      "id": "k10-v006",
+      "chapter": 10,
+      "chapterTitle": "Kapitel 10",
+      "turkish": "sol",
+      "german": [
+        "links"
+      ],
+      "pronunciation": "sol",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 171,
+        "originalGerman": "links"
+      }
+    },
+    {
+      "id": "k10-v007",
+      "chapter": 10,
+      "chapterTitle": "Kapitel 10",
+      "turkish": "pazar",
+      "german": [
+        "Markt"
+      ],
+      "pronunciation": "pa-sar",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 172,
+        "originalGerman": "Markt"
+      }
+    },
+    {
+      "id": "k10-v008",
+      "chapter": 10,
+      "chapterTitle": "Kapitel 10",
+      "turkish": "sağ",
+      "german": [
+        "rechts"
+      ],
+      "pronunciation": "saa",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 173,
+        "originalGerman": "rechts"
+      }
+    },
+    {
+      "id": "k10-v009",
+      "chapter": 10,
+      "chapterTitle": "Kapitel 10",
+      "turkish": "sokak",
+      "german": [
+        "Straße"
+      ],
+      "pronunciation": "so-kak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 174,
+        "originalGerman": "Straße"
+      }
+    },
+    {
+      "id": "k10-v010",
+      "chapter": 10,
+      "chapterTitle": "Kapitel 10",
+      "turkish": "neresi?",
+      "german": [
+        "welcher Ort?"
+      ],
+      "pronunciation": "ne-re-si",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 175,
+        "originalGerman": "welcher Ort?"
+      }
+    },
+    {
+      "id": "k10-v011",
+      "chapter": 10,
+      "chapterTitle": "Kapitel 10",
+      "turkish": "göstermek",
+      "german": [
+        "zeigen"
+      ],
+      "pronunciation": "gös-ter-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 176,
+        "originalGerman": "zeigen"
+      }
+    },
+    {
+      "id": "k11-v001",
+      "chapter": 11,
+      "chapterTitle": "Kapitel 11",
+      "turkish": "elma",
+      "german": [
+        "Apfel"
+      ],
+      "pronunciation": "el-ma",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 182,
+        "originalGerman": "Apfel"
+      }
+    },
+    {
+      "id": "k11-v002",
+      "chapter": 11,
+      "chapterTitle": "Kapitel 11",
+      "turkish": "lütfen",
+      "german": [
+        "bitte"
+      ],
+      "pronunciation": "lüt-fen",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 183,
+        "originalGerman": "bitte"
+      }
+    },
+    {
+      "id": "k11-v003",
+      "chapter": 11,
+      "chapterTitle": "Kapitel 11",
+      "turkish": "ekmek",
+      "german": [
+        "Brot"
+      ],
+      "pronunciation": "ek-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 184,
+        "originalGerman": "Brot"
+      }
+    },
+    {
+      "id": "k11-v004",
+      "chapter": 11,
+      "chapterTitle": "Kapitel 11",
+      "turkish": "salatalık",
+      "german": [
+        "Gurke"
+      ],
+      "pronunciation": "sa-la-ta-lək",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 185,
+        "originalGerman": "Gurke"
+      }
+    },
+    {
+      "id": "k11-v005",
+      "chapter": 11,
+      "chapterTitle": "Kapitel 11",
+      "turkish": "afiyet olsun",
+      "german": [
+        "Guten Appetit"
+      ],
+      "pronunciation": "a-fi-jet ol-sun",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 186,
+        "originalGerman": "Guten Appetit"
+      }
+    },
+    {
+      "id": "k11-v006",
+      "chapter": 11,
+      "chapterTitle": "Kapitel 11",
+      "turkish": "yarım",
+      "german": [
+        "halb"
+      ],
+      "pronunciation": "ja-rəm",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 187,
+        "originalGerman": "halb"
+      }
+    },
+    {
+      "id": "k11-v007",
+      "chapter": 11,
+      "chapterTitle": "Kapitel 11",
+      "turkish": "peynir",
+      "german": [
+        "Käse"
+      ],
+      "pronunciation": "pej-nir",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 188,
+        "originalGerman": "Käse"
+      }
+    },
+    {
+      "id": "k11-v008",
+      "chapter": 11,
+      "chapterTitle": "Kapitel 11",
+      "turkish": "kilo",
+      "german": [
+        "Kilogramm"
+      ],
+      "pronunciation": "ki-lo",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 189,
+        "originalGerman": "Kilogramm"
+      }
+    },
+    {
+      "id": "k11-v009",
+      "chapter": 11,
+      "chapterTitle": "Kapitel 11",
+      "turkish": "zeytin",
+      "german": [
+        "Olive"
+      ],
+      "pronunciation": "sej-tin",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 190,
+        "originalGerman": "Olive"
+      }
+    },
+    {
+      "id": "k11-v010",
+      "chapter": 11,
+      "chapterTitle": "Kapitel 11",
+      "turkish": "domates",
+      "german": [
+        "Tomate"
+      ],
+      "pronunciation": "do-ma-tes",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 191,
+        "originalGerman": "Tomate"
+      }
+    },
+    {
+      "id": "k11-v011",
+      "chapter": 11,
+      "chapterTitle": "Kapitel 11",
+      "turkish": "ne kadar?",
+      "german": [
+        "Wie viel?",
+        "Wie teuer?"
+      ],
+      "pronunciation": "ne ka-dar",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 192,
+        "originalGerman": "Wie viel? / Wie teuer?"
+      }
+    },
+    {
+      "id": "k12-v001",
+      "chapter": 12,
+      "chapterTitle": "Kapitel 12",
+      "turkish": "ayran",
+      "german": [
+        "Ayran"
+      ],
+      "pronunciation": "aj-ran",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 198,
+        "originalGerman": "Ayran"
+      }
+    },
+    {
+      "id": "k12-v002",
+      "chapter": 12,
+      "chapterTitle": "Kapitel 12",
+      "turkish": "baklava",
+      "german": [
+        "Baklava"
+      ],
+      "pronunciation": "bak-la-wa",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 199,
+        "originalGerman": "Baklava"
+      }
+    },
+    {
+      "id": "k12-v003",
+      "chapter": 12,
+      "chapterTitle": "Kapitel 12",
+      "turkish": "biraz",
+      "german": [
+        "ein bisschen"
+      ],
+      "pronunciation": "bi-ras",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 200,
+        "originalGerman": "ein bisschen"
+      }
+    },
+    {
+      "id": "k12-v004",
+      "chapter": 12,
+      "chapterTitle": "Kapitel 12",
+      "turkish": "Türkçe öğreniyorum",
+      "german": [
+        "Ich lerne Türkisch."
+      ],
+      "pronunciation": "türk-tsche ö-re-ni-jo-rum",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 201,
+        "originalGerman": "Ich lerne Türkisch."
+      }
+    },
+    {
+      "id": "k12-v005",
+      "chapter": 12,
+      "chapterTitle": "Kapitel 12",
+      "turkish": "istiyorum",
+      "german": [
+        "ich möchte"
+      ],
+      "pronunciation": "is-ti-jo-rum",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 202,
+        "originalGerman": "ich möchte"
+      }
+    },
+    {
+      "id": "k12-v006",
+      "chapter": 12,
+      "chapterTitle": "Kapitel 12",
+      "turkish": "kahve",
+      "german": [
+        "Kaffee"
+      ],
+      "pronunciation": "kah-we",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 203,
+        "originalGerman": "Kaffee"
+      }
+    },
+    {
+      "id": "k12-v007",
+      "chapter": 12,
+      "chapterTitle": "Kapitel 12",
+      "turkish": "ister misiniz?",
+      "german": [
+        "Möchten Sie?"
+      ],
+      "pronunciation": "is-ter mi-si-nis",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 204,
+        "originalGerman": "Möchten Sie?"
+      }
+    },
+    {
+      "id": "k12-v008",
+      "chapter": 12,
+      "chapterTitle": "Kapitel 12",
+      "turkish": "hesap",
+      "german": [
+        "Rechnung"
+      ],
+      "pronunciation": "he-sap",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 205,
+        "originalGerman": "Rechnung"
+      }
+    },
+    {
+      "id": "k12-v009",
+      "chapter": 12,
+      "chapterTitle": "Kapitel 12",
+      "turkish": "menü",
+      "german": [
+        "Speisekarte"
+      ],
+      "pronunciation": "me-nü",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 206,
+        "originalGerman": "Speisekarte"
+      }
+    },
+    {
+      "id": "k12-v010",
+      "chapter": 12,
+      "chapterTitle": "Kapitel 12",
+      "turkish": "Türk kahvesi",
+      "german": [
+        "türkischer Kaffee"
+      ],
+      "pronunciation": "türk kah-we-si",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 207,
+        "originalGerman": "türkischer Kaffee"
+      }
+    },
+    {
+      "id": "k12-v011",
+      "chapter": 12,
+      "chapterTitle": "Kapitel 12",
+      "turkish": "su",
+      "german": [
+        "Wasser"
+      ],
+      "pronunciation": "su",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 208,
+        "originalGerman": "Wasser"
+      }
+    },
+    {
+      "id": "k13-v001",
+      "chapter": 13,
+      "chapterTitle": "Kapitel 13",
+      "turkish": "dolu",
+      "german": [
+        "besetzt"
+      ],
+      "pronunciation": "do-lu",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 214,
+        "originalGerman": "besetzt"
+      }
+    },
+    {
+      "id": "k13-v002",
+      "chapter": 13,
+      "chapterTitle": "Kapitel 13",
+      "turkish": "hesap lütfen",
+      "german": [
+        "Die Rechnung, bitte."
+      ],
+      "pronunciation": "he-sap lüt-fen",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 215,
+        "originalGerman": "Die Rechnung, bitte."
+      }
+    },
+    {
+      "id": "k13-v003",
+      "chapter": 13,
+      "chapterTitle": "Kapitel 13",
+      "turkish": "yemek",
+      "german": [
+        "Essen"
+      ],
+      "pronunciation": "je-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 216,
+        "originalGerman": "Essen"
+      }
+    },
+    {
+      "id": "k13-v004",
+      "chapter": 13,
+      "chapterTitle": "Kapitel 13",
+      "turkish": "boş",
+      "german": [
+        "frei"
+      ],
+      "pronunciation": "bosch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 217,
+        "originalGerman": "frei"
+      }
+    },
+    {
+      "id": "k13-v005",
+      "chapter": 13,
+      "chapterTitle": "Kapitel 13",
+      "turkish": "kebap",
+      "german": [
+        "Kebab"
+      ],
+      "pronunciation": "ke-bap",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 218,
+        "originalGerman": "Kebab"
+      }
+    },
+    {
+      "id": "k13-v006",
+      "chapter": 13,
+      "chapterTitle": "Kapitel 13",
+      "turkish": "lezzetli",
+      "german": [
+        "lecker"
+      ],
+      "pronunciation": "les-set-li",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 219,
+        "originalGerman": "lecker"
+      }
+    },
+    {
+      "id": "k13-v007",
+      "chapter": 13,
+      "chapterTitle": "Kapitel 13",
+      "turkish": "hesap",
+      "german": [
+        "Rechnung"
+      ],
+      "pronunciation": "he-sap",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 220,
+        "originalGerman": "Rechnung"
+      }
+    },
+    {
+      "id": "k13-v008",
+      "chapter": 13,
+      "chapterTitle": "Kapitel 13",
+      "turkish": "çok",
+      "german": [
+        "sehr"
+      ],
+      "pronunciation": "tschok",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 221,
+        "originalGerman": "sehr"
+      }
+    },
+    {
+      "id": "k13-v009",
+      "chapter": 13,
+      "chapterTitle": "Kapitel 13",
+      "turkish": "masa",
+      "german": [
+        "Tisch"
+      ],
+      "pronunciation": "ma-sa",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 222,
+        "originalGerman": "Tisch"
+      }
+    },
+    {
+      "id": "k13-v010",
+      "chapter": 13,
+      "chapterTitle": "Kapitel 13",
+      "turkish": "lokanta",
+      "german": [
+        "traditionelles Restaurant"
+      ],
+      "pronunciation": "lo-kan-ta",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 223,
+        "originalGerman": "traditionelles Restaurant"
+      }
+    },
+    {
+      "id": "k13-v011",
+      "chapter": 13,
+      "chapterTitle": "Kapitel 13",
+      "turkish": "menemen",
+      "german": [
+        "türkisches Eiergericht"
+      ],
+      "pronunciation": "me-ne-men",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 224,
+        "originalGerman": "türkisches Eiergericht"
+      }
+    },
+    {
+      "id": "k14-v001",
+      "chapter": 14,
+      "chapterTitle": "Kapitel 14",
+      "turkish": "iskelede",
+      "german": [
+        "am Fähranleger"
+      ],
+      "pronunciation": "is-ke-le-de",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 230,
+        "originalGerman": "am Fähranleger"
+      }
+    },
+    {
+      "id": "k14-v002",
+      "chapter": 14,
+      "chapterTitle": "Kapitel 14",
+      "turkish": "vapurda",
+      "german": [
+        "auf der Fähre"
+      ],
+      "pronunciation": "wa-pur-da",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 231,
+        "originalGerman": "auf der Fähre"
+      }
+    },
+    {
+      "id": "k14-v003",
+      "chapter": 14,
+      "chapterTitle": "Kapitel 14",
+      "turkish": "son vapur",
+      "german": [
+        "die letzte Fähre"
+      ],
+      "pronunciation": "son wa-pur",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 232,
+        "originalGerman": "die letzte Fähre"
+      }
+    },
+    {
+      "id": "k14-v004",
+      "chapter": 14,
+      "chapterTitle": "Kapitel 14",
+      "turkish": "otele dönüyorum",
+      "german": [
+        "ich kehre zum Hotel zurück"
+      ],
+      "pronunciation": "o-te-le dö-nü-jo-rum",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 233,
+        "originalGerman": "ich kehre zum Hotel zurück"
+      }
+    },
+    {
+      "id": "k14-v005",
+      "chapter": 14,
+      "chapterTitle": "Kapitel 14",
+      "turkish": "otelde",
+      "german": [
+        "im Hotel"
+      ],
+      "pronunciation": "o-tel-de",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 234,
+        "originalGerman": "im Hotel"
+      }
+    },
+    {
+      "id": "k14-v006",
+      "chapter": 14,
+      "chapterTitle": "Kapitel 14",
+      "turkish": "Sultanahmet'te",
+      "german": [
+        "in Sultanahmet"
+      ],
+      "pronunciation": "sul-ta-na-met-te",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 235,
+        "originalGerman": "in Sultanahmet"
+      }
+    },
+    {
+      "id": "k14-v007",
+      "chapter": 14,
+      "chapterTitle": "Kapitel 14",
+      "turkish": "şimdi",
+      "german": [
+        "jetzt"
+      ],
+      "pronunciation": "schim-di",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 236,
+        "originalGerman": "jetzt"
+      }
+    },
+    {
+      "id": "k14-v008",
+      "chapter": 14,
+      "chapterTitle": "Kapitel 14",
+      "turkish": "son",
+      "german": [
+        "letzter; Ende"
+      ],
+      "pronunciation": "son",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 237,
+        "originalGerman": "letzter; Ende"
+      }
+    },
+    {
+      "id": "k14-v009",
+      "chapter": 14,
+      "chapterTitle": "Kapitel 14",
+      "turkish": "saat",
+      "german": [
+        "Uhr; Stunde"
+      ],
+      "pronunciation": "sa-at",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 238,
+        "originalGerman": "Uhr; Stunde"
+      }
+    },
+    {
+      "id": "k14-v010",
+      "chapter": 14,
+      "chapterTitle": "Kapitel 14",
+      "turkish": "saat kaçta?",
+      "german": [
+        "um wie viel Uhr?"
+      ],
+      "pronunciation": "sa-at katsch-ta",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 239,
+        "originalGerman": "um wie viel Uhr?"
+      }
+    },
+    {
+      "id": "k14-v011",
+      "chapter": 14,
+      "chapterTitle": "Kapitel 14",
+      "turkish": "Saat kaç?",
+      "german": [
+        "Wie spät ist es?"
+      ],
+      "pronunciation": "sa-at katsch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 240,
+        "originalGerman": "Wie spät ist es?"
+      }
+    },
+    {
+      "id": "k14-v012",
+      "chapter": 14,
+      "chapterTitle": "Kapitel 14",
+      "turkish": "kaç?",
+      "german": [
+        "wie viele?; wie spät?"
+      ],
+      "pronunciation": "katsch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 241,
+        "originalGerman": "wie viele?; wie spät?"
+      }
+    },
+    {
+      "id": "k14-v013",
+      "chapter": 14,
+      "chapterTitle": "Kapitel 14",
+      "turkish": "dönmek",
+      "german": [
+        "zurückkehren; sich wenden"
+      ],
+      "pronunciation": "dön-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 242,
+        "originalGerman": "zurückkehren; sich wenden"
+      }
+    },
+    {
+      "id": "k15-v001",
+      "chapter": 15,
+      "chapterTitle": "Kapitel 15",
+      "turkish": "on sekiz",
+      "german": [
+        "achtzehn"
+      ],
+      "pronunciation": "on se-kis",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 248,
+        "originalGerman": "achtzehn"
+      }
+    },
+    {
+      "id": "k15-v002",
+      "chapter": 15,
+      "chapterTitle": "Kapitel 15",
+      "turkish": "ziyaret",
+      "german": [
+        "Besuch"
+      ],
+      "pronunciation": "si-ja-ret",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 249,
+        "originalGerman": "Besuch"
+      }
+    },
+    {
+      "id": "k15-v003",
+      "chapter": 15,
+      "chapterTitle": "Kapitel 15",
+      "turkish": "ziyaretçi",
+      "german": [
+        "Besucher"
+      ],
+      "pronunciation": "si-ja-ret-tschi",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 250,
+        "originalGerman": "Besucher"
+      }
+    },
+    {
+      "id": "k15-v004",
+      "chapter": 15,
+      "chapterTitle": "Kapitel 15",
+      "turkish": "on üç",
+      "german": [
+        "dreizehn"
+      ],
+      "pronunciation": "on ütsch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 251,
+        "originalGerman": "dreizehn"
+      }
+    },
+    {
+      "id": "k15-v005",
+      "chapter": 15,
+      "chapterTitle": "Kapitel 15",
+      "turkish": "giriş",
+      "german": [
+        "Eingang; Eintritt"
+      ],
+      "pronunciation": "gi-risch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 252,
+        "originalGerman": "Eingang; Eintritt"
+      }
+    },
+    {
+      "id": "k15-v006",
+      "chapter": 15,
+      "chapterTitle": "Kapitel 15",
+      "turkish": "on bir",
+      "german": [
+        "elf"
+      ],
+      "pronunciation": "on bir",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 253,
+        "originalGerman": "elf"
+      }
+    },
+    {
+      "id": "k15-v007",
+      "chapter": 15,
+      "chapterTitle": "Kapitel 15",
+      "turkish": "on beş",
+      "german": [
+        "fünfzehn"
+      ],
+      "pronunciation": "on besch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 254,
+        "originalGerman": "fünfzehn"
+      }
+    },
+    {
+      "id": "k15-v008",
+      "chapter": 15,
+      "chapterTitle": "Kapitel 15",
+      "turkish": "açık",
+      "german": [
+        "geöffnet; offen"
+      ],
+      "pronunciation": "a-tschək",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 255,
+        "originalGerman": "geöffnet; offen"
+      }
+    },
+    {
+      "id": "k15-v009",
+      "chapter": 15,
+      "chapterTitle": "Kapitel 15",
+      "turkish": "kapalı",
+      "german": [
+        "geschlossen"
+      ],
+      "pronunciation": "ka-pa-lə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 256,
+        "originalGerman": "geschlossen"
+      }
+    },
+    {
+      "id": "k15-v010",
+      "chapter": 15,
+      "chapterTitle": "Kapitel 15",
+      "turkish": "açık mı?",
+      "german": [
+        "ist es geöffnet?"
+      ],
+      "pronunciation": "a-tschək mə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 257,
+        "originalGerman": "ist es geöffnet?"
+      }
+    },
+    {
+      "id": "k15-v011",
+      "chapter": 15,
+      "chapterTitle": "Kapitel 15",
+      "turkish": "bugün açık mı?",
+      "german": [
+        "ist es heute geöffnet?"
+      ],
+      "pronunciation": "bu-gün a-tschək mə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 258,
+        "originalGerman": "ist es heute geöffnet?"
+      }
+    },
+    {
+      "id": "k15-v012",
+      "chapter": 15,
+      "chapterTitle": "Kapitel 15",
+      "turkish": "ücretsiz",
+      "german": [
+        "kostenlos"
+      ],
+      "pronunciation": "üdsch-ret-sis",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 259,
+        "originalGerman": "kostenlos"
+      }
+    },
+    {
+      "id": "k15-v013",
+      "chapter": 15,
+      "chapterTitle": "Kapitel 15",
+      "turkish": "on dokuz",
+      "german": [
+        "neunzehn"
+      ],
+      "pronunciation": "on do-kus",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 260,
+        "originalGerman": "neunzehn"
+      }
+    },
+    {
+      "id": "k15-v014",
+      "chapter": 15,
+      "chapterTitle": "Kapitel 15",
+      "turkish": "on altı",
+      "german": [
+        "sechzehn"
+      ],
+      "pronunciation": "on al-tə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 261,
+        "originalGerman": "sechzehn"
+      }
+    },
+    {
+      "id": "k15-v015",
+      "chapter": 15,
+      "chapterTitle": "Kapitel 15",
+      "turkish": "on yedi",
+      "german": [
+        "siebzehn"
+      ],
+      "pronunciation": "on je-di",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 262,
+        "originalGerman": "siebzehn"
+      }
+    },
+    {
+      "id": "k15-v016",
+      "chapter": 15,
+      "chapterTitle": "Kapitel 15",
+      "turkish": "on dört",
+      "german": [
+        "vierzehn"
+      ],
+      "pronunciation": "on dört",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 263,
+        "originalGerman": "vierzehn"
+      }
+    },
+    {
+      "id": "k15-v017",
+      "chapter": 15,
+      "chapterTitle": "Kapitel 15",
+      "turkish": "on iki",
+      "german": [
+        "zwölf"
+      ],
+      "pronunciation": "on i-ki",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 264,
+        "originalGerman": "zwölf"
+      }
+    },
+    {
+      "id": "k16-v001",
+      "chapter": 16,
+      "chapterTitle": "Kapitel 16",
+      "turkish": "çıkarmak",
+      "german": [
+        "ausziehen; herausnehmen"
+      ],
+      "pronunciation": "tschi-kar-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 270,
+        "originalGerman": "ausziehen; herausnehmen"
+      }
+    },
+    {
+      "id": "k16-v002",
+      "chapter": 16,
+      "chapterTitle": "Kapitel 16",
+      "turkish": "örtmek",
+      "german": [
+        "bedecken"
+      ],
+      "pronunciation": "ört-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 271,
+        "originalGerman": "bedecken"
+      }
+    },
+    {
+      "id": "k16-v003",
+      "chapter": 16,
+      "chapterTitle": "Kapitel 16",
+      "turkish": "serbest",
+      "german": [
+        "erlaubt; frei"
+      ],
+      "pronunciation": "ser-best",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 272,
+        "originalGerman": "erlaubt; frei"
+      }
+    },
+    {
+      "id": "k16-v004",
+      "chapter": 16,
+      "chapterTitle": "Kapitel 16",
+      "turkish": "fotoğraf",
+      "german": [
+        "Foto"
+      ],
+      "pronunciation": "fo-to-raf",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 273,
+        "originalGerman": "Foto"
+      }
+    },
+    {
+      "id": "k16-v005",
+      "chapter": 16,
+      "chapterTitle": "Kapitel 16",
+      "turkish": "baş",
+      "german": [
+        "Kopf"
+      ],
+      "pronunciation": "basch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 274,
+        "originalGerman": "Kopf"
+      }
+    },
+    {
+      "id": "k16-v006",
+      "chapter": 16,
+      "chapterTitle": "Kapitel 16",
+      "turkish": "sessiz",
+      "german": [
+        "leise; still"
+      ],
+      "pronunciation": "ses-sis",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 275,
+        "originalGerman": "leise; still"
+      }
+    },
+    {
+      "id": "k16-v007",
+      "chapter": 16,
+      "chapterTitle": "Kapitel 16",
+      "turkish": "mümkün",
+      "german": [
+        "möglich"
+      ],
+      "pronunciation": "müm-kün",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 276,
+        "originalGerman": "möglich"
+      }
+    },
+    {
+      "id": "k16-v008",
+      "chapter": 16,
+      "chapterTitle": "Kapitel 16",
+      "turkish": "cami",
+      "german": [
+        "Moschee"
+      ],
+      "pronunciation": "dscha-mi",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 277,
+        "originalGerman": "Moschee"
+      }
+    },
+    {
+      "id": "k16-v009",
+      "chapter": 16,
+      "chapterTitle": "Kapitel 16",
+      "turkish": "ayakkabı",
+      "german": [
+        "Schuh"
+      ],
+      "pronunciation": "a-jak-ka-bə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 278,
+        "originalGerman": "Schuh"
+      }
+    },
+    {
+      "id": "k16-v010",
+      "chapter": 16,
+      "chapterTitle": "Kapitel 16",
+      "turkish": "Fotoğraf mümkün mü?",
+      "german": [
+        "Sind Fotos möglich?"
+      ],
+      "pronunciation": "fo-to-raf müm-kün mü",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 279,
+        "originalGerman": "Sind Fotos möglich?"
+      }
+    },
+    {
+      "id": "k16-v011",
+      "chapter": 16,
+      "chapterTitle": "Kapitel 16",
+      "turkish": "yasak",
+      "german": [
+        "verboten"
+      ],
+      "pronunciation": "ja-sak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 280,
+        "originalGerman": "verboten"
+      }
+    },
+    {
+      "id": "k16-v012",
+      "chapter": 16,
+      "chapterTitle": "Kapitel 16",
+      "turkish": "ayakkabınızı çıkarın",
+      "german": [
+        "Ziehen Sie Ihre Schuhe aus."
+      ],
+      "pronunciation": "a-jak-ka-bə-nə-sə tschi-ka-rən",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 281,
+        "originalGerman": "Ziehen Sie Ihre Schuhe aus."
+      }
+    },
+    {
+      "id": "k16-v013",
+      "chapter": 16,
+      "chapterTitle": "Kapitel 16",
+      "turkish": "çekmek",
+      "german": [
+        "ziehen; aufnehmen"
+      ],
+      "pronunciation": "tschek-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 282,
+        "originalGerman": "ziehen; aufnehmen"
+      }
+    },
+    {
+      "id": "k17-v001",
+      "chapter": 17,
+      "chapterTitle": "Kapitel 17",
+      "turkish": "ağaç",
+      "german": [
+        "Baum"
+      ],
+      "pronunciation": "a-atsch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 288,
+        "originalGerman": "Baum"
+      }
+    },
+    {
+      "id": "k17-v002",
+      "chapter": 17,
+      "chapterTitle": "Kapitel 17",
+      "turkish": "çiçek",
+      "german": [
+        "Blume"
+      ],
+      "pronunciation": "tschi-tschek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 289,
+        "originalGerman": "Blume"
+      }
+    },
+    {
+      "id": "k17-v003",
+      "chapter": 17,
+      "chapterTitle": "Kapitel 17",
+      "turkish": "yürümek",
+      "german": [
+        "gehen; spazieren"
+      ],
+      "pronunciation": "jü-rü-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 290,
+        "originalGerman": "gehen; spazieren"
+      }
+    },
+    {
+      "id": "k17-v004",
+      "chapter": 17,
+      "chapterTitle": "Kapitel 17",
+      "turkish": "sarı",
+      "german": [
+        "gelb"
+      ],
+      "pronunciation": "sa-rə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 291,
+        "originalGerman": "gelb"
+      }
+    },
+    {
+      "id": "k17-v005",
+      "chapter": 17,
+      "chapterTitle": "Kapitel 17",
+      "turkish": "yeşil",
+      "german": [
+        "grün"
+      ],
+      "pronunciation": "je-schil",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 292,
+        "originalGerman": "grün"
+      }
+    },
+    {
+      "id": "k17-v006",
+      "chapter": 17,
+      "chapterTitle": "Kapitel 17",
+      "turkish": "İyi dinlenmeler.",
+      "german": [
+        "Gute Erholung."
+      ],
+      "pronunciation": "i-ji din-len-me-ler",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 293,
+        "originalGerman": "Gute Erholung."
+      }
+    },
+    {
+      "id": "k17-v007",
+      "chapter": 17,
+      "chapterTitle": "Kapitel 17",
+      "turkish": "yürüyorum",
+      "german": [
+        "ich gehe/spaziere"
+      ],
+      "pronunciation": "jü-rü-jo-rum",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 294,
+        "originalGerman": "ich gehe/spaziere"
+      }
+    },
+    {
+      "id": "k17-v008",
+      "chapter": 17,
+      "chapterTitle": "Kapitel 17",
+      "turkish": "okuyorum",
+      "german": [
+        "ich lese"
+      ],
+      "pronunciation": "o-ku-jo-rum",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 295,
+        "originalGerman": "ich lese"
+      }
+    },
+    {
+      "id": "k17-v009",
+      "chapter": 17,
+      "chapterTitle": "Kapitel 17",
+      "turkish": "dinleniyorum",
+      "german": [
+        "ich ruhe mich aus"
+      ],
+      "pronunciation": "din-le-ni-jo-rum",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 296,
+        "originalGerman": "ich ruhe mich aus"
+      }
+    },
+    {
+      "id": "k17-v010",
+      "chapter": 17,
+      "chapterTitle": "Kapitel 17",
+      "turkish": "oturuyorum",
+      "german": [
+        "ich sitze"
+      ],
+      "pronunciation": "o-tu-ru-jo-rum",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 297,
+        "originalGerman": "ich sitze"
+      }
+    },
+    {
+      "id": "k17-v011",
+      "chapter": 17,
+      "chapterTitle": "Kapitel 17",
+      "turkish": "okumak",
+      "german": [
+        "lesen"
+      ],
+      "pronunciation": "o-ku-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 298,
+        "originalGerman": "lesen"
+      }
+    },
+    {
+      "id": "k17-v012",
+      "chapter": 17,
+      "chapterTitle": "Kapitel 17",
+      "turkish": "park",
+      "german": [
+        "Park"
+      ],
+      "pronunciation": "park",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 299,
+        "originalGerman": "Park"
+      }
+    },
+    {
+      "id": "k17-v013",
+      "chapter": 17,
+      "chapterTitle": "Kapitel 17",
+      "turkish": "kırmızı",
+      "german": [
+        "rot"
+      ],
+      "pronunciation": "kər-mə-sə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 300,
+        "originalGerman": "rot"
+      }
+    },
+    {
+      "id": "k17-v014",
+      "chapter": 17,
+      "chapterTitle": "Kapitel 17",
+      "turkish": "dinlenmek",
+      "german": [
+        "sich ausruhen"
+      ],
+      "pronunciation": "din-len-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 301,
+        "originalGerman": "sich ausruhen"
+      }
+    },
+    {
+      "id": "k17-v015",
+      "chapter": 17,
+      "chapterTitle": "Kapitel 17",
+      "turkish": "oturmak",
+      "german": [
+        "sitzen"
+      ],
+      "pronunciation": "o-tur-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 302,
+        "originalGerman": "sitzen"
+      }
+    },
+    {
+      "id": "k18-v001",
+      "chapter": 18,
+      "chapterTitle": "Kapitel 18",
+      "turkish": "balık tutmak",
+      "german": [
+        "angeln"
+      ],
+      "pronunciation": "ba-lək tut-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 308,
+        "originalGerman": "angeln"
+      }
+    },
+    {
+      "id": "k18-v002",
+      "chapter": 18,
+      "chapterTitle": "Kapitel 18",
+      "turkish": "köprü",
+      "german": [
+        "Brücke"
+      ],
+      "pronunciation": "kö-prü",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 309,
+        "originalGerman": "Brücke"
+      }
+    },
+    {
+      "id": "k18-v003",
+      "chapter": 18,
+      "chapterTitle": "Kapitel 18",
+      "turkish": "bakıyor",
+      "german": [
+        "er/sie schaut"
+      ],
+      "pronunciation": "ba-kə-jor",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 310,
+        "originalGerman": "er/sie schaut"
+      }
+    },
+    {
+      "id": "k18-v004",
+      "chapter": 18,
+      "chapterTitle": "Kapitel 18",
+      "turkish": "konuşuyor",
+      "german": [
+        "er/sie spricht"
+      ],
+      "pronunciation": "ko-nu-schu-jor",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 311,
+        "originalGerman": "er/sie spricht"
+      }
+    },
+    {
+      "id": "k18-v005",
+      "chapter": 18,
+      "chapterTitle": "Kapitel 18",
+      "turkish": "beklemiyor",
+      "german": [
+        "er/sie wartet nicht"
+      ],
+      "pronunciation": "bek-le-mi-jor",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 312,
+        "originalGerman": "er/sie wartet nicht"
+      }
+    },
+    {
+      "id": "k18-v006",
+      "chapter": 18,
+      "chapterTitle": "Kapitel 18",
+      "turkish": "balık",
+      "german": [
+        "Fisch"
+      ],
+      "pronunciation": "ba-lək",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 313,
+        "originalGerman": "Fisch"
+      }
+    },
+    {
+      "id": "k18-v007",
+      "chapter": 18,
+      "chapterTitle": "Kapitel 18",
+      "turkish": "balıkçı",
+      "german": [
+        "Fischer; Fischverkäufer"
+      ],
+      "pronunciation": "ba-lək-tschə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 314,
+        "originalGerman": "Fischer; Fischverkäufer"
+      }
+    },
+    {
+      "id": "k18-v008",
+      "chapter": 18,
+      "chapterTitle": "Kapitel 18",
+      "turkish": "tutmak",
+      "german": [
+        "halten; fangen"
+      ],
+      "pronunciation": "tut-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 315,
+        "originalGerman": "halten; fangen"
+      }
+    },
+    {
+      "id": "k18-v009",
+      "chapter": 18,
+      "chapterTitle": "Kapitel 18",
+      "turkish": "balık tutuyorum",
+      "german": [
+        "ich angle"
+      ],
+      "pronunciation": "ba-lək tu-tu-jo-rum",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 316,
+        "originalGerman": "ich angle"
+      }
+    },
+    {
+      "id": "k18-v010",
+      "chapter": 18,
+      "chapterTitle": "Kapitel 18",
+      "turkish": "her gün",
+      "german": [
+        "jeden Tag"
+      ],
+      "pronunciation": "her gün",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 317,
+        "originalGerman": "jeden Tag"
+      }
+    },
+    {
+      "id": "k18-v011",
+      "chapter": 18,
+      "chapterTitle": "Kapitel 18",
+      "turkish": "bakmak",
+      "german": [
+        "schauen"
+      ],
+      "pronunciation": "bak-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 318,
+        "originalGerman": "schauen"
+      }
+    },
+    {
+      "id": "k18-v012",
+      "chapter": 18,
+      "chapterTitle": "Kapitel 18",
+      "turkish": "konuşmak",
+      "german": [
+        "sprechen"
+      ],
+      "pronunciation": "ko-nusch-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 319,
+        "originalGerman": "sprechen"
+      }
+    },
+    {
+      "id": "k18-v013",
+      "chapter": 18,
+      "chapterTitle": "Kapitel 18",
+      "turkish": "satmak",
+      "german": [
+        "verkaufen"
+      ],
+      "pronunciation": "sat-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 320,
+        "originalGerman": "verkaufen"
+      }
+    },
+    {
+      "id": "k18-v014",
+      "chapter": 18,
+      "chapterTitle": "Kapitel 18",
+      "turkish": "beklemek",
+      "german": [
+        "warten"
+      ],
+      "pronunciation": "bek-le-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 321,
+        "originalGerman": "warten"
+      }
+    },
+    {
+      "id": "k18-v015",
+      "chapter": 18,
+      "chapterTitle": "Kapitel 18",
+      "turkish": "ne yapıyorsunuz?",
+      "german": [
+        "Was machen Sie gerade?"
+      ],
+      "pronunciation": "ne ja-pə-jor-su-nus",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 322,
+        "originalGerman": "Was machen Sie gerade?"
+      }
+    },
+    {
+      "id": "k19-v001",
+      "chapter": 19,
+      "chapterTitle": "Kapitel 19",
+      "turkish": "Almanya'dan",
+      "german": [
+        "aus Deutschland"
+      ],
+      "pronunciation": "al-man-ja-dan",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 328,
+        "originalGerman": "aus Deutschland"
+      }
+    },
+    {
+      "id": "k19-v002",
+      "chapter": 19,
+      "chapterTitle": "Kapitel 19",
+      "turkish": "manzara",
+      "german": [
+        "Aussicht; Landschaft"
+      ],
+      "pronunciation": "man-sa-ra",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 329,
+        "originalGerman": "Aussicht; Landschaft"
+      }
+    },
+    {
+      "id": "k19-v003",
+      "chapter": 19,
+      "chapterTitle": "Kapitel 19",
+      "turkish": "Galata Kulesi",
+      "german": [
+        "Galataturm"
+      ],
+      "pronunciation": "ga-la-ta ku-le-si",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 330,
+        "originalGerman": "Galataturm"
+      }
+    },
+    {
+      "id": "k19-v004",
+      "chapter": 19,
+      "chapterTitle": "Kapitel 19",
+      "turkish": "yukarı",
+      "german": [
+        "nach oben; oben"
+      ],
+      "pronunciation": "ju-ka-rə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 331,
+        "originalGerman": "nach oben; oben"
+      }
+    },
+    {
+      "id": "k19-v005",
+      "chapter": 19,
+      "chapterTitle": "Kapitel 19",
+      "turkish": "aşağı",
+      "german": [
+        "nach unten; unten"
+      ],
+      "pronunciation": "a-scha-ə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 332,
+        "originalGerman": "nach unten; unten"
+      }
+    },
+    {
+      "id": "k19-v006",
+      "chapter": 19,
+      "chapterTitle": "Kapitel 19",
+      "turkish": "yokuş",
+      "german": [
+        "Steigung; steile Straße"
+      ],
+      "pronunciation": "jo-kusch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 333,
+        "originalGerman": "Steigung; steile Straße"
+      }
+    },
+    {
+      "id": "k19-v007",
+      "chapter": 19,
+      "chapterTitle": "Kapitel 19",
+      "turkish": "kule",
+      "german": [
+        "Turm"
+      ],
+      "pronunciation": "ku-le",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 334,
+        "originalGerman": "Turm"
+      }
+    },
+    {
+      "id": "k19-v008",
+      "chapter": 19,
+      "chapterTitle": "Kapitel 19",
+      "turkish": "otelden",
+      "german": [
+        "vom Hotel"
+      ],
+      "pronunciation": "o-tel-den",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 335,
+        "originalGerman": "vom Hotel"
+      }
+    },
+    {
+      "id": "k19-v009",
+      "chapter": 19,
+      "chapterTitle": "Kapitel 19",
+      "turkish": "kuleden",
+      "german": [
+        "vom Turm"
+      ],
+      "pronunciation": "ku-le-den",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 336,
+        "originalGerman": "vom Turm"
+      }
+    },
+    {
+      "id": "k19-v010",
+      "chapter": 19,
+      "chapterTitle": "Kapitel 19",
+      "turkish": "köprüden",
+      "german": [
+        "von der Brücke"
+      ],
+      "pronunciation": "kö-prü-den",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 337,
+        "originalGerman": "von der Brücke"
+      }
+    },
+    {
+      "id": "k19-v011",
+      "chapter": 19,
+      "chapterTitle": "Kapitel 19",
+      "turkish": "oradan",
+      "german": [
+        "von dort"
+      ],
+      "pronunciation": "o-ra-dan",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 338,
+        "originalGerman": "von dort"
+      }
+    },
+    {
+      "id": "k19-v012",
+      "chapter": 19,
+      "chapterTitle": "Kapitel 19",
+      "turkish": "buradan",
+      "german": [
+        "von hier"
+      ],
+      "pronunciation": "bu-ra-dan",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 339,
+        "originalGerman": "von hier"
+      }
+    },
+    {
+      "id": "k19-v013",
+      "chapter": 19,
+      "chapterTitle": "Kapitel 19",
+      "turkish": "nereden?",
+      "german": [
+        "woher?"
+      ],
+      "pronunciation": "ne-re-den",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 340,
+        "originalGerman": "woher?"
+      }
+    },
+    {
+      "id": "k20-v001",
+      "chapter": 20,
+      "chapterTitle": "Kapitel 20",
+      "turkish": "mavi",
+      "german": [
+        "blau"
+      ],
+      "pronunciation": "ma-wi",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 346,
+        "originalGerman": "blau"
+      }
+    },
+    {
+      "id": "k20-v002",
+      "chapter": 20,
+      "chapterTitle": "Kapitel 20",
+      "turkish": "cadde",
+      "german": [
+        "breite Straße; Allee"
+      ],
+      "pronunciation": "dschad-de",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 347,
+        "originalGerman": "breite Straße; Allee"
+      }
+    },
+    {
+      "id": "k20-v003",
+      "chapter": 20,
+      "chapterTitle": "Kapitel 20",
+      "turkish": "şu",
+      "german": [
+        "das da"
+      ],
+      "pronunciation": "schu",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 348,
+        "originalGerman": "das da"
+      }
+    },
+    {
+      "id": "k20-v004",
+      "chapter": 20,
+      "chapterTitle": "Kapitel 20",
+      "turkish": "bu",
+      "german": [
+        "dies; dieses hier"
+      ],
+      "pronunciation": "bu",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 349,
+        "originalGerman": "dies; dieses hier"
+      }
+    },
+    {
+      "id": "k20-v005",
+      "chapter": 20,
+      "chapterTitle": "Kapitel 20",
+      "turkish": "bunlar",
+      "german": [
+        "diese hier"
+      ],
+      "pronunciation": "bun-lar",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 350,
+        "originalGerman": "diese hier"
+      }
+    },
+    {
+      "id": "k20-v006",
+      "chapter": 20,
+      "chapterTitle": "Kapitel 20",
+      "turkish": "renk",
+      "german": [
+        "Farbe"
+      ],
+      "pronunciation": "renk",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 351,
+        "originalGerman": "Farbe"
+      }
+    },
+    {
+      "id": "k20-v007",
+      "chapter": 20,
+      "chapterTitle": "Kapitel 20",
+      "turkish": "mağaza",
+      "german": [
+        "Geschäft"
+      ],
+      "pronunciation": "ma-a-za",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 352,
+        "originalGerman": "Geschäft"
+      }
+    },
+    {
+      "id": "k20-v008",
+      "chapter": 20,
+      "chapterTitle": "Kapitel 20",
+      "turkish": "gömlek",
+      "german": [
+        "Hemd"
+      ],
+      "pronunciation": "göm-lek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 353,
+        "originalGerman": "Hemd"
+      }
+    },
+    {
+      "id": "k20-v009",
+      "chapter": 20,
+      "chapterTitle": "Kapitel 20",
+      "turkish": "pantolon",
+      "german": [
+        "Hose"
+      ],
+      "pronunciation": "pan-to-lon",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 354,
+        "originalGerman": "Hose"
+      }
+    },
+    {
+      "id": "k20-v010",
+      "chapter": 20,
+      "chapterTitle": "Kapitel 20",
+      "turkish": "ceket",
+      "german": [
+        "Jacke"
+      ],
+      "pronunciation": "dscha-ket",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 355,
+        "originalGerman": "Jacke"
+      }
+    },
+    {
+      "id": "k20-v011",
+      "chapter": 20,
+      "chapterTitle": "Kapitel 20",
+      "turkish": "o",
+      "german": [
+        "jenes dort; er/sie/es"
+      ],
+      "pronunciation": "o",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 356,
+        "originalGerman": "jenes dort; er/sie/es"
+      }
+    },
+    {
+      "id": "k20-v012",
+      "chapter": 20,
+      "chapterTitle": "Kapitel 20",
+      "turkish": "kıyafet",
+      "german": [
+        "Kleidung"
+      ],
+      "pronunciation": "kə-ja-fet",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 357,
+        "originalGerman": "Kleidung"
+      }
+    },
+    {
+      "id": "k20-v013",
+      "chapter": 20,
+      "chapterTitle": "Kapitel 20",
+      "turkish": "siyah",
+      "german": [
+        "schwarz"
+      ],
+      "pronunciation": "si-jah",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 358,
+        "originalGerman": "schwarz"
+      }
+    },
+    {
+      "id": "k20-v014",
+      "chapter": 20,
+      "chapterTitle": "Kapitel 20",
+      "turkish": "Türk müziği",
+      "german": [
+        "türkische Musik"
+      ],
+      "pronunciation": "türk mü-si-i",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 359,
+        "originalGerman": "türkische Musik"
+      }
+    },
+    {
+      "id": "k20-v015",
+      "chapter": 20,
+      "chapterTitle": "Kapitel 20",
+      "turkish": "bağlama",
+      "german": [
+        "türkisches Saiteninstrument"
+      ],
+      "pronunciation": "ba-la-ma",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 360,
+        "originalGerman": "türkisches Saiteninstrument"
+      }
+    },
+    {
+      "id": "k20-v016",
+      "chapter": 20,
+      "chapterTitle": "Kapitel 20",
+      "turkish": "beyaz",
+      "german": [
+        "weiß"
+      ],
+      "pronunciation": "be-jas",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 361,
+        "originalGerman": "weiß"
+      }
+    },
+    {
+      "id": "k20-v017",
+      "chapter": 20,
+      "chapterTitle": "Kapitel 20",
+      "turkish": "Bu ceket kaç lira?",
+      "german": [
+        "Wie viel kostet diese Jacke?"
+      ],
+      "pronunciation": "bu dscha-ket katsch li-ra",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 362,
+        "originalGerman": "Wie viel kostet diese Jacke?"
+      }
+    },
+    {
+      "id": "k21-v001",
+      "chapter": 21,
+      "chapterTitle": "Kapitel 21",
+      "turkish": "Bu sizin mi?",
+      "german": [
+        "Gehört das Ihnen?"
+      ],
+      "pronunciation": "bu si-sin mi",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 368,
+        "originalGerman": "Gehört das Ihnen?"
+      }
+    },
+    {
+      "id": "k21-v002",
+      "chapter": 21,
+      "chapterTitle": "Kapitel 21",
+      "turkish": "biletiniz",
+      "german": [
+        "Ihr Ticket"
+      ],
+      "pronunciation": "bi-le-ti-nis",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 369,
+        "originalGerman": "Ihr Ticket"
+      }
+    },
+    {
+      "id": "k21-v003",
+      "chapter": 21,
+      "chapterTitle": "Kapitel 21",
+      "turkish": "çantanız",
+      "german": [
+        "Ihre Tasche"
+      ],
+      "pronunciation": "tschan-ta-nəs",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 370,
+        "originalGerman": "Ihre Tasche"
+      }
+    },
+    {
+      "id": "k21-v004",
+      "chapter": 21,
+      "chapterTitle": "Kapitel 21",
+      "turkish": "Evet, benim.",
+      "german": [
+        "Ja, mir."
+      ],
+      "pronunciation": "e-wet be-nim",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 371,
+        "originalGerman": "Ja, mir."
+      }
+    },
+    {
+      "id": "k21-v005",
+      "chapter": 21,
+      "chapterTitle": "Kapitel 21",
+      "turkish": "anahtarım",
+      "german": [
+        "mein Schlüssel"
+      ],
+      "pronunciation": "a-nach-ta-rəm",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 372,
+        "originalGerman": "mein Schlüssel"
+      }
+    },
+    {
+      "id": "k21-v006",
+      "chapter": 21,
+      "chapterTitle": "Kapitel 21",
+      "turkish": "telefonum",
+      "german": [
+        "mein Telefon"
+      ],
+      "pronunciation": "te-le-fo-num",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 373,
+        "originalGerman": "mein Telefon"
+      }
+    },
+    {
+      "id": "k21-v007",
+      "chapter": 21,
+      "chapterTitle": "Kapitel 21",
+      "turkish": "biletim",
+      "german": [
+        "mein Ticket"
+      ],
+      "pronunciation": "bi-le-tim",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 374,
+        "originalGerman": "mein Ticket"
+      }
+    },
+    {
+      "id": "k21-v008",
+      "chapter": 21,
+      "chapterTitle": "Kapitel 21",
+      "turkish": "çantam",
+      "german": [
+        "meine Tasche"
+      ],
+      "pronunciation": "tschan-tam",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 375,
+        "originalGerman": "meine Tasche"
+      }
+    },
+    {
+      "id": "k21-v009",
+      "chapter": 21,
+      "chapterTitle": "Kapitel 21",
+      "turkish": "saray",
+      "german": [
+        "Palast"
+      ],
+      "pronunciation": "sa-raj",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 376,
+        "originalGerman": "Palast"
+      }
+    },
+    {
+      "id": "k21-v010",
+      "chapter": 21,
+      "chapterTitle": "Kapitel 21",
+      "turkish": "kimin?",
+      "german": [
+        "wessen?"
+      ],
+      "pronunciation": "ki-min",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 377,
+        "originalGerman": "wessen?"
+      }
+    },
+    {
+      "id": "k22-v001",
+      "chapter": 22,
+      "chapterTitle": "Kapitel 22",
+      "turkish": "hareket",
+      "german": [
+        "Abfahrt; Bewegung"
+      ],
+      "pronunciation": "ha-re-ket",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 383,
+        "originalGerman": "Abfahrt; Bewegung"
+      }
+    },
+    {
+      "id": "k22-v002",
+      "chapter": 22,
+      "chapterTitle": "Kapitel 22",
+      "turkish": "otobüs",
+      "german": [
+        "Bus"
+      ],
+      "pronunciation": "o-to-büs",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 384,
+        "originalGerman": "Bus"
+      }
+    },
+    {
+      "id": "k22-v003",
+      "chapter": 22,
+      "chapterTitle": "Kapitel 22",
+      "turkish": "erken",
+      "german": [
+        "früh"
+      ],
+      "pronunciation": "er-ken",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 385,
+        "originalGerman": "früh"
+      }
+    },
+    {
+      "id": "k22-v004",
+      "chapter": 22,
+      "chapterTitle": "Kapitel 22",
+      "turkish": "buçuk",
+      "german": [
+        "halb"
+      ],
+      "pronunciation": "bu-dschuk",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 386,
+        "originalGerman": "halb"
+      }
+    },
+    {
+      "id": "k22-v005",
+      "chapter": 22,
+      "chapterTitle": "Kapitel 22",
+      "turkish": "buluşmak",
+      "german": [
+        "sich treffen"
+      ],
+      "pronunciation": "bu-lusch-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 387,
+        "originalGerman": "sich treffen"
+      }
+    },
+    {
+      "id": "k22-v006",
+      "chapter": 22,
+      "chapterTitle": "Kapitel 22",
+      "turkish": "geç",
+      "german": [
+        "spät"
+      ],
+      "pronunciation": "getsch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 388,
+        "originalGerman": "spät"
+      }
+    },
+    {
+      "id": "k22-v007",
+      "chapter": 22,
+      "chapterTitle": "Kapitel 22",
+      "turkish": "saat üçte",
+      "german": [
+        "um drei Uhr"
+      ],
+      "pronunciation": "sa-at ütsch-te",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 389,
+        "originalGerman": "um drei Uhr"
+      }
+    },
+    {
+      "id": "k22-v008",
+      "chapter": 22,
+      "chapterTitle": "Kapitel 22",
+      "turkish": "saat üç buçukta",
+      "german": [
+        "um halb vier"
+      ],
+      "pronunciation": "sa-at ütsch bu-dschuk-ta",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 390,
+        "originalGerman": "um halb vier"
+      }
+    },
+    {
+      "id": "k22-v009",
+      "chapter": 22,
+      "chapterTitle": "Kapitel 22",
+      "turkish": "çeyrek",
+      "german": [
+        "Viertel"
+      ],
+      "pronunciation": "tschej-rek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 391,
+        "originalGerman": "Viertel"
+      }
+    },
+    {
+      "id": "k22-v010",
+      "chapter": 22,
+      "chapterTitle": "Kapitel 22",
+      "turkish": "Ne zaman?",
+      "german": [
+        "Wann?"
+      ],
+      "pronunciation": "ne sa-man",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 392,
+        "originalGerman": "Wann?"
+      }
+    },
+    {
+      "id": "k23-v001",
+      "chapter": 23,
+      "chapterTitle": "Kapitel 23",
+      "turkish": "akşam",
+      "german": [
+        "Abend"
+      ],
+      "pronunciation": "ak-scham",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 398,
+        "originalGerman": "Abend"
+      }
+    },
+    {
+      "id": "k23-v002",
+      "chapter": 23,
+      "chapterTitle": "Kapitel 23",
+      "turkish": "kumpir",
+      "german": [
+        "gefüllte Ofenkartoffel"
+      ],
+      "pronunciation": "kum-pir",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 399,
+        "originalGerman": "gefüllte Ofenkartoffel"
+      }
+    },
+    {
+      "id": "k23-v003",
+      "chapter": 23,
+      "chapterTitle": "Kapitel 23",
+      "turkish": "yiyeceğim",
+      "german": [
+        "ich werde essen"
+      ],
+      "pronunciation": "ji-je-dsche-im",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 400,
+        "originalGerman": "ich werde essen"
+      }
+    },
+    {
+      "id": "k23-v004",
+      "chapter": 23,
+      "chapterTitle": "Kapitel 23",
+      "turkish": "gideceğim",
+      "german": [
+        "ich werde gehen/fahren"
+      ],
+      "pronunciation": "gi-de-dsche-im",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 401,
+        "originalGerman": "ich werde gehen/fahren"
+      }
+    },
+    {
+      "id": "k23-v005",
+      "chapter": 23,
+      "chapterTitle": "Kapitel 23",
+      "turkish": "içeceğim",
+      "german": [
+        "ich werde trinken"
+      ],
+      "pronunciation": "i-tsche-dsche-im",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 402,
+        "originalGerman": "ich werde trinken"
+      }
+    },
+    {
+      "id": "k23-v006",
+      "chapter": 23,
+      "chapterTitle": "Kapitel 23",
+      "turkish": "yapmak",
+      "german": [
+        "machen; tun"
+      ],
+      "pronunciation": "jap-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 403,
+        "originalGerman": "machen; tun"
+      }
+    },
+    {
+      "id": "k23-v007",
+      "chapter": 23,
+      "chapterTitle": "Kapitel 23",
+      "turkish": "yarın",
+      "german": [
+        "morgen"
+      ],
+      "pronunciation": "ja-rən",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 404,
+        "originalGerman": "morgen"
+      }
+    },
+    {
+      "id": "k23-v008",
+      "chapter": 23,
+      "chapterTitle": "Kapitel 23",
+      "turkish": "plan",
+      "german": [
+        "Plan"
+      ],
+      "pronunciation": "plan",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 405,
+        "originalGerman": "Plan"
+      }
+    },
+    {
+      "id": "k23-v009",
+      "chapter": 23,
+      "chapterTitle": "Kapitel 23",
+      "turkish": "Ne yapacaksınız?",
+      "german": [
+        "Was werden Sie tun?"
+      ],
+      "pronunciation": "ne ja-pa-dschak-sə-nəs",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 406,
+        "originalGerman": "Was werden Sie tun?"
+      }
+    },
+    {
+      "id": "k23-v010",
+      "chapter": 23,
+      "chapterTitle": "Kapitel 23",
+      "turkish": "önce",
+      "german": [
+        "zuerst; vorher"
+      ],
+      "pronunciation": "ön-dsche",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 407,
+        "originalGerman": "zuerst; vorher"
+      }
+    },
+    {
+      "id": "k24-v001",
+      "chapter": 24,
+      "chapterTitle": "Kapitel 24",
+      "turkish": "en",
+      "german": [
+        "am meisten; ...ste"
+      ],
+      "pronunciation": "en",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 413,
+        "originalGerman": "am meisten; ...ste"
+      }
+    },
+    {
+      "id": "k24-v002",
+      "chapter": 24,
+      "chapterTitle": "Kapitel 24",
+      "turkish": "yavaş",
+      "german": [
+        "langsam"
+      ],
+      "pronunciation": "ja-wasch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 414,
+        "originalGerman": "langsam"
+      }
+    },
+    {
+      "id": "k24-v003",
+      "chapter": 24,
+      "chapterTitle": "Kapitel 24",
+      "turkish": "kolay",
+      "german": [
+        "leicht; einfach"
+      ],
+      "pronunciation": "ko-laj",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 415,
+        "originalGerman": "leicht; einfach"
+      }
+    },
+    {
+      "id": "k24-v004",
+      "chapter": 24,
+      "chapterTitle": "Kapitel 24",
+      "turkish": "daha",
+      "german": [
+        "mehr; -er"
+      ],
+      "pronunciation": "da-ha",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 416,
+        "originalGerman": "mehr; -er"
+      }
+    },
+    {
+      "id": "k24-v005",
+      "chapter": 24,
+      "chapterTitle": "Kapitel 24",
+      "turkish": "sakin",
+      "german": [
+        "ruhig"
+      ],
+      "pronunciation": "sa-kin",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 417,
+        "originalGerman": "ruhig"
+      }
+    },
+    {
+      "id": "k24-v006",
+      "chapter": 24,
+      "chapterTitle": "Kapitel 24",
+      "turkish": "hızlı",
+      "german": [
+        "schnell"
+      ],
+      "pronunciation": "hə-slə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 418,
+        "originalGerman": "schnell"
+      }
+    },
+    {
+      "id": "k24-v007",
+      "chapter": 24,
+      "chapterTitle": "Kapitel 24",
+      "turkish": "zor",
+      "german": [
+        "schwierig"
+      ],
+      "pronunciation": "sor",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 419,
+        "originalGerman": "schwierig"
+      }
+    },
+    {
+      "id": "k24-v008",
+      "chapter": 24,
+      "chapterTitle": "Kapitel 24",
+      "turkish": "kalabalık",
+      "german": [
+        "voll; belebt"
+      ],
+      "pronunciation": "ka-la-ba-lək",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 420,
+        "originalGerman": "voll; belebt"
+      }
+    },
+    {
+      "id": "k24-v009",
+      "chapter": 24,
+      "chapterTitle": "Kapitel 24",
+      "turkish": "hangisi?",
+      "german": [
+        "welches davon?"
+      ],
+      "pronunciation": "han-gi-si",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 421,
+        "originalGerman": "welches davon?"
+      }
+    },
+    {
+      "id": "k24-v010",
+      "chapter": 24,
+      "chapterTitle": "Kapitel 24",
+      "turkish": "Hangisi daha güzel?",
+      "german": [
+        "Welches ist schöner?"
+      ],
+      "pronunciation": "han-gi-si da-ha gü-sel",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 422,
+        "originalGerman": "Welches ist schöner?"
+      }
+    },
+    {
+      "id": "k25-v001",
+      "chapter": 25,
+      "chapterTitle": "Kapitel 25",
+      "turkish": "karşı taraf",
+      "german": [
+        "andere Seite"
+      ],
+      "pronunciation": "kar-schə ta-raf",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 428,
+        "originalGerman": "andere Seite"
+      }
+    },
+    {
+      "id": "k25-v002",
+      "chapter": 25,
+      "chapterTitle": "Kapitel 25",
+      "turkish": "Görüşürüz!",
+      "german": [
+        "Bis später!"
+      ],
+      "pronunciation": "gö-rü-schü-rüs",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 429,
+        "originalGerman": "Bis später!"
+      }
+    },
+    {
+      "id": "k25-v003",
+      "chapter": 25,
+      "chapterTitle": "Kapitel 25",
+      "turkish": "deniz",
+      "german": [
+        "Meer"
+      ],
+      "pronunciation": "de-nis",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 430,
+        "originalGerman": "Meer"
+      }
+    },
+    {
+      "id": "k25-v004",
+      "chapter": 25,
+      "chapterTitle": "Kapitel 25",
+      "turkish": "otobüsle",
+      "german": [
+        "mit dem Bus"
+      ],
+      "pronunciation": "o-to-büs-le",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 431,
+        "originalGerman": "mit dem Bus"
+      }
+    },
+    {
+      "id": "k25-v005",
+      "chapter": 25,
+      "chapterTitle": "Kapitel 25",
+      "turkish": "taksiyle",
+      "german": [
+        "mit dem Taxi"
+      ],
+      "pronunciation": "tak-si-jle",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 432,
+        "originalGerman": "mit dem Taxi"
+      }
+    },
+    {
+      "id": "k25-v006",
+      "chapter": 25,
+      "chapterTitle": "Kapitel 25",
+      "turkish": "vapurla",
+      "german": [
+        "mit der Fähre"
+      ],
+      "pronunciation": "wa-pur-la",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 433,
+        "originalGerman": "mit der Fähre"
+      }
+    },
+    {
+      "id": "k25-v007",
+      "chapter": 25,
+      "chapterTitle": "Kapitel 25",
+      "turkish": "tramvayla",
+      "german": [
+        "mit der Straßenbahn"
+      ],
+      "pronunciation": "tram-waj-la",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 434,
+        "originalGerman": "mit der Straßenbahn"
+      }
+    },
+    {
+      "id": "k25-v008",
+      "chapter": 25,
+      "chapterTitle": "Kapitel 25",
+      "turkish": "arkadaşımla",
+      "german": [
+        "mit meinem Freund"
+      ],
+      "pronunciation": "ar-ka-da-schəm-la",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 435,
+        "originalGerman": "mit meinem Freund"
+      }
+    },
+    {
+      "id": "k25-v009",
+      "chapter": 25,
+      "chapterTitle": "Kapitel 25",
+      "turkish": "ile",
+      "german": [
+        "mit; und"
+      ],
+      "pronunciation": "i-le",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 436,
+        "originalGerman": "mit; und"
+      }
+    },
+    {
+      "id": "k25-v010",
+      "chapter": 25,
+      "chapterTitle": "Kapitel 25",
+      "turkish": "martı",
+      "german": [
+        "Möwe"
+      ],
+      "pronunciation": "mar-tə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 437,
+        "originalGerman": "Möwe"
+      }
+    },
+    {
+      "id": "k25-v011",
+      "chapter": 25,
+      "chapterTitle": "Kapitel 25",
+      "turkish": "Nasıl gidiyorsunuz?",
+      "german": [
+        "Wie fahren Sie?"
+      ],
+      "pronunciation": "na-səl gi-di-jor-su-nus",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 438,
+        "originalGerman": "Wie fahren Sie?"
+      }
+    },
+    {
+      "id": "k25-v012",
+      "chapter": 25,
+      "chapterTitle": "Kapitel 25",
+      "turkish": "birlikte",
+      "german": [
+        "zusammen"
+      ],
+      "pronunciation": "bir-lik-te",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 439,
+        "originalGerman": "zusammen"
+      }
+    },
+    {
+      "id": "k26-v001",
+      "chapter": 26,
+      "chapterTitle": "Kapitel 26",
+      "turkish": "gezmek",
+      "german": [
+        "besichtigen, umhergehen"
+      ],
+      "pronunciation": "ges-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 445,
+        "originalGerman": "besichtigen, umhergehen"
+      }
+    },
+    {
+      "id": "k26-v002",
+      "chapter": 26,
+      "chapterTitle": "Kapitel 26",
+      "turkish": "sonra",
+      "german": [
+        "danach"
+      ],
+      "pronunciation": "son-ra",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 446,
+        "originalGerman": "danach"
+      }
+    },
+    {
+      "id": "k26-v003",
+      "chapter": 26,
+      "chapterTitle": "Kapitel 26",
+      "turkish": "dün",
+      "german": [
+        "gestern"
+      ],
+      "pronunciation": "dün",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 447,
+        "originalGerman": "gestern"
+      }
+    },
+    {
+      "id": "k26-v004",
+      "chapter": 26,
+      "chapterTitle": "Kapitel 26",
+      "turkish": "bugün",
+      "german": [
+        "heute"
+      ],
+      "pronunciation": "bu-gün",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 448,
+        "originalGerman": "heute"
+      }
+    },
+    {
+      "id": "k26-v005",
+      "chapter": 26,
+      "chapterTitle": "Kapitel 26",
+      "turkish": "yedim",
+      "german": [
+        "ich aß"
+      ],
+      "pronunciation": "je-dim",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 449,
+        "originalGerman": "ich aß"
+      }
+    },
+    {
+      "id": "k26-v006",
+      "chapter": 26,
+      "chapterTitle": "Kapitel 26",
+      "turkish": "gezdim",
+      "german": [
+        "ich besichtigte"
+      ],
+      "pronunciation": "ges-dim",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 450,
+        "originalGerman": "ich besichtigte"
+      }
+    },
+    {
+      "id": "k26-v007",
+      "chapter": 26,
+      "chapterTitle": "Kapitel 26",
+      "turkish": "gittim",
+      "german": [
+        "ich ging, fuhr"
+      ],
+      "pronunciation": "git-tim",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 451,
+        "originalGerman": "ich ging, fuhr"
+      }
+    },
+    {
+      "id": "k26-v008",
+      "chapter": 26,
+      "chapterTitle": "Kapitel 26",
+      "turkish": "geldim",
+      "german": [
+        "ich kam"
+      ],
+      "pronunciation": "gel-dim",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 452,
+        "originalGerman": "ich kam"
+      }
+    },
+    {
+      "id": "k26-v009",
+      "chapter": 26,
+      "chapterTitle": "Kapitel 26",
+      "turkish": "yaptım",
+      "german": [
+        "ich machte"
+      ],
+      "pronunciation": "jap-təm",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 453,
+        "originalGerman": "ich machte"
+      }
+    },
+    {
+      "id": "k26-v010",
+      "chapter": 26,
+      "chapterTitle": "Kapitel 26",
+      "turkish": "gördüm",
+      "german": [
+        "ich sah"
+      ],
+      "pronunciation": "gör-düm",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 454,
+        "originalGerman": "ich sah"
+      }
+    },
+    {
+      "id": "k26-v011",
+      "chapter": 26,
+      "chapterTitle": "Kapitel 26",
+      "turkish": "içtim",
+      "german": [
+        "ich trank"
+      ],
+      "pronunciation": "itsch-tim",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 455,
+        "originalGerman": "ich trank"
+      }
+    },
+    {
+      "id": "k26-v012",
+      "chapter": 26,
+      "chapterTitle": "Kapitel 26",
+      "turkish": "yapmak",
+      "german": [
+        "machen, tun"
+      ],
+      "pronunciation": "jap-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 456,
+        "originalGerman": "machen, tun"
+      }
+    },
+    {
+      "id": "k26-v013",
+      "chapter": 26,
+      "chapterTitle": "Kapitel 26",
+      "turkish": "görmek",
+      "german": [
+        "sehen"
+      ],
+      "pronunciation": "gör-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 457,
+        "originalGerman": "sehen"
+      }
+    },
+    {
+      "id": "k26-v014",
+      "chapter": 26,
+      "chapterTitle": "Kapitel 26",
+      "turkish": "gün batımı",
+      "german": [
+        "Sonnenuntergang"
+      ],
+      "pronunciation": "gün ba-tə-mə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 458,
+        "originalGerman": "Sonnenuntergang"
+      }
+    },
+    {
+      "id": "k26-v015",
+      "chapter": 26,
+      "chapterTitle": "Kapitel 26",
+      "turkish": "sahil",
+      "german": [
+        "Ufer, Küste"
+      ],
+      "pronunciation": "sa-hil",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 459,
+        "originalGerman": "Ufer, Küste"
+      }
+    },
+    {
+      "id": "k26-v016",
+      "chapter": 26,
+      "chapterTitle": "Kapitel 26",
+      "turkish": "önce",
+      "german": [
+        "vorher, zuerst"
+      ],
+      "pronunciation": "ön-dsche",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 460,
+        "originalGerman": "vorher, zuerst"
+      }
+    },
+    {
+      "id": "k26-v017",
+      "chapter": 26,
+      "chapterTitle": "Kapitel 26",
+      "turkish": "dikkat",
+      "german": [
+        "Vorsicht, Aufmerksamkeit"
+      ],
+      "pronunciation": "dik-kat",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 461,
+        "originalGerman": "Vorsicht, Aufmerksamkeit"
+      }
+    },
+    {
+      "id": "k26-v018",
+      "chapter": 26,
+      "chapterTitle": "Kapitel 26",
+      "turkish": "Bugün ne yaptınız?",
+      "german": [
+        "Was haben Sie heute gemacht?"
+      ],
+      "pronunciation": "bu-gün ne jap-tə-nəs",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 462,
+        "originalGerman": "Was haben Sie heute gemacht?"
+      }
+    },
+    {
+      "id": "k27-v001",
+      "chapter": 27,
+      "chapterTitle": "Kapitel 27",
+      "turkish": "ama",
+      "german": [
+        "aber"
+      ],
+      "pronunciation": "a-ma",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 468,
+        "originalGerman": "aber"
+      }
+    },
+    {
+      "id": "k27-v002",
+      "chapter": 27,
+      "chapterTitle": "Kapitel 27",
+      "turkish": "alışveriş yapmak",
+      "german": [
+        "einkaufen"
+      ],
+      "pronunciation": "a-ləsch-we-risch jap-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 469,
+        "originalGerman": "einkaufen"
+      }
+    },
+    {
+      "id": "k27-v003",
+      "chapter": 27,
+      "chapterTitle": "Kapitel 27",
+      "turkish": "erken",
+      "german": [
+        "früh"
+      ],
+      "pronunciation": "er-ken",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 470,
+        "originalGerman": "früh"
+      }
+    },
+    {
+      "id": "k27-v004",
+      "chapter": 27,
+      "chapterTitle": "Kapitel 27",
+      "turkish": "İyi uyudunuz mu?",
+      "german": [
+        "Haben Sie gut geschlafen?"
+      ],
+      "pronunciation": "i-ji u-ju-du-nus mu",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 471,
+        "originalGerman": "Haben Sie gut geschlafen?"
+      }
+    },
+    {
+      "id": "k27-v005",
+      "chapter": 27,
+      "chapterTitle": "Kapitel 27",
+      "turkish": "gitmedim",
+      "german": [
+        "ich ging nicht"
+      ],
+      "pronunciation": "git-me-dim",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 472,
+        "originalGerman": "ich ging nicht"
+      }
+    },
+    {
+      "id": "k27-v006",
+      "chapter": 27,
+      "chapterTitle": "Kapitel 27",
+      "turkish": "yapmadım",
+      "german": [
+        "ich machte nicht"
+      ],
+      "pronunciation": "jap-ma-dəm",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 473,
+        "originalGerman": "ich machte nicht"
+      }
+    },
+    {
+      "id": "k27-v007",
+      "chapter": 27,
+      "chapterTitle": "Kapitel 27",
+      "turkish": "görmedim",
+      "german": [
+        "ich sah nicht"
+      ],
+      "pronunciation": "gör-me-dim",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 474,
+        "originalGerman": "ich sah nicht"
+      }
+    },
+    {
+      "id": "k27-v008",
+      "chapter": 27,
+      "chapterTitle": "Kapitel 27",
+      "turkish": "içmedim",
+      "german": [
+        "ich trank nicht"
+      ],
+      "pronunciation": "itsch-me-dim",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 475,
+        "originalGerman": "ich trank nicht"
+      }
+    },
+    {
+      "id": "k27-v009",
+      "chapter": 27,
+      "chapterTitle": "Kapitel 27",
+      "turkish": "yorgun",
+      "german": [
+        "müde"
+      ],
+      "pronunciation": "jor-gun",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 476,
+        "originalGerman": "müde"
+      }
+    },
+    {
+      "id": "k27-v010",
+      "chapter": 27,
+      "chapterTitle": "Kapitel 27",
+      "turkish": "sadece",
+      "german": [
+        "nur"
+      ],
+      "pronunciation": "sa-de-dsche",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 477,
+        "originalGerman": "nur"
+      }
+    },
+    {
+      "id": "k27-v011",
+      "chapter": 27,
+      "chapterTitle": "Kapitel 27",
+      "turkish": "uyumak",
+      "german": [
+        "schlafen"
+      ],
+      "pronunciation": "u-ju-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 478,
+        "originalGerman": "schlafen"
+      }
+    },
+    {
+      "id": "k27-v012",
+      "chapter": 27,
+      "chapterTitle": "Kapitel 27",
+      "turkish": "uykulu",
+      "german": [
+        "schläfrig"
+      ],
+      "pronunciation": "uj-ku-lu",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 479,
+        "originalGerman": "schläfrig"
+      }
+    },
+    {
+      "id": "k27-v013",
+      "chapter": 27,
+      "chapterTitle": "Kapitel 27",
+      "turkish": "dinlenmek",
+      "german": [
+        "sich ausruhen"
+      ],
+      "pronunciation": "din-len-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 480,
+        "originalGerman": "sich ausruhen"
+      }
+    },
+    {
+      "id": "k27-v014",
+      "chapter": 27,
+      "chapterTitle": "Kapitel 27",
+      "turkish": "geç",
+      "german": [
+        "spät"
+      ],
+      "pronunciation": "getsch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 481,
+        "originalGerman": "spät"
+      }
+    },
+    {
+      "id": "k27-v015",
+      "chapter": 27,
+      "chapterTitle": "Kapitel 27",
+      "turkish": "çünkü",
+      "german": [
+        "weil, denn"
+      ],
+      "pronunciation": "tschün-kü",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 482,
+        "originalGerman": "weil, denn"
+      }
+    },
+    {
+      "id": "k27-v016",
+      "chapter": 27,
+      "chapterTitle": "Kapitel 27",
+      "turkish": "Gününüz nasıl geçti?",
+      "german": [
+        "Wie war Ihr Tag?"
+      ],
+      "pronunciation": "gü-nü-nüs na-səl getsch-ti",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 483,
+        "originalGerman": "Wie war Ihr Tag?"
+      }
+    },
+    {
+      "id": "k27-v017",
+      "chapter": 27,
+      "chapterTitle": "Kapitel 27",
+      "turkish": "memnun",
+      "german": [
+        "zufrieden"
+      ],
+      "pronunciation": "mem-nun",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 484,
+        "originalGerman": "zufrieden"
+      }
+    },
+    {
+      "id": "k28-v001",
+      "chapter": 28,
+      "chapterTitle": "Kapitel 28",
+      "turkish": "hareket etmek",
+      "german": [
+        "abfahren, sich bewegen"
+      ],
+      "pronunciation": "ha-re-ket et-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 490,
+        "originalGerman": "abfahren, sich bewegen"
+      }
+    },
+    {
+      "id": "k28-v002",
+      "chapter": 28,
+      "chapterTitle": "Kapitel 28",
+      "turkish": "varmak",
+      "german": [
+        "ankommen"
+      ],
+      "pronunciation": "war-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 491,
+        "originalGerman": "ankommen"
+      }
+    },
+    {
+      "id": "k28-v003",
+      "chapter": 28,
+      "chapterTitle": "Kapitel 28",
+      "turkish": "sürmek",
+      "german": [
+        "dauern"
+      ],
+      "pronunciation": "sür-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 492,
+        "originalGerman": "dauern"
+      }
+    },
+    {
+      "id": "k28-v004",
+      "chapter": 28,
+      "chapterTitle": "Kapitel 28",
+      "turkish": "tek yön",
+      "german": [
+        "einfache Fahrt"
+      ],
+      "pronunciation": "tek jön",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 493,
+        "originalGerman": "einfache Fahrt"
+      }
+    },
+    {
+      "id": "k28-v005",
+      "chapter": 28,
+      "chapterTitle": "Kapitel 28",
+      "turkish": "bilet almak",
+      "german": [
+        "Fahrkarte kaufen"
+      ],
+      "pronunciation": "bi-let al-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 494,
+        "originalGerman": "Fahrkarte kaufen"
+      }
+    },
+    {
+      "id": "k28-v006",
+      "chapter": 28,
+      "chapterTitle": "Kapitel 28",
+      "turkish": "pencere kenarı",
+      "german": [
+        "Fensterplatz"
+      ],
+      "pronunciation": "pen-dsche-re ke-na-rə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 495,
+        "originalGerman": "Fensterplatz"
+      }
+    },
+    {
+      "id": "k28-v007",
+      "chapter": 28,
+      "chapterTitle": "Kapitel 28",
+      "turkish": "şehirlerarası otobüs",
+      "german": [
+        "Fernbus"
+      ],
+      "pronunciation": "sche-hir-ler-a-ra-sə o-to-büs",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 496,
+        "originalGerman": "Fernbus"
+      }
+    },
+    {
+      "id": "k28-v008",
+      "chapter": 28,
+      "chapterTitle": "Kapitel 28",
+      "turkish": "otogar",
+      "german": [
+        "Fernbusbahnhof"
+      ],
+      "pronunciation": "o-to-gar",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 497,
+        "originalGerman": "Fernbusbahnhof"
+      }
+    },
+    {
+      "id": "k28-v009",
+      "chapter": 28,
+      "chapterTitle": "Kapitel 28",
+      "turkish": "koridor",
+      "german": [
+        "Gang"
+      ],
+      "pronunciation": "ko-ri-dor",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 498,
+        "originalGerman": "Gang"
+      }
+    },
+    {
+      "id": "k28-v010",
+      "chapter": 28,
+      "chapterTitle": "Kapitel 28",
+      "turkish": "gidiş dönüş",
+      "german": [
+        "Hin- und Rückfahrt"
+      ],
+      "pronunciation": "gi-disch dö-nüsch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 499,
+        "originalGerman": "Hin- und Rückfahrt"
+      }
+    },
+    {
+      "id": "k28-v011",
+      "chapter": 28,
+      "chapterTitle": "Kapitel 28",
+      "turkish": "gitmeliyim",
+      "german": [
+        "ich muss gehen/fahren"
+      ],
+      "pronunciation": "git-me-li-jim",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 500,
+        "originalGerman": "ich muss gehen/fahren"
+      }
+    },
+    {
+      "id": "k28-v012",
+      "chapter": 28,
+      "chapterTitle": "Kapitel 28",
+      "turkish": "almalıyım",
+      "german": [
+        "ich muss kaufen"
+      ],
+      "pronunciation": "al-ma-lə-jəm",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 501,
+        "originalGerman": "ich muss kaufen"
+      }
+    },
+    {
+      "id": "k28-v013",
+      "chapter": 28,
+      "chapterTitle": "Kapitel 28",
+      "turkish": "Kapadokya",
+      "german": [
+        "Kappadokien"
+      ],
+      "pronunciation": "ka-pa-dok-ja",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 502,
+        "originalGerman": "Kappadokien"
+      }
+    },
+    {
+      "id": "k28-v014",
+      "chapter": 28,
+      "chapterTitle": "Kapitel 28",
+      "turkish": "yolculuk",
+      "german": [
+        "Reise, Fahrt"
+      ],
+      "pronunciation": "jol-dschu-luk",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 503,
+        "originalGerman": "Reise, Fahrt"
+      }
+    },
+    {
+      "id": "k28-v015",
+      "chapter": 28,
+      "chapterTitle": "Kapitel 28",
+      "turkish": "koltuk",
+      "german": [
+        "Sitzplatz"
+      ],
+      "pronunciation": "kol-tuk",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 504,
+        "originalGerman": "Sitzplatz"
+      }
+    },
+    {
+      "id": "k28-v016",
+      "chapter": 28,
+      "chapterTitle": "Kapitel 28",
+      "turkish": "Ne yapmalıyım?",
+      "german": [
+        "Was soll/muss ich tun?"
+      ],
+      "pronunciation": "ne jap-ma-lə-jəm",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 505,
+        "originalGerman": "Was soll/muss ich tun?"
+      }
+    },
+    {
+      "id": "k29-v001",
+      "chapter": 29,
+      "chapterTitle": "Kapitel 29",
+      "turkish": "danışma",
+      "german": [
+        "Auskunft"
+      ],
+      "pronunciation": "da-nəsch-ma",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 511,
+        "originalGerman": "Auskunft"
+      }
+    },
+    {
+      "id": "k29-v002",
+      "chapter": 29,
+      "chapterTitle": "Kapitel 29",
+      "turkish": "muavin",
+      "german": [
+        "Busbegleiter"
+      ],
+      "pronunciation": "mu-a-win",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 512,
+        "originalGerman": "Busbegleiter"
+      }
+    },
+    {
+      "id": "k29-v003",
+      "chapter": 29,
+      "chapterTitle": "Kapitel 29",
+      "turkish": "peron",
+      "german": [
+        "Bussteig"
+      ],
+      "pronunciation": "pe-ron",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 513,
+        "originalGerman": "Bussteig"
+      }
+    },
+    {
+      "id": "k29-v004",
+      "chapter": 29,
+      "chapterTitle": "Kapitel 29",
+      "turkish": "şoför",
+      "german": [
+        "Fahrer"
+      ],
+      "pronunciation": "scho-för",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 514,
+        "originalGerman": "Fahrer"
+      }
+    },
+    {
+      "id": "k29-v005",
+      "chapter": 29,
+      "chapterTitle": "Kapitel 29",
+      "turkish": "bagaj",
+      "german": [
+        "Gepäck, Gepäckraum"
+      ],
+      "pronunciation": "ba-gasch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 515,
+        "originalGerman": "Gepäck, Gepäckraum"
+      }
+    },
+    {
+      "id": "k29-v006",
+      "chapter": 29,
+      "chapterTitle": "Kapitel 29",
+      "turkish": "emanet",
+      "german": [
+        "Gepäckaufbewahrung"
+      ],
+      "pronunciation": "e-ma-net",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 516,
+        "originalGerman": "Gepäckaufbewahrung"
+      }
+    },
+    {
+      "id": "k29-v007",
+      "chapter": 29,
+      "chapterTitle": "Kapitel 29",
+      "turkish": "İyi yolculuklar!",
+      "german": [
+        "Gute Reise!"
+      ],
+      "pronunciation": "i-ji jol-dschu-luk-lar",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 517,
+        "originalGerman": "Gute Reise!"
+      }
+    },
+    {
+      "id": "k29-v008",
+      "chapter": 29,
+      "chapterTitle": "Kapitel 29",
+      "turkish": "el çantası",
+      "german": [
+        "Handgepäck"
+      ],
+      "pronunciation": "el tschan-ta-sə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 518,
+        "originalGerman": "Handgepäck"
+      }
+    },
+    {
+      "id": "k29-v009",
+      "chapter": 29,
+      "chapterTitle": "Kapitel 29",
+      "turkish": "yardım etmek",
+      "german": [
+        "helfen"
+      ],
+      "pronunciation": "jar-dəm et-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 519,
+        "originalGerman": "helfen"
+      }
+    },
+    {
+      "id": "k29-v010",
+      "chapter": 29,
+      "chapterTitle": "Kapitel 29",
+      "turkish": "binebilirim",
+      "german": [
+        "ich kann einsteigen"
+      ],
+      "pronunciation": "bi-ne-bi-li-rim",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 520,
+        "originalGerman": "ich kann einsteigen"
+      }
+    },
+    {
+      "id": "k29-v011",
+      "chapter": 29,
+      "chapterTitle": "Kapitel 29",
+      "turkish": "koyabilir miyim?",
+      "german": [
+        "Kann/darf ich hinstellen?"
+      ],
+      "pronunciation": "ko-ja-bi-lir mi-jim",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 521,
+        "originalGerman": "Kann/darf ich hinstellen?"
+      }
+    },
+    {
+      "id": "k29-v012",
+      "chapter": 29,
+      "chapterTitle": "Kapitel 29",
+      "turkish": "valiz",
+      "german": [
+        "Koffer"
+      ],
+      "pronunciation": "wa-lis",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 522,
+        "originalGerman": "Koffer"
+      }
+    },
+    {
+      "id": "k29-v013",
+      "chapter": 29,
+      "chapterTitle": "Kapitel 29",
+      "turkish": "açmak",
+      "german": [
+        "öffnen"
+      ],
+      "pronunciation": "atsch-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 523,
+        "originalGerman": "öffnen"
+      }
+    },
+    {
+      "id": "k29-v014",
+      "chapter": 29,
+      "chapterTitle": "Kapitel 29",
+      "turkish": "mola",
+      "german": [
+        "Pause"
+      ],
+      "pronunciation": "mo-la",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 524,
+        "originalGerman": "Pause"
+      }
+    },
+    {
+      "id": "k29-v015",
+      "chapter": 29,
+      "chapterTitle": "Kapitel 29",
+      "turkish": "kapatmak",
+      "german": [
+        "schließen"
+      ],
+      "pronunciation": "ka-pat-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 525,
+        "originalGerman": "schließen"
+      }
+    },
+    {
+      "id": "k29-v016",
+      "chapter": 29,
+      "chapterTitle": "Kapitel 29",
+      "turkish": "emniyet kemeri",
+      "german": [
+        "Sicherheitsgurt"
+      ],
+      "pronunciation": "em-ni-jet ke-me-ri",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 526,
+        "originalGerman": "Sicherheitsgurt"
+      }
+    },
+    {
+      "id": "k29-v017",
+      "chapter": 29,
+      "chapterTitle": "Kapitel 29",
+      "turkish": "koymak",
+      "german": [
+        "stellen, legen"
+      ],
+      "pronunciation": "koj-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 527,
+        "originalGerman": "stellen, legen"
+      }
+    },
+    {
+      "id": "k30-v001",
+      "chapter": 30,
+      "chapterTitle": "Kapitel 30",
+      "turkish": "bir süre",
+      "german": [
+        "eine Weile"
+      ],
+      "pronunciation": "bir sü-re",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 533,
+        "originalGerman": "eine Weile"
+      }
+    },
+    {
+      "id": "k30-v002",
+      "chapter": 30,
+      "chapterTitle": "Kapitel 30",
+      "turkish": "yolcu",
+      "german": [
+        "Fahrgast"
+      ],
+      "pronunciation": "jol-dschu",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 534,
+        "originalGerman": "Fahrgast"
+      }
+    },
+    {
+      "id": "k30-v003",
+      "chapter": 30,
+      "chapterTitle": "Kapitel 30",
+      "turkish": "devam etmek",
+      "german": [
+        "fortfahren"
+      ],
+      "pronunciation": "de-wam et-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 535,
+        "originalGerman": "fortfahren"
+      }
+    },
+    {
+      "id": "k30-v004",
+      "chapter": 30,
+      "chapterTitle": "Kapitel 30",
+      "turkish": "hareket etti",
+      "german": [
+        "fuhr ab"
+      ],
+      "pronunciation": "ha-re-ket et-ti",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 536,
+        "originalGerman": "fuhr ab"
+      }
+    },
+    {
+      "id": "k30-v005",
+      "chapter": 30,
+      "chapterTitle": "Kapitel 30",
+      "turkish": "sabaha karşı",
+      "german": [
+        "gegen Morgen"
+      ],
+      "pronunciation": "sa-ba-ha kar-schə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 537,
+        "originalGerman": "gegen Morgen"
+      }
+    },
+    {
+      "id": "k30-v006",
+      "chapter": 30,
+      "chapterTitle": "Kapitel 30",
+      "turkish": "uyudum",
+      "german": [
+        "ich schlief"
+      ],
+      "pronunciation": "u-ju-dum",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 538,
+        "originalGerman": "ich schlief"
+      }
+    },
+    {
+      "id": "k30-v007",
+      "chapter": 30,
+      "chapterTitle": "Kapitel 30",
+      "turkish": "uyandım",
+      "german": [
+        "ich wachte auf"
+      ],
+      "pronunciation": "u-jan-dəm",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 539,
+        "originalGerman": "ich wachte auf"
+      }
+    },
+    {
+      "id": "k30-v008",
+      "chapter": 30,
+      "chapterTitle": "Kapitel 30",
+      "turkish": "herkes",
+      "german": [
+        "jeder, alle"
+      ],
+      "pronunciation": "her-kes",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 540,
+        "originalGerman": "jeder, alle"
+      }
+    },
+    {
+      "id": "k30-v009",
+      "chapter": 30,
+      "chapterTitle": "Kapitel 30",
+      "turkish": "kimse",
+      "german": [
+        "jemand; niemand bei Verneinung"
+      ],
+      "pronunciation": "kim-se",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 541,
+        "originalGerman": "jemand; niemand bei Verneinung"
+      }
+    },
+    {
+      "id": "k30-v010",
+      "chapter": 30,
+      "chapterTitle": "Kapitel 30",
+      "turkish": "mercimek çorbası",
+      "german": [
+        "Linsensuppe"
+      ],
+      "pronunciation": "mer-dschi-mek tschor-ba-sə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 542,
+        "originalGerman": "Linsensuppe"
+      }
+    },
+    {
+      "id": "k30-v011",
+      "chapter": 30,
+      "chapterTitle": "Kapitel 30",
+      "turkish": "gece yarısı",
+      "german": [
+        "Mitternacht"
+      ],
+      "pronunciation": "ge-dsche ja-rə-sə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 543,
+        "originalGerman": "Mitternacht"
+      }
+    },
+    {
+      "id": "k30-v012",
+      "chapter": 30,
+      "chapterTitle": "Kapitel 30",
+      "turkish": "gece yolculuğu",
+      "german": [
+        "Nachtfahrt"
+      ],
+      "pronunciation": "ge-dsche jol-dschu-lu-u",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 544,
+        "originalGerman": "Nachtfahrt"
+      }
+    },
+    {
+      "id": "k30-v013",
+      "chapter": 30,
+      "chapterTitle": "Kapitel 30",
+      "turkish": "henüz",
+      "german": [
+        "noch, bislang"
+      ],
+      "pronunciation": "he-nüs",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 545,
+        "originalGerman": "noch, bislang"
+      }
+    },
+    {
+      "id": "k30-v014",
+      "chapter": 30,
+      "chapterTitle": "Kapitel 30",
+      "turkish": "sonunda",
+      "german": [
+        "schließlich"
+      ],
+      "pronunciation": "so-nun-da",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 546,
+        "originalGerman": "schließlich"
+      }
+    },
+    {
+      "id": "k30-v015",
+      "chapter": 30,
+      "chapterTitle": "Kapitel 30",
+      "turkish": "hemen",
+      "german": [
+        "sofort"
+      ],
+      "pronunciation": "he-men",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 547,
+        "originalGerman": "sofort"
+      }
+    },
+    {
+      "id": "k30-v016",
+      "chapter": 30,
+      "chapterTitle": "Kapitel 30",
+      "turkish": "durduk",
+      "german": [
+        "wir hielten an"
+      ],
+      "pronunciation": "dur-duk",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 548,
+        "originalGerman": "wir hielten an"
+      }
+    },
+    {
+      "id": "k30-v017",
+      "chapter": 30,
+      "chapterTitle": "Kapitel 30",
+      "turkish": "vardık",
+      "german": [
+        "wir kamen an"
+      ],
+      "pronunciation": "war-dək",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 549,
+        "originalGerman": "wir kamen an"
+      }
+    },
+    {
+      "id": "k30-v018",
+      "chapter": 30,
+      "chapterTitle": "Kapitel 30",
+      "turkish": "mola verdik",
+      "german": [
+        "wir machten Pause"
+      ],
+      "pronunciation": "mo-la wer-dik",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 550,
+        "originalGerman": "wir machten Pause"
+      }
+    },
+    {
+      "id": "k30-v019",
+      "chapter": 30,
+      "chapterTitle": "Kapitel 30",
+      "turkish": "dinlendik",
+      "german": [
+        "wir ruhten uns aus"
+      ],
+      "pronunciation": "din-len-dik",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 551,
+        "originalGerman": "wir ruhten uns aus"
+      }
+    },
+    {
+      "id": "k30-v020",
+      "chapter": 30,
+      "chapterTitle": "Kapitel 30",
+      "turkish": "konuştuk",
+      "german": [
+        "wir sprachen"
+      ],
+      "pronunciation": "ko-nusch-tuk",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 552,
+        "originalGerman": "wir sprachen"
+      }
+    },
+    {
+      "id": "k31-v001",
+      "chapter": 31,
+      "chapterTitle": "Kapitel 31",
+      "turkish": "benzemek",
+      "german": [
+        "ähneln"
+      ],
+      "pronunciation": "ben-se-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 558,
+        "originalGerman": "ähneln"
+      }
+    },
+    {
+      "id": "k31-v002",
+      "chapter": 31,
+      "chapterTitle": "Kapitel 31",
+      "turkish": "farklı",
+      "german": [
+        "anders"
+      ],
+      "pronunciation": "fark-lə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 559,
+        "originalGerman": "anders"
+      }
+    },
+    {
+      "id": "k31-v003",
+      "chapter": 31,
+      "chapterTitle": "Kapitel 31",
+      "turkish": "manzara",
+      "german": [
+        "Aussicht"
+      ],
+      "pronunciation": "man-sa-ra",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 560,
+        "originalGerman": "Aussicht"
+      }
+    },
+    {
+      "id": "k31-v004",
+      "chapter": 31,
+      "chapterTitle": "Kapitel 31",
+      "turkish": "rahat",
+      "german": [
+        "bequem"
+      ],
+      "pronunciation": "ra-hat",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 561,
+        "originalGerman": "bequem"
+      }
+    },
+    {
+      "id": "k31-v005",
+      "chapter": 31,
+      "chapterTitle": "Kapitel 31",
+      "turkish": "az kaldı",
+      "german": [
+        "es ist nicht mehr weit"
+      ],
+      "pronunciation": "as kal-də",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 562,
+        "originalGerman": "es ist nicht mehr weit"
+      }
+    },
+    {
+      "id": "k31-v006",
+      "chapter": 31,
+      "chapterTitle": "Kapitel 31",
+      "turkish": "peri bacası",
+      "german": [
+        "Feenkamin"
+      ],
+      "pronunciation": "pe-ri ba-dscha-sə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 563,
+        "originalGerman": "Feenkamin"
+      }
+    },
+    {
+      "id": "k31-v007",
+      "chapter": 31,
+      "chapterTitle": "Kapitel 31",
+      "turkish": "kaya",
+      "german": [
+        "Fels"
+      ],
+      "pronunciation": "ka-ja",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 564,
+        "originalGerman": "Fels"
+      }
+    },
+    {
+      "id": "k31-v008",
+      "chapter": 31,
+      "chapterTitle": "Kapitel 31",
+      "turkish": "kaya odası",
+      "german": [
+        "Felsenzimmer"
+      ],
+      "pronunciation": "ka-ja o-da-sə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 565,
+        "originalGerman": "Felsenzimmer"
+      }
+    },
+    {
+      "id": "k31-v009",
+      "chapter": 31,
+      "chapterTitle": "Kapitel 31",
+      "turkish": "hazır",
+      "german": [
+        "fertig, bereit"
+      ],
+      "pronunciation": "ha-sər",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 566,
+        "originalGerman": "fertig, bereit"
+      }
+    },
+    {
+      "id": "k31-v010",
+      "chapter": 31,
+      "chapterTitle": "Kapitel 31",
+      "turkish": "Göreme",
+      "german": [
+        "Göreme"
+      ],
+      "pronunciation": "gö-re-me",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 567,
+        "originalGerman": "Göreme"
+      }
+    },
+    {
+      "id": "k31-v011",
+      "chapter": 31,
+      "chapterTitle": "Kapitel 31",
+      "turkish": "mağara",
+      "german": [
+        "Höhle"
+      ],
+      "pronunciation": "maa-ra",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 568,
+        "originalGerman": "Höhle"
+      }
+    },
+    {
+      "id": "k31-v012",
+      "chapter": 31,
+      "chapterTitle": "Kapitel 31",
+      "turkish": "dahil",
+      "german": [
+        "inbegriffen"
+      ],
+      "pronunciation": "da-hil",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 569,
+        "originalGerman": "inbegriffen"
+      }
+    },
+    {
+      "id": "k31-v013",
+      "chapter": 31,
+      "chapterTitle": "Kapitel 31",
+      "turkish": "Kapadokya",
+      "german": [
+        "Kappadokien"
+      ],
+      "pronunciation": "ka-pa-dok-ja",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 570,
+        "originalGerman": "Kappadokien"
+      }
+    },
+    {
+      "id": "k31-v014",
+      "chapter": 31,
+      "chapterTitle": "Kapitel 31",
+      "turkish": "rezervasyon",
+      "german": [
+        "Reservierung"
+      ],
+      "pronunciation": "re-ser-wa-sjon",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 571,
+        "originalGerman": "Reservierung"
+      }
+    },
+    {
+      "id": "k31-v015",
+      "chapter": 31,
+      "chapterTitle": "Kapitel 31",
+      "turkish": "sakin",
+      "german": [
+        "ruhig"
+      ],
+      "pronunciation": "sa-kin",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 572,
+        "originalGerman": "ruhig"
+      }
+    },
+    {
+      "id": "k31-v016",
+      "chapter": 31,
+      "chapterTitle": "Kapitel 31",
+      "turkish": "sessiz",
+      "german": [
+        "still"
+      ],
+      "pronunciation": "ses-sis",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 573,
+        "originalGerman": "still"
+      }
+    },
+    {
+      "id": "k31-v017",
+      "chapter": 31,
+      "chapterTitle": "Kapitel 31",
+      "turkish": "vadi",
+      "german": [
+        "Tal"
+      ],
+      "pronunciation": "wa-di",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 574,
+        "originalGerman": "Tal"
+      }
+    },
+    {
+      "id": "k31-v018",
+      "chapter": 31,
+      "chapterTitle": "Kapitel 31",
+      "turkish": "teras",
+      "german": [
+        "Terrasse"
+      ],
+      "pronunciation": "te-ras",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 575,
+        "originalGerman": "Terrasse"
+      }
+    },
+    {
+      "id": "k31-v019",
+      "chapter": 31,
+      "chapterTitle": "Kapitel 31",
+      "turkish": "gibi",
+      "german": [
+        "wie"
+      ],
+      "pronunciation": "gi-bi",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 576,
+        "originalGerman": "wie"
+      }
+    },
+    {
+      "id": "k31-v020",
+      "chapter": 31,
+      "chapterTitle": "Kapitel 31",
+      "turkish": "ilk defa",
+      "german": [
+        "zum ersten Mal"
+      ],
+      "pronunciation": "ilk de-fa",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 577,
+        "originalGerman": "zum ersten Mal"
+      }
+    },
+    {
+      "id": "k32-v001",
+      "chapter": 32,
+      "chapterTitle": "Kapitel 32",
+      "turkish": "dokunmak",
+      "german": [
+        "berühren"
+      ],
+      "pronunciation": "do-kun-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 583,
+        "originalGerman": "berühren"
+      }
+    },
+    {
+      "id": "k32-v002",
+      "chapter": 32,
+      "chapterTitle": "Kapitel 32",
+      "turkish": "ziyaretçi",
+      "german": [
+        "Besucher"
+      ],
+      "pronunciation": "si-ja-ret-tschi",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 584,
+        "originalGerman": "Besucher"
+      }
+    },
+    {
+      "id": "k32-v003",
+      "chapter": 32,
+      "chapterTitle": "Kapitel 32",
+      "turkish": "karanlık",
+      "german": [
+        "dunkel"
+      ],
+      "pronunciation": "ka-ran-lək",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 585,
+        "originalGerman": "dunkel"
+      }
+    },
+    {
+      "id": "k32-v004",
+      "chapter": 32,
+      "chapterTitle": "Kapitel 32",
+      "turkish": "anlatmak",
+      "german": [
+        "erklären, erzählen"
+      ],
+      "pronunciation": "an-lat-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 586,
+        "originalGerman": "erklären, erzählen"
+      }
+    },
+    {
+      "id": "k32-v005",
+      "chapter": 32,
+      "chapterTitle": "Kapitel 32",
+      "turkish": "serbest",
+      "german": [
+        "erlaubt"
+      ],
+      "pronunciation": "ser-best",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 587,
+        "originalGerman": "erlaubt"
+      }
+    },
+    {
+      "id": "k32-v006",
+      "chapter": 32,
+      "chapterTitle": "Kapitel 32",
+      "turkish": "fotoğraf çekmek",
+      "german": [
+        "fotografieren"
+      ],
+      "pronunciation": "fo-to-raf tschek-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 588,
+        "originalGerman": "fotografieren"
+      }
+    },
+    {
+      "id": "k32-v007",
+      "chapter": 32,
+      "chapterTitle": "Kapitel 32",
+      "turkish": "açık hava müzesi",
+      "german": [
+        "Freilichtmuseum"
+      ],
+      "pronunciation": "a-dschək ha-wa mü-se-si",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 589,
+        "originalGerman": "Freilichtmuseum"
+      }
+    },
+    {
+      "id": "k32-v008",
+      "chapter": 32,
+      "chapterTitle": "Kapitel 32",
+      "turkish": "rehber",
+      "german": [
+        "Fremdenführer"
+      ],
+      "pronunciation": "reh-ber",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 590,
+        "originalGerman": "Fremdenführer"
+      }
+    },
+    {
+      "id": "k32-v009",
+      "chapter": 32,
+      "chapterTitle": "Kapitel 32",
+      "turkish": "fresk",
+      "german": [
+        "Fresko"
+      ],
+      "pronunciation": "fresk",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 591,
+        "originalGerman": "Fresko"
+      }
+    },
+    {
+      "id": "k32-v010",
+      "chapter": 32,
+      "chapterTitle": "Kapitel 32",
+      "turkish": "yüzyıl",
+      "german": [
+        "Jahrhundert"
+      ],
+      "pronunciation": "jüs-jəl",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 592,
+        "originalGerman": "Jahrhundert"
+      }
+    },
+    {
+      "id": "k32-v011",
+      "chapter": 32,
+      "chapterTitle": "Kapitel 32",
+      "turkish": "kilise",
+      "german": [
+        "Kirche"
+      ],
+      "pronunciation": "ki-li-se",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 593,
+        "originalGerman": "Kirche"
+      }
+    },
+    {
+      "id": "k32-v012",
+      "chapter": 32,
+      "chapterTitle": "Kapitel 32",
+      "turkish": "görevli",
+      "german": [
+        "Mitarbeiter, Aufseher"
+      ],
+      "pronunciation": "gö-rew-li",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 594,
+        "originalGerman": "Mitarbeiter, Aufseher"
+      }
+    },
+    {
+      "id": "k32-v013",
+      "chapter": 32,
+      "chapterTitle": "Kapitel 32",
+      "turkish": "zarar vermek",
+      "german": [
+        "schaden"
+      ],
+      "pronunciation": "sa-rar wer-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 595,
+        "originalGerman": "schaden"
+      }
+    },
+    {
+      "id": "k32-v014",
+      "chapter": 32,
+      "chapterTitle": "Kapitel 32",
+      "turkish": "bakmak",
+      "german": [
+        "schauen"
+      ],
+      "pronunciation": "bak-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 596,
+        "originalGerman": "schauen"
+      }
+    },
+    {
+      "id": "k32-v015",
+      "chapter": 32,
+      "chapterTitle": "Kapitel 32",
+      "turkish": "korumak",
+      "german": [
+        "schützen"
+      ],
+      "pronunciation": "ko-ru-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 597,
+        "originalGerman": "schützen"
+      }
+    },
+    {
+      "id": "k32-v016",
+      "chapter": 32,
+      "chapterTitle": "Kapitel 32",
+      "turkish": "yasak",
+      "german": [
+        "verboten"
+      ],
+      "pronunciation": "ja-sak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 598,
+        "originalGerman": "verboten"
+      }
+    },
+    {
+      "id": "k32-v017",
+      "chapter": 32,
+      "chapterTitle": "Kapitel 32",
+      "turkish": "dikkatli",
+      "german": [
+        "vorsichtig"
+      ],
+      "pronunciation": "dik-kat-li",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 599,
+        "originalGerman": "vorsichtig"
+      }
+    },
+    {
+      "id": "k32-v018",
+      "chapter": 32,
+      "chapterTitle": "Kapitel 32",
+      "turkish": "duvar",
+      "german": [
+        "Wand"
+      ],
+      "pronunciation": "du-war",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 600,
+        "originalGerman": "Wand"
+      }
+    },
+    {
+      "id": "k32-v019",
+      "chapter": 32,
+      "chapterTitle": "Kapitel 32",
+      "turkish": "duvar resmi",
+      "german": [
+        "Wandmalerei"
+      ],
+      "pronunciation": "du-war res-mi",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 601,
+        "originalGerman": "Wandmalerei"
+      }
+    },
+    {
+      "id": "k32-v020",
+      "chapter": 32,
+      "chapterTitle": "Kapitel 32",
+      "turkish": "dinlemek",
+      "german": [
+        "zuhören"
+      ],
+      "pronunciation": "din-le-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 602,
+        "originalGerman": "zuhören"
+      }
+    },
+    {
+      "id": "k33-v001",
+      "chapter": 33,
+      "chapterTitle": "Kapitel 33",
+      "turkish": "denemek",
+      "german": [
+        "ausprobieren"
+      ],
+      "pronunciation": "de-ne-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 608,
+        "originalGerman": "ausprobieren"
+      }
+    },
+    {
+      "id": "k33-v002",
+      "chapter": 33,
+      "chapterTitle": "Kapitel 33",
+      "turkish": "ıslatmak",
+      "german": [
+        "befeuchten"
+      ],
+      "pronunciation": "əs-lat-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 609,
+        "originalGerman": "befeuchten"
+      }
+    },
+    {
+      "id": "k33-v003",
+      "chapter": 33,
+      "chapterTitle": "Kapitel 33",
+      "turkish": "pişirmek",
+      "german": [
+        "brennen, kochen"
+      ],
+      "pronunciation": "pi-schir-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 610,
+        "originalGerman": "brennen, kochen"
+      }
+    },
+    {
+      "id": "k33-v004",
+      "chapter": 33,
+      "chapterTitle": "Kapitel 33",
+      "turkish": "çevirmek",
+      "german": [
+        "drehen"
+      ],
+      "pronunciation": "tsche-wir-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 611,
+        "originalGerman": "drehen"
+      }
+    },
+    {
+      "id": "k33-v005",
+      "chapter": 33,
+      "chapterTitle": "Kapitel 33",
+      "turkish": "bastırmak",
+      "german": [
+        "drücken"
+      ],
+      "pronunciation": "bas-tər-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 612,
+        "originalGerman": "drücken"
+      }
+    },
+    {
+      "id": "k33-v006",
+      "chapter": 33,
+      "chapterTitle": "Kapitel 33",
+      "turkish": "şekil",
+      "german": [
+        "Form"
+      ],
+      "pronunciation": "sche-kil",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 613,
+        "originalGerman": "Form"
+      }
+    },
+    {
+      "id": "k33-v007",
+      "chapter": 33,
+      "chapterTitle": "Kapitel 33",
+      "turkish": "biçim vermek",
+      "german": [
+        "formen"
+      ],
+      "pronunciation": "bi-tschim wer-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 614,
+        "originalGerman": "formen"
+      }
+    },
+    {
+      "id": "k33-v008",
+      "chapter": 33,
+      "chapterTitle": "Kapitel 33",
+      "turkish": "el yapımı",
+      "german": [
+        "handgemacht"
+      ],
+      "pronunciation": "el ja-pə-mə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 615,
+        "originalGerman": "handgemacht"
+      }
+    },
+    {
+      "id": "k33-v009",
+      "chapter": 33,
+      "chapterTitle": "Kapitel 33",
+      "turkish": "testi",
+      "german": [
+        "Krug"
+      ],
+      "pronunciation": "tes-ti",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 616,
+        "originalGerman": "Krug"
+      }
+    },
+    {
+      "id": "k33-v010",
+      "chapter": 33,
+      "chapterTitle": "Kapitel 33",
+      "turkish": "çamur",
+      "german": [
+        "Lehm, Schlamm"
+      ],
+      "pronunciation": "tscha-mur",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 617,
+        "originalGerman": "Lehm, Schlamm"
+      }
+    },
+    {
+      "id": "k33-v011",
+      "chapter": 33,
+      "chapterTitle": "Kapitel 33",
+      "turkish": "yerel",
+      "german": [
+        "örtlich, lokal"
+      ],
+      "pronunciation": "je-rel",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 618,
+        "originalGerman": "örtlich, lokal"
+      }
+    },
+    {
+      "id": "k33-v012",
+      "chapter": 33,
+      "chapterTitle": "Kapitel 33",
+      "turkish": "kase",
+      "german": [
+        "Schale"
+      ],
+      "pronunciation": "ka-se",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 619,
+        "originalGerman": "Schale"
+      }
+    },
+    {
+      "id": "k33-v013",
+      "chapter": 33,
+      "chapterTitle": "Kapitel 33",
+      "turkish": "tabak",
+      "german": [
+        "Teller"
+      ],
+      "pronunciation": "ta-bak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 620,
+        "originalGerman": "Teller"
+      }
+    },
+    {
+      "id": "k33-v014",
+      "chapter": 33,
+      "chapterTitle": "Kapitel 33",
+      "turkish": "kil",
+      "german": [
+        "Ton"
+      ],
+      "pronunciation": "kil",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 621,
+        "originalGerman": "Ton"
+      }
+    },
+    {
+      "id": "k33-v015",
+      "chapter": 33,
+      "chapterTitle": "Kapitel 33",
+      "turkish": "çömlek",
+      "german": [
+        "Tontopf"
+      ],
+      "pronunciation": "tschöm-lek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 622,
+        "originalGerman": "Tontopf"
+      }
+    },
+    {
+      "id": "k33-v016",
+      "chapter": 33,
+      "chapterTitle": "Kapitel 33",
+      "turkish": "çömlekçi",
+      "german": [
+        "Töpfer"
+      ],
+      "pronunciation": "tschöm-lek-tschi",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 623,
+        "originalGerman": "Töpfer"
+      }
+    },
+    {
+      "id": "k33-v017",
+      "chapter": 33,
+      "chapterTitle": "Kapitel 33",
+      "turkish": "çark",
+      "german": [
+        "Töpferscheibe"
+      ],
+      "pronunciation": "tschark",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 624,
+        "originalGerman": "Töpferscheibe"
+      }
+    },
+    {
+      "id": "k33-v018",
+      "chapter": 33,
+      "chapterTitle": "Kapitel 33",
+      "turkish": "kurumak",
+      "german": [
+        "trocknen"
+      ],
+      "pronunciation": "ku-ru-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 625,
+        "originalGerman": "trocknen"
+      }
+    },
+    {
+      "id": "k33-v019",
+      "chapter": 33,
+      "chapterTitle": "Kapitel 33",
+      "turkish": "eser",
+      "german": [
+        "Werk"
+      ],
+      "pronunciation": "e-ser",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 626,
+        "originalGerman": "Werk"
+      }
+    },
+    {
+      "id": "k33-v020",
+      "chapter": 33,
+      "chapterTitle": "Kapitel 33",
+      "turkish": "atölye",
+      "german": [
+        "Werkstatt"
+      ],
+      "pronunciation": "a-töl-je",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 627,
+        "originalGerman": "Werkstatt"
+      }
+    },
+    {
+      "id": "k34-v001",
+      "chapter": 34,
+      "chapterTitle": "Kapitel 34",
+      "turkish": "ikram",
+      "german": [
+        "Bewirtung"
+      ],
+      "pronunciation": "ik-ram",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 633,
+        "originalGerman": "Bewirtung"
+      }
+    },
+    {
+      "id": "k34-v002",
+      "chapter": 34,
+      "chapterTitle": "Kapitel 34",
+      "turkish": "Ellerinize sağlık.",
+      "german": [
+        "Danke, es war köstlich."
+      ],
+      "pronunciation": "el-le-ri-ni-se saa-lək",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 634,
+        "originalGerman": "Danke, es war köstlich."
+      }
+    },
+    {
+      "id": "k34-v003",
+      "chapter": 34,
+      "chapterTitle": "Kapitel 34",
+      "turkish": "köy",
+      "german": [
+        "Dorf"
+      ],
+      "pronunciation": "köj",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 635,
+        "originalGerman": "Dorf"
+      }
+    },
+    {
+      "id": "k34-v004",
+      "chapter": 34,
+      "chapterTitle": "Kapitel 34",
+      "turkish": "torun",
+      "german": [
+        "Enkel"
+      ],
+      "pronunciation": "to-run",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 636,
+        "originalGerman": "Enkel"
+      }
+    },
+    {
+      "id": "k34-v005",
+      "chapter": 34,
+      "chapterTitle": "Kapitel 34",
+      "turkish": "aile",
+      "german": [
+        "Familie"
+      ],
+      "pronunciation": "a-i-le",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 637,
+        "originalGerman": "Familie"
+      }
+    },
+    {
+      "id": "k34-v006",
+      "chapter": 34,
+      "chapterTitle": "Kapitel 34",
+      "turkish": "bahçe",
+      "german": [
+        "Garten"
+      ],
+      "pronunciation": "bah-tsche",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 638,
+        "originalGerman": "Garten"
+      }
+    },
+    {
+      "id": "k34-v007",
+      "chapter": 34,
+      "chapterTitle": "Kapitel 34",
+      "turkish": "misafir",
+      "german": [
+        "Gast"
+      ],
+      "pronunciation": "mi-sa-fir",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 639,
+        "originalGerman": "Gast"
+      }
+    },
+    {
+      "id": "k34-v008",
+      "chapter": 34,
+      "chapterTitle": "Kapitel 34",
+      "turkish": "ev sahibi",
+      "german": [
+        "Gastgeber"
+      ],
+      "pronunciation": "ew sa-hi-bi",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 640,
+        "originalGerman": "Gastgeber"
+      }
+    },
+    {
+      "id": "k34-v009",
+      "chapter": 34,
+      "chapterTitle": "Kapitel 34",
+      "turkish": "sofra",
+      "german": [
+        "gedeckter Tisch"
+      ],
+      "pronunciation": "sof-ra",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 641,
+        "originalGerman": "gedeckter Tisch"
+      }
+    },
+    {
+      "id": "k34-v010",
+      "chapter": 34,
+      "chapterTitle": "Kapitel 34",
+      "turkish": "hediye",
+      "german": [
+        "Geschenk"
+      ],
+      "pronunciation": "he-di-je",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 642,
+        "originalGerman": "Geschenk"
+      }
+    },
+    {
+      "id": "k34-v011",
+      "chapter": 34,
+      "chapterTitle": "Kapitel 34",
+      "turkish": "büyükanne",
+      "german": [
+        "Großmutter"
+      ],
+      "pronunciation": "bü-jük-an-ne",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 643,
+        "originalGerman": "Großmutter"
+      }
+    },
+    {
+      "id": "k34-v012",
+      "chapter": 34,
+      "chapterTitle": "Kapitel 34",
+      "turkish": "büyükbaba",
+      "german": [
+        "Großvater"
+      ],
+      "pronunciation": "bü-jük-ba-ba",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 644,
+        "originalGerman": "Großvater"
+      }
+    },
+    {
+      "id": "k34-v013",
+      "chapter": 34,
+      "chapterTitle": "Kapitel 34",
+      "turkish": "ev yapımı",
+      "german": [
+        "hausgemacht"
+      ],
+      "pronunciation": "ew ja-pə-mə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 645,
+        "originalGerman": "hausgemacht"
+      }
+    },
+    {
+      "id": "k34-v014",
+      "chapter": 34,
+      "chapterTitle": "Kapitel 34",
+      "turkish": "anne",
+      "german": [
+        "Mutter"
+      ],
+      "pronunciation": "an-ne",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 646,
+        "originalGerman": "Mutter"
+      }
+    },
+    {
+      "id": "k34-v015",
+      "chapter": 34,
+      "chapterTitle": "Kapitel 34",
+      "turkish": "komşu",
+      "german": [
+        "Nachbar"
+      ],
+      "pronunciation": "kom-schu",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 647,
+        "originalGerman": "Nachbar"
+      }
+    },
+    {
+      "id": "k34-v016",
+      "chapter": 34,
+      "chapterTitle": "Kapitel 34",
+      "turkish": "doymak",
+      "german": [
+        "satt werden"
+      ],
+      "pronunciation": "doj-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 648,
+        "originalGerman": "satt werden"
+      }
+    },
+    {
+      "id": "k34-v017",
+      "chapter": 34,
+      "chapterTitle": "Kapitel 34",
+      "turkish": "Memnuniyetle.",
+      "german": [
+        "Sehr gern."
+      ],
+      "pronunciation": "mem-nu-ni-jet-le",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 649,
+        "originalGerman": "Sehr gern."
+      }
+    },
+    {
+      "id": "k34-v018",
+      "chapter": 34,
+      "chapterTitle": "Kapitel 34",
+      "turkish": "kapı",
+      "german": [
+        "Tür"
+      ],
+      "pronunciation": "ka-pə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 650,
+        "originalGerman": "Tür"
+      }
+    },
+    {
+      "id": "k34-v019",
+      "chapter": 34,
+      "chapterTitle": "Kapitel 34",
+      "turkish": "baba",
+      "german": [
+        "Vater"
+      ],
+      "pronunciation": "ba-ba",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 651,
+        "originalGerman": "Vater"
+      }
+    },
+    {
+      "id": "k34-v020",
+      "chapter": 34,
+      "chapterTitle": "Kapitel 34",
+      "turkish": "kimin",
+      "german": [
+        "wessen"
+      ],
+      "pronunciation": "ki-min",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 652,
+        "originalGerman": "wessen"
+      }
+    },
+    {
+      "id": "k35-v001",
+      "chapter": 35,
+      "chapterTitle": "Kapitel 35",
+      "turkish": "bu yüzden",
+      "german": [
+        "deshalb"
+      ],
+      "pronunciation": "bu jüs-den",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 658,
+        "originalGerman": "deshalb"
+      }
+    },
+    {
+      "id": "k35-v002",
+      "chapter": 35,
+      "chapterTitle": "Kapitel 35",
+      "turkish": "susamak",
+      "german": [
+        "Durst bekommen"
+      ],
+      "pronunciation": "su-sa-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 659,
+        "originalGerman": "Durst bekommen"
+      }
+    },
+    {
+      "id": "k35-v003",
+      "chapter": 35,
+      "chapterTitle": "Kapitel 35",
+      "turkish": "düz",
+      "german": [
+        "eben"
+      ],
+      "pronunciation": "düs",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 660,
+        "originalGerman": "eben"
+      }
+    },
+    {
+      "id": "k35-v004",
+      "chapter": 35,
+      "chapterTitle": "Kapitel 35",
+      "turkish": "sık sık",
+      "german": [
+        "häufig"
+      ],
+      "pronunciation": "sək sək",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 661,
+        "originalGerman": "häufig"
+      }
+    },
+    {
+      "id": "k35-v005",
+      "chapter": 35,
+      "chapterTitle": "Kapitel 35",
+      "turkish": "sıcak",
+      "german": [
+        "heiß"
+      ],
+      "pronunciation": "sə-dschak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 662,
+        "originalGerman": "heiß"
+      }
+    },
+    {
+      "id": "k35-v006",
+      "chapter": 35,
+      "chapterTitle": "Kapitel 35",
+      "turkish": "yardım",
+      "german": [
+        "Hilfe"
+      ],
+      "pronunciation": "jar-dəm",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 663,
+        "originalGerman": "Hilfe"
+      }
+    },
+    {
+      "id": "k35-v007",
+      "chapter": 35,
+      "chapterTitle": "Kapitel 35",
+      "turkish": "serin",
+      "german": [
+        "kühl"
+      ],
+      "pronunciation": "se-rin",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 664,
+        "originalGerman": "kühl"
+      }
+    },
+    {
+      "id": "k35-v008",
+      "chapter": 35,
+      "chapterTitle": "Kapitel 35",
+      "turkish": "yorulmak",
+      "german": [
+        "müde werden"
+      ],
+      "pronunciation": "jo-rul-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 665,
+        "originalGerman": "müde werden"
+      }
+    },
+    {
+      "id": "k35-v009",
+      "chapter": 35,
+      "chapterTitle": "Kapitel 35",
+      "turkish": "patika",
+      "german": [
+        "Pfad"
+      ],
+      "pronunciation": "pa-ti-ka",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 666,
+        "originalGerman": "Pfad"
+      }
+    },
+    {
+      "id": "k35-v010",
+      "chapter": 35,
+      "chapterTitle": "Kapitel 35",
+      "turkish": "gölge",
+      "german": [
+        "Schatten"
+      ],
+      "pronunciation": "göl-ge",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 667,
+        "originalGerman": "Schatten"
+      }
+    },
+    {
+      "id": "k35-v011",
+      "chapter": 35,
+      "chapterTitle": "Kapitel 35",
+      "turkish": "dinlenmek",
+      "german": [
+        "sich ausruhen"
+      ],
+      "pronunciation": "din-len-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 668,
+        "originalGerman": "sich ausruhen"
+      }
+    },
+    {
+      "id": "k35-v012",
+      "chapter": 35,
+      "chapterTitle": "Kapitel 35",
+      "turkish": "kaybolmak",
+      "german": [
+        "sich verirren"
+      ],
+      "pronunciation": "kaj-bol-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 669,
+        "originalGerman": "sich verirren"
+      }
+    },
+    {
+      "id": "k35-v013",
+      "chapter": 35,
+      "chapterTitle": "Kapitel 35",
+      "turkish": "güneş",
+      "german": [
+        "Sonne"
+      ],
+      "pronunciation": "gü-nesch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 670,
+        "originalGerman": "Sonne"
+      }
+    },
+    {
+      "id": "k35-v014",
+      "chapter": 35,
+      "chapterTitle": "Kapitel 35",
+      "turkish": "yokuş",
+      "german": [
+        "Steigung"
+      ],
+      "pronunciation": "jo-kusch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 671,
+        "originalGerman": "Steigung"
+      }
+    },
+    {
+      "id": "k35-v015",
+      "chapter": 35,
+      "chapterTitle": "Kapitel 35",
+      "turkish": "dik",
+      "german": [
+        "steil"
+      ],
+      "pronunciation": "dik",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 672,
+        "originalGerman": "steil"
+      }
+    },
+    {
+      "id": "k35-v016",
+      "chapter": 35,
+      "chapterTitle": "Kapitel 35",
+      "turkish": "yürüyüş",
+      "german": [
+        "Wanderung"
+      ],
+      "pronunciation": "jü-rü-jüsch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 673,
+        "originalGerman": "Wanderung"
+      }
+    },
+    {
+      "id": "k35-v017",
+      "chapter": 35,
+      "chapterTitle": "Kapitel 35",
+      "turkish": "yürüyüş yolu",
+      "german": [
+        "Wanderweg"
+      ],
+      "pronunciation": "jü-rü-jüsch jo-lu",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 674,
+        "originalGerman": "Wanderweg"
+      }
+    },
+    {
+      "id": "k35-v018",
+      "chapter": 35,
+      "chapterTitle": "Kapitel 35",
+      "turkish": "çünkü",
+      "german": [
+        "weil"
+      ],
+      "pronunciation": "tschün-kü",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 675,
+        "originalGerman": "weil"
+      }
+    },
+    {
+      "id": "k35-v019",
+      "chapter": 35,
+      "chapterTitle": "Kapitel 35",
+      "turkish": "rüzgâr",
+      "german": [
+        "Wind"
+      ],
+      "pronunciation": "rüs-gar",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 676,
+        "originalGerman": "Wind"
+      }
+    },
+    {
+      "id": "k35-v020",
+      "chapter": 35,
+      "chapterTitle": "Kapitel 35",
+      "turkish": "bulut",
+      "german": [
+        "Wolke"
+      ],
+      "pronunciation": "bu-lut",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 677,
+        "originalGerman": "Wolke"
+      }
+    },
+    {
+      "id": "k36-v001",
+      "chapter": 36,
+      "chapterTitle": "Kapitel 36",
+      "turkish": "servis",
+      "german": [
+        "Abholbus, Zubringer"
+      ],
+      "pronunciation": "ser-wis",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 683,
+        "originalGerman": "Abholbus, Zubringer"
+      }
+    },
+    {
+      "id": "k36-v002",
+      "chapter": 36,
+      "chapterTitle": "Kapitel 36",
+      "turkish": "iptal etmek",
+      "german": [
+        "absagen"
+      ],
+      "pronunciation": "ip-tal et-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 684,
+        "originalGerman": "absagen"
+      }
+    },
+    {
+      "id": "k36-v003",
+      "chapter": 36,
+      "chapterTitle": "Kapitel 36",
+      "turkish": "inmek",
+      "german": [
+        "aussteigen"
+      ],
+      "pronunciation": "in-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 685,
+        "originalGerman": "aussteigen"
+      }
+    },
+    {
+      "id": "k36-v004",
+      "chapter": 36,
+      "chapterTitle": "Kapitel 36",
+      "turkish": "şart",
+      "german": [
+        "Bedingung"
+      ],
+      "pronunciation": "schart",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 686,
+        "originalGerman": "Bedingung"
+      }
+    },
+    {
+      "id": "k36-v005",
+      "chapter": 36,
+      "chapterTitle": "Kapitel 36",
+      "turkish": "hazır",
+      "german": [
+        "bereit"
+      ],
+      "pronunciation": "ha-sər",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 687,
+        "originalGerman": "bereit"
+      }
+    },
+    {
+      "id": "k36-v006",
+      "chapter": 36,
+      "chapterTitle": "Kapitel 36",
+      "turkish": "mürettebat",
+      "german": [
+        "Besatzung"
+      ],
+      "pronunciation": "mü-ret-te-bat",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 688,
+        "originalGerman": "Besatzung"
+      }
+    },
+    {
+      "id": "k36-v007",
+      "chapter": 36,
+      "chapterTitle": "Kapitel 36",
+      "turkish": "karanlık",
+      "german": [
+        "dunkel; Dunkelheit"
+      ],
+      "pronunciation": "ka-ran-lək",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 689,
+        "originalGerman": "dunkel; Dunkelheit"
+      }
+    },
+    {
+      "id": "k36-v008",
+      "chapter": 36,
+      "chapterTitle": "Kapitel 36",
+      "turkish": "binmek",
+      "german": [
+        "einsteigen"
+      ],
+      "pronunciation": "bin-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 690,
+        "originalGerman": "einsteigen"
+      }
+    },
+    {
+      "id": "k36-v009",
+      "chapter": 36,
+      "chapterTitle": "Kapitel 36",
+      "turkish": "karar vermek",
+      "german": [
+        "entscheiden"
+      ],
+      "pronunciation": "ka-rar wer-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 691,
+        "originalGerman": "entscheiden"
+      }
+    },
+    {
+      "id": "k36-v010",
+      "chapter": 36,
+      "chapterTitle": "Kapitel 36",
+      "turkish": "uygun",
+      "german": [
+        "geeignet"
+      ],
+      "pronunciation": "uj-gun",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 692,
+        "originalGerman": "geeignet"
+      }
+    },
+    {
+      "id": "k36-v011",
+      "chapter": 36,
+      "chapterTitle": "Kapitel 36",
+      "turkish": "kontrol etmek",
+      "german": [
+        "kontrollieren"
+      ],
+      "pronunciation": "kon-trol et-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 693,
+        "originalGerman": "kontrollieren"
+      }
+    },
+    {
+      "id": "k36-v012",
+      "chapter": 36,
+      "chapterTitle": "Kapitel 36",
+      "turkish": "kuvvetli",
+      "german": [
+        "kräftig, stark"
+      ],
+      "pronunciation": "kuv-wet-li",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 694,
+        "originalGerman": "kräftig, stark"
+      }
+    },
+    {
+      "id": "k36-v013",
+      "chapter": 36,
+      "chapterTitle": "Kapitel 36",
+      "turkish": "pilot",
+      "german": [
+        "Pilot"
+      ],
+      "pronunciation": "pi-lot",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 695,
+        "originalGerman": "Pilot"
+      }
+    },
+    {
+      "id": "k36-v014",
+      "chapter": 36,
+      "chapterTitle": "Kapitel 36",
+      "turkish": "sakin",
+      "german": [
+        "ruhig"
+      ],
+      "pronunciation": "sa-kin",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 696,
+        "originalGerman": "ruhig"
+      }
+    },
+    {
+      "id": "k36-v015",
+      "chapter": 36,
+      "chapterTitle": "Kapitel 36",
+      "turkish": "güvenli",
+      "german": [
+        "sicher"
+      ],
+      "pronunciation": "gü-wen-li",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 697,
+        "originalGerman": "sicher"
+      }
+    },
+    {
+      "id": "k36-v016",
+      "chapter": 36,
+      "chapterTitle": "Kapitel 36",
+      "turkish": "gün doğumu",
+      "german": [
+        "Sonnenaufgang"
+      ],
+      "pronunciation": "gün do-u-mu",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 698,
+        "originalGerman": "Sonnenaufgang"
+      }
+    },
+    {
+      "id": "k36-v017",
+      "chapter": 36,
+      "chapterTitle": "Kapitel 36",
+      "turkish": "yıldız",
+      "german": [
+        "Stern"
+      ],
+      "pronunciation": "jəl-dəs",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 699,
+        "originalGerman": "Stern"
+      }
+    },
+    {
+      "id": "k36-v018",
+      "chapter": 36,
+      "chapterTitle": "Kapitel 36",
+      "turkish": "beklemek",
+      "german": [
+        "warten"
+      ],
+      "pronunciation": "bek-le-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 700,
+        "originalGerman": "warten"
+      }
+    },
+    {
+      "id": "k36-v019",
+      "chapter": 36,
+      "chapterTitle": "Kapitel 36",
+      "turkish": "olursa",
+      "german": [
+        "wenn es geschieht"
+      ],
+      "pronunciation": "o-lur-sa",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 701,
+        "originalGerman": "wenn es geschieht"
+      }
+    },
+    {
+      "id": "k36-v020",
+      "chapter": 36,
+      "chapterTitle": "Kapitel 36",
+      "turkish": "isterseniz",
+      "german": [
+        "wenn Sie möchten"
+      ],
+      "pronunciation": "is-ter-se-nis",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 702,
+        "originalGerman": "wenn Sie möchten"
+      }
+    },
+    {
+      "id": "k36-v021",
+      "chapter": 36,
+      "chapterTitle": "Kapitel 36",
+      "turkish": "eğer",
+      "german": [
+        "wenn, falls"
+      ],
+      "pronunciation": "e-er",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 703,
+        "originalGerman": "wenn, falls"
+      }
+    },
+    {
+      "id": "k36-v022",
+      "chapter": 36,
+      "chapterTitle": "Kapitel 36",
+      "turkish": "hava durumu",
+      "german": [
+        "Wetterlage"
+      ],
+      "pronunciation": "ha-wa du-ru-mu",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 704,
+        "originalGerman": "Wetterlage"
+      }
+    },
+    {
+      "id": "k37-v001",
+      "chapter": 37,
+      "chapterTitle": "Kapitel 37",
+      "turkish": "manzara",
+      "german": [
+        "Aussicht"
+      ],
+      "pronunciation": "man-sa-ra",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 710,
+        "originalGerman": "Aussicht"
+      }
+    },
+    {
+      "id": "k37-v002",
+      "chapter": 37,
+      "chapterTitle": "Kapitel 37",
+      "turkish": "fark etmek",
+      "german": [
+        "bemerken"
+      ],
+      "pronunciation": "fark et-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 711,
+        "originalGerman": "bemerken"
+      }
+    },
+    {
+      "id": "k37-v003",
+      "chapter": 37,
+      "chapterTitle": "Kapitel 37",
+      "turkish": "sıcak hava balonu",
+      "german": [
+        "Heißluftballon"
+      ],
+      "pronunciation": "sə-dschak ha-wa ba-lo-nu",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 712,
+        "originalGerman": "Heißluftballon"
+      }
+    },
+    {
+      "id": "k37-v004",
+      "chapter": 37,
+      "chapterTitle": "Kapitel 37",
+      "turkish": "gökyüzü",
+      "german": [
+        "Himmel"
+      ],
+      "pronunciation": "gök-jü-sü",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 713,
+        "originalGerman": "Himmel"
+      }
+    },
+    {
+      "id": "k37-v005",
+      "chapter": 37,
+      "chapterTitle": "Kapitel 37",
+      "turkish": "yükseklik",
+      "german": [
+        "Höhe"
+      ],
+      "pronunciation": "jük-sek-lik",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 714,
+        "originalGerman": "Höhe"
+      }
+    },
+    {
+      "id": "k37-v006",
+      "chapter": 37,
+      "chapterTitle": "Kapitel 37",
+      "turkish": "ufuk",
+      "german": [
+        "Horizont"
+      ],
+      "pronunciation": "u-fuk",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 715,
+        "originalGerman": "Horizont"
+      }
+    },
+    {
+      "id": "k37-v007",
+      "chapter": 37,
+      "chapterTitle": "Kapitel 37",
+      "turkish": "sepet",
+      "german": [
+        "Korb"
+      ],
+      "pronunciation": "se-pet",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 716,
+        "originalGerman": "Korb"
+      }
+    },
+    {
+      "id": "k37-v008",
+      "chapter": 37,
+      "chapterTitle": "Kapitel 37",
+      "turkish": "yukarıda",
+      "german": [
+        "oben"
+      ],
+      "pronunciation": "ju-ka-rə-da",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 717,
+        "originalGerman": "oben"
+      }
+    },
+    {
+      "id": "k37-v009",
+      "chapter": 37,
+      "chapterTitle": "Kapitel 37",
+      "turkish": "süzülmek",
+      "german": [
+        "schweben"
+      ],
+      "pronunciation": "sü-sül-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 718,
+        "originalGerman": "schweben"
+      }
+    },
+    {
+      "id": "k37-v010",
+      "chapter": 37,
+      "chapterTitle": "Kapitel 37",
+      "turkish": "uzaklaşmak",
+      "german": [
+        "sich entfernen"
+      ],
+      "pronunciation": "u-sak-lasch-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 719,
+        "originalGerman": "sich entfernen"
+      }
+    },
+    {
+      "id": "k37-v011",
+      "chapter": 37,
+      "chapterTitle": "Kapitel 37",
+      "turkish": "değmek",
+      "german": [
+        "sich lohnen; wert sein"
+      ],
+      "pronunciation": "de-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 720,
+        "originalGerman": "sich lohnen; wert sein"
+      }
+    },
+    {
+      "id": "k37-v012",
+      "chapter": 37,
+      "chapterTitle": "Kapitel 37",
+      "turkish": "yaklaşmak",
+      "german": [
+        "sich nähern"
+      ],
+      "pronunciation": "jak-lasch-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 721,
+        "originalGerman": "sich nähern"
+      }
+    },
+    {
+      "id": "k37-v013",
+      "chapter": 37,
+      "chapterTitle": "Kapitel 37",
+      "turkish": "alçalmak",
+      "german": [
+        "sinken"
+      ],
+      "pronunciation": "al-tschal-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 722,
+        "originalGerman": "sinken"
+      }
+    },
+    {
+      "id": "k37-v014",
+      "chapter": 37,
+      "chapterTitle": "Kapitel 37",
+      "turkish": "güneşin doğuşu",
+      "german": [
+        "Sonnenaufgang"
+      ],
+      "pronunciation": "gü-ne-schin do-u-schu",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 723,
+        "originalGerman": "Sonnenaufgang"
+      }
+    },
+    {
+      "id": "k37-v015",
+      "chapter": 37,
+      "chapterTitle": "Kapitel 37",
+      "turkish": "yükselmek",
+      "german": [
+        "steigen"
+      ],
+      "pronunciation": "yük-sel-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 724,
+        "originalGerman": "steigen"
+      }
+    },
+    {
+      "id": "k37-v016",
+      "chapter": 37,
+      "chapterTitle": "Kapitel 37",
+      "turkish": "sessiz",
+      "german": [
+        "still"
+      ],
+      "pronunciation": "ses-sis",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 725,
+        "originalGerman": "still"
+      }
+    },
+    {
+      "id": "k37-v017",
+      "chapter": 37,
+      "chapterTitle": "Kapitel 37",
+      "turkish": "vadi",
+      "german": [
+        "Tal"
+      ],
+      "pronunciation": "wa-di",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 726,
+        "originalGerman": "Tal"
+      }
+    },
+    {
+      "id": "k37-v018",
+      "chapter": 37,
+      "chapterTitle": "Kapitel 37",
+      "turkish": "şaşırmak",
+      "german": [
+        "überrascht sein"
+      ],
+      "pronunciation": "scha-schər-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 727,
+        "originalGerman": "überrascht sein"
+      }
+    },
+    {
+      "id": "k37-v019",
+      "chapter": 37,
+      "chapterTitle": "Kapitel 37",
+      "turkish": "aşağıda",
+      "german": [
+        "unten"
+      ],
+      "pronunciation": "a-scha-ə-da",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 728,
+        "originalGerman": "unten"
+      }
+    },
+    {
+      "id": "k37-v020",
+      "chapter": 37,
+      "chapterTitle": "Kapitel 37",
+      "turkish": "unutulmaz",
+      "german": [
+        "unvergesslich"
+      ],
+      "pronunciation": "u-nu-tul-mas",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 729,
+        "originalGerman": "unvergesslich"
+      }
+    },
+    {
+      "id": "k37-v021",
+      "chapter": 37,
+      "chapterTitle": "Kapitel 37",
+      "turkish": "yukarıdan",
+      "german": [
+        "von oben"
+      ],
+      "pronunciation": "ju-ka-rə-dan",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 730,
+        "originalGerman": "von oben"
+      }
+    },
+    {
+      "id": "k37-v022",
+      "chapter": 37,
+      "chapterTitle": "Kapitel 37",
+      "turkish": "meğer",
+      "german": [
+        "wie sich herausstellt"
+      ],
+      "pronunciation": "me-er",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 731,
+        "originalGerman": "wie sich herausstellt"
+      }
+    },
+    {
+      "id": "k38-v001",
+      "chapter": 38,
+      "chapterTitle": "Kapitel 38",
+      "turkish": "veda",
+      "german": [
+        "Abschied"
+      ],
+      "pronunciation": "we-da",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 737,
+        "originalGerman": "Abschied"
+      }
+    },
+    {
+      "id": "k38-v002",
+      "chapter": 38,
+      "chapterTitle": "Kapitel 38",
+      "turkish": "hatıra",
+      "german": [
+        "Andenken"
+      ],
+      "pronunciation": "ha-tə-ra",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 738,
+        "originalGerman": "Andenken"
+      }
+    },
+    {
+      "id": "k38-v003",
+      "chapter": 38,
+      "chapterTitle": "Kapitel 38",
+      "turkish": "teşekkür etmek",
+      "german": [
+        "danken"
+      ],
+      "pronunciation": "te-schek-kür et-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 739,
+        "originalGerman": "danken"
+      }
+    },
+    {
+      "id": "k38-v004",
+      "chapter": 38,
+      "chapterTitle": "Kapitel 38",
+      "turkish": "anı",
+      "german": [
+        "Erinnerung, Moment"
+      ],
+      "pronunciation": "a-nə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 740,
+        "originalGerman": "Erinnerung, Moment"
+      }
+    },
+    {
+      "id": "k38-v005",
+      "chapter": 38,
+      "chapterTitle": "Kapitel 38",
+      "turkish": "tekrar",
+      "german": [
+        "erneut"
+      ],
+      "pronunciation": "tek-rar",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 741,
+        "originalGerman": "erneut"
+      }
+    },
+    {
+      "id": "k38-v006",
+      "chapter": 38,
+      "chapterTitle": "Kapitel 38",
+      "turkish": "ayrılmak",
+      "german": [
+        "fortgehen"
+      ],
+      "pronunciation": "aj-rəl-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 742,
+        "originalGerman": "fortgehen"
+      }
+    },
+    {
+      "id": "k38-v007",
+      "chapter": 38,
+      "chapterTitle": "Kapitel 38",
+      "turkish": "fotoğraf",
+      "german": [
+        "Foto"
+      ],
+      "pronunciation": "fo-to-raf",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 743,
+        "originalGerman": "Foto"
+      }
+    },
+    {
+      "id": "k38-v008",
+      "chapter": 38,
+      "chapterTitle": "Kapitel 38",
+      "turkish": "misafirperverlik",
+      "german": [
+        "Gastfreundschaft"
+      ],
+      "pronunciation": "mi-sa-fir-per-wer-lik",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 744,
+        "originalGerman": "Gastfreundschaft"
+      }
+    },
+    {
+      "id": "k38-v009",
+      "chapter": 38,
+      "chapterTitle": "Kapitel 38",
+      "turkish": "hediye",
+      "german": [
+        "Geschenk"
+      ],
+      "pronunciation": "he-di-je",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 745,
+        "originalGerman": "Geschenk"
+      }
+    },
+    {
+      "id": "k38-v010",
+      "chapter": 38,
+      "chapterTitle": "Kapitel 38",
+      "turkish": "yolunuz açık olsun",
+      "german": [
+        "gute Reise"
+      ],
+      "pronunciation": "jo-lu-nus a-tschək ol-sun",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 746,
+        "originalGerman": "gute Reise"
+      }
+    },
+    {
+      "id": "k38-v011",
+      "chapter": 38,
+      "chapterTitle": "Kapitel 38",
+      "turkish": "umarım",
+      "german": [
+        "hoffentlich"
+      ],
+      "pronunciation": "u-ma-rəm",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 747,
+        "originalGerman": "hoffentlich"
+      }
+    },
+    {
+      "id": "k38-v012",
+      "chapter": 38,
+      "chapterTitle": "Kapitel 38",
+      "turkish": "son akşam",
+      "german": [
+        "letzter Abend"
+      ],
+      "pronunciation": "son ak-scham",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 748,
+        "originalGerman": "letzter Abend"
+      }
+    },
+    {
+      "id": "k38-v013",
+      "chapter": 38,
+      "chapterTitle": "Kapitel 38",
+      "turkish": "hatırlamak",
+      "german": [
+        "sich erinnern"
+      ],
+      "pronunciation": "ha-tər-la-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 749,
+        "originalGerman": "sich erinnern"
+      }
+    },
+    {
+      "id": "k38-v014",
+      "chapter": 38,
+      "chapterTitle": "Kapitel 38",
+      "turkish": "memnun olmak",
+      "german": [
+        "sich freuen"
+      ],
+      "pronunciation": "mem-nun ol-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 750,
+        "originalGerman": "sich freuen"
+      }
+    },
+    {
+      "id": "k38-v015",
+      "chapter": 38,
+      "chapterTitle": "Kapitel 38",
+      "turkish": "vedalaşmak",
+      "german": [
+        "sich verabschieden"
+      ],
+      "pronunciation": "we-da-lasch-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 751,
+        "originalGerman": "sich verabschieden"
+      }
+    },
+    {
+      "id": "k38-v016",
+      "chapter": 38,
+      "chapterTitle": "Kapitel 38",
+      "turkish": "mutlaka",
+      "german": [
+        "unbedingt"
+      ],
+      "pronunciation": "mut-la-ka",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 752,
+        "originalGerman": "unbedingt"
+      }
+    },
+    {
+      "id": "k38-v017",
+      "chapter": 38,
+      "chapterTitle": "Kapitel 38",
+      "turkish": "unutmak",
+      "german": [
+        "vergessen"
+      ],
+      "pronunciation": "u-nut-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 753,
+        "originalGerman": "vergessen"
+      }
+    },
+    {
+      "id": "k38-v018",
+      "chapter": 38,
+      "chapterTitle": "Kapitel 38",
+      "turkish": "özlemek",
+      "german": [
+        "vermissen"
+      ],
+      "pronunciation": "ös-le-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 754,
+        "originalGerman": "vermissen"
+      }
+    },
+    {
+      "id": "k38-v019",
+      "chapter": 38,
+      "chapterTitle": "Kapitel 38",
+      "turkish": "belki",
+      "german": [
+        "vielleicht"
+      ],
+      "pronunciation": "bel-ki",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 755,
+        "originalGerman": "vielleicht"
+      }
+    },
+    {
+      "id": "k38-v020",
+      "chapter": 38,
+      "chapterTitle": "Kapitel 38",
+      "turkish": "keşke",
+      "german": [
+        "wenn doch"
+      ],
+      "pronunciation": "kesch-ke",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 756,
+        "originalGerman": "wenn doch"
+      }
+    },
+    {
+      "id": "k38-v021",
+      "chapter": 38,
+      "chapterTitle": "Kapitel 38",
+      "turkish": "yine",
+      "german": [
+        "wieder"
+      ],
+      "pronunciation": "ji-ne",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 757,
+        "originalGerman": "wieder"
+      }
+    },
+    {
+      "id": "k39-v001",
+      "chapter": 39,
+      "chapterTitle": "Kapitel 39",
+      "turkish": "başlangıç",
+      "german": [
+        "Anfang"
+      ],
+      "pronunciation": "basch-lan-gətsch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 763,
+        "originalGerman": "Anfang"
+      }
+    },
+    {
+      "id": "k39-v002",
+      "chapter": 39,
+      "chapterTitle": "Kapitel 39",
+      "turkish": "rahat",
+      "german": [
+        "entspannt"
+      ],
+      "pronunciation": "ra-hat",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 764,
+        "originalGerman": "entspannt"
+      }
+    },
+    {
+      "id": "k39-v003",
+      "chapter": 39,
+      "chapterTitle": "Kapitel 39",
+      "turkish": "yeniden",
+      "german": [
+        "erneut"
+      ],
+      "pronunciation": "je-ni-den",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 765,
+        "originalGerman": "erneut"
+      }
+    },
+    {
+      "id": "k39-v004",
+      "chapter": 39,
+      "chapterTitle": "Kapitel 39",
+      "turkish": "eskiden",
+      "german": [
+        "früher"
+      ],
+      "pronunciation": "es-ki-den",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 766,
+        "originalGerman": "früher"
+      }
+    },
+    {
+      "id": "k39-v005",
+      "chapter": 39,
+      "chapterTitle": "Kapitel 39",
+      "turkish": "artık",
+      "german": [
+        "inzwischen"
+      ],
+      "pronunciation": "ar-tək",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 767,
+        "originalGerman": "inzwischen"
+      }
+    },
+    {
+      "id": "k39-v006",
+      "chapter": 39,
+      "chapterTitle": "Kapitel 39",
+      "turkish": "dönüş",
+      "german": [
+        "Rückkehr"
+      ],
+      "pronunciation": "dö-nüsch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 768,
+        "originalGerman": "Rückkehr"
+      }
+    },
+    {
+      "id": "k39-v007",
+      "chapter": 39,
+      "chapterTitle": "Kapitel 39",
+      "turkish": "dönüş yolculuğu",
+      "german": [
+        "Rückreise"
+      ],
+      "pronunciation": "dö-nüsch jol-dschu-lu-u",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 769,
+        "originalGerman": "Rückreise"
+      }
+    },
+    {
+      "id": "k39-v008",
+      "chapter": 39,
+      "chapterTitle": "Kapitel 39",
+      "turkish": "beri",
+      "german": [
+        "seit"
+      ],
+      "pronunciation": "be-ri",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 770,
+        "originalGerman": "seit"
+      }
+    },
+    {
+      "id": "k39-v009",
+      "chapter": 39,
+      "chapterTitle": "Kapitel 39",
+      "turkish": "üç gündür",
+      "german": [
+        "seit drei Tagen"
+      ],
+      "pronunciation": "ütsch gün-dür",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 771,
+        "originalGerman": "seit drei Tagen"
+      }
+    },
+    {
+      "id": "k39-v010",
+      "chapter": 39,
+      "chapterTitle": "Kapitel 39",
+      "turkish": "bir haftadır",
+      "german": [
+        "seit einer Woche"
+      ],
+      "pronunciation": "bir haf-ta-dər",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 772,
+        "originalGerman": "seit einer Woche"
+      }
+    },
+    {
+      "id": "k39-v011",
+      "chapter": 39,
+      "chapterTitle": "Kapitel 39",
+      "turkish": "geldiğimden beri",
+      "german": [
+        "seit ich gekommen bin"
+      ],
+      "pronunciation": "gel-di-im-den be-ri",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 773,
+        "originalGerman": "seit ich gekommen bin"
+      }
+    },
+    {
+      "id": "k39-v012",
+      "chapter": 39,
+      "chapterTitle": "Kapitel 39",
+      "turkish": "ne zamandan beri?",
+      "german": [
+        "seit wann?"
+      ],
+      "pronunciation": "ne sa-man-dan be-ri",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 774,
+        "originalGerman": "seit wann?"
+      }
+    },
+    {
+      "id": "k39-v013",
+      "chapter": 39,
+      "chapterTitle": "Kapitel 39",
+      "turkish": "gelişmek",
+      "german": [
+        "sich entwickeln"
+      ],
+      "pronunciation": "ge-lisch-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 775,
+        "originalGerman": "sich entwickeln"
+      }
+    },
+    {
+      "id": "k39-v014",
+      "chapter": 39,
+      "chapterTitle": "Kapitel 39",
+      "turkish": "kendine güvenmek",
+      "german": [
+        "sich selbst vertrauen"
+      ],
+      "pronunciation": "ken-di-ne gü-wen-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 776,
+        "originalGerman": "sich selbst vertrauen"
+      }
+    },
+    {
+      "id": "k39-v015",
+      "chapter": 39,
+      "chapterTitle": "Kapitel 39",
+      "turkish": "değişmek",
+      "german": [
+        "sich verändern"
+      ],
+      "pronunciation": "de-isch-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 777,
+        "originalGerman": "sich verändern"
+      }
+    },
+    {
+      "id": "k39-v016",
+      "chapter": 39,
+      "chapterTitle": "Kapitel 39",
+      "turkish": "fark",
+      "german": [
+        "Unterschied"
+      ],
+      "pronunciation": "fark",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 778,
+        "originalGerman": "Unterschied"
+      }
+    },
+    {
+      "id": "k39-v017",
+      "chapter": 39,
+      "chapterTitle": "Kapitel 39",
+      "turkish": "tanıdık",
+      "german": [
+        "vertraut"
+      ],
+      "pronunciation": "ta-nə-dək",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 779,
+        "originalGerman": "vertraut"
+      }
+    },
+    {
+      "id": "k39-v018",
+      "chapter": 39,
+      "chapterTitle": "Kapitel 39",
+      "turkish": "ilerlemek",
+      "german": [
+        "vorankommen"
+      ],
+      "pronunciation": "i-ler-le-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 780,
+        "originalGerman": "vorankommen"
+      }
+    },
+    {
+      "id": "k39-v019",
+      "chapter": 39,
+      "chapterTitle": "Kapitel 39",
+      "turkish": "önceden",
+      "german": [
+        "vorher"
+      ],
+      "pronunciation": "ön-dsche-den",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 781,
+        "originalGerman": "vorher"
+      }
+    },
+    {
+      "id": "k39-v020",
+      "chapter": 39,
+      "chapterTitle": "Kapitel 39",
+      "turkish": "ilk defa",
+      "german": [
+        "zum ersten Mal"
+      ],
+      "pronunciation": "ilk de-fa",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 782,
+        "originalGerman": "zum ersten Mal"
+      }
+    },
+    {
+      "id": "k40-v001",
+      "chapter": 40,
+      "chapterTitle": "Kapitel 40",
+      "turkish": "iskeleye yanaşmak",
+      "german": [
+        "am Anleger anlegen"
+      ],
+      "pronunciation": "is-ke-le-je ja-nasch-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 788,
+        "originalGerman": "am Anleger anlegen"
+      }
+    },
+    {
+      "id": "k40-v002",
+      "chapter": 40,
+      "chapterTitle": "Kapitel 40",
+      "turkish": "iskele",
+      "german": [
+        "Anleger"
+      ],
+      "pronunciation": "is-ke-le",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 789,
+        "originalGerman": "Anleger"
+      }
+    },
+    {
+      "id": "k40-v003",
+      "chapter": 40,
+      "chapterTitle": "Kapitel 40",
+      "turkish": "kalabalık",
+      "german": [
+        "belebt; Menschenmenge"
+      ],
+      "pronunciation": "ka-la-ba-lək",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 790,
+        "originalGerman": "belebt; Menschenmenge"
+      }
+    },
+    {
+      "id": "k40-v004",
+      "chapter": 40,
+      "chapterTitle": "Kapitel 40",
+      "turkish": "Büyükada",
+      "german": [
+        "Büyükada"
+      ],
+      "pronunciation": "bü-jük-a-da",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 791,
+        "originalGerman": "Büyükada"
+      }
+    },
+    {
+      "id": "k40-v005",
+      "chapter": 40,
+      "chapterTitle": "Kapitel 40",
+      "turkish": "doğrudan",
+      "german": [
+        "direkt"
+      ],
+      "pronunciation": "do-ru-dan",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 792,
+        "originalGerman": "direkt"
+      }
+    },
+    {
+      "id": "k40-v006",
+      "chapter": 40,
+      "chapterTitle": "Kapitel 40",
+      "turkish": "bisiklet kiralamak",
+      "german": [
+        "ein Fahrrad mieten"
+      ],
+      "pronunciation": "bi-si-klet ki-ra-la-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 793,
+        "originalGerman": "ein Fahrrad mieten"
+      }
+    },
+    {
+      "id": "k40-v007",
+      "chapter": 40,
+      "chapterTitle": "Kapitel 40",
+      "turkish": "vapur",
+      "german": [
+        "Fähre"
+      ],
+      "pronunciation": "wa-pur",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 794,
+        "originalGerman": "Fähre"
+      }
+    },
+    {
+      "id": "k40-v008",
+      "chapter": 40,
+      "chapterTitle": "Kapitel 40",
+      "turkish": "bisiklet",
+      "german": [
+        "Fahrrad"
+      ],
+      "pronunciation": "bi-si-klet",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 795,
+        "originalGerman": "Fahrrad"
+      }
+    },
+    {
+      "id": "k40-v009",
+      "chapter": 40,
+      "chapterTitle": "Kapitel 40",
+      "turkish": "sefer",
+      "german": [
+        "Fahrt, Verbindung"
+      ],
+      "pronunciation": "se-fer",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 796,
+        "originalGerman": "Fahrt, Verbindung"
+      }
+    },
+    {
+      "id": "k40-v010",
+      "chapter": 40,
+      "chapterTitle": "Kapitel 40",
+      "turkish": "giden",
+      "german": [
+        "gehend, fahrend"
+      ],
+      "pronunciation": "gi-den",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 797,
+        "originalGerman": "gehend, fahrend"
+      }
+    },
+    {
+      "id": "k40-v011",
+      "chapter": 40,
+      "chapterTitle": "Kapitel 40",
+      "turkish": "ada",
+      "german": [
+        "Insel"
+      ],
+      "pronunciation": "a-da",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 798,
+        "originalGerman": "Insel"
+      }
+    },
+    {
+      "id": "k40-v012",
+      "chapter": 40,
+      "chapterTitle": "Kapitel 40",
+      "turkish": "ada turu",
+      "german": [
+        "Inselrundfahrt"
+      ],
+      "pronunciation": "a-da tu-ru",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 799,
+        "originalGerman": "Inselrundfahrt"
+      }
+    },
+    {
+      "id": "k40-v013",
+      "chapter": 40,
+      "chapterTitle": "Kapitel 40",
+      "turkish": "çam ağacı",
+      "german": [
+        "Kiefer"
+      ],
+      "pronunciation": "tscham a-a-dschə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 800,
+        "originalGerman": "Kiefer"
+      }
+    },
+    {
+      "id": "k40-v014",
+      "chapter": 40,
+      "chapterTitle": "Kapitel 40",
+      "turkish": "gelen",
+      "german": [
+        "kommend"
+      ],
+      "pronunciation": "ge-len",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 801,
+        "originalGerman": "kommend"
+      }
+    },
+    {
+      "id": "k40-v015",
+      "chapter": 40,
+      "chapterTitle": "Kapitel 40",
+      "turkish": "denizi gören",
+      "german": [
+        "mit Meerblick"
+      ],
+      "pronunciation": "de-ni-si gö-ren",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 802,
+        "originalGerman": "mit Meerblick"
+      }
+    },
+    {
+      "id": "k40-v016",
+      "chapter": 40,
+      "chapterTitle": "Kapitel 40",
+      "turkish": "konuşan",
+      "german": [
+        "sprechend"
+      ],
+      "pronunciation": "ko-nu-schan",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 803,
+        "originalGerman": "sprechend"
+      }
+    },
+    {
+      "id": "k40-v017",
+      "chapter": 40,
+      "chapterTitle": "Kapitel 40",
+      "turkish": "yokuş",
+      "german": [
+        "Steigung"
+      ],
+      "pronunciation": "jo-kusch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 804,
+        "originalGerman": "Steigung"
+      }
+    },
+    {
+      "id": "k40-v018",
+      "chapter": 40,
+      "chapterTitle": "Kapitel 40",
+      "turkish": "sessizlik",
+      "german": [
+        "Stille"
+      ],
+      "pronunciation": "ses-sis-lik",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 805,
+        "originalGerman": "Stille"
+      }
+    },
+    {
+      "id": "k40-v019",
+      "chapter": 40,
+      "chapterTitle": "Kapitel 40",
+      "turkish": "sahil",
+      "german": [
+        "Ufer"
+      ],
+      "pronunciation": "sa-hil",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 806,
+        "originalGerman": "Ufer"
+      }
+    },
+    {
+      "id": "k40-v020",
+      "chapter": 40,
+      "chapterTitle": "Kapitel 40",
+      "turkish": "köşk",
+      "german": [
+        "Villa, Herrenhaus"
+      ],
+      "pronunciation": "köschk",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 807,
+        "originalGerman": "Villa, Herrenhaus"
+      }
+    },
+    {
+      "id": "k40-v021",
+      "chapter": 40,
+      "chapterTitle": "Kapitel 40",
+      "turkish": "tahminî",
+      "german": [
+        "voraussichtlich"
+      ],
+      "pronunciation": "tah-mi-ni",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 808,
+        "originalGerman": "voraussichtlich"
+      }
+    },
+    {
+      "id": "k40-v022",
+      "chapter": 40,
+      "chapterTitle": "Kapitel 40",
+      "turkish": "bekleyen",
+      "german": [
+        "wartend"
+      ],
+      "pronunciation": "bek-le-jen",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 809,
+        "originalGerman": "wartend"
+      }
+    },
+    {
+      "id": "k41-v001",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "alerji",
+      "german": [
+        "Allergie"
+      ],
+      "pronunciation": "a-ler-schi",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 815,
+        "originalGerman": "Allergie"
+      }
+    },
+    {
+      "id": "k41-v002",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "kullanmak",
+      "german": [
+        "anwenden"
+      ],
+      "pronunciation": "kul-lan-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 816,
+        "originalGerman": "anwenden"
+      }
+    },
+    {
+      "id": "k41-v003",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "eczane",
+      "german": [
+        "Apotheke"
+      ],
+      "pronunciation": "edscha-ne",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 817,
+        "originalGerman": "Apotheke"
+      }
+    },
+    {
+      "id": "k41-v004",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "eczacı",
+      "german": [
+        "Apotheker"
+      ],
+      "pronunciation": "edscha-dschə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 818,
+        "originalGerman": "Apotheker"
+      }
+    },
+    {
+      "id": "k41-v005",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "dikkatli",
+      "german": [
+        "aufmerksam"
+      ],
+      "pronunciation": "dik-kat-li",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 819,
+        "originalGerman": "aufmerksam"
+      }
+    },
+    {
+      "id": "k41-v006",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "karın",
+      "german": [
+        "Bauch"
+      ],
+      "pronunciation": "ka-rən",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 820,
+        "originalGerman": "Bauch"
+      }
+    },
+    {
+      "id": "k41-v007",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "şikâyet",
+      "german": [
+        "Beschwerde"
+      ],
+      "pronunciation": "schi-ka-jet",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 821,
+        "originalGerman": "Beschwerde"
+      }
+    },
+    {
+      "id": "k41-v008",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "ateş",
+      "german": [
+        "Fieber"
+      ],
+      "pronunciation": "a-tesch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 822,
+        "originalGerman": "Fieber"
+      }
+    },
+    {
+      "id": "k41-v009",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "boğaz",
+      "german": [
+        "Hals"
+      ],
+      "pronunciation": "bo-as",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 823,
+        "originalGerman": "Hals"
+      }
+    },
+    {
+      "id": "k41-v010",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "öksürmek",
+      "german": [
+        "husten"
+      ],
+      "pronunciation": "ök-sür-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 824,
+        "originalGerman": "husten"
+      }
+    },
+    {
+      "id": "k41-v011",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "baş",
+      "german": [
+        "Kopf"
+      ],
+      "pronunciation": "basch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 825,
+        "originalGerman": "Kopf"
+      }
+    },
+    {
+      "id": "k41-v012",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "kez",
+      "german": [
+        "Mal"
+      ],
+      "pronunciation": "kes",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 826,
+        "originalGerman": "Mal"
+      }
+    },
+    {
+      "id": "k41-v013",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "ilaç",
+      "german": [
+        "Medikament"
+      ],
+      "pronunciation": "i-latsch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 827,
+        "originalGerman": "Medikament"
+      }
+    },
+    {
+      "id": "k41-v014",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "yemekten sonra",
+      "german": [
+        "nach dem Essen"
+      ],
+      "pronunciation": "je-mek-ten son-ra",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 828,
+        "originalGerman": "nach dem Essen"
+      }
+    },
+    {
+      "id": "k41-v015",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "günde",
+      "german": [
+        "pro Tag"
+      ],
+      "pronunciation": "gün-de",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 829,
+        "originalGerman": "pro Tag"
+      }
+    },
+    {
+      "id": "k41-v016",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "sırt",
+      "german": [
+        "Rücken"
+      ],
+      "pronunciation": "sərt",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 830,
+        "originalGerman": "Rücken"
+      }
+    },
+    {
+      "id": "k41-v017",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "ağrımak",
+      "german": [
+        "schmerzen"
+      ],
+      "pronunciation": "a-rə-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 831,
+        "originalGerman": "schmerzen"
+      }
+    },
+    {
+      "id": "k41-v018",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "dünden beri",
+      "german": [
+        "seit gestern"
+      ],
+      "pronunciation": "dün-den be-ri",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 832,
+        "originalGerman": "seit gestern"
+      }
+    },
+    {
+      "id": "k41-v019",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "şurup",
+      "german": [
+        "Sirup"
+      ],
+      "pronunciation": "schu-rup",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 833,
+        "originalGerman": "Sirup"
+      }
+    },
+    {
+      "id": "k41-v020",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "tablet",
+      "german": [
+        "Tablette"
+      ],
+      "pronunciation": "tab-let",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 834,
+        "originalGerman": "Tablette"
+      }
+    },
+    {
+      "id": "k41-v021",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "geçmek",
+      "german": [
+        "vergehen"
+      ],
+      "pronunciation": "getsch-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 835,
+        "originalGerman": "vergehen"
+      }
+    },
+    {
+      "id": "k41-v022",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "yemekten önce",
+      "german": [
+        "vor dem Essen"
+      ],
+      "pronunciation": "je-mek-ten ön-dsche",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 836,
+        "originalGerman": "vor dem Essen"
+      }
+    },
+    {
+      "id": "k41-v023",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "diş",
+      "german": [
+        "Zahn"
+      ],
+      "pronunciation": "disch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 837,
+        "originalGerman": "Zahn"
+      }
+    },
+    {
+      "id": "k41-v024",
+      "chapter": 41,
+      "chapterTitle": "Kapitel 41",
+      "turkish": "doktora gitmek",
+      "german": [
+        "zum Arzt gehen"
+      ],
+      "pronunciation": "dok-to-ra git-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 838,
+        "originalGerman": "zum Arzt gehen"
+      }
+    },
+    {
+      "id": "k42-v001",
+      "chapter": 42,
+      "chapterTitle": "Kapitel 42",
+      "turkish": "seçim",
+      "german": [
+        "Auswahl"
+      ],
+      "pronunciation": "se-tschim",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 844,
+        "originalGerman": "Auswahl"
+      }
+    },
+    {
+      "id": "k42-v002",
+      "chapter": 42,
+      "chapterTitle": "Kapitel 42",
+      "turkish": "bu kadar",
+      "german": [
+        "das ist alles"
+      ],
+      "pronunciation": "bu ka-dar",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 845,
+        "originalGerman": "das ist alles"
+      }
+    },
+    {
+      "id": "k42-v003",
+      "chapter": 42,
+      "chapterTitle": "Kapitel 42",
+      "turkish": "eş",
+      "german": [
+        "Ehepartner"
+      ],
+      "pronunciation": "esch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 846,
+        "originalGerman": "Ehepartner"
+      }
+    },
+    {
+      "id": "k42-v004",
+      "chapter": 42,
+      "chapterTitle": "Kapitel 42",
+      "turkish": "paketlemek",
+      "german": [
+        "einpacken"
+      ],
+      "pronunciation": "pa-ket-le-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 847,
+        "originalGerman": "einpacken"
+      }
+    },
+    {
+      "id": "k42-v005",
+      "chapter": 42,
+      "chapterTitle": "Kapitel 42",
+      "turkish": "tavsiye etmek",
+      "german": [
+        "empfehlen"
+      ],
+      "pronunciation": "taw-si-je et-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 848,
+        "originalGerman": "empfehlen"
+      }
+    },
+    {
+      "id": "k42-v006",
+      "chapter": 42,
+      "chapterTitle": "Kapitel 42",
+      "turkish": "tavsiye",
+      "german": [
+        "Empfehlung"
+      ],
+      "pronunciation": "taw-si-je",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 849,
+        "originalGerman": "Empfehlung"
+      }
+    },
+    {
+      "id": "k42-v007",
+      "chapter": 42,
+      "chapterTitle": "Kapitel 42",
+      "turkish": "hatıra",
+      "german": [
+        "Erinnerung, Andenken"
+      ],
+      "pronunciation": "ha-tə-ra",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 850,
+        "originalGerman": "Erinnerung, Andenken"
+      }
+    },
+    {
+      "id": "k42-v008",
+      "chapter": 42,
+      "chapterTitle": "Kapitel 42",
+      "turkish": "aile",
+      "german": [
+        "Familie"
+      ],
+      "pronunciation": "a-i-le",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 851,
+        "originalGerman": "Familie"
+      }
+    },
+    {
+      "id": "k42-v009",
+      "chapter": 42,
+      "chapterTitle": "Kapitel 42",
+      "turkish": "arkadaş",
+      "german": [
+        "Freund"
+      ],
+      "pronunciation": "ar-ka-dasch",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 852,
+        "originalGerman": "Freund"
+      }
+    },
+    {
+      "id": "k42-v010",
+      "chapter": 42,
+      "chapterTitle": "Kapitel 42",
+      "turkish": "için",
+      "german": [
+        "für; um zu"
+      ],
+      "pronunciation": "i-tschin",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 853,
+        "originalGerman": "für; um zu"
+      }
+    },
+    {
+      "id": "k42-v011",
+      "chapter": 42,
+      "chapterTitle": "Kapitel 42",
+      "turkish": "hediye",
+      "german": [
+        "Geschenk"
+      ],
+      "pronunciation": "he-di-je",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 854,
+        "originalGerman": "Geschenk"
+      }
+    },
+    {
+      "id": "k42-v012",
+      "chapter": 42,
+      "chapterTitle": "Kapitel 42",
+      "turkish": "ayrı ayrı",
+      "german": [
+        "getrennt, einzeln"
+      ],
+      "pronunciation": "aj-rə aj-rə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 855,
+        "originalGerman": "getrennt, einzeln"
+      }
+    },
+    {
+      "id": "k42-v013",
+      "chapter": 42,
+      "chapterTitle": "Kapitel 42",
+      "turkish": "baharat",
+      "german": [
+        "Gewürz"
+      ],
+      "pronunciation": "ba-ha-rat",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 856,
+        "originalGerman": "Gewürz"
+      }
+    },
+    {
+      "id": "k42-v014",
+      "chapter": 42,
+      "chapterTitle": "Kapitel 42",
+      "turkish": "çini",
+      "german": [
+        "glasierte Keramik"
+      ],
+      "pronunciation": "tschi-ni",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 857,
+        "originalGerman": "glasierte Keramik"
+      }
+    },
+    {
+      "id": "k42-v015",
+      "chapter": 42,
+      "chapterTitle": "Kapitel 42",
+      "turkish": "el yapımı",
+      "german": [
+        "handgemacht"
+      ],
+      "pronunciation": "el ja-pə-mə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 858,
+        "originalGerman": "handgemacht"
+      }
+    },
+    {
+      "id": "k42-v016",
+      "chapter": 42,
+      "chapterTitle": "Kapitel 42",
+      "turkish": "desen",
+      "german": [
+        "Muster"
+      ],
+      "pronunciation": "de-sen",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 859,
+        "originalGerman": "Muster"
+      }
+    },
+    {
+      "id": "k42-v017",
+      "chapter": 42,
+      "chapterTitle": "Kapitel 42",
+      "turkish": "başka bir şey",
+      "german": [
+        "noch etwas anderes"
+      ],
+      "pronunciation": "basch-ka bir schej",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 860,
+        "originalGerman": "noch etwas anderes"
+      }
+    },
+    {
+      "id": "k42-v018",
+      "chapter": 42,
+      "chapterTitle": "Kapitel 42",
+      "turkish": "uygun",
+      "german": [
+        "passend"
+      ],
+      "pronunciation": "uj-gun",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 861,
+        "originalGerman": "passend"
+      }
+    },
+    {
+      "id": "k42-v019",
+      "chapter": 42,
+      "chapterTitle": "Kapitel 42",
+      "turkish": "kâse",
+      "german": [
+        "Schale"
+      ],
+      "pronunciation": "ka-se",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 862,
+        "originalGerman": "Schale"
+      }
+    },
+    {
+      "id": "k42-v020",
+      "chapter": 42,
+      "chapterTitle": "Kapitel 42",
+      "turkish": "karar vermek",
+      "german": [
+        "sich entscheiden"
+      ],
+      "pronunciation": "ka-rar wer-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 863,
+        "originalGerman": "sich entscheiden"
+      }
+    },
+    {
+      "id": "k42-v021",
+      "chapter": 42,
+      "chapterTitle": "Kapitel 42",
+      "turkish": "hatırlamak",
+      "german": [
+        "sich erinnern"
+      ],
+      "pronunciation": "ha-tər-la-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 864,
+        "originalGerman": "sich erinnern"
+      }
+    },
+    {
+      "id": "k42-v022",
+      "chapter": 42,
+      "chapterTitle": "Kapitel 42",
+      "turkish": "lale",
+      "german": [
+        "Tulpe"
+      ],
+      "pronunciation": "la-le",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 865,
+        "originalGerman": "Tulpe"
+      }
+    },
+    {
+      "id": "k42-v023",
+      "chapter": 42,
+      "chapterTitle": "Kapitel 42",
+      "turkish": "kırılabilir",
+      "german": [
+        "zerbrechlich"
+      ],
+      "pronunciation": "kə-rə-la-bi-lir",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 866,
+        "originalGerman": "zerbrechlich"
+      }
+    },
+    {
+      "id": "k43-v001",
+      "chapter": 43,
+      "chapterTitle": "Kapitel 43",
+      "turkish": "yorucu",
+      "german": [
+        "anstrengend"
+      ],
+      "pronunciation": "jo-ru-dschu",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 872,
+        "originalGerman": "anstrengend"
+      }
+    },
+    {
+      "id": "k43-v002",
+      "chapter": 43,
+      "chapterTitle": "Kapitel 43",
+      "turkish": "tarif etmek",
+      "german": [
+        "beschreiben"
+      ],
+      "pronunciation": "ta-rif et-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 873,
+        "originalGerman": "beschreiben"
+      }
+    },
+    {
+      "id": "k43-v003",
+      "chapter": 43,
+      "chapterTitle": "Kapitel 43",
+      "turkish": "sence",
+      "german": [
+        "deiner Meinung nach"
+      ],
+      "pronunciation": "sen-dsche",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 874,
+        "originalGerman": "deiner Meinung nach"
+      }
+    },
+    {
+      "id": "k43-v004",
+      "chapter": 43,
+      "chapterTitle": "Kapitel 43",
+      "turkish": "gerçek",
+      "german": [
+        "echt, wirklich"
+      ],
+      "pronunciation": "ger-tschek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 875,
+        "originalGerman": "echt, wirklich"
+      }
+    },
+    {
+      "id": "k43-v005",
+      "chapter": 43,
+      "chapterTitle": "Kapitel 43",
+      "turkish": "aslında",
+      "german": [
+        "eigentlich"
+      ],
+      "pronunciation": "as-lən-da",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 876,
+        "originalGerman": "eigentlich"
+      }
+    },
+    {
+      "id": "k43-v006",
+      "chapter": 43,
+      "chapterTitle": "Kapitel 43",
+      "turkish": "kusursuz",
+      "german": [
+        "fehlerfrei"
+      ],
+      "pronunciation": "ku-sur-sus",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 877,
+        "originalGerman": "fehlerfrei"
+      }
+    },
+    {
+      "id": "k43-v007",
+      "chapter": 43,
+      "chapterTitle": "Kapitel 43",
+      "turkish": "devam etmek",
+      "german": [
+        "fortsetzen"
+      ],
+      "pronunciation": "de-wam et-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 878,
+        "originalGerman": "fortsetzen"
+      }
+    },
+    {
+      "id": "k43-v008",
+      "chapter": 43,
+      "chapterTitle": "Kapitel 43",
+      "turkish": "sizce",
+      "german": [
+        "Ihrer Meinung nach"
+      ],
+      "pronunciation": "sis-dsche",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 879,
+        "originalGerman": "Ihrer Meinung nach"
+      }
+    },
+    {
+      "id": "k43-v009",
+      "chapter": 43,
+      "chapterTitle": "Kapitel 43",
+      "turkish": "haklı",
+      "german": [
+        "im Recht"
+      ],
+      "pronunciation": "hak-lə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 880,
+        "originalGerman": "im Recht"
+      }
+    },
+    {
+      "id": "k43-v010",
+      "chapter": 43,
+      "chapterTitle": "Kapitel 43",
+      "turkish": "bir bakıma",
+      "german": [
+        "in gewisser Weise"
+      ],
+      "pronunciation": "bir ba-kə-ma",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 881,
+        "originalGerman": "in gewisser Weise"
+      }
+    },
+    {
+      "id": "k43-v011",
+      "chapter": 43,
+      "chapterTitle": "Kapitel 43",
+      "turkish": "canlı",
+      "german": [
+        "lebendig"
+      ],
+      "pronunciation": "dschan-lə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 882,
+        "originalGerman": "lebendig"
+      }
+    },
+    {
+      "id": "k43-v012",
+      "chapter": 43,
+      "chapterTitle": "Kapitel 43",
+      "turkish": "bana göre",
+      "german": [
+        "meiner Ansicht nach"
+      ],
+      "pronunciation": "ba-na gö-re",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 883,
+        "originalGerman": "meiner Ansicht nach"
+      }
+    },
+    {
+      "id": "k43-v013",
+      "chapter": 43,
+      "chapterTitle": "Kapitel 43",
+      "turkish": "bence",
+      "german": [
+        "meiner Meinung nach"
+      ],
+      "pronunciation": "ben-dsche",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 884,
+        "originalGerman": "meiner Meinung nach"
+      }
+    },
+    {
+      "id": "k43-v014",
+      "chapter": 43,
+      "chapterTitle": "Kapitel 43",
+      "turkish": "fikir",
+      "german": [
+        "Meinung, Idee"
+      ],
+      "pronunciation": "fi-kir",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 885,
+        "originalGerman": "Meinung, Idee"
+      }
+    },
+    {
+      "id": "k43-v015",
+      "chapter": 43,
+      "chapterTitle": "Kapitel 43",
+      "turkish": "merak etmek",
+      "german": [
+        "neugierig sein"
+      ],
+      "pronunciation": "me-rak et-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 886,
+        "originalGerman": "neugierig sein"
+      }
+    },
+    {
+      "id": "k43-v016",
+      "chapter": 43,
+      "chapterTitle": "Kapitel 43",
+      "turkish": "sakin",
+      "german": [
+        "ruhig"
+      ],
+      "pronunciation": "sa-kin",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 887,
+        "originalGerman": "ruhig"
+      }
+    },
+    {
+      "id": "k43-v017",
+      "chapter": 43,
+      "chapterTitle": "Kapitel 43",
+      "turkish": "değişmek",
+      "german": [
+        "sich verändern"
+      ],
+      "pronunciation": "de-isch-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 888,
+        "originalGerman": "sich verändern"
+      }
+    },
+    {
+      "id": "k43-v018",
+      "chapter": 43,
+      "chapterTitle": "Kapitel 43",
+      "turkish": "kısmen",
+      "german": [
+        "teilweise"
+      ],
+      "pronunciation": "kəs-men",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 889,
+        "originalGerman": "teilweise"
+      }
+    },
+    {
+      "id": "k43-v019",
+      "chapter": 43,
+      "chapterTitle": "Kapitel 43",
+      "turkish": "belki",
+      "german": [
+        "vielleicht"
+      ],
+      "pronunciation": "bel-ki",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 890,
+        "originalGerman": "vielleicht"
+      }
+    },
+    {
+      "id": "k43-v020",
+      "chapter": 43,
+      "chapterTitle": "Kapitel 43",
+      "turkish": "kelime",
+      "german": [
+        "Wort"
+      ],
+      "pronunciation": "ke-li-me",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 891,
+        "originalGerman": "Wort"
+      }
+    },
+    {
+      "id": "k43-v021",
+      "chapter": 43,
+      "chapterTitle": "Kapitel 43",
+      "turkish": "katılmak",
+      "german": [
+        "zustimmen; teilnehmen"
+      ],
+      "pronunciation": "ka-təl-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 892,
+        "originalGerman": "zustimmen; teilnehmen"
+      }
+    },
+    {
+      "id": "k44-v001",
+      "chapter": 44,
+      "chapterTitle": "Kapitel 44",
+      "turkish": "fark etmek",
+      "german": [
+        "bemerken"
+      ],
+      "pronunciation": "fark et-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 898,
+        "originalGerman": "bemerken"
+      }
+    },
+    {
+      "id": "k44-v002",
+      "chapter": 44,
+      "chapterTitle": "Kapitel 44",
+      "turkish": "görüşmek üzere",
+      "german": [
+        "bis zum Wiedersehen"
+      ],
+      "pronunciation": "gö-rüsch-mek ü-se-re",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 899,
+        "originalGerman": "bis zum Wiedersehen"
+      }
+    },
+    {
+      "id": "k44-v003",
+      "chapter": 44,
+      "chapterTitle": "Kapitel 44",
+      "turkish": "sürdürmek",
+      "german": [
+        "fortführen"
+      ],
+      "pronunciation": "sür-dür-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 900,
+        "originalGerman": "fortführen"
+      }
+    },
+    {
+      "id": "k44-v004",
+      "chapter": 44,
+      "chapterTitle": "Kapitel 44",
+      "turkish": "alışkanlık",
+      "german": [
+        "Gewohnheit"
+      ],
+      "pronunciation": "a-ləsch-kan-lək",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 901,
+        "originalGerman": "Gewohnheit"
+      }
+    },
+    {
+      "id": "k44-v005",
+      "chapter": 44,
+      "chapterTitle": "Kapitel 44",
+      "turkish": "genellikle",
+      "german": [
+        "gewöhnlich"
+      ],
+      "pronunciation": "ge-nel-lik-le",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 902,
+        "originalGerman": "gewöhnlich"
+      }
+    },
+    {
+      "id": "k44-v006",
+      "chapter": 44,
+      "chapterTitle": "Kapitel 44",
+      "turkish": "sık sık",
+      "german": [
+        "häufig"
+      ],
+      "pronunciation": "sək sək",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 903,
+        "originalGerman": "häufig"
+      }
+    },
+    {
+      "id": "k44-v007",
+      "chapter": 44,
+      "chapterTitle": "Kapitel 44",
+      "turkish": "gelirim",
+      "german": [
+        "ich komme gewöhnlich/wieder"
+      ],
+      "pronunciation": "ge-li-rim",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 904,
+        "originalGerman": "ich komme gewöhnlich/wieder"
+      }
+    },
+    {
+      "id": "k44-v008",
+      "chapter": 44,
+      "chapterTitle": "Kapitel 44",
+      "turkish": "okurum",
+      "german": [
+        "ich lese gewöhnlich"
+      ],
+      "pronunciation": "o-ku-rum",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 905,
+        "originalGerman": "ich lese gewöhnlich"
+      }
+    },
+    {
+      "id": "k44-v009",
+      "chapter": 44,
+      "chapterTitle": "Kapitel 44",
+      "turkish": "yaparım",
+      "german": [
+        "ich mache gewöhnlich"
+      ],
+      "pronunciation": "ja-pa-rəm",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 906,
+        "originalGerman": "ich mache gewöhnlich"
+      }
+    },
+    {
+      "id": "k44-v010",
+      "chapter": 44,
+      "chapterTitle": "Kapitel 44",
+      "turkish": "severim",
+      "german": [
+        "ich mag"
+      ],
+      "pronunciation": "se-we-rim",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 907,
+        "originalGerman": "ich mag"
+      }
+    },
+    {
+      "id": "k44-v011",
+      "chapter": 44,
+      "chapterTitle": "Kapitel 44",
+      "turkish": "içerim",
+      "german": [
+        "ich trinke gewöhnlich"
+      ],
+      "pronunciation": "i-tsche-rim",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 908,
+        "originalGerman": "ich trinke gewöhnlich"
+      }
+    },
+    {
+      "id": "k44-v012",
+      "chapter": 44,
+      "chapterTitle": "Kapitel 44",
+      "turkish": "unutmam",
+      "german": [
+        "ich vergesse nicht"
+      ],
+      "pronunciation": "u-nut-mam",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 909,
+        "originalGerman": "ich vergesse nicht"
+      }
+    },
+    {
+      "id": "k44-v013",
+      "chapter": 44,
+      "chapterTitle": "Kapitel 44",
+      "turkish": "her zaman",
+      "german": [
+        "immer"
+      ],
+      "pronunciation": "her sa-man",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 910,
+        "originalGerman": "immer"
+      }
+    },
+    {
+      "id": "k44-v014",
+      "chapter": 44,
+      "chapterTitle": "Kapitel 44",
+      "turkish": "bazen",
+      "german": [
+        "manchmal"
+      ],
+      "pronunciation": "ba-sen",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 911,
+        "originalGerman": "manchmal"
+      }
+    },
+    {
+      "id": "k44-v015",
+      "chapter": 44,
+      "chapterTitle": "Kapitel 44",
+      "turkish": "yanında götürmek",
+      "german": [
+        "mitnehmen"
+      ],
+      "pronunciation": "ja-nən-da gö-tür-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 912,
+        "originalGerman": "mitnehmen"
+      }
+    },
+    {
+      "id": "k44-v016",
+      "chapter": 44,
+      "chapterTitle": "Kapitel 44",
+      "turkish": "yolunuz açık olsun",
+      "german": [
+        "möge Ihr Weg offen sein"
+      ],
+      "pronunciation": "jo-lu-nus a-tschək ol-sun",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 913,
+        "originalGerman": "möge Ihr Weg offen sein"
+      }
+    },
+    {
+      "id": "k44-v017",
+      "chapter": 44,
+      "chapterTitle": "Kapitel 44",
+      "turkish": "cesaret",
+      "german": [
+        "Mut"
+      ],
+      "pronunciation": "dschesa-ret",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 914,
+        "originalGerman": "Mut"
+      }
+    },
+    {
+      "id": "k44-v018",
+      "chapter": 44,
+      "chapterTitle": "Kapitel 44",
+      "turkish": "henüz",
+      "german": [
+        "noch, bislang"
+      ],
+      "pronunciation": "he-nüs",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 915,
+        "originalGerman": "noch, bislang"
+      }
+    },
+    {
+      "id": "k44-v019",
+      "chapter": 44,
+      "chapterTitle": "Kapitel 44",
+      "turkish": "artık",
+      "german": [
+        "nun, inzwischen"
+      ],
+      "pronunciation": "ar-tək",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 916,
+        "originalGerman": "nun, inzwischen"
+      }
+    },
+    {
+      "id": "k44-v020",
+      "chapter": 44,
+      "chapterTitle": "Kapitel 44",
+      "turkish": "nadiren",
+      "german": [
+        "selten"
+      ],
+      "pronunciation": "na-di-ren",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 917,
+        "originalGerman": "selten"
+      }
+    },
+    {
+      "id": "k44-v021",
+      "chapter": 44,
+      "chapterTitle": "Kapitel 44",
+      "turkish": "söz vermek",
+      "german": [
+        "versprechen"
+      ],
+      "pronunciation": "söz wer-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 918,
+        "originalGerman": "versprechen"
+      }
+    },
+    {
+      "id": "k44-v022",
+      "chapter": 44,
+      "chapterTitle": "Kapitel 44",
+      "turkish": "geride bırakmak",
+      "german": [
+        "zurücklassen"
+      ],
+      "pronunciation": "ge-ri-de bə-rak-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 919,
+        "originalGerman": "zurücklassen"
+      }
+    },
+    {
+      "id": "k45-v001",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "cevap",
+      "german": [
+        "Antwort"
+      ],
+      "pronunciation": "dsče-wap",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 925,
+        "originalGerman": "Antwort"
+      }
+    },
+    {
+      "id": "k45-v002",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "cevap vermek",
+      "german": [
+        "antworten"
+      ],
+      "pronunciation": "dsče-wap wer-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 926,
+        "originalGerman": "antworten"
+      }
+    },
+    {
+      "id": "k45-v003",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "görev",
+      "german": [
+        "Aufgabe"
+      ],
+      "pronunciation": "gö-rew",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 927,
+        "originalGerman": "Aufgabe"
+      }
+    },
+    {
+      "id": "k45-v004",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "yeterli",
+      "german": [
+        "ausreichend"
+      ],
+      "pronunciation": "je-ter-li",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 928,
+        "originalGerman": "ausreichend"
+      }
+    },
+    {
+      "id": "k45-v005",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "anlam",
+      "german": [
+        "Bedeutung"
+      ],
+      "pronunciation": "an-lam",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 929,
+        "originalGerman": "Bedeutung"
+      }
+    },
+    {
+      "id": "k45-v006",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "karşılaşmak",
+      "german": [
+        "begegnen"
+      ],
+      "pronunciation": "kar-schə-lasch-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 930,
+        "originalGerman": "begegnen"
+      }
+    },
+    {
+      "id": "k45-v007",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "teşekkür etmek",
+      "german": [
+        "danken"
+      ],
+      "pronunciation": "te-schek-kür et-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 931,
+        "originalGerman": "danken"
+      }
+    },
+    {
+      "id": "k45-v008",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "ait olmak",
+      "german": [
+        "dazugehören"
+      ],
+      "pronunciation": "a-it ol-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 932,
+        "originalGerman": "dazugehören"
+      }
+    },
+    {
+      "id": "k45-v009",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "hatırlatmak",
+      "german": [
+        "erinnern"
+      ],
+      "pronunciation": "ha-tər-lat-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 933,
+        "originalGerman": "erinnern"
+      }
+    },
+    {
+      "id": "k45-v010",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "yabancı",
+      "german": [
+        "Fremder"
+      ],
+      "pronunciation": "ja-ban-dschə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 934,
+        "originalGerman": "Fremder"
+      }
+    },
+    {
+      "id": "k45-v011",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "sessizce",
+      "german": [
+        "leise"
+      ],
+      "pronunciation": "ses-sis-dsche",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 935,
+        "originalGerman": "leise"
+      }
+    },
+    {
+      "id": "k45-v012",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "yolcu",
+      "german": [
+        "Reisender"
+      ],
+      "pronunciation": "jol-dschu",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 936,
+        "originalGerman": "Reisender"
+      }
+    },
+    {
+      "id": "k45-v013",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "anahtar",
+      "german": [
+        "Schlüssel"
+      ],
+      "pronunciation": "a-nah-tar",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 937,
+        "originalGerman": "Schlüssel"
+      }
+    },
+    {
+      "id": "k45-v014",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "hatırlamak",
+      "german": [
+        "sich erinnern"
+      ],
+      "pronunciation": "ha-tər-la-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 938,
+        "originalGerman": "sich erinnern"
+      }
+    },
+    {
+      "id": "k45-v015",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "yansımak",
+      "german": [
+        "sich spiegeln"
+      ],
+      "pronunciation": "jan-sə-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 939,
+        "originalGerman": "sich spiegeln"
+      }
+    },
+    {
+      "id": "k45-v016",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "cesaret etmek",
+      "german": [
+        "sich trauen"
+      ],
+      "pronunciation": "dschesa-ret et-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 940,
+        "originalGerman": "sich trauen"
+      }
+    },
+    {
+      "id": "k45-v017",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "ses",
+      "german": [
+        "Stimme, Laut"
+      ],
+      "pronunciation": "ses",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 941,
+        "originalGerman": "Stimme, Laut"
+      }
+    },
+    {
+      "id": "k45-v018",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "taşımak",
+      "german": [
+        "tragen"
+      ],
+      "pronunciation": "ta-schə-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 942,
+        "originalGerman": "tragen"
+      }
+    },
+    {
+      "id": "k45-v019",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "tercüme etmek",
+      "german": [
+        "übersetzen"
+      ],
+      "pronunciation": "ter-dschü-me et-mek",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 943,
+        "originalGerman": "übersetzen"
+      }
+    },
+    {
+      "id": "k45-v020",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "kıyı",
+      "german": [
+        "Ufer"
+      ],
+      "pronunciation": "kə-jə",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 944,
+        "originalGerman": "Ufer"
+      }
+    },
+    {
+      "id": "k45-v021",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "görünmez",
+      "german": [
+        "unsichtbar"
+      ],
+      "pronunciation": "gö-rün-mes",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 945,
+        "originalGerman": "unsichtbar"
+      }
+    },
+    {
+      "id": "k45-v022",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "değişiklik",
+      "german": [
+        "Veränderung"
+      ],
+      "pronunciation": "de-isch-ik-lik",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 946,
+        "originalGerman": "Veränderung"
+      }
+    },
+    {
+      "id": "k45-v023",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "kaybolmak",
+      "german": [
+        "verloren gehen"
+      ],
+      "pronunciation": "kaj-bol-mak",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 947,
+        "originalGerman": "verloren gehen"
+      }
+    },
+    {
+      "id": "k45-v024",
+      "chapter": 45,
+      "chapterTitle": "Kapitel 45",
+      "turkish": "kendi kendine",
+      "german": [
+        "zu sich selbst"
+      ],
+      "pronunciation": "ken-di ken-di-ne",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "Vokabel-Extrakt_Kapitel_1-45.md",
+        "line": 948,
+        "originalGerman": "zu sich selbst"
+      }
+    }
+  ]
+};
