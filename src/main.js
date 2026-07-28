@@ -5,7 +5,7 @@ import { emptyProgress, isDue, schedule } from "./learning/spaced-repetition.js"
 import { evaluateAnswer, searchKey } from "./utils/text.js";
 import { createExport, validateImport } from "./storage/backup.js";
 
-const APP_VERSION = "1.0.18";
+const APP_VERSION = "1.0.19";
 const vocab = vocabularyData.vocabulary.filter((v) => v.active);
 const byId = new Map(vocab.map((v) => [v.id, v]));
 const state = {
@@ -237,10 +237,27 @@ function setupPWA(){
     navigator.serviceWorker.addEventListener("controllerchange",()=>location.reload());
   }).catch(err=>toast(`Offline-Funktion konnte nicht aktiviert werden. Der Lernstand wird weiterhin lokal gespeichert: ${err.message}`,true));
 }
+function setupIOSKeyboardViewport(){
+  const isIOS=/iPad|iPhone|iPod/.test(navigator.userAgent)||(navigator.platform==="MacIntel"&&navigator.maxTouchPoints>1);
+  if(!isIOS)return;
+  const viewport=document.querySelector('meta[name="viewport"]');
+  if(!viewport)return;
+  const defaultContent=viewport.getAttribute("content");
+  const lockedContent=`${defaultContent.replace(/,\s*(maximum-scale|user-scalable)=[^,]+/gi,"")}, maximum-scale=1`;
+  document.addEventListener("focusin",(event)=>{
+    if(event.target?.id!=="answer")return;
+    viewport.setAttribute("content",lockedContent);
+    requestAnimationFrame(()=>event.target.scrollIntoView({block:"center",inline:"nearest"}));
+  });
+  document.addEventListener("focusout",(event)=>{
+    if(event.target?.id!=="answer")return;
+    setTimeout(()=>viewport.setAttribute("content",defaultContent),300);
+  });
+}
 window.addEventListener("popstate",e=>{state.view=e.state?.view||new URLSearchParams(location.search).get("view")||"home";render();});
 window.addEventListener("online",()=>toast("Du bist wieder online."));
 window.addEventListener("offline",()=>toast("Offline-Modus: Alle Lernfunktionen bleiben verfügbar."));
-applyTheme();document.documentElement.classList.toggle("large-text",localStorage.getItem("largeText")==="true");
+applyTheme();document.documentElement.classList.toggle("large-text",localStorage.getItem("largeText")==="true");setupIOSKeyboardViewport();
 loadState()
   .then(()=>{render();setupPWA();})
   .catch((error)=>{
