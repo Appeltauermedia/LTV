@@ -5,7 +5,7 @@ import { emptyProgress, isDue, schedule } from "./learning/spaced-repetition.js"
 import { evaluateAnswer, searchKey } from "./utils/text.js";
 import { createExport, validateImport } from "./storage/backup.js";
 
-const APP_VERSION = "1.0.15";
+const APP_VERSION = "1.0.16";
 const vocab = vocabularyData.vocabulary.filter((v) => v.active);
 const byId = new Map(vocab.map((v) => [v.id, v]));
 const state = {
@@ -28,7 +28,7 @@ function shell(content) {
   const labels = { home:"Start", learn:"Lernen", chapters:"Kapitel", progress:"Fortschritt", settings:"Einstellungen", search:"Vokabelsuche" };
   return `<div class="shell">
     <aside class="sidebar" aria-label="Hauptnavigation"><div class="brand"><img class="brand-mark" src="${teaIconUrl}" alt="" width="44" height="44"><div><b>Lerne Türkisch</b><small>Vokabeltrainer</small></div></div>${nav()}</aside>
-    <div class="page"><header class="topbar"><div class="mobile-brand"><img src="${teaIconUrl}" alt="" width="38" height="38"><b>Lerne Türkisch</b></div><h1>${labels[state.view] || "Vokabeltrainer"}</h1><button class="icon-button search-open" aria-label="Vokabelsuche öffnen">⌕</button><span class="version">v${APP_VERSION}</span></header>
+    <div class="page"><header class="topbar"><div class="mobile-brand"><img src="${teaIconUrl}" alt="" width="38" height="38"><b>Lerne Türkisch</b></div><h1>${labels[state.view] || "Vokabeltrainer"}</h1><button class="icon-button search-open" aria-label="Vokabelsuche öffnen"><svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10.75" cy="10.75" r="6.75"></circle><path d="m15.8 15.8 4.2 4.2"></path></svg></button><span class="version">v${APP_VERSION}</span></header>
     <main id="main" tabindex="-1">${content}</main></div>${nav("bottom")}</div><div id="toast" class="toast" role="status" aria-live="polite"></div>`;
 }
 function nav(extra="") {
