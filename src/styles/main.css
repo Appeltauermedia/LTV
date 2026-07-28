@@ -2,6 +2,12 @@
 html{
   -webkit-text-size-adjust:100%;
   text-size-adjust:100%;
+  background:var(--bg);
+  overscroll-behavior-y:none;
+}
+body,#app{
+  background:var(--bg);
+  overscroll-behavior-y:none;
 }
 :root[data-theme="dark"]{color-scheme:dark;--bg:#141719;--surface:#1e2327;--surface-2:#292f33;--text:#f6f1e8;--muted:#b9b6ad;--line:#394147;--red:#e15b65;--red-dark:#f07780;--gold:#e7ad48;--teal:#71bac1;--shadow:0 12px 36px rgba(0,0,0,.24)}
 @media(prefers-color-scheme:dark){:root[data-theme="system"]{color-scheme:dark;--bg:#141719;--surface:#1e2327;--surface-2:#292f33;--text:#f6f1e8;--muted:#b9b6ad;--line:#394147;--red:#e15b65;--red-dark:#f07780;--gold:#e7ad48;--teal:#71bac1;--shadow:0 12px 36px rgba(0,0,0,.24)}}
@@ -97,6 +103,12 @@ html{
   /* iOS Safari zoomt fokussierte Felder unterhalb von 16 px automatisch. */
   font-size:max(16px,1.25rem);
   touch-action:manipulation;
+}
+.hero:after{
+  display:none;
+}
+.session-shell{
+  background:radial-gradient(circle at 50% -20%,color-mix(in srgb,var(--red) 10%,var(--bg)),var(--bg) 58%);
 }
 @supports(-webkit-touch-callout:none){
   .answer-box input{
