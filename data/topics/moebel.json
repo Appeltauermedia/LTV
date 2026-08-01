@@ -1,0 +1,314 @@
+{
+  "id": "moebel",
+  "title": "Möbel",
+  "vocabulary": [
+    {
+      "id": "thema-moebel-001",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Bett"
+      ],
+      "turkish": "yatak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 251,
+        "originalGerman": "Bett"
+      }
+    },
+    {
+      "id": "thema-moebel-002",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Bücherregal"
+      ],
+      "turkish": "kitaplık",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 252,
+        "originalGerman": "Bücherregal"
+      }
+    },
+    {
+      "id": "thema-moebel-003",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Hocker"
+      ],
+      "turkish": "tabure",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 253,
+        "originalGerman": "Hocker"
+      }
+    },
+    {
+      "id": "thema-moebel-004",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Kleiderschrank"
+      ],
+      "turkish": "gardırop",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 254,
+        "originalGerman": "Kleiderschrank"
+      }
+    },
+    {
+      "id": "thema-moebel-005",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Kommode"
+      ],
+      "turkish": "şifonyer",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 255,
+        "originalGerman": "Kommode"
+      }
+    },
+    {
+      "id": "thema-moebel-006",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Nachttisch"
+      ],
+      "turkish": "komodin",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 256,
+        "originalGerman": "Nachttisch"
+      }
+    },
+    {
+      "id": "thema-moebel-007",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Regal"
+      ],
+      "turkish": "raf",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 257,
+        "originalGerman": "Regal"
+      }
+    },
+    {
+      "id": "thema-moebel-008",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Schrank"
+      ],
+      "turkish": "dolap",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 258,
+        "originalGerman": "Schrank"
+      }
+    },
+    {
+      "id": "thema-moebel-009",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Schreibtisch"
+      ],
+      "turkish": "çalışma masası",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 259,
+        "originalGerman": "Schreibtisch"
+      }
+    },
+    {
+      "id": "thema-moebel-010",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Sessel"
+      ],
+      "turkish": "koltuk",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 260,
+        "originalGerman": "Sessel"
+      }
+    },
+    {
+      "id": "thema-moebel-011",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Sofa"
+      ],
+      "turkish": "kanepe",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 261,
+        "originalGerman": "Sofa"
+      }
+    },
+    {
+      "id": "thema-moebel-012",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Stuhl"
+      ],
+      "turkish": "sandalye",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 262,
+        "originalGerman": "Stuhl"
+      }
+    },
+    {
+      "id": "thema-moebel-013",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Teppich"
+      ],
+      "turkish": "halı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 263,
+        "originalGerman": "Teppich"
+      }
+    },
+    {
+      "id": "thema-moebel-014",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Tisch"
+      ],
+      "turkish": "masa",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 264,
+        "originalGerman": "Tisch"
+      }
+    }
+  ]
+}

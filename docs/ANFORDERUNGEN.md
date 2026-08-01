@@ -19,3 +19,11 @@ Die Anwendung verarbeitet alle 45 Kapitel des gelieferten Extrakts, läuft mobil
 ## Qualitätsanforderungen
 
 Die App verwendet semantisches HTML, sichtbare Fokuszustände, Sprachkennzeichnungen, ausreichende Touchziele, `prefers-reduced-motion`, Safe Areas und verständliche Fehlertexte. Vokabeldaten werden niemals als HTML ausgeführt. Externe Ressourcen und Tracker sind nicht enthalten.
+# Erweiterung Themenwortschatz (2026-08-01)
+
+- Die 45 Kapitel bleiben unverändert erhalten.
+- Elf Themenrubriken mit insgesamt 250 Einträgen sind eigenständige Datenquellen.
+- Mehrfachauswahl, kombinierte Lernrunden, alle Lernmodi und Statusfilter gelten für beide Quellen.
+- Themenfortschritt wird anhand stabiler `thema-<topicId>-NNN`-IDs lokal gespeichert.
+- Globale Suche und Statistik können nach Quelle bzw. Rubrik gefiltert werden.
+- Alte Lernstandexporte der Version 1 bleiben importierbar.

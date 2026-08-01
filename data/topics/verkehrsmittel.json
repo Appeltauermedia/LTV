@@ -1,0 +1,292 @@
+{
+  "id": "verkehrsmittel",
+  "title": "Verkehrsmittel",
+  "vocabulary": [
+    {
+      "id": "thema-verkehrsmittel-001",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Auto"
+      ],
+      "turkish": "araba",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 119,
+        "originalGerman": "Auto"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-002",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Bus"
+      ],
+      "turkish": "otobüs",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 120,
+        "originalGerman": "Bus"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-003",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Fähre"
+      ],
+      "turkish": "vapur",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 121,
+        "originalGerman": "Fähre"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-004",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Fahrrad"
+      ],
+      "turkish": "bisiklet",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 122,
+        "originalGerman": "Fahrrad"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-005",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Flugzeug"
+      ],
+      "turkish": "uçak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 123,
+        "originalGerman": "Flugzeug"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-006",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Lastwagen"
+      ],
+      "turkish": "kamyon",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 124,
+        "originalGerman": "Lastwagen"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-007",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Metro"
+      ],
+      "turkish": "metro",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 125,
+        "originalGerman": "Metro"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-008",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Motorrad"
+      ],
+      "turkish": "motosiklet",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 126,
+        "originalGerman": "Motorrad"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-009",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Schiff"
+      ],
+      "turkish": "gemi",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 127,
+        "originalGerman": "Schiff"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-010",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Straßenbahn"
+      ],
+      "turkish": "tramvay",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 128,
+        "originalGerman": "Straßenbahn"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-011",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Taxi"
+      ],
+      "turkish": "taksi",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 129,
+        "originalGerman": "Taxi"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-012",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "U-Bahn"
+      ],
+      "turkish": "metro",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 130,
+        "originalGerman": "U-Bahn"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-013",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Zug"
+      ],
+      "turkish": "tren",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 131,
+        "originalGerman": "Zug"
+      }
+    }
+  ]
+}

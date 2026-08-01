@@ -1,0 +1,402 @@
+{
+  "id": "geschaefte",
+  "title": "Geschäfte",
+  "vocabulary": [
+    {
+      "id": "thema-geschaefte-001",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Apotheke"
+      ],
+      "turkish": "eczane",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 176,
+        "originalGerman": "Apotheke"
+      }
+    },
+    {
+      "id": "thema-geschaefte-002",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Bäckerei"
+      ],
+      "turkish": "fırın",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 177,
+        "originalGerman": "Bäckerei"
+      }
+    },
+    {
+      "id": "thema-geschaefte-003",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Bank"
+      ],
+      "turkish": "banka",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 178,
+        "originalGerman": "Bank"
+      }
+    },
+    {
+      "id": "thema-geschaefte-004",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Buchhandlung"
+      ],
+      "turkish": "kitapçı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 179,
+        "originalGerman": "Buchhandlung"
+      }
+    },
+    {
+      "id": "thema-geschaefte-005",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Einkaufszentrum"
+      ],
+      "turkish": "alışveriş merkezi",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 180,
+        "originalGerman": "Einkaufszentrum"
+      }
+    },
+    {
+      "id": "thema-geschaefte-006",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Fischgeschäft"
+      ],
+      "turkish": "balıkçı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 181,
+        "originalGerman": "Fischgeschäft"
+      }
+    },
+    {
+      "id": "thema-geschaefte-007",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Fleischerei"
+      ],
+      "turkish": "kasap",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 182,
+        "originalGerman": "Fleischerei"
+      }
+    },
+    {
+      "id": "thema-geschaefte-008",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Friseur"
+      ],
+      "turkish": "kuaför",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 183,
+        "originalGerman": "Friseur"
+      }
+    },
+    {
+      "id": "thema-geschaefte-009",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Gemüsehändler"
+      ],
+      "turkish": "manav",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 184,
+        "originalGerman": "Gemüsehändler"
+      }
+    },
+    {
+      "id": "thema-geschaefte-010",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Juwelier"
+      ],
+      "turkish": "kuyumcu",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 185,
+        "originalGerman": "Juwelier"
+      }
+    },
+    {
+      "id": "thema-geschaefte-011",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Kiosk"
+      ],
+      "turkish": "büfe",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 186,
+        "originalGerman": "Kiosk"
+      }
+    },
+    {
+      "id": "thema-geschaefte-012",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Konditorei"
+      ],
+      "turkish": "pastane",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 187,
+        "originalGerman": "Konditorei"
+      }
+    },
+    {
+      "id": "thema-geschaefte-013",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Markt"
+      ],
+      "turkish": "pazar",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 188,
+        "originalGerman": "Markt"
+      }
+    },
+    {
+      "id": "thema-geschaefte-014",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Möbelgeschäft"
+      ],
+      "turkish": "mobilya mağazası",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 189,
+        "originalGerman": "Möbelgeschäft"
+      }
+    },
+    {
+      "id": "thema-geschaefte-015",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Schreibwarengeschäft"
+      ],
+      "turkish": "kırtasiye",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 190,
+        "originalGerman": "Schreibwarengeschäft"
+      }
+    },
+    {
+      "id": "thema-geschaefte-016",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Schuhgeschäft"
+      ],
+      "turkish": "ayakkabı mağazası",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 191,
+        "originalGerman": "Schuhgeschäft"
+      }
+    },
+    {
+      "id": "thema-geschaefte-017",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Supermarkt"
+      ],
+      "turkish": "süpermarket",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 192,
+        "originalGerman": "Supermarkt"
+      }
+    },
+    {
+      "id": "thema-geschaefte-018",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Tierhandlung"
+      ],
+      "turkish": "pet shop",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 193,
+        "originalGerman": "Tierhandlung"
+      }
+    }
+  ]
+}

@@ -1,4 +1,5 @@
-const DB_NAME = "lerne-tuerkisch", DB_VERSION = 2;
+// Version 3 ergänzt Themenwortschatz ohne bestehende Stores oder Kapitelstände zu löschen.
+const DB_NAME = "lerne-tuerkisch", DB_VERSION = 3;
 let dbPromise;
 export function openDB() {
   if (!("indexedDB" in globalThis)) return Promise.reject(new Error("IndexedDB wird von diesem Browser nicht unterstützt."));

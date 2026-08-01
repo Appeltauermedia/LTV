@@ -1,0 +1,534 @@
+{
+  "id": "tiere",
+  "title": "Tiere",
+  "vocabulary": [
+    {
+      "id": "thema-tiere-001",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Affe"
+      ],
+      "turkish": "maymun",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 7,
+        "originalGerman": "Affe"
+      }
+    },
+    {
+      "id": "thema-tiere-002",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Bär"
+      ],
+      "turkish": "ayı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 8,
+        "originalGerman": "Bär"
+      }
+    },
+    {
+      "id": "thema-tiere-003",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Biene"
+      ],
+      "turkish": "arı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 9,
+        "originalGerman": "Biene"
+      }
+    },
+    {
+      "id": "thema-tiere-004",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Esel"
+      ],
+      "turkish": "eşek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 10,
+        "originalGerman": "Esel"
+      }
+    },
+    {
+      "id": "thema-tiere-005",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Fisch"
+      ],
+      "turkish": "balık",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 11,
+        "originalGerman": "Fisch"
+      }
+    },
+    {
+      "id": "thema-tiere-006",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Fliege"
+      ],
+      "turkish": "sinek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 12,
+        "originalGerman": "Fliege"
+      }
+    },
+    {
+      "id": "thema-tiere-007",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Frosch"
+      ],
+      "turkish": "kurbağa",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 13,
+        "originalGerman": "Frosch"
+      }
+    },
+    {
+      "id": "thema-tiere-008",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Hase"
+      ],
+      "turkish": "tavşan",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 14,
+        "originalGerman": "Hase"
+      }
+    },
+    {
+      "id": "thema-tiere-009",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Huhn"
+      ],
+      "turkish": "tavuk",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 15,
+        "originalGerman": "Huhn"
+      }
+    },
+    {
+      "id": "thema-tiere-010",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Hund"
+      ],
+      "turkish": "köpek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 16,
+        "originalGerman": "Hund"
+      }
+    },
+    {
+      "id": "thema-tiere-011",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Katze"
+      ],
+      "turkish": "kedi",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 17,
+        "originalGerman": "Katze"
+      }
+    },
+    {
+      "id": "thema-tiere-012",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Kuh"
+      ],
+      "turkish": "inek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 18,
+        "originalGerman": "Kuh"
+      }
+    },
+    {
+      "id": "thema-tiere-013",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Löwe"
+      ],
+      "turkish": "aslan",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 19,
+        "originalGerman": "Löwe"
+      }
+    },
+    {
+      "id": "thema-tiere-014",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Maus"
+      ],
+      "turkish": "fare",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 20,
+        "originalGerman": "Maus"
+      }
+    },
+    {
+      "id": "thema-tiere-015",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Mücke"
+      ],
+      "turkish": "sivrisinek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 21,
+        "originalGerman": "Mücke"
+      }
+    },
+    {
+      "id": "thema-tiere-016",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Pferd"
+      ],
+      "turkish": "at",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 22,
+        "originalGerman": "Pferd"
+      }
+    },
+    {
+      "id": "thema-tiere-017",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Schaf"
+      ],
+      "turkish": "koyun",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 23,
+        "originalGerman": "Schaf"
+      }
+    },
+    {
+      "id": "thema-tiere-018",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Schildkröte"
+      ],
+      "turkish": "kaplumbağa",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 24,
+        "originalGerman": "Schildkröte"
+      }
+    },
+    {
+      "id": "thema-tiere-019",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Schlange"
+      ],
+      "turkish": "yılan",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 25,
+        "originalGerman": "Schlange"
+      }
+    },
+    {
+      "id": "thema-tiere-020",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Schmetterling"
+      ],
+      "turkish": "kelebek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 26,
+        "originalGerman": "Schmetterling"
+      }
+    },
+    {
+      "id": "thema-tiere-021",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Schwein"
+      ],
+      "turkish": "domuz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 27,
+        "originalGerman": "Schwein"
+      }
+    },
+    {
+      "id": "thema-tiere-022",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Spinne"
+      ],
+      "turkish": "örümcek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 28,
+        "originalGerman": "Spinne"
+      }
+    },
+    {
+      "id": "thema-tiere-023",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Vogel"
+      ],
+      "turkish": "kuş",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 29,
+        "originalGerman": "Vogel"
+      }
+    },
+    {
+      "id": "thema-tiere-024",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Ziege"
+      ],
+      "turkish": "keçi",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 30,
+        "originalGerman": "Ziege"
+      }
+    }
+  ]
+}

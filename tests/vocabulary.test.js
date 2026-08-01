@@ -4,13 +4,17 @@ import data from "../data/vocabulary.json" with { type:"json" };
 import { validateVocabulary } from "../scripts/validate-vocabulary.js";
 import { searchKey } from "../src/utils/text.js";
 
-test("Vokabelbestand ist vollständig und valide", () => {
-  const r=validateVocabulary(data);assert.deepEqual(r.errors,[]);assert.equal(data.chapters.length,45);assert.equal(data.vocabulary.length,718);
+test("Kapitel- und Themenbestand sind vollständig und valide", () => {
+  const r=validateVocabulary(data);assert.deepEqual(r.errors,[]);assert.equal(data.chapters.length,45);assert.equal(data.topics.length,11);assert.equal(data.vocabulary.length,968);
 });
 test("IDs sind stabil, eindeutig und kapitelbezogen", () => {
   const ids=data.vocabulary.map(v=>v.id);assert.equal(new Set(ids).size,ids.length);
-  assert.ok(data.vocabulary.every(v=>v.id.startsWith(`k${String(v.chapter).padStart(2,"0")}-`)));
+  assert.ok(data.vocabulary.filter(v=>v.sourceType==="chapter").every(v=>v.id.startsWith(`k${String(v.chapter).padStart(2,"0")}-`)));
+  assert.ok(data.vocabulary.filter(v=>v.sourceType==="topic").every(v=>v.id.startsWith(`thema-${v.topicId}-`)));
 });
+test("alle elf Themen und exakt 250 Originalzeilen wurden übernommen",()=>{const items=data.vocabulary.filter(v=>v.sourceType==="topic");assert.equal(items.length,250);assert.deepEqual(data.topics.map(t=>t.count),[24,22,14,32,13,34,18,22,20,14,37]);});
+test("Kapitel und Themen lassen sich gemeinsam oder nach Quelle filtern",()=>{const chapters=new Set([1]), topicIds=new Set(["lebensmittel"]);const mixed=data.vocabulary.filter(v=>(v.sourceType==="chapter"&&chapters.has(v.chapter))||(v.sourceType==="topic"&&topicIds.has(v.topicId)));assert.ok(mixed.some(v=>v.sourceType==="chapter"));assert.ok(mixed.some(v=>v.topicId==="lebensmittel"));assert.ok(data.vocabulary.filter(v=>v.sourceType==="topic").every(v=>v.topicId));});
+test("Themensuche und türkische Sonderzeichen funktionieren",()=>{const hits=data.vocabulary.filter(v=>searchKey(`${v.turkish} ${v.german.join(" ")} ${v.topicTitle||""}`).includes(searchKey("Körperteile")));assert.equal(hits.length,32);assert.ok(data.vocabulary.some(v=>v.turkish==="ayçiçeği"));});
 test("alle türkischen Kernsonderzeichen sind im Bestand darstellbar", () => {
   const text=data.vocabulary.map(v=>v.turkish).join("");for(const char of "çğışüö")assert.ok(text.includes(char),`${char} fehlt`);
 });
@@ -25,7 +29,7 @@ test("alle Kapitel besitzen redaktionelle Titel", () => {
   assert.equal(data.chapters.length,45);
   assert.equal(data.chapters[0].title,"Ankunft in Istanbul");
   assert.equal(data.chapters[44].title,"Der Bosporus antwortet");
-  assert.ok(data.vocabulary.every(v=>v.chapterTitle===data.chapters[v.chapter-1].title));
+  assert.ok(data.vocabulary.filter(v=>v.sourceType==="chapter").every(v=>v.chapterTitle===data.chapters[v.chapter-1].title));
 });
 test("Kapitel können über ihre Titel gesucht werden", () => {
   const query=searchKey("Büyükada");

@@ -1,0 +1,490 @@
+{
+  "id": "lebensmittel",
+  "title": "Lebensmittel",
+  "vocabulary": [
+    {
+      "id": "thema-lebensmittel-001",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Brot"
+      ],
+      "turkish": "ekmek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 199,
+        "originalGerman": "Brot"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-002",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Butter"
+      ],
+      "turkish": "tereyağı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 200,
+        "originalGerman": "Butter"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-003",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Ei"
+      ],
+      "turkish": "yumurta",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 201,
+        "originalGerman": "Ei"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-004",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Essig"
+      ],
+      "turkish": "sirke",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 202,
+        "originalGerman": "Essig"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-005",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Fleisch"
+      ],
+      "turkish": "et",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 203,
+        "originalGerman": "Fleisch"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-006",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Honig"
+      ],
+      "turkish": "bal",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 204,
+        "originalGerman": "Honig"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-007",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Joghurt"
+      ],
+      "turkish": "yoğurt",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 205,
+        "originalGerman": "Joghurt"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-008",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Käse"
+      ],
+      "turkish": "peynir",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 206,
+        "originalGerman": "Käse"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-009",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Kaffee"
+      ],
+      "turkish": "kahve",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 207,
+        "originalGerman": "Kaffee"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-010",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Marmelade"
+      ],
+      "turkish": "reçel",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 208,
+        "originalGerman": "Marmelade"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-011",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Mehl"
+      ],
+      "turkish": "un",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 209,
+        "originalGerman": "Mehl"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-012",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Milch"
+      ],
+      "turkish": "süt",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 210,
+        "originalGerman": "Milch"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-013",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Mineralwasser"
+      ],
+      "turkish": "maden suyu",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 211,
+        "originalGerman": "Mineralwasser"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-014",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Nudeln"
+      ],
+      "turkish": "makarna",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 212,
+        "originalGerman": "Nudeln"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-015",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Öl"
+      ],
+      "turkish": "yağ",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 213,
+        "originalGerman": "Öl"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-016",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Reis"
+      ],
+      "turkish": "pirinç",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 214,
+        "originalGerman": "Reis"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-017",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Salz"
+      ],
+      "turkish": "tuz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 215,
+        "originalGerman": "Salz"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-018",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Saft"
+      ],
+      "turkish": "meyve suyu",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 216,
+        "originalGerman": "Saft"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-019",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Tee"
+      ],
+      "turkish": "çay",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 217,
+        "originalGerman": "Tee"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-020",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Wasser"
+      ],
+      "turkish": "su",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 218,
+        "originalGerman": "Wasser"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-021",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Wurst"
+      ],
+      "turkish": "sosis",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 219,
+        "originalGerman": "Wurst"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-022",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Zucker"
+      ],
+      "turkish": "şeker",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 220,
+        "originalGerman": "Zucker"
+      }
+    }
+  ]
+}

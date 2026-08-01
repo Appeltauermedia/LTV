@@ -1,0 +1,490 @@
+{
+  "id": "kleidung",
+  "title": "Kleidung",
+  "vocabulary": [
+    {
+      "id": "thema-kleidung-001",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Anzug"
+      ],
+      "turkish": "takım elbise",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 36,
+        "originalGerman": "Anzug"
+      }
+    },
+    {
+      "id": "thema-kleidung-002",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Bluse"
+      ],
+      "turkish": "bluz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 37,
+        "originalGerman": "Bluse"
+      }
+    },
+    {
+      "id": "thema-kleidung-003",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Gürtel"
+      ],
+      "turkish": "kemer",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 38,
+        "originalGerman": "Gürtel"
+      }
+    },
+    {
+      "id": "thema-kleidung-004",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Handschuh"
+      ],
+      "turkish": "eldiven",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 39,
+        "originalGerman": "Handschuh"
+      }
+    },
+    {
+      "id": "thema-kleidung-005",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Hemd"
+      ],
+      "turkish": "gömlek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 40,
+        "originalGerman": "Hemd"
+      }
+    },
+    {
+      "id": "thema-kleidung-006",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Hose"
+      ],
+      "turkish": "pantolon",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 41,
+        "originalGerman": "Hose"
+      }
+    },
+    {
+      "id": "thema-kleidung-007",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Jacke"
+      ],
+      "turkish": "ceket",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 42,
+        "originalGerman": "Jacke"
+      }
+    },
+    {
+      "id": "thema-kleidung-008",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Kleid"
+      ],
+      "turkish": "elbise",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 43,
+        "originalGerman": "Kleid"
+      }
+    },
+    {
+      "id": "thema-kleidung-009",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Krawatte"
+      ],
+      "turkish": "kravat",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 44,
+        "originalGerman": "Krawatte"
+      }
+    },
+    {
+      "id": "thema-kleidung-010",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Mantel"
+      ],
+      "turkish": "palto",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 45,
+        "originalGerman": "Mantel"
+      }
+    },
+    {
+      "id": "thema-kleidung-011",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Mütze"
+      ],
+      "turkish": "bere",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 46,
+        "originalGerman": "Mütze"
+      }
+    },
+    {
+      "id": "thema-kleidung-012",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Pullover"
+      ],
+      "turkish": "kazak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 47,
+        "originalGerman": "Pullover"
+      }
+    },
+    {
+      "id": "thema-kleidung-013",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Rock"
+      ],
+      "turkish": "etek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 48,
+        "originalGerman": "Rock"
+      }
+    },
+    {
+      "id": "thema-kleidung-014",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Sandale"
+      ],
+      "turkish": "sandalet",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 49,
+        "originalGerman": "Sandale"
+      }
+    },
+    {
+      "id": "thema-kleidung-015",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Schal"
+      ],
+      "turkish": "atkı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 50,
+        "originalGerman": "Schal"
+      }
+    },
+    {
+      "id": "thema-kleidung-016",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Schlafanzug"
+      ],
+      "turkish": "pijama",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 51,
+        "originalGerman": "Schlafanzug"
+      }
+    },
+    {
+      "id": "thema-kleidung-017",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Schuh"
+      ],
+      "turkish": "ayakkabı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 52,
+        "originalGerman": "Schuh"
+      }
+    },
+    {
+      "id": "thema-kleidung-018",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Socke"
+      ],
+      "turkish": "çorap",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 53,
+        "originalGerman": "Socke"
+      }
+    },
+    {
+      "id": "thema-kleidung-019",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Stiefel"
+      ],
+      "turkish": "çizme",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 54,
+        "originalGerman": "Stiefel"
+      }
+    },
+    {
+      "id": "thema-kleidung-020",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "T-Shirt"
+      ],
+      "turkish": "tişört",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 55,
+        "originalGerman": "T-Shirt"
+      }
+    },
+    {
+      "id": "thema-kleidung-021",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Tasche"
+      ],
+      "turkish": "çanta",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 56,
+        "originalGerman": "Tasche"
+      }
+    },
+    {
+      "id": "thema-kleidung-022",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Unterwäsche"
+      ],
+      "turkish": "iç çamaşırı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 57,
+        "originalGerman": "Unterwäsche"
+      }
+    }
+  ]
+}

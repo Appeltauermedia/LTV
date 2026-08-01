@@ -1,0 +1,446 @@
+{
+  "id": "pflanzen",
+  "title": "Pflanzen",
+  "vocabulary": [
+    {
+      "id": "thema-pflanzen-001",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Ast"
+      ],
+      "turkish": "dal",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 226,
+        "originalGerman": "Ast"
+      }
+    },
+    {
+      "id": "thema-pflanzen-002",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Baum"
+      ],
+      "turkish": "ağaç",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 227,
+        "originalGerman": "Baum"
+      }
+    },
+    {
+      "id": "thema-pflanzen-003",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Blatt"
+      ],
+      "turkish": "yaprak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 228,
+        "originalGerman": "Blatt"
+      }
+    },
+    {
+      "id": "thema-pflanzen-004",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Blume"
+      ],
+      "turkish": "çiçek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 229,
+        "originalGerman": "Blume"
+      }
+    },
+    {
+      "id": "thema-pflanzen-005",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Eiche"
+      ],
+      "turkish": "meşe",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 230,
+        "originalGerman": "Eiche"
+      }
+    },
+    {
+      "id": "thema-pflanzen-006",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Gras"
+      ],
+      "turkish": "çimen",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 231,
+        "originalGerman": "Gras"
+      }
+    },
+    {
+      "id": "thema-pflanzen-007",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Kaktus"
+      ],
+      "turkish": "kaktüs",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 232,
+        "originalGerman": "Kaktus"
+      }
+    },
+    {
+      "id": "thema-pflanzen-008",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Lavendel"
+      ],
+      "turkish": "lavanta",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 233,
+        "originalGerman": "Lavendel"
+      }
+    },
+    {
+      "id": "thema-pflanzen-009",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Minze"
+      ],
+      "turkish": "nane",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 234,
+        "originalGerman": "Minze"
+      }
+    },
+    {
+      "id": "thema-pflanzen-010",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Nelke"
+      ],
+      "turkish": "karanfil",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 235,
+        "originalGerman": "Nelke"
+      }
+    },
+    {
+      "id": "thema-pflanzen-011",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Olive"
+      ],
+      "turkish": "zeytin",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 236,
+        "originalGerman": "Olive"
+      }
+    },
+    {
+      "id": "thema-pflanzen-012",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Olivenbaum"
+      ],
+      "turkish": "zeytin ağacı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 237,
+        "originalGerman": "Olivenbaum"
+      }
+    },
+    {
+      "id": "thema-pflanzen-013",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Palme"
+      ],
+      "turkish": "palmiye",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 238,
+        "originalGerman": "Palme"
+      }
+    },
+    {
+      "id": "thema-pflanzen-014",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Pflanze"
+      ],
+      "turkish": "bitki",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 239,
+        "originalGerman": "Pflanze"
+      }
+    },
+    {
+      "id": "thema-pflanzen-015",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Rose"
+      ],
+      "turkish": "gül",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 240,
+        "originalGerman": "Rose"
+      }
+    },
+    {
+      "id": "thema-pflanzen-016",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Samen"
+      ],
+      "turkish": "tohum",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 241,
+        "originalGerman": "Samen"
+      }
+    },
+    {
+      "id": "thema-pflanzen-017",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Sonnenblume"
+      ],
+      "turkish": "ayçiçeği",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 242,
+        "originalGerman": "Sonnenblume"
+      }
+    },
+    {
+      "id": "thema-pflanzen-018",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Stamm"
+      ],
+      "turkish": "gövde",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 243,
+        "originalGerman": "Stamm"
+      }
+    },
+    {
+      "id": "thema-pflanzen-019",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Tulpe"
+      ],
+      "turkish": "lale",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 244,
+        "originalGerman": "Tulpe"
+      }
+    },
+    {
+      "id": "thema-pflanzen-020",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Wurzel"
+      ],
+      "turkish": "kök",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 245,
+        "originalGerman": "Wurzel"
+      }
+    }
+  ]
+}

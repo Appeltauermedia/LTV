@@ -1,0 +1,754 @@
+{
+  "id": "obst-gemuese",
+  "title": "Obst und Gemüse",
+  "vocabulary": [
+    {
+      "id": "thema-obst-gemuese-001",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Ananas"
+      ],
+      "turkish": "ananas",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 137,
+        "originalGerman": "Ananas"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-002",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Apfel"
+      ],
+      "turkish": "elma",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 138,
+        "originalGerman": "Apfel"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-003",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Aprikose"
+      ],
+      "turkish": "kayısı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 139,
+        "originalGerman": "Aprikose"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-004",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Aubergine"
+      ],
+      "turkish": "patlıcan",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 140,
+        "originalGerman": "Aubergine"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-005",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Banane"
+      ],
+      "turkish": "muz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 141,
+        "originalGerman": "Banane"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-006",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Birne"
+      ],
+      "turkish": "armut",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 142,
+        "originalGerman": "Birne"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-007",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Blumenkohl"
+      ],
+      "turkish": "karnabahar",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 143,
+        "originalGerman": "Blumenkohl"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-008",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Bohne"
+      ],
+      "turkish": "fasulye",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 144,
+        "originalGerman": "Bohne"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-009",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Brokkoli"
+      ],
+      "turkish": "brokoli",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 145,
+        "originalGerman": "Brokkoli"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-010",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Erdbeere"
+      ],
+      "turkish": "çilek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 146,
+        "originalGerman": "Erdbeere"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-011",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Erbse"
+      ],
+      "turkish": "bezelye",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 147,
+        "originalGerman": "Erbse"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-012",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Feige"
+      ],
+      "turkish": "incir",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 148,
+        "originalGerman": "Feige"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-013",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Gurke"
+      ],
+      "turkish": "salatalık",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 149,
+        "originalGerman": "Gurke"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-014",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Kartoffel"
+      ],
+      "turkish": "patates",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 150,
+        "originalGerman": "Kartoffel"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-015",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Kirsche"
+      ],
+      "turkish": "kiraz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 151,
+        "originalGerman": "Kirsche"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-016",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Knoblauch"
+      ],
+      "turkish": "sarımsak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 152,
+        "originalGerman": "Knoblauch"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-017",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Kohl"
+      ],
+      "turkish": "lahana",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 153,
+        "originalGerman": "Kohl"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-018",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Kürbis"
+      ],
+      "turkish": "kabak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 154,
+        "originalGerman": "Kürbis"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-019",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Mandarine"
+      ],
+      "turkish": "mandalina",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 155,
+        "originalGerman": "Mandarine"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-020",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Melone"
+      ],
+      "turkish": "kavun",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 156,
+        "originalGerman": "Melone"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-021",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Möhre"
+      ],
+      "turkish": "havuç",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 157,
+        "originalGerman": "Möhre"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-022",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Orange"
+      ],
+      "turkish": "portakal",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 158,
+        "originalGerman": "Orange"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-023",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Paprika"
+      ],
+      "turkish": "biber",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 159,
+        "originalGerman": "Paprika"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-024",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Pfirsich"
+      ],
+      "turkish": "şeftali",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 160,
+        "originalGerman": "Pfirsich"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-025",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Pflaume"
+      ],
+      "turkish": "erik",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 161,
+        "originalGerman": "Pflaume"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-026",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Pilz"
+      ],
+      "turkish": "mantar",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 162,
+        "originalGerman": "Pilz"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-027",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Salat"
+      ],
+      "turkish": "marul",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 163,
+        "originalGerman": "Salat"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-028",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Spinat"
+      ],
+      "turkish": "ıspanak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 164,
+        "originalGerman": "Spinat"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-029",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Tomate"
+      ],
+      "turkish": "domates",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 165,
+        "originalGerman": "Tomate"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-030",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Traube"
+      ],
+      "turkish": "üzüm",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 166,
+        "originalGerman": "Traube"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-031",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Wassermelone"
+      ],
+      "turkish": "karpuz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 167,
+        "originalGerman": "Wassermelone"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-032",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Zitrone"
+      ],
+      "turkish": "limon",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 168,
+        "originalGerman": "Zitrone"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-033",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Zucchini"
+      ],
+      "turkish": "kabak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 169,
+        "originalGerman": "Zucchini"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-034",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Zwiebel"
+      ],
+      "turkish": "soğan",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 170,
+        "originalGerman": "Zwiebel"
+      }
+    }
+  ]
+}

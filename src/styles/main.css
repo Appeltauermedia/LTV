@@ -61,6 +61,10 @@ body,#app{
 .chapter-mastery{
   margin:.75rem 0 .35rem;
 }
+.vocabulary-selection,.vocabulary-selection>section{display:grid;gap:2rem;min-width:0}.group-heading{font-size:1.25rem;margin:0 0 .8rem}.topic-heading{align-items:flex-start;flex-direction:column;margin-bottom:.8rem}.topic-heading .group-heading{margin:0}.topic-heading .tool-buttons{width:100%;flex-wrap:wrap;overflow:visible}.topic-heading .tool-buttons button{flex:1 1 auto}.search-filters,.source-tabs{display:grid;gap:.6rem;margin:.7rem 0}.source-tabs{grid-template-columns:1fr;padding:.5rem}.source-tabs button{border:0;background:transparent;border-radius:10px}.source-tabs button.active{background:var(--red);color:#fff}.topic-progress{grid-template-columns:minmax(100px,180px) 1fr 45px!important}.topic-grid .chapter-counts{grid-template-columns:1fr 1fr}.chapter-check input[data-topic]{accent-color:var(--red);width:20px;height:20px}
+@media(min-width:700px){.search-filters,.source-tabs{grid-template-columns:repeat(2,1fr)}.source-tabs{grid-template-columns:repeat(3,1fr)}}
+@media(min-width:1050px){.vocabulary-selection{grid-template-columns:minmax(0,1.45fr) minmax(320px,1fr);align-items:start}.vocabulary-selection>section>.chapter-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.vocabulary-selection .topic-grid{grid-template-columns:1fr}.topic-heading{flex-direction:row;align-items:flex-end}.topic-heading .tool-buttons{width:auto;flex-wrap:nowrap}}
+.cover-wrap img{height:auto}
 .chapter-mastery small{
   color:var(--muted);
 }

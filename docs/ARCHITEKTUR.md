@@ -25,3 +25,8 @@ Es gibt die Stufen 1 bis 5 mit 0, 1, 3, 7 und 21 Tagen Intervall. Falsch setzt z
 Der Service Worker verwendet für die Navigation Network-first mit Offline-Fallback und für versionierte statische Ressourcen Cache-first mit Netzergänzung. Neue Builds erhalten einen neuen Cache-Namen, werden im Hintergrund installiert und ersetzen alte App-Caches beim Aktivieren. IndexedDB wird nicht gecacht und deshalb nie durch Cachewechsel gelöscht. Schemaänderungen erfolgen über erhöhte `DB_VERSION` und `onupgradeneeded`.
 
 Eine laufende Runde wird nicht automatisch neu geladen. Der Nutzer erhält zunächst eine Meldung; die Aktivierung kann nach der Runde erfolgen.
+# Themenintegration
+
+`data/vocabulary.json` ist der gemeinsame, offline gebündelte Datenbestand. `sourceType` unterscheidet `chapter` und `topic`. Themen besitzen `topicId` und `topicTitle`; Kapitel behalten Nummer und Titel. Die UI sowie die Lernpipeline filtern ausschließlich diesen gemeinsamen Pool, sodass kein zweiter Trainer und keine parallele Lernlogik entsteht.
+
+IndexedDB wurde ohne Store-Löschung auf Version 3 angehoben. Der vorhandene `progress`-Store ist ID-basiert und nimmt Themen-IDs ohne Strukturänderung auf; bestehende Kapitelstände bleiben erhalten.

@@ -1,0 +1,710 @@
+{
+  "id": "anatomie-koerperteile",
+  "title": "Anatomie und Körperteile",
+  "vocabulary": [
+    {
+      "id": "thema-anatomie-koerperteile-001",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Arm"
+      ],
+      "turkish": "kol",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 82,
+        "originalGerman": "Arm"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-002",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Auge"
+      ],
+      "turkish": "göz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 83,
+        "originalGerman": "Auge"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-003",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Bauch"
+      ],
+      "turkish": "karın",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 84,
+        "originalGerman": "Bauch"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-004",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Bein"
+      ],
+      "turkish": "bacak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 85,
+        "originalGerman": "Bein"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-005",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Brust"
+      ],
+      "turkish": "göğüs",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 86,
+        "originalGerman": "Brust"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-006",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Daumen"
+      ],
+      "turkish": "başparmak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 87,
+        "originalGerman": "Daumen"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-007",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Finger"
+      ],
+      "turkish": "parmak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 88,
+        "originalGerman": "Finger"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-008",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Fuß"
+      ],
+      "turkish": "ayak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 89,
+        "originalGerman": "Fuß"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-009",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Gehirn"
+      ],
+      "turkish": "beyin",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 90,
+        "originalGerman": "Gehirn"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-010",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Gesicht"
+      ],
+      "turkish": "yüz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 91,
+        "originalGerman": "Gesicht"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-011",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Hals"
+      ],
+      "turkish": "boyun",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 92,
+        "originalGerman": "Hals"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-012",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Hand"
+      ],
+      "turkish": "el",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 93,
+        "originalGerman": "Hand"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-013",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Haut"
+      ],
+      "turkish": "cilt",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 94,
+        "originalGerman": "Haut"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-014",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Herz"
+      ],
+      "turkish": "kalp",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 95,
+        "originalGerman": "Herz"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-015",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Knie"
+      ],
+      "turkish": "diz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 96,
+        "originalGerman": "Knie"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-016",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Knochen"
+      ],
+      "turkish": "kemik",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 97,
+        "originalGerman": "Knochen"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-017",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Kopf"
+      ],
+      "turkish": "baş",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 98,
+        "originalGerman": "Kopf"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-018",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Körper"
+      ],
+      "turkish": "vücut",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 99,
+        "originalGerman": "Körper"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-019",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Leber"
+      ],
+      "turkish": "karaciğer",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 100,
+        "originalGerman": "Leber"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-020",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Lippe"
+      ],
+      "turkish": "dudak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 101,
+        "originalGerman": "Lippe"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-021",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Lunge"
+      ],
+      "turkish": "akciğer",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 102,
+        "originalGerman": "Lunge"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-022",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Magen"
+      ],
+      "turkish": "mide",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 103,
+        "originalGerman": "Magen"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-023",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Mund"
+      ],
+      "turkish": "ağız",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 104,
+        "originalGerman": "Mund"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-024",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Muskel"
+      ],
+      "turkish": "kas",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 105,
+        "originalGerman": "Muskel"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-025",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Nase"
+      ],
+      "turkish": "burun",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 106,
+        "originalGerman": "Nase"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-026",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Ohr"
+      ],
+      "turkish": "kulak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 107,
+        "originalGerman": "Ohr"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-027",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Rücken"
+      ],
+      "turkish": "sırt",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 108,
+        "originalGerman": "Rücken"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-028",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Schulter"
+      ],
+      "turkish": "omuz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 109,
+        "originalGerman": "Schulter"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-029",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Stirn"
+      ],
+      "turkish": "alın",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 110,
+        "originalGerman": "Stirn"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-030",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Zahn"
+      ],
+      "turkish": "diş",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 111,
+        "originalGerman": "Zahn"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-031",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Zeh"
+      ],
+      "turkish": "ayak parmağı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 112,
+        "originalGerman": "Zeh"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-032",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Zunge"
+      ],
+      "turkish": "dil",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 113,
+        "originalGerman": "Zunge"
+      }
+    }
+  ]
+}

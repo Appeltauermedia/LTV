@@ -19,3 +19,8 @@
 ## Abnahmekriterien
 
 `npm run check` ist grün, Build startet über HTTPS/localhost, Manifest ist installierbar, nach einmaligem Laden funktioniert eine vollständige Runde im Offline-Modus, und IndexedDB bleibt nach Service-Worker-Aktualisierung unverändert.
+# Abnahme Themenwortschatz
+
+Automatisiert werden Markdown-Parsing, elf Rubriken, 250 Zeilen, feste IDs, ID-Eindeutigkeit, Originalzeichen, Themen-/Kapitel-Filter, kombinierte Auswahl, Suche, Wiederholungsmodell sowie Backup-Version 1 und 2 geprüft. `npm run check` führt Datenvalidierung, Tests und Produktions-Build aus.
+
+Manuell auf Smartphone und Desktop prüfen: Themenkarten und Mehrfachauswahl; Tiere Türkisch→Deutsch; Kleidung+Farben als Multiple Choice; Kapitel 1+Lebensmittel kombiniert; gespeicherten Themenfortschritt nach Neustart; Export, Reset in Testumgebung und Import; Quellensuche; installierte App offline starten. Kleine Displays dürfen keine horizontale Tabelle benötigen.

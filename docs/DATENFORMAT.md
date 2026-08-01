@@ -19,3 +19,10 @@ Der Extrakt liefert keine Kapiteltitel. Die separat bereitgestellte redaktionell
 ## Validierung
 
 Das Skript prüft Schema, IDs, Dubletten, Kapitel 1–45, Begriffe, Übersetzungen, Datentypen, Kapitelzuordnung und UTF-8-Ersatzzeichen. Auffälligkeiten stehen in `docs/DATENPRUEFBERICHT.md`; Originalwerte werden nicht automatisch korrigiert.
+# Themenwortschatz und Import
+
+Die Markdown-Quelle nutzt Überschriften der Ebene 2 sowie Tabellen mit `Deutsch` und `Türkisch`. `scripts/import-topics.js` akzeptiert nur die elf festgelegten Titel, übernimmt jede Datenzeile unverändert und erzeugt feste IDs in Quellreihenfolge, beispielsweise `thema-tiere-001`. Sortierung in Ansichten verändert diese IDs nicht.
+
+Themenmetadaten stehen in `topics`; jeder Eintrag trägt `sourceType: "topic"`, `topicId`, `topicTitle`, `german`, `turkish` und `active`. Kapitel tragen ergänzend explizit `sourceType: "chapter"`. Doppelte Paare bleiben eigenständige Datensätze und werden nur im Prüfbericht gemeldet.
+
+Lernstandexporte verwenden Schema/Version 2. Version-1-Dateien werden akzeptiert; unbekannte IDs werden gemeldet und übersprungen, während bekannte Einträge importiert werden.

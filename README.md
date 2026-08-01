@@ -26,3 +26,8 @@ Der Programmcode und die Daten sind getrennt. Die Vokabel-Quelldatei wird mit `n
 `npm run check` ausführen und anschließend den Inhalt von `dist/` auf einen HTTPS-Webspace hochladen. Details für normalen Webspace, GitHub Pages, Updates und Rollback stehen in [docs/VERÖFFENTLICHUNG.md](docs/VERÖFFENTLICHUNG.md).
 
 Weitere Dokumente: [Anforderungen](docs/ANFORDERUNGEN.md), [Architektur](docs/ARCHITEKTUR.md), [Datenformat](docs/DATENFORMAT.md), [PWA](docs/PWA.md) und [Testplan](docs/TESTPLAN.md).
+# Themenwortschatz
+
+Zusätzlich zu den unveränderten 45 Kapiteln enthält der Trainer 250 Themenvokabeln in elf Rubriken. Kapitel und Themen können einzeln, mehrfach oder gemeinsam gewählt und in allen Lernmodi offline verwendet werden. Suche, Lernfilter, Fortschritt und Sicherungen berücksichtigen beide Quellen.
+
+Der verbindliche Originalbestand liegt unter `data/source/THEMENWORTSCHATZ_TUERKISCH.md`. `npm run data:topics` erzeugt daraus die Dateien unter `data/topics/` und führt sie mit `data/vocabulary.json`/`.js` zusammen; `npm run data:validate` prüft Struktur und IDs, ohne Inhalte zu korrigieren.

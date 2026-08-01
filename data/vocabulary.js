@@ -1,7 +1,7 @@
-// Automatisch erzeugt aus Vokabel-Extrakt_Kapitel_1-45.md – nicht manuell bearbeiten.
+// Automatisch erzeugter Offline-Wortschatz.
 export default {
-  "schemaVersion": 1,
-  "contentVersion": "2026.07.28",
+  "schemaVersion": 2,
+  "contentVersion": "2026.08.01",
   "language": {
     "source": "tr",
     "target": "de"
@@ -212,7 +212,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 11,
         "originalGerman": "Antwort auf „Willkommen“"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k01-v002",
@@ -234,7 +235,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 12,
         "originalGerman": "Auf Wiedersehen / Bis bald"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k01-v003",
@@ -255,7 +257,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 13,
         "originalGerman": "bitte"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k01-v004",
@@ -276,7 +279,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 14,
         "originalGerman": "Gern geschehen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k01-v005",
@@ -297,7 +301,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 15,
         "originalGerman": "Guten Abend"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k01-v006",
@@ -318,7 +323,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 16,
         "originalGerman": "Guten Morgen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k01-v007",
@@ -339,7 +345,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 17,
         "originalGerman": "Guten Tag"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k01-v008",
@@ -360,7 +367,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 18,
         "originalGerman": "Hallo"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k01-v009",
@@ -381,7 +389,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 19,
         "originalGerman": "Herzlich willkommen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k01-v010",
@@ -402,7 +411,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 20,
         "originalGerman": "ja"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k01-v011",
@@ -423,7 +433,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 21,
         "originalGerman": "nein"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k01-v012",
@@ -444,7 +455,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 22,
         "originalGerman": "Vielen Dank"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k02-v001",
@@ -465,7 +477,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 28,
         "originalGerman": "Adresse"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k02-v002",
@@ -486,7 +499,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 29,
         "originalGerman": "bitte"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k02-v003",
@@ -509,7 +523,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 30,
         "originalGerman": "bitte / nur zu / hier entlang"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k02-v004",
@@ -530,7 +545,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 31,
         "originalGerman": "Fahrer"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k02-v005",
@@ -552,7 +568,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 32,
         "originalGerman": "Gepäck / Kofferraum"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k02-v006",
@@ -573,7 +590,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 33,
         "originalGerman": "gern geschehen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k02-v007",
@@ -594,7 +612,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 34,
         "originalGerman": "Hotel"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k02-v008",
@@ -615,7 +634,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 35,
         "originalGerman": "ich"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k02-v009",
@@ -636,7 +656,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 36,
         "originalGerman": "in Ordnung"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k02-v010",
@@ -658,7 +679,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 37,
         "originalGerman": "Sie / ihr"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k02-v011",
@@ -679,7 +701,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 38,
         "originalGerman": "Taxi"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k03-v001",
@@ -700,7 +723,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 44,
         "originalGerman": "Freut mich"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k03-v002",
@@ -721,7 +745,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 45,
         "originalGerman": "ich auch"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k03-v003",
@@ -742,7 +767,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 46,
         "originalGerman": "Lobby"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k03-v004",
@@ -764,7 +790,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 47,
         "originalGerman": "mein / von mir"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k03-v005",
@@ -785,7 +812,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 48,
         "originalGerman": "mein Name"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k03-v006",
@@ -806,7 +834,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 49,
         "originalGerman": "Name"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k03-v007",
@@ -827,7 +856,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 50,
         "originalGerman": "Reisepass"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k03-v008",
@@ -848,7 +878,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 51,
         "originalGerman": "Rezeption"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k03-v009",
@@ -869,7 +900,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 52,
         "originalGerman": "Schlüssel"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k03-v010",
@@ -890,7 +922,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 53,
         "originalGerman": "Wie heißen Sie?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k03-v011",
@@ -911,7 +944,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 54,
         "originalGerman": "Zimmer"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k04-v001",
@@ -932,7 +966,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 60,
         "originalGerman": "Brot"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k04-v002",
@@ -953,7 +988,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 61,
         "originalGerman": "Frühstück"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k04-v003",
@@ -974,7 +1010,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 62,
         "originalGerman": "Gurke"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k04-v004",
@@ -995,7 +1032,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 63,
         "originalGerman": "Guten Appetit"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k04-v005",
@@ -1016,7 +1054,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 64,
         "originalGerman": "Honig"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k04-v006",
@@ -1037,7 +1076,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 65,
         "originalGerman": "ich möchte"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k04-v007",
@@ -1058,7 +1098,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 66,
         "originalGerman": "Kaffee"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k04-v008",
@@ -1079,7 +1120,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 67,
         "originalGerman": "Käse"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k04-v009",
@@ -1100,7 +1142,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 68,
         "originalGerman": "Olive"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k04-v010",
@@ -1121,7 +1164,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 69,
         "originalGerman": "Tee"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k04-v011",
@@ -1142,7 +1186,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 70,
         "originalGerman": "Tomate"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k04-v012",
@@ -1163,7 +1208,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 71,
         "originalGerman": "Wasser"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k05-v001",
@@ -1184,7 +1230,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 77,
         "originalGerman": "acht"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k05-v002",
@@ -1205,7 +1252,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 78,
         "originalGerman": "Automat"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k05-v003",
@@ -1226,7 +1274,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 79,
         "originalGerman": "dort"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k05-v004",
@@ -1248,7 +1297,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 80,
         "originalGerman": "es gibt / vorhanden"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k05-v005",
@@ -1270,7 +1320,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 81,
         "originalGerman": "es gibt nicht / nicht vorhanden"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k05-v006",
@@ -1291,7 +1342,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 82,
         "originalGerman": "Fahrkarte"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k05-v007",
@@ -1312,7 +1364,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 83,
         "originalGerman": "Gibt es?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k05-v008",
@@ -1333,7 +1386,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 84,
         "originalGerman": "Haltestelle"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k05-v009",
@@ -1354,7 +1408,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 85,
         "originalGerman": "hier"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k05-v010",
@@ -1375,7 +1430,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 86,
         "originalGerman": "Nahverkehrskarte"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k05-v011",
@@ -1396,7 +1452,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 87,
         "originalGerman": "neun"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k05-v012",
@@ -1417,7 +1474,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 88,
         "originalGerman": "sechs"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k05-v013",
@@ -1438,7 +1496,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 89,
         "originalGerman": "Sesamgebäck"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k05-v014",
@@ -1459,7 +1518,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 90,
         "originalGerman": "sieben"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k05-v015",
@@ -1480,7 +1540,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 91,
         "originalGerman": "Straßenbahn"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k05-v016",
@@ -1501,7 +1562,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 92,
         "originalGerman": "Wo?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k05-v017",
@@ -1522,7 +1584,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 93,
         "originalGerman": "zehn"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k06-v001",
@@ -1543,7 +1606,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 99,
         "originalGerman": "achtzig"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k06-v002",
@@ -1564,7 +1628,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 100,
         "originalGerman": "dreißig"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k06-v003",
@@ -1585,7 +1650,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 101,
         "originalGerman": "fünfzig"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k06-v004",
@@ -1606,7 +1672,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 102,
         "originalGerman": "günstig"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k06-v005",
@@ -1627,7 +1694,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 103,
         "originalGerman": "hundert"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k06-v006",
@@ -1648,7 +1716,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 104,
         "originalGerman": "ich möchte"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k06-v007",
@@ -1669,7 +1738,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 105,
         "originalGerman": "kaufen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k06-v008",
@@ -1690,7 +1760,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 106,
         "originalGerman": "Lira"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k06-v009",
@@ -1711,7 +1782,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 107,
         "originalGerman": "neunzig"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k06-v010",
@@ -1732,7 +1804,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 108,
         "originalGerman": "schön"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k06-v011",
@@ -1753,7 +1826,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 109,
         "originalGerman": "sechzig"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k06-v012",
@@ -1774,7 +1848,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 110,
         "originalGerman": "sehr"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k06-v013",
@@ -1795,7 +1870,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 111,
         "originalGerman": "siebzig"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k06-v014",
@@ -1816,7 +1892,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 112,
         "originalGerman": "teuer"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k06-v015",
@@ -1837,7 +1914,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 113,
         "originalGerman": "vierzig"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k06-v016",
@@ -1858,7 +1936,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 114,
         "originalGerman": "Wie viel kostet das?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k06-v017",
@@ -1879,7 +1958,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 115,
         "originalGerman": "zwanzig"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k07-v001",
@@ -1900,7 +1980,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 121,
         "originalGerman": "Café"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k07-v002",
@@ -1921,7 +2002,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 122,
         "originalGerman": "ich mag"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k07-v003",
@@ -1942,7 +2024,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 123,
         "originalGerman": "ich mag nicht"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k07-v004",
@@ -1963,7 +2046,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 124,
         "originalGerman": "Kellner"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k07-v005",
@@ -1984,7 +2068,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 125,
         "originalGerman": "Meerenge zwischen Europa und Asien"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k07-v006",
@@ -2005,7 +2090,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 126,
         "originalGerman": "mögen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k07-v007",
@@ -2026,7 +2112,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 127,
         "originalGerman": "Speisekarte"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k07-v008",
@@ -2047,7 +2134,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 128,
         "originalGerman": "türkischer Sesamring"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k07-v009",
@@ -2068,7 +2156,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 129,
         "originalGerman": "was?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k07-v010",
@@ -2089,7 +2178,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 130,
         "originalGerman": "welcher?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k08-v001",
@@ -2110,7 +2200,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 136,
         "originalGerman": "das Wasser"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k08-v002",
@@ -2131,7 +2222,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 137,
         "originalGerman": "den Kaffee"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k08-v003",
@@ -2152,7 +2244,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 138,
         "originalGerman": "den Tee"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k08-v004",
@@ -2173,7 +2266,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 139,
         "originalGerman": "ich trinke"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k08-v005",
@@ -2194,7 +2288,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 140,
         "originalGerman": "möchten, wollen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k08-v006",
@@ -2215,7 +2310,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 141,
         "originalGerman": "natürlich"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k08-v007",
@@ -2236,7 +2332,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 142,
         "originalGerman": "Sie möchten"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k08-v008",
@@ -2257,7 +2354,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 143,
         "originalGerman": "trinken"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k08-v009",
@@ -2278,7 +2376,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 144,
         "originalGerman": "warum?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k08-v010",
@@ -2299,7 +2398,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 145,
         "originalGerman": "weil"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k09-v001",
@@ -2320,7 +2420,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 151,
         "originalGerman": "Bosporus"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k09-v002",
@@ -2341,7 +2442,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 152,
         "originalGerman": "Fähranleger"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k09-v003",
@@ -2362,7 +2464,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 153,
         "originalGerman": "Fähre"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k09-v004",
@@ -2383,7 +2486,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 154,
         "originalGerman": "gehen, fahren"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k09-v005",
@@ -2404,7 +2508,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 155,
         "originalGerman": "heute"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k09-v006",
@@ -2425,7 +2530,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 156,
         "originalGerman": "ich gehe, ich fahre"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k09-v007",
@@ -2446,7 +2552,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 157,
         "originalGerman": "ich komme"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k09-v008",
@@ -2467,7 +2574,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 158,
         "originalGerman": "kommen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k09-v009",
@@ -2488,7 +2596,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 159,
         "originalGerman": "Stadtteil auf der asiatischen Seite Istanbuls"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k09-v010",
@@ -2509,7 +2618,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 160,
         "originalGerman": "wohin?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k10-v001",
@@ -2530,7 +2640,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 166,
         "originalGerman": "dann, danach"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k10-v002",
@@ -2551,7 +2662,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 167,
         "originalGerman": "Entschuldigen Sie"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k10-v003",
@@ -2572,7 +2684,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 168,
         "originalGerman": "gegenüber"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k10-v004",
@@ -2593,7 +2706,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 169,
         "originalGerman": "geradeaus"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k10-v005",
@@ -2614,7 +2728,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 170,
         "originalGerman": "Können Sie mir zeigen?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k10-v006",
@@ -2635,7 +2750,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 171,
         "originalGerman": "links"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k10-v007",
@@ -2656,7 +2772,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 172,
         "originalGerman": "Markt"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k10-v008",
@@ -2677,7 +2794,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 173,
         "originalGerman": "rechts"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k10-v009",
@@ -2698,7 +2816,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 174,
         "originalGerman": "Straße"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k10-v010",
@@ -2719,7 +2838,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 175,
         "originalGerman": "welcher Ort?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k10-v011",
@@ -2740,7 +2860,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 176,
         "originalGerman": "zeigen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k11-v001",
@@ -2761,7 +2882,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 182,
         "originalGerman": "Apfel"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k11-v002",
@@ -2782,7 +2904,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 183,
         "originalGerman": "bitte"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k11-v003",
@@ -2803,7 +2926,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 184,
         "originalGerman": "Brot"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k11-v004",
@@ -2824,7 +2948,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 185,
         "originalGerman": "Gurke"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k11-v005",
@@ -2845,7 +2970,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 186,
         "originalGerman": "Guten Appetit"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k11-v006",
@@ -2866,7 +2992,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 187,
         "originalGerman": "halb"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k11-v007",
@@ -2887,7 +3014,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 188,
         "originalGerman": "Käse"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k11-v008",
@@ -2908,7 +3036,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 189,
         "originalGerman": "Kilogramm"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k11-v009",
@@ -2929,7 +3058,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 190,
         "originalGerman": "Olive"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k11-v010",
@@ -2950,7 +3080,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 191,
         "originalGerman": "Tomate"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k11-v011",
@@ -2972,7 +3103,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 192,
         "originalGerman": "Wie viel? / Wie teuer?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k12-v001",
@@ -2993,7 +3125,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 198,
         "originalGerman": "Ayran"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k12-v002",
@@ -3014,7 +3147,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 199,
         "originalGerman": "Baklava"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k12-v003",
@@ -3035,7 +3169,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 200,
         "originalGerman": "ein bisschen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k12-v004",
@@ -3056,7 +3191,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 201,
         "originalGerman": "Ich lerne Türkisch."
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k12-v005",
@@ -3077,7 +3213,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 202,
         "originalGerman": "ich möchte"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k12-v006",
@@ -3098,7 +3235,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 203,
         "originalGerman": "Kaffee"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k12-v007",
@@ -3119,7 +3257,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 204,
         "originalGerman": "Möchten Sie?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k12-v008",
@@ -3140,7 +3279,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 205,
         "originalGerman": "Rechnung"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k12-v009",
@@ -3161,7 +3301,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 206,
         "originalGerman": "Speisekarte"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k12-v010",
@@ -3182,7 +3323,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 207,
         "originalGerman": "türkischer Kaffee"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k12-v011",
@@ -3203,7 +3345,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 208,
         "originalGerman": "Wasser"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k13-v001",
@@ -3224,7 +3367,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 214,
         "originalGerman": "besetzt"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k13-v002",
@@ -3245,7 +3389,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 215,
         "originalGerman": "Die Rechnung, bitte."
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k13-v003",
@@ -3266,7 +3411,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 216,
         "originalGerman": "Essen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k13-v004",
@@ -3287,7 +3433,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 217,
         "originalGerman": "frei"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k13-v005",
@@ -3308,7 +3455,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 218,
         "originalGerman": "Kebab"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k13-v006",
@@ -3329,7 +3477,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 219,
         "originalGerman": "lecker"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k13-v007",
@@ -3350,7 +3499,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 220,
         "originalGerman": "Rechnung"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k13-v008",
@@ -3371,7 +3521,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 221,
         "originalGerman": "sehr"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k13-v009",
@@ -3392,7 +3543,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 222,
         "originalGerman": "Tisch"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k13-v010",
@@ -3413,7 +3565,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 223,
         "originalGerman": "traditionelles Restaurant"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k13-v011",
@@ -3434,7 +3587,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 224,
         "originalGerman": "türkisches Eiergericht"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k14-v001",
@@ -3455,7 +3609,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 230,
         "originalGerman": "am Fähranleger"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k14-v002",
@@ -3476,7 +3631,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 231,
         "originalGerman": "auf der Fähre"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k14-v003",
@@ -3497,7 +3653,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 232,
         "originalGerman": "die letzte Fähre"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k14-v004",
@@ -3518,7 +3675,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 233,
         "originalGerman": "ich kehre zum Hotel zurück"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k14-v005",
@@ -3539,7 +3697,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 234,
         "originalGerman": "im Hotel"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k14-v006",
@@ -3560,7 +3719,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 235,
         "originalGerman": "in Sultanahmet"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k14-v007",
@@ -3581,7 +3741,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 236,
         "originalGerman": "jetzt"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k14-v008",
@@ -3602,7 +3763,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 237,
         "originalGerman": "letzter; Ende"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k14-v009",
@@ -3623,7 +3785,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 238,
         "originalGerman": "Uhr; Stunde"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k14-v010",
@@ -3644,7 +3807,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 239,
         "originalGerman": "um wie viel Uhr?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k14-v011",
@@ -3665,7 +3829,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 240,
         "originalGerman": "Wie spät ist es?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k14-v012",
@@ -3686,7 +3851,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 241,
         "originalGerman": "wie viele?; wie spät?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k14-v013",
@@ -3707,7 +3873,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 242,
         "originalGerman": "zurückkehren; sich wenden"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k15-v001",
@@ -3728,7 +3895,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 248,
         "originalGerman": "achtzehn"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k15-v002",
@@ -3749,7 +3917,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 249,
         "originalGerman": "Besuch"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k15-v003",
@@ -3770,7 +3939,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 250,
         "originalGerman": "Besucher"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k15-v004",
@@ -3791,7 +3961,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 251,
         "originalGerman": "dreizehn"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k15-v005",
@@ -3812,7 +3983,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 252,
         "originalGerman": "Eingang; Eintritt"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k15-v006",
@@ -3833,7 +4005,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 253,
         "originalGerman": "elf"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k15-v007",
@@ -3854,7 +4027,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 254,
         "originalGerman": "fünfzehn"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k15-v008",
@@ -3875,7 +4049,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 255,
         "originalGerman": "geöffnet; offen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k15-v009",
@@ -3896,7 +4071,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 256,
         "originalGerman": "geschlossen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k15-v010",
@@ -3917,7 +4093,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 257,
         "originalGerman": "ist es geöffnet?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k15-v011",
@@ -3938,7 +4115,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 258,
         "originalGerman": "ist es heute geöffnet?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k15-v012",
@@ -3959,7 +4137,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 259,
         "originalGerman": "kostenlos"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k15-v013",
@@ -3980,7 +4159,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 260,
         "originalGerman": "neunzehn"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k15-v014",
@@ -4001,7 +4181,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 261,
         "originalGerman": "sechzehn"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k15-v015",
@@ -4022,7 +4203,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 262,
         "originalGerman": "siebzehn"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k15-v016",
@@ -4043,7 +4225,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 263,
         "originalGerman": "vierzehn"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k15-v017",
@@ -4064,7 +4247,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 264,
         "originalGerman": "zwölf"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k16-v001",
@@ -4085,7 +4269,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 270,
         "originalGerman": "ausziehen; herausnehmen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k16-v002",
@@ -4106,7 +4291,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 271,
         "originalGerman": "bedecken"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k16-v003",
@@ -4127,7 +4313,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 272,
         "originalGerman": "erlaubt; frei"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k16-v004",
@@ -4148,7 +4335,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 273,
         "originalGerman": "Foto"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k16-v005",
@@ -4169,7 +4357,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 274,
         "originalGerman": "Kopf"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k16-v006",
@@ -4190,7 +4379,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 275,
         "originalGerman": "leise; still"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k16-v007",
@@ -4211,7 +4401,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 276,
         "originalGerman": "möglich"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k16-v008",
@@ -4232,7 +4423,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 277,
         "originalGerman": "Moschee"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k16-v009",
@@ -4253,7 +4445,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 278,
         "originalGerman": "Schuh"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k16-v010",
@@ -4274,7 +4467,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 279,
         "originalGerman": "Sind Fotos möglich?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k16-v011",
@@ -4295,7 +4489,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 280,
         "originalGerman": "verboten"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k16-v012",
@@ -4316,7 +4511,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 281,
         "originalGerman": "Ziehen Sie Ihre Schuhe aus."
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k16-v013",
@@ -4337,7 +4533,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 282,
         "originalGerman": "ziehen; aufnehmen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k17-v001",
@@ -4358,7 +4555,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 288,
         "originalGerman": "Baum"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k17-v002",
@@ -4379,7 +4577,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 289,
         "originalGerman": "Blume"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k17-v003",
@@ -4400,7 +4599,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 290,
         "originalGerman": "gehen; spazieren"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k17-v004",
@@ -4421,7 +4621,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 291,
         "originalGerman": "gelb"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k17-v005",
@@ -4442,7 +4643,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 292,
         "originalGerman": "grün"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k17-v006",
@@ -4463,7 +4665,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 293,
         "originalGerman": "Gute Erholung."
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k17-v007",
@@ -4484,7 +4687,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 294,
         "originalGerman": "ich gehe/spaziere"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k17-v008",
@@ -4505,7 +4709,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 295,
         "originalGerman": "ich lese"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k17-v009",
@@ -4526,7 +4731,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 296,
         "originalGerman": "ich ruhe mich aus"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k17-v010",
@@ -4547,7 +4753,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 297,
         "originalGerman": "ich sitze"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k17-v011",
@@ -4568,7 +4775,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 298,
         "originalGerman": "lesen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k17-v012",
@@ -4589,7 +4797,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 299,
         "originalGerman": "Park"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k17-v013",
@@ -4610,7 +4819,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 300,
         "originalGerman": "rot"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k17-v014",
@@ -4631,7 +4841,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 301,
         "originalGerman": "sich ausruhen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k17-v015",
@@ -4652,7 +4863,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 302,
         "originalGerman": "sitzen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k18-v001",
@@ -4673,7 +4885,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 308,
         "originalGerman": "angeln"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k18-v002",
@@ -4694,7 +4907,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 309,
         "originalGerman": "Brücke"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k18-v003",
@@ -4715,7 +4929,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 310,
         "originalGerman": "er/sie schaut"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k18-v004",
@@ -4736,7 +4951,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 311,
         "originalGerman": "er/sie spricht"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k18-v005",
@@ -4757,7 +4973,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 312,
         "originalGerman": "er/sie wartet nicht"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k18-v006",
@@ -4778,7 +4995,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 313,
         "originalGerman": "Fisch"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k18-v007",
@@ -4799,7 +5017,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 314,
         "originalGerman": "Fischer; Fischverkäufer"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k18-v008",
@@ -4820,7 +5039,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 315,
         "originalGerman": "halten; fangen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k18-v009",
@@ -4841,7 +5061,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 316,
         "originalGerman": "ich angle"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k18-v010",
@@ -4862,7 +5083,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 317,
         "originalGerman": "jeden Tag"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k18-v011",
@@ -4883,7 +5105,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 318,
         "originalGerman": "schauen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k18-v012",
@@ -4904,7 +5127,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 319,
         "originalGerman": "sprechen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k18-v013",
@@ -4925,7 +5149,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 320,
         "originalGerman": "verkaufen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k18-v014",
@@ -4946,7 +5171,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 321,
         "originalGerman": "warten"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k18-v015",
@@ -4967,7 +5193,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 322,
         "originalGerman": "Was machen Sie gerade?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k19-v001",
@@ -4988,7 +5215,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 328,
         "originalGerman": "aus Deutschland"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k19-v002",
@@ -5009,7 +5237,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 329,
         "originalGerman": "Aussicht; Landschaft"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k19-v003",
@@ -5030,7 +5259,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 330,
         "originalGerman": "Galataturm"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k19-v004",
@@ -5051,7 +5281,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 331,
         "originalGerman": "nach oben; oben"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k19-v005",
@@ -5072,7 +5303,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 332,
         "originalGerman": "nach unten; unten"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k19-v006",
@@ -5093,7 +5325,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 333,
         "originalGerman": "Steigung; steile Straße"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k19-v007",
@@ -5114,7 +5347,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 334,
         "originalGerman": "Turm"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k19-v008",
@@ -5135,7 +5369,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 335,
         "originalGerman": "vom Hotel"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k19-v009",
@@ -5156,7 +5391,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 336,
         "originalGerman": "vom Turm"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k19-v010",
@@ -5177,7 +5413,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 337,
         "originalGerman": "von der Brücke"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k19-v011",
@@ -5198,7 +5435,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 338,
         "originalGerman": "von dort"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k19-v012",
@@ -5219,7 +5457,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 339,
         "originalGerman": "von hier"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k19-v013",
@@ -5240,7 +5479,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 340,
         "originalGerman": "woher?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k20-v001",
@@ -5261,7 +5501,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 346,
         "originalGerman": "blau"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k20-v002",
@@ -5282,7 +5523,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 347,
         "originalGerman": "breite Straße; Allee"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k20-v003",
@@ -5303,7 +5545,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 348,
         "originalGerman": "das da"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k20-v004",
@@ -5324,7 +5567,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 349,
         "originalGerman": "dies; dieses hier"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k20-v005",
@@ -5345,7 +5589,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 350,
         "originalGerman": "diese hier"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k20-v006",
@@ -5366,7 +5611,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 351,
         "originalGerman": "Farbe"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k20-v007",
@@ -5387,7 +5633,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 352,
         "originalGerman": "Geschäft"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k20-v008",
@@ -5408,7 +5655,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 353,
         "originalGerman": "Hemd"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k20-v009",
@@ -5429,7 +5677,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 354,
         "originalGerman": "Hose"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k20-v010",
@@ -5450,7 +5699,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 355,
         "originalGerman": "Jacke"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k20-v011",
@@ -5471,7 +5721,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 356,
         "originalGerman": "jenes dort; er/sie/es"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k20-v012",
@@ -5492,7 +5743,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 357,
         "originalGerman": "Kleidung"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k20-v013",
@@ -5513,7 +5765,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 358,
         "originalGerman": "schwarz"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k20-v014",
@@ -5534,7 +5787,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 359,
         "originalGerman": "türkische Musik"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k20-v015",
@@ -5555,7 +5809,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 360,
         "originalGerman": "türkisches Saiteninstrument"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k20-v016",
@@ -5576,7 +5831,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 361,
         "originalGerman": "weiß"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k20-v017",
@@ -5597,7 +5853,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 362,
         "originalGerman": "Wie viel kostet diese Jacke?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k21-v001",
@@ -5618,7 +5875,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 368,
         "originalGerman": "Gehört das Ihnen?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k21-v002",
@@ -5639,7 +5897,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 369,
         "originalGerman": "Ihr Ticket"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k21-v003",
@@ -5660,7 +5919,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 370,
         "originalGerman": "Ihre Tasche"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k21-v004",
@@ -5681,7 +5941,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 371,
         "originalGerman": "Ja, mir."
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k21-v005",
@@ -5702,7 +5963,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 372,
         "originalGerman": "mein Schlüssel"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k21-v006",
@@ -5723,7 +5985,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 373,
         "originalGerman": "mein Telefon"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k21-v007",
@@ -5744,7 +6007,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 374,
         "originalGerman": "mein Ticket"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k21-v008",
@@ -5765,7 +6029,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 375,
         "originalGerman": "meine Tasche"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k21-v009",
@@ -5786,7 +6051,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 376,
         "originalGerman": "Palast"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k21-v010",
@@ -5807,7 +6073,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 377,
         "originalGerman": "wessen?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k22-v001",
@@ -5828,7 +6095,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 383,
         "originalGerman": "Abfahrt; Bewegung"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k22-v002",
@@ -5849,7 +6117,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 384,
         "originalGerman": "Bus"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k22-v003",
@@ -5870,7 +6139,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 385,
         "originalGerman": "früh"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k22-v004",
@@ -5891,7 +6161,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 386,
         "originalGerman": "halb"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k22-v005",
@@ -5912,7 +6183,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 387,
         "originalGerman": "sich treffen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k22-v006",
@@ -5933,7 +6205,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 388,
         "originalGerman": "spät"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k22-v007",
@@ -5954,7 +6227,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 389,
         "originalGerman": "um drei Uhr"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k22-v008",
@@ -5975,7 +6249,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 390,
         "originalGerman": "um halb vier"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k22-v009",
@@ -5996,7 +6271,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 391,
         "originalGerman": "Viertel"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k22-v010",
@@ -6017,7 +6293,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 392,
         "originalGerman": "Wann?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k23-v001",
@@ -6038,7 +6315,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 398,
         "originalGerman": "Abend"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k23-v002",
@@ -6059,7 +6337,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 399,
         "originalGerman": "gefüllte Ofenkartoffel"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k23-v003",
@@ -6080,7 +6359,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 400,
         "originalGerman": "ich werde essen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k23-v004",
@@ -6101,7 +6381,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 401,
         "originalGerman": "ich werde gehen/fahren"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k23-v005",
@@ -6122,7 +6403,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 402,
         "originalGerman": "ich werde trinken"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k23-v006",
@@ -6143,7 +6425,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 403,
         "originalGerman": "machen; tun"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k23-v007",
@@ -6164,7 +6447,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 404,
         "originalGerman": "morgen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k23-v008",
@@ -6185,7 +6469,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 405,
         "originalGerman": "Plan"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k23-v009",
@@ -6206,7 +6491,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 406,
         "originalGerman": "Was werden Sie tun?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k23-v010",
@@ -6227,7 +6513,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 407,
         "originalGerman": "zuerst; vorher"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k24-v001",
@@ -6248,7 +6535,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 413,
         "originalGerman": "am meisten; ...ste"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k24-v002",
@@ -6269,7 +6557,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 414,
         "originalGerman": "langsam"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k24-v003",
@@ -6290,7 +6579,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 415,
         "originalGerman": "leicht; einfach"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k24-v004",
@@ -6311,7 +6601,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 416,
         "originalGerman": "mehr; -er"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k24-v005",
@@ -6332,7 +6623,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 417,
         "originalGerman": "ruhig"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k24-v006",
@@ -6353,7 +6645,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 418,
         "originalGerman": "schnell"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k24-v007",
@@ -6374,7 +6667,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 419,
         "originalGerman": "schwierig"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k24-v008",
@@ -6395,7 +6689,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 420,
         "originalGerman": "voll; belebt"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k24-v009",
@@ -6416,7 +6711,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 421,
         "originalGerman": "welches davon?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k24-v010",
@@ -6437,7 +6733,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 422,
         "originalGerman": "Welches ist schöner?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k25-v001",
@@ -6458,7 +6755,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 428,
         "originalGerman": "andere Seite"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k25-v002",
@@ -6479,7 +6777,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 429,
         "originalGerman": "Bis später!"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k25-v003",
@@ -6500,7 +6799,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 430,
         "originalGerman": "Meer"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k25-v004",
@@ -6521,7 +6821,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 431,
         "originalGerman": "mit dem Bus"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k25-v005",
@@ -6542,7 +6843,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 432,
         "originalGerman": "mit dem Taxi"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k25-v006",
@@ -6563,7 +6865,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 433,
         "originalGerman": "mit der Fähre"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k25-v007",
@@ -6584,7 +6887,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 434,
         "originalGerman": "mit der Straßenbahn"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k25-v008",
@@ -6605,7 +6909,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 435,
         "originalGerman": "mit meinem Freund"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k25-v009",
@@ -6626,7 +6931,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 436,
         "originalGerman": "mit; und"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k25-v010",
@@ -6647,7 +6953,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 437,
         "originalGerman": "Möwe"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k25-v011",
@@ -6668,7 +6975,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 438,
         "originalGerman": "Wie fahren Sie?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k25-v012",
@@ -6689,7 +6997,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 439,
         "originalGerman": "zusammen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k26-v001",
@@ -6710,7 +7019,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 445,
         "originalGerman": "besichtigen, umhergehen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k26-v002",
@@ -6731,7 +7041,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 446,
         "originalGerman": "danach"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k26-v003",
@@ -6752,7 +7063,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 447,
         "originalGerman": "gestern"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k26-v004",
@@ -6773,7 +7085,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 448,
         "originalGerman": "heute"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k26-v005",
@@ -6794,7 +7107,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 449,
         "originalGerman": "ich aß"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k26-v006",
@@ -6815,7 +7129,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 450,
         "originalGerman": "ich besichtigte"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k26-v007",
@@ -6836,7 +7151,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 451,
         "originalGerman": "ich ging, fuhr"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k26-v008",
@@ -6857,7 +7173,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 452,
         "originalGerman": "ich kam"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k26-v009",
@@ -6878,7 +7195,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 453,
         "originalGerman": "ich machte"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k26-v010",
@@ -6899,7 +7217,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 454,
         "originalGerman": "ich sah"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k26-v011",
@@ -6920,7 +7239,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 455,
         "originalGerman": "ich trank"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k26-v012",
@@ -6941,7 +7261,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 456,
         "originalGerman": "machen, tun"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k26-v013",
@@ -6962,7 +7283,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 457,
         "originalGerman": "sehen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k26-v014",
@@ -6983,7 +7305,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 458,
         "originalGerman": "Sonnenuntergang"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k26-v015",
@@ -7004,7 +7327,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 459,
         "originalGerman": "Ufer, Küste"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k26-v016",
@@ -7025,7 +7349,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 460,
         "originalGerman": "vorher, zuerst"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k26-v017",
@@ -7046,7 +7371,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 461,
         "originalGerman": "Vorsicht, Aufmerksamkeit"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k26-v018",
@@ -7067,7 +7393,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 462,
         "originalGerman": "Was haben Sie heute gemacht?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k27-v001",
@@ -7088,7 +7415,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 468,
         "originalGerman": "aber"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k27-v002",
@@ -7109,7 +7437,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 469,
         "originalGerman": "einkaufen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k27-v003",
@@ -7130,7 +7459,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 470,
         "originalGerman": "früh"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k27-v004",
@@ -7151,7 +7481,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 471,
         "originalGerman": "Haben Sie gut geschlafen?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k27-v005",
@@ -7172,7 +7503,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 472,
         "originalGerman": "ich ging nicht"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k27-v006",
@@ -7193,7 +7525,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 473,
         "originalGerman": "ich machte nicht"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k27-v007",
@@ -7214,7 +7547,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 474,
         "originalGerman": "ich sah nicht"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k27-v008",
@@ -7235,7 +7569,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 475,
         "originalGerman": "ich trank nicht"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k27-v009",
@@ -7256,7 +7591,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 476,
         "originalGerman": "müde"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k27-v010",
@@ -7277,7 +7613,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 477,
         "originalGerman": "nur"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k27-v011",
@@ -7298,7 +7635,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 478,
         "originalGerman": "schlafen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k27-v012",
@@ -7319,7 +7657,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 479,
         "originalGerman": "schläfrig"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k27-v013",
@@ -7340,7 +7679,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 480,
         "originalGerman": "sich ausruhen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k27-v014",
@@ -7361,7 +7701,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 481,
         "originalGerman": "spät"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k27-v015",
@@ -7382,7 +7723,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 482,
         "originalGerman": "weil, denn"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k27-v016",
@@ -7403,7 +7745,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 483,
         "originalGerman": "Wie war Ihr Tag?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k27-v017",
@@ -7424,7 +7767,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 484,
         "originalGerman": "zufrieden"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k28-v001",
@@ -7445,7 +7789,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 490,
         "originalGerman": "abfahren, sich bewegen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k28-v002",
@@ -7466,7 +7811,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 491,
         "originalGerman": "ankommen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k28-v003",
@@ -7487,7 +7833,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 492,
         "originalGerman": "dauern"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k28-v004",
@@ -7508,7 +7855,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 493,
         "originalGerman": "einfache Fahrt"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k28-v005",
@@ -7529,7 +7877,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 494,
         "originalGerman": "Fahrkarte kaufen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k28-v006",
@@ -7550,7 +7899,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 495,
         "originalGerman": "Fensterplatz"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k28-v007",
@@ -7571,7 +7921,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 496,
         "originalGerman": "Fernbus"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k28-v008",
@@ -7592,7 +7943,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 497,
         "originalGerman": "Fernbusbahnhof"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k28-v009",
@@ -7613,7 +7965,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 498,
         "originalGerman": "Gang"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k28-v010",
@@ -7634,7 +7987,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 499,
         "originalGerman": "Hin- und Rückfahrt"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k28-v011",
@@ -7655,7 +8009,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 500,
         "originalGerman": "ich muss gehen/fahren"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k28-v012",
@@ -7676,7 +8031,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 501,
         "originalGerman": "ich muss kaufen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k28-v013",
@@ -7697,7 +8053,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 502,
         "originalGerman": "Kappadokien"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k28-v014",
@@ -7718,7 +8075,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 503,
         "originalGerman": "Reise, Fahrt"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k28-v015",
@@ -7739,7 +8097,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 504,
         "originalGerman": "Sitzplatz"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k28-v016",
@@ -7760,7 +8119,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 505,
         "originalGerman": "Was soll/muss ich tun?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k29-v001",
@@ -7781,7 +8141,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 511,
         "originalGerman": "Auskunft"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k29-v002",
@@ -7802,7 +8163,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 512,
         "originalGerman": "Busbegleiter"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k29-v003",
@@ -7823,7 +8185,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 513,
         "originalGerman": "Bussteig"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k29-v004",
@@ -7844,7 +8207,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 514,
         "originalGerman": "Fahrer"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k29-v005",
@@ -7865,7 +8229,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 515,
         "originalGerman": "Gepäck, Gepäckraum"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k29-v006",
@@ -7886,7 +8251,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 516,
         "originalGerman": "Gepäckaufbewahrung"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k29-v007",
@@ -7907,7 +8273,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 517,
         "originalGerman": "Gute Reise!"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k29-v008",
@@ -7928,7 +8295,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 518,
         "originalGerman": "Handgepäck"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k29-v009",
@@ -7949,7 +8317,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 519,
         "originalGerman": "helfen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k29-v010",
@@ -7970,7 +8339,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 520,
         "originalGerman": "ich kann einsteigen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k29-v011",
@@ -7991,7 +8361,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 521,
         "originalGerman": "Kann/darf ich hinstellen?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k29-v012",
@@ -8012,7 +8383,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 522,
         "originalGerman": "Koffer"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k29-v013",
@@ -8033,7 +8405,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 523,
         "originalGerman": "öffnen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k29-v014",
@@ -8054,7 +8427,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 524,
         "originalGerman": "Pause"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k29-v015",
@@ -8075,7 +8449,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 525,
         "originalGerman": "schließen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k29-v016",
@@ -8096,7 +8471,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 526,
         "originalGerman": "Sicherheitsgurt"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k29-v017",
@@ -8117,7 +8493,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 527,
         "originalGerman": "stellen, legen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k30-v001",
@@ -8138,7 +8515,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 533,
         "originalGerman": "eine Weile"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k30-v002",
@@ -8159,7 +8537,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 534,
         "originalGerman": "Fahrgast"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k30-v003",
@@ -8180,7 +8559,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 535,
         "originalGerman": "fortfahren"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k30-v004",
@@ -8201,7 +8581,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 536,
         "originalGerman": "fuhr ab"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k30-v005",
@@ -8222,7 +8603,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 537,
         "originalGerman": "gegen Morgen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k30-v006",
@@ -8243,7 +8625,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 538,
         "originalGerman": "ich schlief"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k30-v007",
@@ -8264,7 +8647,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 539,
         "originalGerman": "ich wachte auf"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k30-v008",
@@ -8285,7 +8669,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 540,
         "originalGerman": "jeder, alle"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k30-v009",
@@ -8306,7 +8691,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 541,
         "originalGerman": "jemand; niemand bei Verneinung"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k30-v010",
@@ -8327,7 +8713,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 542,
         "originalGerman": "Linsensuppe"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k30-v011",
@@ -8348,7 +8735,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 543,
         "originalGerman": "Mitternacht"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k30-v012",
@@ -8369,7 +8757,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 544,
         "originalGerman": "Nachtfahrt"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k30-v013",
@@ -8390,7 +8779,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 545,
         "originalGerman": "noch, bislang"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k30-v014",
@@ -8411,7 +8801,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 546,
         "originalGerman": "schließlich"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k30-v015",
@@ -8432,7 +8823,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 547,
         "originalGerman": "sofort"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k30-v016",
@@ -8453,7 +8845,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 548,
         "originalGerman": "wir hielten an"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k30-v017",
@@ -8474,7 +8867,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 549,
         "originalGerman": "wir kamen an"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k30-v018",
@@ -8495,7 +8889,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 550,
         "originalGerman": "wir machten Pause"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k30-v019",
@@ -8516,7 +8911,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 551,
         "originalGerman": "wir ruhten uns aus"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k30-v020",
@@ -8537,7 +8933,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 552,
         "originalGerman": "wir sprachen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k31-v001",
@@ -8558,7 +8955,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 558,
         "originalGerman": "ähneln"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k31-v002",
@@ -8579,7 +8977,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 559,
         "originalGerman": "anders"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k31-v003",
@@ -8600,7 +8999,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 560,
         "originalGerman": "Aussicht"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k31-v004",
@@ -8621,7 +9021,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 561,
         "originalGerman": "bequem"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k31-v005",
@@ -8642,7 +9043,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 562,
         "originalGerman": "es ist nicht mehr weit"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k31-v006",
@@ -8663,7 +9065,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 563,
         "originalGerman": "Feenkamin"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k31-v007",
@@ -8684,7 +9087,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 564,
         "originalGerman": "Fels"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k31-v008",
@@ -8705,7 +9109,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 565,
         "originalGerman": "Felsenzimmer"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k31-v009",
@@ -8726,7 +9131,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 566,
         "originalGerman": "fertig, bereit"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k31-v010",
@@ -8747,7 +9153,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 567,
         "originalGerman": "Göreme"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k31-v011",
@@ -8768,7 +9175,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 568,
         "originalGerman": "Höhle"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k31-v012",
@@ -8789,7 +9197,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 569,
         "originalGerman": "inbegriffen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k31-v013",
@@ -8810,7 +9219,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 570,
         "originalGerman": "Kappadokien"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k31-v014",
@@ -8831,7 +9241,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 571,
         "originalGerman": "Reservierung"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k31-v015",
@@ -8852,7 +9263,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 572,
         "originalGerman": "ruhig"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k31-v016",
@@ -8873,7 +9285,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 573,
         "originalGerman": "still"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k31-v017",
@@ -8894,7 +9307,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 574,
         "originalGerman": "Tal"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k31-v018",
@@ -8915,7 +9329,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 575,
         "originalGerman": "Terrasse"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k31-v019",
@@ -8936,7 +9351,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 576,
         "originalGerman": "wie"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k31-v020",
@@ -8957,7 +9373,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 577,
         "originalGerman": "zum ersten Mal"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k32-v001",
@@ -8978,7 +9395,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 583,
         "originalGerman": "berühren"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k32-v002",
@@ -8999,7 +9417,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 584,
         "originalGerman": "Besucher"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k32-v003",
@@ -9020,7 +9439,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 585,
         "originalGerman": "dunkel"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k32-v004",
@@ -9041,7 +9461,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 586,
         "originalGerman": "erklären, erzählen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k32-v005",
@@ -9062,7 +9483,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 587,
         "originalGerman": "erlaubt"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k32-v006",
@@ -9083,7 +9505,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 588,
         "originalGerman": "fotografieren"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k32-v007",
@@ -9104,7 +9527,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 589,
         "originalGerman": "Freilichtmuseum"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k32-v008",
@@ -9125,7 +9549,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 590,
         "originalGerman": "Fremdenführer"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k32-v009",
@@ -9146,7 +9571,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 591,
         "originalGerman": "Fresko"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k32-v010",
@@ -9167,7 +9593,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 592,
         "originalGerman": "Jahrhundert"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k32-v011",
@@ -9188,7 +9615,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 593,
         "originalGerman": "Kirche"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k32-v012",
@@ -9209,7 +9637,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 594,
         "originalGerman": "Mitarbeiter, Aufseher"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k32-v013",
@@ -9230,7 +9659,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 595,
         "originalGerman": "schaden"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k32-v014",
@@ -9251,7 +9681,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 596,
         "originalGerman": "schauen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k32-v015",
@@ -9272,7 +9703,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 597,
         "originalGerman": "schützen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k32-v016",
@@ -9293,7 +9725,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 598,
         "originalGerman": "verboten"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k32-v017",
@@ -9314,7 +9747,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 599,
         "originalGerman": "vorsichtig"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k32-v018",
@@ -9335,7 +9769,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 600,
         "originalGerman": "Wand"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k32-v019",
@@ -9356,7 +9791,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 601,
         "originalGerman": "Wandmalerei"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k32-v020",
@@ -9377,7 +9813,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 602,
         "originalGerman": "zuhören"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k33-v001",
@@ -9398,7 +9835,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 608,
         "originalGerman": "ausprobieren"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k33-v002",
@@ -9419,7 +9857,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 609,
         "originalGerman": "befeuchten"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k33-v003",
@@ -9440,7 +9879,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 610,
         "originalGerman": "brennen, kochen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k33-v004",
@@ -9461,7 +9901,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 611,
         "originalGerman": "drehen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k33-v005",
@@ -9482,7 +9923,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 612,
         "originalGerman": "drücken"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k33-v006",
@@ -9503,7 +9945,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 613,
         "originalGerman": "Form"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k33-v007",
@@ -9524,7 +9967,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 614,
         "originalGerman": "formen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k33-v008",
@@ -9545,7 +9989,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 615,
         "originalGerman": "handgemacht"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k33-v009",
@@ -9566,7 +10011,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 616,
         "originalGerman": "Krug"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k33-v010",
@@ -9587,7 +10033,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 617,
         "originalGerman": "Lehm, Schlamm"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k33-v011",
@@ -9608,7 +10055,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 618,
         "originalGerman": "örtlich, lokal"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k33-v012",
@@ -9629,7 +10077,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 619,
         "originalGerman": "Schale"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k33-v013",
@@ -9650,7 +10099,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 620,
         "originalGerman": "Teller"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k33-v014",
@@ -9671,7 +10121,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 621,
         "originalGerman": "Ton"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k33-v015",
@@ -9692,7 +10143,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 622,
         "originalGerman": "Tontopf"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k33-v016",
@@ -9713,7 +10165,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 623,
         "originalGerman": "Töpfer"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k33-v017",
@@ -9734,7 +10187,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 624,
         "originalGerman": "Töpferscheibe"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k33-v018",
@@ -9755,7 +10209,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 625,
         "originalGerman": "trocknen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k33-v019",
@@ -9776,7 +10231,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 626,
         "originalGerman": "Werk"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k33-v020",
@@ -9797,7 +10253,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 627,
         "originalGerman": "Werkstatt"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k34-v001",
@@ -9818,7 +10275,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 633,
         "originalGerman": "Bewirtung"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k34-v002",
@@ -9839,7 +10297,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 634,
         "originalGerman": "Danke, es war köstlich."
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k34-v003",
@@ -9860,7 +10319,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 635,
         "originalGerman": "Dorf"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k34-v004",
@@ -9881,7 +10341,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 636,
         "originalGerman": "Enkel"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k34-v005",
@@ -9902,7 +10363,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 637,
         "originalGerman": "Familie"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k34-v006",
@@ -9923,7 +10385,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 638,
         "originalGerman": "Garten"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k34-v007",
@@ -9944,7 +10407,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 639,
         "originalGerman": "Gast"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k34-v008",
@@ -9965,7 +10429,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 640,
         "originalGerman": "Gastgeber"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k34-v009",
@@ -9986,7 +10451,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 641,
         "originalGerman": "gedeckter Tisch"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k34-v010",
@@ -10007,7 +10473,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 642,
         "originalGerman": "Geschenk"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k34-v011",
@@ -10028,7 +10495,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 643,
         "originalGerman": "Großmutter"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k34-v012",
@@ -10049,7 +10517,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 644,
         "originalGerman": "Großvater"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k34-v013",
@@ -10070,7 +10539,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 645,
         "originalGerman": "hausgemacht"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k34-v014",
@@ -10091,7 +10561,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 646,
         "originalGerman": "Mutter"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k34-v015",
@@ -10112,7 +10583,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 647,
         "originalGerman": "Nachbar"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k34-v016",
@@ -10133,7 +10605,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 648,
         "originalGerman": "satt werden"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k34-v017",
@@ -10154,7 +10627,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 649,
         "originalGerman": "Sehr gern."
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k34-v018",
@@ -10175,7 +10649,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 650,
         "originalGerman": "Tür"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k34-v019",
@@ -10196,7 +10671,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 651,
         "originalGerman": "Vater"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k34-v020",
@@ -10217,7 +10693,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 652,
         "originalGerman": "wessen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k35-v001",
@@ -10238,7 +10715,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 658,
         "originalGerman": "deshalb"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k35-v002",
@@ -10259,7 +10737,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 659,
         "originalGerman": "Durst bekommen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k35-v003",
@@ -10280,7 +10759,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 660,
         "originalGerman": "eben"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k35-v004",
@@ -10301,7 +10781,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 661,
         "originalGerman": "häufig"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k35-v005",
@@ -10322,7 +10803,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 662,
         "originalGerman": "heiß"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k35-v006",
@@ -10343,7 +10825,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 663,
         "originalGerman": "Hilfe"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k35-v007",
@@ -10364,7 +10847,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 664,
         "originalGerman": "kühl"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k35-v008",
@@ -10385,7 +10869,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 665,
         "originalGerman": "müde werden"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k35-v009",
@@ -10406,7 +10891,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 666,
         "originalGerman": "Pfad"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k35-v010",
@@ -10427,7 +10913,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 667,
         "originalGerman": "Schatten"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k35-v011",
@@ -10448,7 +10935,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 668,
         "originalGerman": "sich ausruhen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k35-v012",
@@ -10469,7 +10957,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 669,
         "originalGerman": "sich verirren"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k35-v013",
@@ -10490,7 +10979,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 670,
         "originalGerman": "Sonne"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k35-v014",
@@ -10511,7 +11001,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 671,
         "originalGerman": "Steigung"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k35-v015",
@@ -10532,7 +11023,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 672,
         "originalGerman": "steil"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k35-v016",
@@ -10553,7 +11045,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 673,
         "originalGerman": "Wanderung"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k35-v017",
@@ -10574,7 +11067,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 674,
         "originalGerman": "Wanderweg"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k35-v018",
@@ -10595,7 +11089,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 675,
         "originalGerman": "weil"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k35-v019",
@@ -10616,7 +11111,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 676,
         "originalGerman": "Wind"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k35-v020",
@@ -10637,7 +11133,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 677,
         "originalGerman": "Wolke"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k36-v001",
@@ -10658,7 +11155,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 683,
         "originalGerman": "Abholbus, Zubringer"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k36-v002",
@@ -10679,7 +11177,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 684,
         "originalGerman": "absagen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k36-v003",
@@ -10700,7 +11199,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 685,
         "originalGerman": "aussteigen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k36-v004",
@@ -10721,7 +11221,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 686,
         "originalGerman": "Bedingung"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k36-v005",
@@ -10742,7 +11243,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 687,
         "originalGerman": "bereit"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k36-v006",
@@ -10763,7 +11265,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 688,
         "originalGerman": "Besatzung"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k36-v007",
@@ -10784,7 +11287,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 689,
         "originalGerman": "dunkel; Dunkelheit"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k36-v008",
@@ -10805,7 +11309,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 690,
         "originalGerman": "einsteigen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k36-v009",
@@ -10826,7 +11331,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 691,
         "originalGerman": "entscheiden"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k36-v010",
@@ -10847,7 +11353,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 692,
         "originalGerman": "geeignet"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k36-v011",
@@ -10868,7 +11375,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 693,
         "originalGerman": "kontrollieren"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k36-v012",
@@ -10889,7 +11397,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 694,
         "originalGerman": "kräftig, stark"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k36-v013",
@@ -10910,7 +11419,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 695,
         "originalGerman": "Pilot"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k36-v014",
@@ -10931,7 +11441,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 696,
         "originalGerman": "ruhig"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k36-v015",
@@ -10952,7 +11463,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 697,
         "originalGerman": "sicher"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k36-v016",
@@ -10973,7 +11485,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 698,
         "originalGerman": "Sonnenaufgang"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k36-v017",
@@ -10994,7 +11507,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 699,
         "originalGerman": "Stern"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k36-v018",
@@ -11015,7 +11529,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 700,
         "originalGerman": "warten"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k36-v019",
@@ -11036,7 +11551,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 701,
         "originalGerman": "wenn es geschieht"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k36-v020",
@@ -11057,7 +11573,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 702,
         "originalGerman": "wenn Sie möchten"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k36-v021",
@@ -11078,7 +11595,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 703,
         "originalGerman": "wenn, falls"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k36-v022",
@@ -11099,7 +11617,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 704,
         "originalGerman": "Wetterlage"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k37-v001",
@@ -11120,7 +11639,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 710,
         "originalGerman": "Aussicht"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k37-v002",
@@ -11141,7 +11661,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 711,
         "originalGerman": "bemerken"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k37-v003",
@@ -11162,7 +11683,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 712,
         "originalGerman": "Heißluftballon"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k37-v004",
@@ -11183,7 +11705,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 713,
         "originalGerman": "Himmel"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k37-v005",
@@ -11204,7 +11727,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 714,
         "originalGerman": "Höhe"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k37-v006",
@@ -11225,7 +11749,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 715,
         "originalGerman": "Horizont"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k37-v007",
@@ -11246,7 +11771,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 716,
         "originalGerman": "Korb"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k37-v008",
@@ -11267,7 +11793,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 717,
         "originalGerman": "oben"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k37-v009",
@@ -11288,7 +11815,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 718,
         "originalGerman": "schweben"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k37-v010",
@@ -11309,7 +11837,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 719,
         "originalGerman": "sich entfernen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k37-v011",
@@ -11330,7 +11859,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 720,
         "originalGerman": "sich lohnen; wert sein"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k37-v012",
@@ -11351,7 +11881,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 721,
         "originalGerman": "sich nähern"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k37-v013",
@@ -11372,7 +11903,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 722,
         "originalGerman": "sinken"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k37-v014",
@@ -11393,7 +11925,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 723,
         "originalGerman": "Sonnenaufgang"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k37-v015",
@@ -11414,7 +11947,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 724,
         "originalGerman": "steigen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k37-v016",
@@ -11435,7 +11969,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 725,
         "originalGerman": "still"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k37-v017",
@@ -11456,7 +11991,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 726,
         "originalGerman": "Tal"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k37-v018",
@@ -11477,7 +12013,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 727,
         "originalGerman": "überrascht sein"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k37-v019",
@@ -11498,7 +12035,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 728,
         "originalGerman": "unten"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k37-v020",
@@ -11519,7 +12057,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 729,
         "originalGerman": "unvergesslich"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k37-v021",
@@ -11540,7 +12079,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 730,
         "originalGerman": "von oben"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k37-v022",
@@ -11561,7 +12101,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 731,
         "originalGerman": "wie sich herausstellt"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k38-v001",
@@ -11582,7 +12123,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 737,
         "originalGerman": "Abschied"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k38-v002",
@@ -11603,7 +12145,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 738,
         "originalGerman": "Andenken"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k38-v003",
@@ -11624,7 +12167,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 739,
         "originalGerman": "danken"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k38-v004",
@@ -11645,7 +12189,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 740,
         "originalGerman": "Erinnerung, Moment"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k38-v005",
@@ -11666,7 +12211,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 741,
         "originalGerman": "erneut"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k38-v006",
@@ -11687,7 +12233,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 742,
         "originalGerman": "fortgehen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k38-v007",
@@ -11708,7 +12255,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 743,
         "originalGerman": "Foto"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k38-v008",
@@ -11729,7 +12277,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 744,
         "originalGerman": "Gastfreundschaft"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k38-v009",
@@ -11750,7 +12299,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 745,
         "originalGerman": "Geschenk"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k38-v010",
@@ -11771,7 +12321,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 746,
         "originalGerman": "gute Reise"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k38-v011",
@@ -11792,7 +12343,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 747,
         "originalGerman": "hoffentlich"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k38-v012",
@@ -11813,7 +12365,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 748,
         "originalGerman": "letzter Abend"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k38-v013",
@@ -11834,7 +12387,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 749,
         "originalGerman": "sich erinnern"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k38-v014",
@@ -11855,7 +12409,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 750,
         "originalGerman": "sich freuen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k38-v015",
@@ -11876,7 +12431,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 751,
         "originalGerman": "sich verabschieden"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k38-v016",
@@ -11897,7 +12453,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 752,
         "originalGerman": "unbedingt"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k38-v017",
@@ -11918,7 +12475,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 753,
         "originalGerman": "vergessen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k38-v018",
@@ -11939,7 +12497,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 754,
         "originalGerman": "vermissen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k38-v019",
@@ -11960,7 +12519,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 755,
         "originalGerman": "vielleicht"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k38-v020",
@@ -11981,7 +12541,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 756,
         "originalGerman": "wenn doch"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k38-v021",
@@ -12002,7 +12563,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 757,
         "originalGerman": "wieder"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k39-v001",
@@ -12023,7 +12585,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 763,
         "originalGerman": "Anfang"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k39-v002",
@@ -12044,7 +12607,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 764,
         "originalGerman": "entspannt"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k39-v003",
@@ -12065,7 +12629,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 765,
         "originalGerman": "erneut"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k39-v004",
@@ -12086,7 +12651,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 766,
         "originalGerman": "früher"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k39-v005",
@@ -12107,7 +12673,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 767,
         "originalGerman": "inzwischen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k39-v006",
@@ -12128,7 +12695,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 768,
         "originalGerman": "Rückkehr"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k39-v007",
@@ -12149,7 +12717,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 769,
         "originalGerman": "Rückreise"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k39-v008",
@@ -12170,7 +12739,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 770,
         "originalGerman": "seit"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k39-v009",
@@ -12191,7 +12761,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 771,
         "originalGerman": "seit drei Tagen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k39-v010",
@@ -12212,7 +12783,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 772,
         "originalGerman": "seit einer Woche"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k39-v011",
@@ -12233,7 +12805,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 773,
         "originalGerman": "seit ich gekommen bin"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k39-v012",
@@ -12254,7 +12827,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 774,
         "originalGerman": "seit wann?"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k39-v013",
@@ -12275,7 +12849,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 775,
         "originalGerman": "sich entwickeln"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k39-v014",
@@ -12296,7 +12871,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 776,
         "originalGerman": "sich selbst vertrauen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k39-v015",
@@ -12317,7 +12893,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 777,
         "originalGerman": "sich verändern"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k39-v016",
@@ -12338,7 +12915,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 778,
         "originalGerman": "Unterschied"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k39-v017",
@@ -12359,7 +12937,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 779,
         "originalGerman": "vertraut"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k39-v018",
@@ -12380,7 +12959,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 780,
         "originalGerman": "vorankommen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k39-v019",
@@ -12401,7 +12981,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 781,
         "originalGerman": "vorher"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k39-v020",
@@ -12422,7 +13003,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 782,
         "originalGerman": "zum ersten Mal"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k40-v001",
@@ -12443,7 +13025,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 788,
         "originalGerman": "am Anleger anlegen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k40-v002",
@@ -12464,7 +13047,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 789,
         "originalGerman": "Anleger"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k40-v003",
@@ -12485,7 +13069,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 790,
         "originalGerman": "belebt; Menschenmenge"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k40-v004",
@@ -12506,7 +13091,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 791,
         "originalGerman": "Büyükada"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k40-v005",
@@ -12527,7 +13113,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 792,
         "originalGerman": "direkt"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k40-v006",
@@ -12548,7 +13135,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 793,
         "originalGerman": "ein Fahrrad mieten"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k40-v007",
@@ -12569,7 +13157,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 794,
         "originalGerman": "Fähre"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k40-v008",
@@ -12590,7 +13179,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 795,
         "originalGerman": "Fahrrad"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k40-v009",
@@ -12611,7 +13201,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 796,
         "originalGerman": "Fahrt, Verbindung"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k40-v010",
@@ -12632,7 +13223,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 797,
         "originalGerman": "gehend, fahrend"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k40-v011",
@@ -12653,7 +13245,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 798,
         "originalGerman": "Insel"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k40-v012",
@@ -12674,7 +13267,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 799,
         "originalGerman": "Inselrundfahrt"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k40-v013",
@@ -12695,7 +13289,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 800,
         "originalGerman": "Kiefer"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k40-v014",
@@ -12716,7 +13311,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 801,
         "originalGerman": "kommend"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k40-v015",
@@ -12737,7 +13333,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 802,
         "originalGerman": "mit Meerblick"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k40-v016",
@@ -12758,7 +13355,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 803,
         "originalGerman": "sprechend"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k40-v017",
@@ -12779,7 +13377,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 804,
         "originalGerman": "Steigung"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k40-v018",
@@ -12800,7 +13399,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 805,
         "originalGerman": "Stille"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k40-v019",
@@ -12821,7 +13421,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 806,
         "originalGerman": "Ufer"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k40-v020",
@@ -12842,7 +13443,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 807,
         "originalGerman": "Villa, Herrenhaus"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k40-v021",
@@ -12863,7 +13465,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 808,
         "originalGerman": "voraussichtlich"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k40-v022",
@@ -12884,7 +13487,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 809,
         "originalGerman": "wartend"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v001",
@@ -12905,7 +13509,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 815,
         "originalGerman": "Allergie"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v002",
@@ -12926,7 +13531,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 816,
         "originalGerman": "anwenden"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v003",
@@ -12947,7 +13553,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 817,
         "originalGerman": "Apotheke"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v004",
@@ -12968,7 +13575,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 818,
         "originalGerman": "Apotheker"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v005",
@@ -12989,7 +13597,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 819,
         "originalGerman": "aufmerksam"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v006",
@@ -13010,7 +13619,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 820,
         "originalGerman": "Bauch"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v007",
@@ -13031,7 +13641,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 821,
         "originalGerman": "Beschwerde"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v008",
@@ -13052,7 +13663,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 822,
         "originalGerman": "Fieber"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v009",
@@ -13073,7 +13685,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 823,
         "originalGerman": "Hals"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v010",
@@ -13094,7 +13707,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 824,
         "originalGerman": "husten"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v011",
@@ -13115,7 +13729,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 825,
         "originalGerman": "Kopf"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v012",
@@ -13136,7 +13751,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 826,
         "originalGerman": "Mal"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v013",
@@ -13157,7 +13773,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 827,
         "originalGerman": "Medikament"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v014",
@@ -13178,7 +13795,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 828,
         "originalGerman": "nach dem Essen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v015",
@@ -13199,7 +13817,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 829,
         "originalGerman": "pro Tag"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v016",
@@ -13220,7 +13839,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 830,
         "originalGerman": "Rücken"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v017",
@@ -13241,7 +13861,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 831,
         "originalGerman": "schmerzen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v018",
@@ -13262,7 +13883,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 832,
         "originalGerman": "seit gestern"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v019",
@@ -13283,7 +13905,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 833,
         "originalGerman": "Sirup"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v020",
@@ -13304,7 +13927,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 834,
         "originalGerman": "Tablette"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v021",
@@ -13325,7 +13949,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 835,
         "originalGerman": "vergehen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v022",
@@ -13346,7 +13971,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 836,
         "originalGerman": "vor dem Essen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v023",
@@ -13367,7 +13993,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 837,
         "originalGerman": "Zahn"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k41-v024",
@@ -13388,7 +14015,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 838,
         "originalGerman": "zum Arzt gehen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k42-v001",
@@ -13409,7 +14037,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 844,
         "originalGerman": "Auswahl"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k42-v002",
@@ -13430,7 +14059,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 845,
         "originalGerman": "das ist alles"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k42-v003",
@@ -13451,7 +14081,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 846,
         "originalGerman": "Ehepartner"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k42-v004",
@@ -13472,7 +14103,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 847,
         "originalGerman": "einpacken"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k42-v005",
@@ -13493,7 +14125,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 848,
         "originalGerman": "empfehlen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k42-v006",
@@ -13514,7 +14147,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 849,
         "originalGerman": "Empfehlung"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k42-v007",
@@ -13535,7 +14169,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 850,
         "originalGerman": "Erinnerung, Andenken"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k42-v008",
@@ -13556,7 +14191,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 851,
         "originalGerman": "Familie"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k42-v009",
@@ -13577,7 +14213,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 852,
         "originalGerman": "Freund"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k42-v010",
@@ -13598,7 +14235,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 853,
         "originalGerman": "für; um zu"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k42-v011",
@@ -13619,7 +14257,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 854,
         "originalGerman": "Geschenk"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k42-v012",
@@ -13640,7 +14279,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 855,
         "originalGerman": "getrennt, einzeln"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k42-v013",
@@ -13661,7 +14301,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 856,
         "originalGerman": "Gewürz"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k42-v014",
@@ -13682,7 +14323,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 857,
         "originalGerman": "glasierte Keramik"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k42-v015",
@@ -13703,7 +14345,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 858,
         "originalGerman": "handgemacht"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k42-v016",
@@ -13724,7 +14367,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 859,
         "originalGerman": "Muster"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k42-v017",
@@ -13745,7 +14389,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 860,
         "originalGerman": "noch etwas anderes"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k42-v018",
@@ -13766,7 +14411,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 861,
         "originalGerman": "passend"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k42-v019",
@@ -13787,7 +14433,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 862,
         "originalGerman": "Schale"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k42-v020",
@@ -13808,7 +14455,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 863,
         "originalGerman": "sich entscheiden"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k42-v021",
@@ -13829,7 +14477,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 864,
         "originalGerman": "sich erinnern"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k42-v022",
@@ -13850,7 +14499,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 865,
         "originalGerman": "Tulpe"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k42-v023",
@@ -13871,7 +14521,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 866,
         "originalGerman": "zerbrechlich"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k43-v001",
@@ -13892,7 +14543,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 872,
         "originalGerman": "anstrengend"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k43-v002",
@@ -13913,7 +14565,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 873,
         "originalGerman": "beschreiben"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k43-v003",
@@ -13934,7 +14587,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 874,
         "originalGerman": "deiner Meinung nach"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k43-v004",
@@ -13955,7 +14609,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 875,
         "originalGerman": "echt, wirklich"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k43-v005",
@@ -13976,7 +14631,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 876,
         "originalGerman": "eigentlich"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k43-v006",
@@ -13997,7 +14653,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 877,
         "originalGerman": "fehlerfrei"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k43-v007",
@@ -14018,7 +14675,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 878,
         "originalGerman": "fortsetzen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k43-v008",
@@ -14039,7 +14697,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 879,
         "originalGerman": "Ihrer Meinung nach"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k43-v009",
@@ -14060,7 +14719,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 880,
         "originalGerman": "im Recht"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k43-v010",
@@ -14081,7 +14741,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 881,
         "originalGerman": "in gewisser Weise"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k43-v011",
@@ -14102,7 +14763,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 882,
         "originalGerman": "lebendig"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k43-v012",
@@ -14123,7 +14785,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 883,
         "originalGerman": "meiner Ansicht nach"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k43-v013",
@@ -14144,7 +14807,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 884,
         "originalGerman": "meiner Meinung nach"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k43-v014",
@@ -14165,7 +14829,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 885,
         "originalGerman": "Meinung, Idee"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k43-v015",
@@ -14186,7 +14851,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 886,
         "originalGerman": "neugierig sein"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k43-v016",
@@ -14207,7 +14873,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 887,
         "originalGerman": "ruhig"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k43-v017",
@@ -14228,7 +14895,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 888,
         "originalGerman": "sich verändern"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k43-v018",
@@ -14249,7 +14917,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 889,
         "originalGerman": "teilweise"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k43-v019",
@@ -14270,7 +14939,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 890,
         "originalGerman": "vielleicht"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k43-v020",
@@ -14291,7 +14961,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 891,
         "originalGerman": "Wort"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k43-v021",
@@ -14312,7 +14983,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 892,
         "originalGerman": "zustimmen; teilnehmen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k44-v001",
@@ -14333,7 +15005,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 898,
         "originalGerman": "bemerken"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k44-v002",
@@ -14354,7 +15027,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 899,
         "originalGerman": "bis zum Wiedersehen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k44-v003",
@@ -14375,7 +15049,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 900,
         "originalGerman": "fortführen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k44-v004",
@@ -14396,7 +15071,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 901,
         "originalGerman": "Gewohnheit"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k44-v005",
@@ -14417,7 +15093,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 902,
         "originalGerman": "gewöhnlich"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k44-v006",
@@ -14438,7 +15115,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 903,
         "originalGerman": "häufig"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k44-v007",
@@ -14459,7 +15137,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 904,
         "originalGerman": "ich komme gewöhnlich/wieder"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k44-v008",
@@ -14480,7 +15159,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 905,
         "originalGerman": "ich lese gewöhnlich"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k44-v009",
@@ -14501,7 +15181,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 906,
         "originalGerman": "ich mache gewöhnlich"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k44-v010",
@@ -14522,7 +15203,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 907,
         "originalGerman": "ich mag"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k44-v011",
@@ -14543,7 +15225,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 908,
         "originalGerman": "ich trinke gewöhnlich"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k44-v012",
@@ -14564,7 +15247,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 909,
         "originalGerman": "ich vergesse nicht"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k44-v013",
@@ -14585,7 +15269,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 910,
         "originalGerman": "immer"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k44-v014",
@@ -14606,7 +15291,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 911,
         "originalGerman": "manchmal"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k44-v015",
@@ -14627,7 +15313,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 912,
         "originalGerman": "mitnehmen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k44-v016",
@@ -14648,7 +15335,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 913,
         "originalGerman": "möge Ihr Weg offen sein"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k44-v017",
@@ -14669,7 +15357,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 914,
         "originalGerman": "Mut"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k44-v018",
@@ -14690,7 +15379,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 915,
         "originalGerman": "noch, bislang"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k44-v019",
@@ -14711,7 +15401,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 916,
         "originalGerman": "nun, inzwischen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k44-v020",
@@ -14732,7 +15423,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 917,
         "originalGerman": "selten"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k44-v021",
@@ -14753,7 +15445,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 918,
         "originalGerman": "versprechen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k44-v022",
@@ -14774,7 +15467,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 919,
         "originalGerman": "zurücklassen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v001",
@@ -14795,7 +15489,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 925,
         "originalGerman": "Antwort"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v002",
@@ -14816,7 +15511,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 926,
         "originalGerman": "antworten"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v003",
@@ -14837,7 +15533,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 927,
         "originalGerman": "Aufgabe"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v004",
@@ -14858,7 +15555,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 928,
         "originalGerman": "ausreichend"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v005",
@@ -14879,7 +15577,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 929,
         "originalGerman": "Bedeutung"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v006",
@@ -14900,7 +15599,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 930,
         "originalGerman": "begegnen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v007",
@@ -14921,7 +15621,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 931,
         "originalGerman": "danken"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v008",
@@ -14942,7 +15643,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 932,
         "originalGerman": "dazugehören"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v009",
@@ -14963,7 +15665,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 933,
         "originalGerman": "erinnern"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v010",
@@ -14984,7 +15687,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 934,
         "originalGerman": "Fremder"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v011",
@@ -15005,7 +15709,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 935,
         "originalGerman": "leise"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v012",
@@ -15026,7 +15731,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 936,
         "originalGerman": "Reisender"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v013",
@@ -15047,7 +15753,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 937,
         "originalGerman": "Schlüssel"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v014",
@@ -15068,7 +15775,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 938,
         "originalGerman": "sich erinnern"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v015",
@@ -15089,7 +15797,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 939,
         "originalGerman": "sich spiegeln"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v016",
@@ -15110,7 +15819,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 940,
         "originalGerman": "sich trauen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v017",
@@ -15131,7 +15841,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 941,
         "originalGerman": "Stimme, Laut"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v018",
@@ -15152,7 +15863,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 942,
         "originalGerman": "tragen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v019",
@@ -15173,7 +15885,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 943,
         "originalGerman": "übersetzen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v020",
@@ -15194,7 +15907,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 944,
         "originalGerman": "Ufer"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v021",
@@ -15215,7 +15929,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 945,
         "originalGerman": "unsichtbar"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v022",
@@ -15236,7 +15951,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 946,
         "originalGerman": "Veränderung"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v023",
@@ -15257,7 +15973,8 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 947,
         "originalGerman": "verloren gehen"
-      }
+      },
+      "sourceType": "chapter"
     },
     {
       "id": "k45-v024",
@@ -15278,7 +15995,5565 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 948,
         "originalGerman": "zu sich selbst"
+      },
+      "sourceType": "chapter"
+    },
+    {
+      "id": "thema-tiere-001",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Affe"
+      ],
+      "turkish": "maymun",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 7,
+        "originalGerman": "Affe"
       }
+    },
+    {
+      "id": "thema-tiere-002",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Bär"
+      ],
+      "turkish": "ayı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 8,
+        "originalGerman": "Bär"
+      }
+    },
+    {
+      "id": "thema-tiere-003",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Biene"
+      ],
+      "turkish": "arı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 9,
+        "originalGerman": "Biene"
+      }
+    },
+    {
+      "id": "thema-tiere-004",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Esel"
+      ],
+      "turkish": "eşek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 10,
+        "originalGerman": "Esel"
+      }
+    },
+    {
+      "id": "thema-tiere-005",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Fisch"
+      ],
+      "turkish": "balık",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 11,
+        "originalGerman": "Fisch"
+      }
+    },
+    {
+      "id": "thema-tiere-006",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Fliege"
+      ],
+      "turkish": "sinek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 12,
+        "originalGerman": "Fliege"
+      }
+    },
+    {
+      "id": "thema-tiere-007",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Frosch"
+      ],
+      "turkish": "kurbağa",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 13,
+        "originalGerman": "Frosch"
+      }
+    },
+    {
+      "id": "thema-tiere-008",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Hase"
+      ],
+      "turkish": "tavşan",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 14,
+        "originalGerman": "Hase"
+      }
+    },
+    {
+      "id": "thema-tiere-009",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Huhn"
+      ],
+      "turkish": "tavuk",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 15,
+        "originalGerman": "Huhn"
+      }
+    },
+    {
+      "id": "thema-tiere-010",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Hund"
+      ],
+      "turkish": "köpek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 16,
+        "originalGerman": "Hund"
+      }
+    },
+    {
+      "id": "thema-tiere-011",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Katze"
+      ],
+      "turkish": "kedi",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 17,
+        "originalGerman": "Katze"
+      }
+    },
+    {
+      "id": "thema-tiere-012",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Kuh"
+      ],
+      "turkish": "inek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 18,
+        "originalGerman": "Kuh"
+      }
+    },
+    {
+      "id": "thema-tiere-013",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Löwe"
+      ],
+      "turkish": "aslan",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 19,
+        "originalGerman": "Löwe"
+      }
+    },
+    {
+      "id": "thema-tiere-014",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Maus"
+      ],
+      "turkish": "fare",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 20,
+        "originalGerman": "Maus"
+      }
+    },
+    {
+      "id": "thema-tiere-015",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Mücke"
+      ],
+      "turkish": "sivrisinek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 21,
+        "originalGerman": "Mücke"
+      }
+    },
+    {
+      "id": "thema-tiere-016",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Pferd"
+      ],
+      "turkish": "at",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 22,
+        "originalGerman": "Pferd"
+      }
+    },
+    {
+      "id": "thema-tiere-017",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Schaf"
+      ],
+      "turkish": "koyun",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 23,
+        "originalGerman": "Schaf"
+      }
+    },
+    {
+      "id": "thema-tiere-018",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Schildkröte"
+      ],
+      "turkish": "kaplumbağa",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 24,
+        "originalGerman": "Schildkröte"
+      }
+    },
+    {
+      "id": "thema-tiere-019",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Schlange"
+      ],
+      "turkish": "yılan",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 25,
+        "originalGerman": "Schlange"
+      }
+    },
+    {
+      "id": "thema-tiere-020",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Schmetterling"
+      ],
+      "turkish": "kelebek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 26,
+        "originalGerman": "Schmetterling"
+      }
+    },
+    {
+      "id": "thema-tiere-021",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Schwein"
+      ],
+      "turkish": "domuz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 27,
+        "originalGerman": "Schwein"
+      }
+    },
+    {
+      "id": "thema-tiere-022",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Spinne"
+      ],
+      "turkish": "örümcek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 28,
+        "originalGerman": "Spinne"
+      }
+    },
+    {
+      "id": "thema-tiere-023",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Vogel"
+      ],
+      "turkish": "kuş",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 29,
+        "originalGerman": "Vogel"
+      }
+    },
+    {
+      "id": "thema-tiere-024",
+      "sourceType": "topic",
+      "topicId": "tiere",
+      "topicTitle": "Tiere",
+      "german": [
+        "Ziege"
+      ],
+      "turkish": "keçi",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Tiere",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 30,
+        "originalGerman": "Ziege"
+      }
+    },
+    {
+      "id": "thema-kleidung-001",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Anzug"
+      ],
+      "turkish": "takım elbise",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 36,
+        "originalGerman": "Anzug"
+      }
+    },
+    {
+      "id": "thema-kleidung-002",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Bluse"
+      ],
+      "turkish": "bluz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 37,
+        "originalGerman": "Bluse"
+      }
+    },
+    {
+      "id": "thema-kleidung-003",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Gürtel"
+      ],
+      "turkish": "kemer",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 38,
+        "originalGerman": "Gürtel"
+      }
+    },
+    {
+      "id": "thema-kleidung-004",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Handschuh"
+      ],
+      "turkish": "eldiven",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 39,
+        "originalGerman": "Handschuh"
+      }
+    },
+    {
+      "id": "thema-kleidung-005",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Hemd"
+      ],
+      "turkish": "gömlek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 40,
+        "originalGerman": "Hemd"
+      }
+    },
+    {
+      "id": "thema-kleidung-006",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Hose"
+      ],
+      "turkish": "pantolon",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 41,
+        "originalGerman": "Hose"
+      }
+    },
+    {
+      "id": "thema-kleidung-007",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Jacke"
+      ],
+      "turkish": "ceket",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 42,
+        "originalGerman": "Jacke"
+      }
+    },
+    {
+      "id": "thema-kleidung-008",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Kleid"
+      ],
+      "turkish": "elbise",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 43,
+        "originalGerman": "Kleid"
+      }
+    },
+    {
+      "id": "thema-kleidung-009",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Krawatte"
+      ],
+      "turkish": "kravat",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 44,
+        "originalGerman": "Krawatte"
+      }
+    },
+    {
+      "id": "thema-kleidung-010",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Mantel"
+      ],
+      "turkish": "palto",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 45,
+        "originalGerman": "Mantel"
+      }
+    },
+    {
+      "id": "thema-kleidung-011",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Mütze"
+      ],
+      "turkish": "bere",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 46,
+        "originalGerman": "Mütze"
+      }
+    },
+    {
+      "id": "thema-kleidung-012",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Pullover"
+      ],
+      "turkish": "kazak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 47,
+        "originalGerman": "Pullover"
+      }
+    },
+    {
+      "id": "thema-kleidung-013",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Rock"
+      ],
+      "turkish": "etek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 48,
+        "originalGerman": "Rock"
+      }
+    },
+    {
+      "id": "thema-kleidung-014",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Sandale"
+      ],
+      "turkish": "sandalet",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 49,
+        "originalGerman": "Sandale"
+      }
+    },
+    {
+      "id": "thema-kleidung-015",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Schal"
+      ],
+      "turkish": "atkı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 50,
+        "originalGerman": "Schal"
+      }
+    },
+    {
+      "id": "thema-kleidung-016",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Schlafanzug"
+      ],
+      "turkish": "pijama",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 51,
+        "originalGerman": "Schlafanzug"
+      }
+    },
+    {
+      "id": "thema-kleidung-017",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Schuh"
+      ],
+      "turkish": "ayakkabı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 52,
+        "originalGerman": "Schuh"
+      }
+    },
+    {
+      "id": "thema-kleidung-018",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Socke"
+      ],
+      "turkish": "çorap",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 53,
+        "originalGerman": "Socke"
+      }
+    },
+    {
+      "id": "thema-kleidung-019",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Stiefel"
+      ],
+      "turkish": "çizme",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 54,
+        "originalGerman": "Stiefel"
+      }
+    },
+    {
+      "id": "thema-kleidung-020",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "T-Shirt"
+      ],
+      "turkish": "tişört",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 55,
+        "originalGerman": "T-Shirt"
+      }
+    },
+    {
+      "id": "thema-kleidung-021",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Tasche"
+      ],
+      "turkish": "çanta",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 56,
+        "originalGerman": "Tasche"
+      }
+    },
+    {
+      "id": "thema-kleidung-022",
+      "sourceType": "topic",
+      "topicId": "kleidung",
+      "topicTitle": "Kleidung",
+      "german": [
+        "Unterwäsche"
+      ],
+      "turkish": "iç çamaşırı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Kleidung",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 57,
+        "originalGerman": "Unterwäsche"
+      }
+    },
+    {
+      "id": "thema-farben-001",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "beige"
+      ],
+      "turkish": "bej",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 63,
+        "originalGerman": "beige"
+      }
+    },
+    {
+      "id": "thema-farben-002",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "blau"
+      ],
+      "turkish": "mavi",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 64,
+        "originalGerman": "blau"
+      }
+    },
+    {
+      "id": "thema-farben-003",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "braun"
+      ],
+      "turkish": "kahverengi",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 65,
+        "originalGerman": "braun"
+      }
+    },
+    {
+      "id": "thema-farben-004",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "bunt"
+      ],
+      "turkish": "renkli",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 66,
+        "originalGerman": "bunt"
+      }
+    },
+    {
+      "id": "thema-farben-005",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "gelb"
+      ],
+      "turkish": "sarı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 67,
+        "originalGerman": "gelb"
+      }
+    },
+    {
+      "id": "thema-farben-006",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "grau"
+      ],
+      "turkish": "gri",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 68,
+        "originalGerman": "grau"
+      }
+    },
+    {
+      "id": "thema-farben-007",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "grün"
+      ],
+      "turkish": "yeşil",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 69,
+        "originalGerman": "grün"
+      }
+    },
+    {
+      "id": "thema-farben-008",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "lila"
+      ],
+      "turkish": "mor",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 70,
+        "originalGerman": "lila"
+      }
+    },
+    {
+      "id": "thema-farben-009",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "orange"
+      ],
+      "turkish": "turuncu",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 71,
+        "originalGerman": "orange"
+      }
+    },
+    {
+      "id": "thema-farben-010",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "rosa"
+      ],
+      "turkish": "pembe",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 72,
+        "originalGerman": "rosa"
+      }
+    },
+    {
+      "id": "thema-farben-011",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "rot"
+      ],
+      "turkish": "kırmızı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 73,
+        "originalGerman": "rot"
+      }
+    },
+    {
+      "id": "thema-farben-012",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "schwarz"
+      ],
+      "turkish": "siyah",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 74,
+        "originalGerman": "schwarz"
+      }
+    },
+    {
+      "id": "thema-farben-013",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "türkis"
+      ],
+      "turkish": "turkuaz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 75,
+        "originalGerman": "türkis"
+      }
+    },
+    {
+      "id": "thema-farben-014",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "weiß"
+      ],
+      "turkish": "beyaz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 76,
+        "originalGerman": "weiß"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-001",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Arm"
+      ],
+      "turkish": "kol",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 82,
+        "originalGerman": "Arm"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-002",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Auge"
+      ],
+      "turkish": "göz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 83,
+        "originalGerman": "Auge"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-003",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Bauch"
+      ],
+      "turkish": "karın",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 84,
+        "originalGerman": "Bauch"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-004",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Bein"
+      ],
+      "turkish": "bacak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 85,
+        "originalGerman": "Bein"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-005",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Brust"
+      ],
+      "turkish": "göğüs",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 86,
+        "originalGerman": "Brust"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-006",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Daumen"
+      ],
+      "turkish": "başparmak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 87,
+        "originalGerman": "Daumen"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-007",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Finger"
+      ],
+      "turkish": "parmak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 88,
+        "originalGerman": "Finger"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-008",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Fuß"
+      ],
+      "turkish": "ayak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 89,
+        "originalGerman": "Fuß"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-009",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Gehirn"
+      ],
+      "turkish": "beyin",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 90,
+        "originalGerman": "Gehirn"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-010",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Gesicht"
+      ],
+      "turkish": "yüz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 91,
+        "originalGerman": "Gesicht"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-011",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Hals"
+      ],
+      "turkish": "boyun",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 92,
+        "originalGerman": "Hals"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-012",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Hand"
+      ],
+      "turkish": "el",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 93,
+        "originalGerman": "Hand"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-013",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Haut"
+      ],
+      "turkish": "cilt",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 94,
+        "originalGerman": "Haut"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-014",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Herz"
+      ],
+      "turkish": "kalp",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 95,
+        "originalGerman": "Herz"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-015",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Knie"
+      ],
+      "turkish": "diz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 96,
+        "originalGerman": "Knie"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-016",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Knochen"
+      ],
+      "turkish": "kemik",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 97,
+        "originalGerman": "Knochen"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-017",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Kopf"
+      ],
+      "turkish": "baş",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 98,
+        "originalGerman": "Kopf"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-018",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Körper"
+      ],
+      "turkish": "vücut",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 99,
+        "originalGerman": "Körper"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-019",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Leber"
+      ],
+      "turkish": "karaciğer",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 100,
+        "originalGerman": "Leber"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-020",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Lippe"
+      ],
+      "turkish": "dudak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 101,
+        "originalGerman": "Lippe"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-021",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Lunge"
+      ],
+      "turkish": "akciğer",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 102,
+        "originalGerman": "Lunge"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-022",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Magen"
+      ],
+      "turkish": "mide",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 103,
+        "originalGerman": "Magen"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-023",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Mund"
+      ],
+      "turkish": "ağız",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 104,
+        "originalGerman": "Mund"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-024",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Muskel"
+      ],
+      "turkish": "kas",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 105,
+        "originalGerman": "Muskel"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-025",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Nase"
+      ],
+      "turkish": "burun",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 106,
+        "originalGerman": "Nase"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-026",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Ohr"
+      ],
+      "turkish": "kulak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 107,
+        "originalGerman": "Ohr"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-027",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Rücken"
+      ],
+      "turkish": "sırt",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 108,
+        "originalGerman": "Rücken"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-028",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Schulter"
+      ],
+      "turkish": "omuz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 109,
+        "originalGerman": "Schulter"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-029",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Stirn"
+      ],
+      "turkish": "alın",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 110,
+        "originalGerman": "Stirn"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-030",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Zahn"
+      ],
+      "turkish": "diş",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 111,
+        "originalGerman": "Zahn"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-031",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Zeh"
+      ],
+      "turkish": "ayak parmağı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 112,
+        "originalGerman": "Zeh"
+      }
+    },
+    {
+      "id": "thema-anatomie-koerperteile-032",
+      "sourceType": "topic",
+      "topicId": "anatomie-koerperteile",
+      "topicTitle": "Anatomie und Körperteile",
+      "german": [
+        "Zunge"
+      ],
+      "turkish": "dil",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Anatomie und Körperteile",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 113,
+        "originalGerman": "Zunge"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-001",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Auto"
+      ],
+      "turkish": "araba",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 119,
+        "originalGerman": "Auto"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-002",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Bus"
+      ],
+      "turkish": "otobüs",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 120,
+        "originalGerman": "Bus"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-003",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Fähre"
+      ],
+      "turkish": "vapur",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 121,
+        "originalGerman": "Fähre"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-004",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Fahrrad"
+      ],
+      "turkish": "bisiklet",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 122,
+        "originalGerman": "Fahrrad"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-005",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Flugzeug"
+      ],
+      "turkish": "uçak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 123,
+        "originalGerman": "Flugzeug"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-006",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Lastwagen"
+      ],
+      "turkish": "kamyon",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 124,
+        "originalGerman": "Lastwagen"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-007",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Metro"
+      ],
+      "turkish": "metro",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 125,
+        "originalGerman": "Metro"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-008",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Motorrad"
+      ],
+      "turkish": "motosiklet",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 126,
+        "originalGerman": "Motorrad"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-009",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Schiff"
+      ],
+      "turkish": "gemi",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 127,
+        "originalGerman": "Schiff"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-010",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Straßenbahn"
+      ],
+      "turkish": "tramvay",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 128,
+        "originalGerman": "Straßenbahn"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-011",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Taxi"
+      ],
+      "turkish": "taksi",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 129,
+        "originalGerman": "Taxi"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-012",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "U-Bahn"
+      ],
+      "turkish": "metro",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 130,
+        "originalGerman": "U-Bahn"
+      }
+    },
+    {
+      "id": "thema-verkehrsmittel-013",
+      "sourceType": "topic",
+      "topicId": "verkehrsmittel",
+      "topicTitle": "Verkehrsmittel",
+      "german": [
+        "Zug"
+      ],
+      "turkish": "tren",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Verkehrsmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 131,
+        "originalGerman": "Zug"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-001",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Ananas"
+      ],
+      "turkish": "ananas",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 137,
+        "originalGerman": "Ananas"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-002",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Apfel"
+      ],
+      "turkish": "elma",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 138,
+        "originalGerman": "Apfel"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-003",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Aprikose"
+      ],
+      "turkish": "kayısı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 139,
+        "originalGerman": "Aprikose"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-004",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Aubergine"
+      ],
+      "turkish": "patlıcan",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 140,
+        "originalGerman": "Aubergine"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-005",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Banane"
+      ],
+      "turkish": "muz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 141,
+        "originalGerman": "Banane"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-006",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Birne"
+      ],
+      "turkish": "armut",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 142,
+        "originalGerman": "Birne"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-007",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Blumenkohl"
+      ],
+      "turkish": "karnabahar",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 143,
+        "originalGerman": "Blumenkohl"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-008",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Bohne"
+      ],
+      "turkish": "fasulye",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 144,
+        "originalGerman": "Bohne"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-009",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Brokkoli"
+      ],
+      "turkish": "brokoli",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 145,
+        "originalGerman": "Brokkoli"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-010",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Erdbeere"
+      ],
+      "turkish": "çilek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 146,
+        "originalGerman": "Erdbeere"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-011",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Erbse"
+      ],
+      "turkish": "bezelye",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 147,
+        "originalGerman": "Erbse"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-012",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Feige"
+      ],
+      "turkish": "incir",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 148,
+        "originalGerman": "Feige"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-013",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Gurke"
+      ],
+      "turkish": "salatalık",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 149,
+        "originalGerman": "Gurke"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-014",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Kartoffel"
+      ],
+      "turkish": "patates",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 150,
+        "originalGerman": "Kartoffel"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-015",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Kirsche"
+      ],
+      "turkish": "kiraz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 151,
+        "originalGerman": "Kirsche"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-016",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Knoblauch"
+      ],
+      "turkish": "sarımsak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 152,
+        "originalGerman": "Knoblauch"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-017",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Kohl"
+      ],
+      "turkish": "lahana",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 153,
+        "originalGerman": "Kohl"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-018",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Kürbis"
+      ],
+      "turkish": "kabak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 154,
+        "originalGerman": "Kürbis"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-019",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Mandarine"
+      ],
+      "turkish": "mandalina",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 155,
+        "originalGerman": "Mandarine"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-020",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Melone"
+      ],
+      "turkish": "kavun",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 156,
+        "originalGerman": "Melone"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-021",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Möhre"
+      ],
+      "turkish": "havuç",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 157,
+        "originalGerman": "Möhre"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-022",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Orange"
+      ],
+      "turkish": "portakal",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 158,
+        "originalGerman": "Orange"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-023",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Paprika"
+      ],
+      "turkish": "biber",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 159,
+        "originalGerman": "Paprika"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-024",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Pfirsich"
+      ],
+      "turkish": "şeftali",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 160,
+        "originalGerman": "Pfirsich"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-025",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Pflaume"
+      ],
+      "turkish": "erik",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 161,
+        "originalGerman": "Pflaume"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-026",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Pilz"
+      ],
+      "turkish": "mantar",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 162,
+        "originalGerman": "Pilz"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-027",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Salat"
+      ],
+      "turkish": "marul",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 163,
+        "originalGerman": "Salat"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-028",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Spinat"
+      ],
+      "turkish": "ıspanak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 164,
+        "originalGerman": "Spinat"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-029",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Tomate"
+      ],
+      "turkish": "domates",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 165,
+        "originalGerman": "Tomate"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-030",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Traube"
+      ],
+      "turkish": "üzüm",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 166,
+        "originalGerman": "Traube"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-031",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Wassermelone"
+      ],
+      "turkish": "karpuz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 167,
+        "originalGerman": "Wassermelone"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-032",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Zitrone"
+      ],
+      "turkish": "limon",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 168,
+        "originalGerman": "Zitrone"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-033",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Zucchini"
+      ],
+      "turkish": "kabak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 169,
+        "originalGerman": "Zucchini"
+      }
+    },
+    {
+      "id": "thema-obst-gemuese-034",
+      "sourceType": "topic",
+      "topicId": "obst-gemuese",
+      "topicTitle": "Obst und Gemüse",
+      "german": [
+        "Zwiebel"
+      ],
+      "turkish": "soğan",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Obst und Gemüse",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 170,
+        "originalGerman": "Zwiebel"
+      }
+    },
+    {
+      "id": "thema-geschaefte-001",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Apotheke"
+      ],
+      "turkish": "eczane",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 176,
+        "originalGerman": "Apotheke"
+      }
+    },
+    {
+      "id": "thema-geschaefte-002",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Bäckerei"
+      ],
+      "turkish": "fırın",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 177,
+        "originalGerman": "Bäckerei"
+      }
+    },
+    {
+      "id": "thema-geschaefte-003",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Bank"
+      ],
+      "turkish": "banka",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 178,
+        "originalGerman": "Bank"
+      }
+    },
+    {
+      "id": "thema-geschaefte-004",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Buchhandlung"
+      ],
+      "turkish": "kitapçı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 179,
+        "originalGerman": "Buchhandlung"
+      }
+    },
+    {
+      "id": "thema-geschaefte-005",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Einkaufszentrum"
+      ],
+      "turkish": "alışveriş merkezi",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 180,
+        "originalGerman": "Einkaufszentrum"
+      }
+    },
+    {
+      "id": "thema-geschaefte-006",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Fischgeschäft"
+      ],
+      "turkish": "balıkçı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 181,
+        "originalGerman": "Fischgeschäft"
+      }
+    },
+    {
+      "id": "thema-geschaefte-007",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Fleischerei"
+      ],
+      "turkish": "kasap",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 182,
+        "originalGerman": "Fleischerei"
+      }
+    },
+    {
+      "id": "thema-geschaefte-008",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Friseur"
+      ],
+      "turkish": "kuaför",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 183,
+        "originalGerman": "Friseur"
+      }
+    },
+    {
+      "id": "thema-geschaefte-009",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Gemüsehändler"
+      ],
+      "turkish": "manav",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 184,
+        "originalGerman": "Gemüsehändler"
+      }
+    },
+    {
+      "id": "thema-geschaefte-010",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Juwelier"
+      ],
+      "turkish": "kuyumcu",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 185,
+        "originalGerman": "Juwelier"
+      }
+    },
+    {
+      "id": "thema-geschaefte-011",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Kiosk"
+      ],
+      "turkish": "büfe",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 186,
+        "originalGerman": "Kiosk"
+      }
+    },
+    {
+      "id": "thema-geschaefte-012",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Konditorei"
+      ],
+      "turkish": "pastane",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 187,
+        "originalGerman": "Konditorei"
+      }
+    },
+    {
+      "id": "thema-geschaefte-013",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Markt"
+      ],
+      "turkish": "pazar",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 188,
+        "originalGerman": "Markt"
+      }
+    },
+    {
+      "id": "thema-geschaefte-014",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Möbelgeschäft"
+      ],
+      "turkish": "mobilya mağazası",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 189,
+        "originalGerman": "Möbelgeschäft"
+      }
+    },
+    {
+      "id": "thema-geschaefte-015",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Schreibwarengeschäft"
+      ],
+      "turkish": "kırtasiye",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 190,
+        "originalGerman": "Schreibwarengeschäft"
+      }
+    },
+    {
+      "id": "thema-geschaefte-016",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Schuhgeschäft"
+      ],
+      "turkish": "ayakkabı mağazası",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 191,
+        "originalGerman": "Schuhgeschäft"
+      }
+    },
+    {
+      "id": "thema-geschaefte-017",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Supermarkt"
+      ],
+      "turkish": "süpermarket",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 192,
+        "originalGerman": "Supermarkt"
+      }
+    },
+    {
+      "id": "thema-geschaefte-018",
+      "sourceType": "topic",
+      "topicId": "geschaefte",
+      "topicTitle": "Geschäfte",
+      "german": [
+        "Tierhandlung"
+      ],
+      "turkish": "pet shop",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Geschäfte",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 193,
+        "originalGerman": "Tierhandlung"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-001",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Brot"
+      ],
+      "turkish": "ekmek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 199,
+        "originalGerman": "Brot"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-002",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Butter"
+      ],
+      "turkish": "tereyağı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 200,
+        "originalGerman": "Butter"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-003",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Ei"
+      ],
+      "turkish": "yumurta",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 201,
+        "originalGerman": "Ei"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-004",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Essig"
+      ],
+      "turkish": "sirke",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 202,
+        "originalGerman": "Essig"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-005",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Fleisch"
+      ],
+      "turkish": "et",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 203,
+        "originalGerman": "Fleisch"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-006",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Honig"
+      ],
+      "turkish": "bal",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 204,
+        "originalGerman": "Honig"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-007",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Joghurt"
+      ],
+      "turkish": "yoğurt",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 205,
+        "originalGerman": "Joghurt"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-008",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Käse"
+      ],
+      "turkish": "peynir",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 206,
+        "originalGerman": "Käse"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-009",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Kaffee"
+      ],
+      "turkish": "kahve",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 207,
+        "originalGerman": "Kaffee"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-010",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Marmelade"
+      ],
+      "turkish": "reçel",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 208,
+        "originalGerman": "Marmelade"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-011",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Mehl"
+      ],
+      "turkish": "un",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 209,
+        "originalGerman": "Mehl"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-012",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Milch"
+      ],
+      "turkish": "süt",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 210,
+        "originalGerman": "Milch"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-013",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Mineralwasser"
+      ],
+      "turkish": "maden suyu",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 211,
+        "originalGerman": "Mineralwasser"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-014",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Nudeln"
+      ],
+      "turkish": "makarna",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 212,
+        "originalGerman": "Nudeln"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-015",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Öl"
+      ],
+      "turkish": "yağ",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 213,
+        "originalGerman": "Öl"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-016",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Reis"
+      ],
+      "turkish": "pirinç",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 214,
+        "originalGerman": "Reis"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-017",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Salz"
+      ],
+      "turkish": "tuz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 215,
+        "originalGerman": "Salz"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-018",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Saft"
+      ],
+      "turkish": "meyve suyu",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 216,
+        "originalGerman": "Saft"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-019",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Tee"
+      ],
+      "turkish": "çay",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 217,
+        "originalGerman": "Tee"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-020",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Wasser"
+      ],
+      "turkish": "su",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 218,
+        "originalGerman": "Wasser"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-021",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Wurst"
+      ],
+      "turkish": "sosis",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 219,
+        "originalGerman": "Wurst"
+      }
+    },
+    {
+      "id": "thema-lebensmittel-022",
+      "sourceType": "topic",
+      "topicId": "lebensmittel",
+      "topicTitle": "Lebensmittel",
+      "german": [
+        "Zucker"
+      ],
+      "turkish": "şeker",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Lebensmittel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 220,
+        "originalGerman": "Zucker"
+      }
+    },
+    {
+      "id": "thema-pflanzen-001",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Ast"
+      ],
+      "turkish": "dal",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 226,
+        "originalGerman": "Ast"
+      }
+    },
+    {
+      "id": "thema-pflanzen-002",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Baum"
+      ],
+      "turkish": "ağaç",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 227,
+        "originalGerman": "Baum"
+      }
+    },
+    {
+      "id": "thema-pflanzen-003",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Blatt"
+      ],
+      "turkish": "yaprak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 228,
+        "originalGerman": "Blatt"
+      }
+    },
+    {
+      "id": "thema-pflanzen-004",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Blume"
+      ],
+      "turkish": "çiçek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 229,
+        "originalGerman": "Blume"
+      }
+    },
+    {
+      "id": "thema-pflanzen-005",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Eiche"
+      ],
+      "turkish": "meşe",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 230,
+        "originalGerman": "Eiche"
+      }
+    },
+    {
+      "id": "thema-pflanzen-006",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Gras"
+      ],
+      "turkish": "çimen",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 231,
+        "originalGerman": "Gras"
+      }
+    },
+    {
+      "id": "thema-pflanzen-007",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Kaktus"
+      ],
+      "turkish": "kaktüs",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 232,
+        "originalGerman": "Kaktus"
+      }
+    },
+    {
+      "id": "thema-pflanzen-008",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Lavendel"
+      ],
+      "turkish": "lavanta",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 233,
+        "originalGerman": "Lavendel"
+      }
+    },
+    {
+      "id": "thema-pflanzen-009",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Minze"
+      ],
+      "turkish": "nane",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 234,
+        "originalGerman": "Minze"
+      }
+    },
+    {
+      "id": "thema-pflanzen-010",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Nelke"
+      ],
+      "turkish": "karanfil",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 235,
+        "originalGerman": "Nelke"
+      }
+    },
+    {
+      "id": "thema-pflanzen-011",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Olive"
+      ],
+      "turkish": "zeytin",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 236,
+        "originalGerman": "Olive"
+      }
+    },
+    {
+      "id": "thema-pflanzen-012",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Olivenbaum"
+      ],
+      "turkish": "zeytin ağacı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 237,
+        "originalGerman": "Olivenbaum"
+      }
+    },
+    {
+      "id": "thema-pflanzen-013",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Palme"
+      ],
+      "turkish": "palmiye",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 238,
+        "originalGerman": "Palme"
+      }
+    },
+    {
+      "id": "thema-pflanzen-014",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Pflanze"
+      ],
+      "turkish": "bitki",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 239,
+        "originalGerman": "Pflanze"
+      }
+    },
+    {
+      "id": "thema-pflanzen-015",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Rose"
+      ],
+      "turkish": "gül",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 240,
+        "originalGerman": "Rose"
+      }
+    },
+    {
+      "id": "thema-pflanzen-016",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Samen"
+      ],
+      "turkish": "tohum",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 241,
+        "originalGerman": "Samen"
+      }
+    },
+    {
+      "id": "thema-pflanzen-017",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Sonnenblume"
+      ],
+      "turkish": "ayçiçeği",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 242,
+        "originalGerman": "Sonnenblume"
+      }
+    },
+    {
+      "id": "thema-pflanzen-018",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Stamm"
+      ],
+      "turkish": "gövde",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 243,
+        "originalGerman": "Stamm"
+      }
+    },
+    {
+      "id": "thema-pflanzen-019",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Tulpe"
+      ],
+      "turkish": "lale",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 244,
+        "originalGerman": "Tulpe"
+      }
+    },
+    {
+      "id": "thema-pflanzen-020",
+      "sourceType": "topic",
+      "topicId": "pflanzen",
+      "topicTitle": "Pflanzen",
+      "german": [
+        "Wurzel"
+      ],
+      "turkish": "kök",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Pflanzen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 245,
+        "originalGerman": "Wurzel"
+      }
+    },
+    {
+      "id": "thema-moebel-001",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Bett"
+      ],
+      "turkish": "yatak",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 251,
+        "originalGerman": "Bett"
+      }
+    },
+    {
+      "id": "thema-moebel-002",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Bücherregal"
+      ],
+      "turkish": "kitaplık",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 252,
+        "originalGerman": "Bücherregal"
+      }
+    },
+    {
+      "id": "thema-moebel-003",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Hocker"
+      ],
+      "turkish": "tabure",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 253,
+        "originalGerman": "Hocker"
+      }
+    },
+    {
+      "id": "thema-moebel-004",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Kleiderschrank"
+      ],
+      "turkish": "gardırop",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 254,
+        "originalGerman": "Kleiderschrank"
+      }
+    },
+    {
+      "id": "thema-moebel-005",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Kommode"
+      ],
+      "turkish": "şifonyer",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 255,
+        "originalGerman": "Kommode"
+      }
+    },
+    {
+      "id": "thema-moebel-006",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Nachttisch"
+      ],
+      "turkish": "komodin",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 256,
+        "originalGerman": "Nachttisch"
+      }
+    },
+    {
+      "id": "thema-moebel-007",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Regal"
+      ],
+      "turkish": "raf",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 257,
+        "originalGerman": "Regal"
+      }
+    },
+    {
+      "id": "thema-moebel-008",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Schrank"
+      ],
+      "turkish": "dolap",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 258,
+        "originalGerman": "Schrank"
+      }
+    },
+    {
+      "id": "thema-moebel-009",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Schreibtisch"
+      ],
+      "turkish": "çalışma masası",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 259,
+        "originalGerman": "Schreibtisch"
+      }
+    },
+    {
+      "id": "thema-moebel-010",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Sessel"
+      ],
+      "turkish": "koltuk",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 260,
+        "originalGerman": "Sessel"
+      }
+    },
+    {
+      "id": "thema-moebel-011",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Sofa"
+      ],
+      "turkish": "kanepe",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 261,
+        "originalGerman": "Sofa"
+      }
+    },
+    {
+      "id": "thema-moebel-012",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Stuhl"
+      ],
+      "turkish": "sandalye",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 262,
+        "originalGerman": "Stuhl"
+      }
+    },
+    {
+      "id": "thema-moebel-013",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Teppich"
+      ],
+      "turkish": "halı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 263,
+        "originalGerman": "Teppich"
+      }
+    },
+    {
+      "id": "thema-moebel-014",
+      "sourceType": "topic",
+      "topicId": "moebel",
+      "topicTitle": "Möbel",
+      "german": [
+        "Tisch"
+      ],
+      "turkish": "masa",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Möbel",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 264,
+        "originalGerman": "Tisch"
+      }
+    },
+    {
+      "id": "thema-personen-001",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Apotheker"
+      ],
+      "turkish": "eczacı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 270,
+        "originalGerman": "Apotheker"
+      }
+    },
+    {
+      "id": "thema-personen-002",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Arbeiter"
+      ],
+      "turkish": "işçi",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 271,
+        "originalGerman": "Arbeiter"
+      }
+    },
+    {
+      "id": "thema-personen-003",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Arzt"
+      ],
+      "turkish": "doktor",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 272,
+        "originalGerman": "Arzt"
+      }
+    },
+    {
+      "id": "thema-personen-004",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Baby"
+      ],
+      "turkish": "bebek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 273,
+        "originalGerman": "Baby"
+      }
+    },
+    {
+      "id": "thema-personen-005",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Bruder"
+      ],
+      "turkish": "erkek kardeş",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 274,
+        "originalGerman": "Bruder"
+      }
+    },
+    {
+      "id": "thema-personen-006",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Chef"
+      ],
+      "turkish": "patron",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 275,
+        "originalGerman": "Chef"
+      }
+    },
+    {
+      "id": "thema-personen-007",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Ehefrau"
+      ],
+      "turkish": "eş",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 276,
+        "originalGerman": "Ehefrau"
+      }
+    },
+    {
+      "id": "thema-personen-008",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Ehemann"
+      ],
+      "turkish": "eş",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 277,
+        "originalGerman": "Ehemann"
+      }
+    },
+    {
+      "id": "thema-personen-009",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Enkel"
+      ],
+      "turkish": "torun",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 278,
+        "originalGerman": "Enkel"
+      }
+    },
+    {
+      "id": "thema-personen-010",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Familie"
+      ],
+      "turkish": "aile",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 279,
+        "originalGerman": "Familie"
+      }
+    },
+    {
+      "id": "thema-personen-011",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Fahrer"
+      ],
+      "turkish": "şoför",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 280,
+        "originalGerman": "Fahrer"
+      }
+    },
+    {
+      "id": "thema-personen-012",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Frau"
+      ],
+      "turkish": "kadın",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 281,
+        "originalGerman": "Frau"
+      }
+    },
+    {
+      "id": "thema-personen-013",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Freund"
+      ],
+      "turkish": "arkadaş",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 282,
+        "originalGerman": "Freund"
+      }
+    },
+    {
+      "id": "thema-personen-014",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Gast"
+      ],
+      "turkish": "misafir",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 283,
+        "originalGerman": "Gast"
+      }
+    },
+    {
+      "id": "thema-personen-015",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Großmutter"
+      ],
+      "turkish": "büyükanne",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 284,
+        "originalGerman": "Großmutter"
+      }
+    },
+    {
+      "id": "thema-personen-016",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Großvater"
+      ],
+      "turkish": "büyükbaba",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 285,
+        "originalGerman": "Großvater"
+      }
+    },
+    {
+      "id": "thema-personen-017",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Händler"
+      ],
+      "turkish": "tüccar",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 286,
+        "originalGerman": "Händler"
+      }
+    },
+    {
+      "id": "thema-personen-018",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Junge"
+      ],
+      "turkish": "oğlan",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 287,
+        "originalGerman": "Junge"
+      }
+    },
+    {
+      "id": "thema-personen-019",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Kellner"
+      ],
+      "turkish": "garson",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 288,
+        "originalGerman": "Kellner"
+      }
+    },
+    {
+      "id": "thema-personen-020",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Kind"
+      ],
+      "turkish": "çocuk",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 289,
+        "originalGerman": "Kind"
+      }
+    },
+    {
+      "id": "thema-personen-021",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Kunde"
+      ],
+      "turkish": "müşteri",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 290,
+        "originalGerman": "Kunde"
+      }
+    },
+    {
+      "id": "thema-personen-022",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Lehrer"
+      ],
+      "turkish": "öğretmen",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 291,
+        "originalGerman": "Lehrer"
+      }
+    },
+    {
+      "id": "thema-personen-023",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Mädchen"
+      ],
+      "turkish": "kız",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 292,
+        "originalGerman": "Mädchen"
+      }
+    },
+    {
+      "id": "thema-personen-024",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Mann"
+      ],
+      "turkish": "erkek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 293,
+        "originalGerman": "Mann"
+      }
+    },
+    {
+      "id": "thema-personen-025",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Mensch"
+      ],
+      "turkish": "insan",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 294,
+        "originalGerman": "Mensch"
+      }
+    },
+    {
+      "id": "thema-personen-026",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Mutter"
+      ],
+      "turkish": "anne",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 295,
+        "originalGerman": "Mutter"
+      }
+    },
+    {
+      "id": "thema-personen-027",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Nachbar"
+      ],
+      "turkish": "komşu",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 296,
+        "originalGerman": "Nachbar"
+      }
+    },
+    {
+      "id": "thema-personen-028",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Polizist"
+      ],
+      "turkish": "polis",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 297,
+        "originalGerman": "Polizist"
+      }
+    },
+    {
+      "id": "thema-personen-029",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Reisender"
+      ],
+      "turkish": "yolcu",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 298,
+        "originalGerman": "Reisender"
+      }
+    },
+    {
+      "id": "thema-personen-030",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Schwester"
+      ],
+      "turkish": "kız kardeş",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 299,
+        "originalGerman": "Schwester"
+      }
+    },
+    {
+      "id": "thema-personen-031",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Sohn"
+      ],
+      "turkish": "oğul",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 300,
+        "originalGerman": "Sohn"
+      }
+    },
+    {
+      "id": "thema-personen-032",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Student"
+      ],
+      "turkish": "öğrenci",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 301,
+        "originalGerman": "Student"
+      }
+    },
+    {
+      "id": "thema-personen-033",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Tochter"
+      ],
+      "turkish": "kız",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 302,
+        "originalGerman": "Tochter"
+      }
+    },
+    {
+      "id": "thema-personen-034",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Tourist"
+      ],
+      "turkish": "turist",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 303,
+        "originalGerman": "Tourist"
+      }
+    },
+    {
+      "id": "thema-personen-035",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Verkäufer"
+      ],
+      "turkish": "satıcı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 304,
+        "originalGerman": "Verkäufer"
+      }
+    },
+    {
+      "id": "thema-personen-036",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Vater"
+      ],
+      "turkish": "baba",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 305,
+        "originalGerman": "Vater"
+      }
+    },
+    {
+      "id": "thema-personen-037",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Verwandter"
+      ],
+      "turkish": "akraba",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 306,
+        "originalGerman": "Verwandter"
+      }
+    }
+  ],
+  "topics": [
+    {
+      "id": "tiere",
+      "title": "Tiere",
+      "count": 24
+    },
+    {
+      "id": "kleidung",
+      "title": "Kleidung",
+      "count": 22
+    },
+    {
+      "id": "farben",
+      "title": "Farben",
+      "count": 14
+    },
+    {
+      "id": "anatomie-koerperteile",
+      "title": "Anatomie und Körperteile",
+      "count": 32
+    },
+    {
+      "id": "verkehrsmittel",
+      "title": "Verkehrsmittel",
+      "count": 13
+    },
+    {
+      "id": "obst-gemuese",
+      "title": "Obst und Gemüse",
+      "count": 34
+    },
+    {
+      "id": "geschaefte",
+      "title": "Geschäfte",
+      "count": 18
+    },
+    {
+      "id": "lebensmittel",
+      "title": "Lebensmittel",
+      "count": 22
+    },
+    {
+      "id": "pflanzen",
+      "title": "Pflanzen",
+      "count": 20
+    },
+    {
+      "id": "moebel",
+      "title": "Möbel",
+      "count": 14
+    },
+    {
+      "id": "personen",
+      "title": "Personen",
+      "count": 37
     }
   ]
 };

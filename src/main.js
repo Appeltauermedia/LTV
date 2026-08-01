@@ -5,12 +5,14 @@ import { emptyProgress, isDue, schedule } from "./learning/spaced-repetition.js"
 import { evaluateAnswer, searchKey } from "./utils/text.js";
 import { createExport, validateImport } from "./storage/backup.js";
 
-const APP_VERSION = "1.0.23";
+const APP_VERSION = "1.1.0";
 const vocab = vocabularyData.vocabulary.filter((v) => v.active);
 const byId = new Map(vocab.map((v) => [v.id, v]));
+const topics = vocabularyData.topics || [];
 const state = {
   view: new URLSearchParams(location.search).get("view") || "home", progress: new Map(), daily: [], meta: new Map(),
-  selectedChapters: new Set([1]), session: null, installPrompt: null, updateWorker: null, toastTimer: null
+  selectedChapters: new Set([1]), selectedTopics: new Set(), statsSource: "all", searchSource: "all", searchTopic: "all",
+  session: null, installPrompt: null, updateWorker: null, toastTimer: null
 };
 const $app = document.querySelector("#app");
 const icons = { home:"⌂", learn:"▶", chapters:"▦", progress:"◔", settings:"⚙" };
@@ -20,9 +22,10 @@ function today() { return new Date().toLocaleDateString("sv-SE"); }
 function getProgress(id) { return state.progress.get(id) || emptyProgress(id); }
 function theme() { return localStorage.getItem("theme") || "system"; }
 function applyTheme(value = theme()) { document.documentElement.dataset.theme = value; document.querySelector('meta[name="theme-color"]').content = value === "dark" ? "#171b20" : "#b4232f"; }
-function stat() {
-  const all = [...state.progress.values()], day = state.daily.find((d) => d.date === today()) || { answered:0, correct:0, wrong:0, ids:[] };
-  return { total:vocab.length, newCount:vocab.length-all.filter(p=>p.status!=="new").length, started:all.filter(p=>p.level>0&&p.level<5).length, learned:all.filter(p=>p.level>=5).length, due:all.filter(isDue).length, favorite:all.filter(p=>p.favorite).length, difficult:all.filter(p=>p.difficult).length, day };
+function sourceLabel(v) { return v.sourceType === "topic" ? `Thema: ${v.topicTitle}` : `Kapitel ${v.chapter}`; }
+function stat(source="all") {
+  const list=vocab.filter(v=>source==="all"||v.sourceType===source), ps=list.map(v=>getProgress(v.id)), day = state.daily.find((d) => d.date === today()) || { answered:0, correct:0, wrong:0, ids:[] };
+  return { total:list.length, newCount:ps.filter(p=>p.status==="new").length, started:ps.filter(p=>p.level>0&&p.level<5).length, learned:ps.filter(p=>p.level>=5).length, due:ps.filter(isDue).length, favorite:ps.filter(p=>p.favorite).length, difficult:ps.filter(p=>p.difficult).length, day };
 }
 function shell(content) {
   const labels = { home:"Start", learn:"Lernen", chapters:"Kapitel", progress:"Fortschritt", settings:"Einstellungen", search:"Vokabelsuche" };
@@ -42,7 +45,7 @@ function render() {
 function homeView() {
   const s=stat(), goal=Number(state.meta.get("dailyGoal")?.value || 20), last=state.meta.get("lastChapter")?.value;
   return `<section class="hero">
-    <div class="cover-wrap"><img src="./images/book-cover-placeholder.svg" alt="Platzhalter für das Buchcover Lerne Türkisch"></div>
+    <div class="cover-wrap"><img src="./images/lt-cover-front.webp" alt="Buchcover İstanbul'a Hoş Geldiniz – Türkisch für Anfänger" width="720" height="960"></div>
     <div class="hero-copy"><p class="eyebrow">DEIN PERSÖNLICHER</p><h2>Vokabeltrainer</h2><p>${s.day.answered ? `Heute schon <strong>${s.day.answered}</strong> Aufgaben bearbeitet.` : "Bereit für ein paar neue Wörter?"}</p>
     <div class="hero-actions"><button class="primary" data-action="quick-start">Lernen starten</button><button class="secondary" data-action="today">Heute lernen <span>${s.due} fällig</span></button></div></div>
   </section>
@@ -59,8 +62,8 @@ function learnSetupView() {
   const s=stat();
   return `<section class="content-head"><p class="eyebrow">LERNRUNDE PLANEN</p><h2>Was möchtest du üben?</h2><p>Stelle deine Runde passend zu deinem Tag zusammen.</p></section>
   <form id="learn-form" class="setup-grid">
-   <fieldset class="panel"><legend>Kapitel</legend><button type="button" class="chapter-summary" data-nav="chapters">${state.selectedChapters.size} Kapitel ausgewählt <span>Ändern →</span></button>
-    <label><input type="radio" name="scope" value="selected" checked> Ausgewählte Kapitel</label><label><input type="radio" name="scope" value="all"> Gesamtes Vokabular</label></fieldset>
+   <fieldset class="panel"><legend>Wortschatz</legend><button type="button" class="chapter-summary" data-nav="chapters">${state.selectedChapters.size} Kapitel · ${state.selectedTopics.size} Themen ausgewählt <span>Ändern →</span></button>
+    <label><input type="radio" name="scope" value="selected" checked> Ausgewählte Kapitel und Themen</label><label><input type="radio" name="scope" value="chapters"> Nur ausgewählte Kapitel</label><label><input type="radio" name="scope" value="topics"> Nur ausgewählte Themen</label><label><input type="radio" name="scope" value="all"> Gesamtes Vokabular</label></fieldset>
    <fieldset class="panel"><legend>Auswahl</legend><div class="option-grid">
     ${[["all","Alle passenden"],["new","Nur neue"],["due",`Fällige (${s.due})`],["wrong","Falsch beantwortete"],["difficult","Schwierige"],["favorite","Favoriten"]].map(([v,l])=>`<label><input type="radio" name="filter" value="${v}" ${v==="all"?"checked":""}> ${l}</label>`).join("")}</div></fieldset>
    <fieldset class="panel"><legend>Lernmodus</legend><div class="mode-grid">
@@ -72,24 +75,28 @@ function learnSetupView() {
 function chaptersView() {
   const query=state.chapterQuery||"", filter=state.chapterFilter||"all";
   const cards=Array.from({length:45},(_,i)=>chapterStats(i+1)).filter(c=>(!query||`${c.chapter} ${c.title}`.toLowerCase().includes(query.toLowerCase())) && (filter==="all"||c[filter]>0));
-  return `<section class="content-head"><p class="eyebrow">45 KAPITEL</p><h2>Kapitel auswählen</h2><p>${state.selectedChapters.size} Kapitel ausgewählt</p></section>
+  return `<section class="content-head"><p class="eyebrow">KAPITEL & THEMEN</p><h2>Wortschatz auswählen</h2><p>${state.selectedChapters.size} Kapitel · ${state.selectedTopics.size} Themen ausgewählt</p></section>
   <section class="selection-tools panel"><div class="search-field"><span>⌕</span><input id="chapter-search" value="${esc(query)}" placeholder="Nummer oder Kapiteltitel" aria-label="Kapitel suchen"></div>
   <select id="chapter-filter" aria-label="Nach Lernstatus filtern"><option value="all">Alle Lernstände</option><option value="newCount" ${filter==="newCount"?"selected":""}>Neue vorhanden</option><option value="due" ${filter==="due"?"selected":""}>Wiederholung fällig</option><option value="learned" ${filter==="learned"?"selected":""}>Gelernte vorhanden</option></select>
   <div class="tool-buttons"><button data-select="all">Alle</button><button data-select="invert">Umkehren</button><button data-select="range">Bereich</button><button data-select="none">Zurücksetzen</button></div></section>
-  <div class="chapter-grid">${cards.map(c=>`<article class="chapter-card panel ${state.selectedChapters.has(c.chapter)?"selected":""}"><label class="chapter-check"><input type="checkbox" data-chapter="${c.chapter}" ${state.selectedChapters.has(c.chapter)?"checked":""}><span>Kapitel ${c.chapter}</span></label><h3>${esc(c.title)}</h3><div class="chapter-counts"><span>${c.total} Wörter</span><span>${c.newCount} neu</span><span>${c.due} fällig</span><span>${c.learned} gelernt</span></div><div class="section-title chapter-mastery"><small>Lernstand</small><b>${c.mastery}%</b></div>${progressBar(c.mastery,100)}<button data-start-chapter="${c.chapter}" class="secondary">Kapitel starten</button></article>`).join("")}</div>
-  <button class="primary floating-start" data-action="selected-start" ${state.selectedChapters.size?"":"disabled"}>Auswahl lernen (${state.selectedChapters.size})</button>`;
+  <div class="vocabulary-selection"><section><h3 class="group-heading">Kapitelvokabular</h3><div class="chapter-grid">${cards.map(c=>selectionCard(c, "chapter")).join("")}</div></section>
+  <section><div class="section-title topic-heading"><h3 class="group-heading">Themenwortschatz</h3><div class="tool-buttons"><button data-topic-select="all">Alle</button><button data-topic-select="invert">Umkehren</button><button data-topic-select="none">Zurücksetzen</button></div></div><div class="chapter-grid topic-grid">${topics.map(t=>selectionCard(topicStats(t.id), "topic")).join("")}</div></section></div>
+  <button class="primary floating-start" data-action="selected-start" ${state.selectedChapters.size||state.selectedTopics.size?"":"disabled"}>Auswahl lernen (${state.selectedChapters.size+state.selectedTopics.size})</button>`;
 }
+function selectionCard(c,type) { const topic=type==="topic", key=topic?c.topicId:c.chapter, selected=topic?state.selectedTopics.has(key):state.selectedChapters.has(key); return `<article class="chapter-card panel ${selected?"selected":""}"><label class="chapter-check"><input type="checkbox" ${topic?`data-topic="${key}"`:`data-chapter="${key}"`} ${selected?"checked":""}><span>${topic?esc(c.title):`Kapitel ${key}`}</span></label>${topic?"":`<h3>${esc(c.title)}</h3>`}<div class="chapter-counts"><span>${c.total} Vokabeln</span><span>${c.newCount} neu</span><span>${c.started} in Arbeit</span><span>${c.learned} gelernt</span><span>${c.due} fällig</span></div><div class="section-title chapter-mastery"><small>Lernstand</small><b>${c.mastery}%</b></div>${progressBar(c.mastery,100)}<button ${topic?`data-start-topic="${key}"`:`data-start-chapter="${key}"`} class="secondary">Lernen</button></article>`; }
 function chapterStats(chapter) {
   const list=vocab.filter(v=>v.chapter===chapter), ps=list.map(v=>getProgress(v.id));
   const mastery=Math.round(ps.reduce((sum,p)=>sum+Math.max(0,Math.min(5,p.level||0)),0)/(Math.max(1,list.length)*5)*100);
-  return {chapter,title:vocabularyData.chapters.find(c=>c.number===chapter)?.title||`Kapitel ${chapter}`,total:list.length,newCount:ps.filter(p=>p.status==="new").length,due:ps.filter(isDue).length,learned:ps.filter(p=>p.level>=5).length,mastery};
+  return {chapter,title:vocabularyData.chapters.find(c=>c.number===chapter)?.title||`Kapitel ${chapter}`,total:list.length,newCount:ps.filter(p=>p.status==="new").length,started:ps.filter(p=>p.level>0&&p.level<5).length,due:ps.filter(isDue).length,learned:ps.filter(p=>p.level>=5).length,mastery};
 }
+function topicStats(topicId) { const def=topics.find(t=>t.id===topicId), list=vocab.filter(v=>v.topicId===topicId), ps=list.map(v=>getProgress(v.id)), mastery=Math.round(ps.reduce((n,p)=>n+Math.max(0,Math.min(5,p.level||0)),0)/(Math.max(1,list.length)*5)*100); return {topicId,title:def?.title||topicId,total:list.length,newCount:ps.filter(p=>p.status==="new").length,started:ps.filter(p=>p.level>0&&p.level<5).length,due:ps.filter(isDue).length,learned:ps.filter(p=>p.level>=5).length,mastery}; }
 function progressView() {
-  const s=stat(), levels=Array.from({length:6},(_,l)=>[l,[...state.progress.values()].filter(p=>p.level===l).length]);
+  const s=stat(state.statsSource), scoped=vocab.filter(v=>state.statsSource==="all"||v.sourceType===state.statsSource), levels=Array.from({length:6},(_,l)=>[l,scoped.filter(v=>getProgress(v.id).level===l).length]);
   return `<section class="content-head"><p class="eyebrow">DEIN LERNWEG</p><h2>Fortschritt</h2><p>Alles bleibt ausschließlich auf diesem Gerät.</p></section>
+  <div class="source-tabs panel" role="group" aria-label="Statistikquelle">${[["all","Gesamtes Vokabular"],["chapter","Kapitelvokabular"],["topic","Themenwortschatz"]].map(([v,l])=>`<button data-stats-source="${v}" class="${state.statsSource===v?"active":""}">${l}</button>`).join("")}</div>
   <section class="metric-grid">${[["Gesamt",s.total],["Neu",s.newCount],["Begonnen",s.started],["Gelernt",s.learned],["Heute",s.day.answered],["Heute richtig",s.day.correct],["Heute falsch",s.day.wrong],["Fällig",s.due],["Schwierig",s.difficult],["Favoriten",s.favorite],["Lernserie",`${currentStreak()} Tage`]].map(([l,v])=>`<article class="metric panel"><strong>${v}</strong><span>${l}</span></article>`).join("")}</section>
   <section class="progress-layout"><article class="panel"><h3>Lernstufen</h3><div class="level-chart">${levels.map(([l,n])=>`<div><span>Stufe ${l}</span><div>${progressBar(n,s.total)}</div><b>${n}</b></div>`).join("")}</div></article>
-  <article class="panel"><h3>Kapitelstand</h3><div class="chapter-progress-list">${Array.from({length:45},(_,i)=>chapterStats(i+1)).map(c=>`<div><span>${c.chapter}</span>${progressBar(c.mastery,100)}<small>${c.mastery}%</small></div>`).join("")}</div></article></section>`;
+  <article class="panel"><h3>Fortschritt je Rubrik</h3><div class="chapter-progress-list">${state.statsSource!=="topic"?Array.from({length:45},(_,i)=>chapterStats(i+1)).map(c=>`<div><span>${c.chapter}</span>${progressBar(c.mastery,100)}<small>${c.mastery}%</small></div>`).join(""):""}${state.statsSource!=="chapter"?topics.map(t=>{const c=topicStats(t.id);return `<div class="topic-progress"><span>${esc(c.title)}</span>${progressBar(c.mastery,100)}<small>${c.mastery}%</small></div>`}).join(""):""}</div></article></section>`;
 }
 function settingsView() {
   const goal=state.meta.get("dailyGoal")?.value||20;
@@ -99,26 +106,27 @@ function settingsView() {
    <section class="panel"><h3>Lernziel</h3><label>Tägliche Aufgaben<input id="daily-goal" type="number" min="1" max="500" value="${goal}"></label><p class="hint">Ein Lerntag zählt, sobald mindestens eine Aufgabe bewertet wurde. Unterbrechungen werden nicht bestraft.</p></section>
    <section class="panel"><h3>Lernstand sichern</h3><p>Exportiere eine lokale JSON-Sicherung oder stelle sie wieder her.</p><div class="button-stack"><button data-action="export" class="secondary">Lernstand exportieren</button><label class="file-button secondary">Lernstand importieren<input id="import-file" type="file" accept="application/json,.json"></label></div></section>
    <section class="panel danger"><h3>Zurücksetzen</h3><p>Entfernt den vollständigen Lernstand unwiderruflich von diesem Gerät.</p><button data-action="reset" class="danger-button">Lernstand vollständig zurücksetzen</button></section>
-   <section class="panel"><h3>Installation & App</h3><p>Version ${APP_VERSION} · Daten ${vocabularyData.contentVersion}<br>${vocab.length} Vokabeln · 45 Kapitel</p><div class="button-stack"><button data-action="install-help" class="secondary">Installationshilfe</button>${state.updateWorker?'<button data-action="apply-update" class="primary">Neue Version jetzt aktivieren</button>':""}</div></section>
+   <section class="panel"><h3>Installation & App</h3><p>Version ${APP_VERSION} · Daten ${vocabularyData.contentVersion}<br>${vocab.length} Vokabeln · 45 Kapitel · ${topics.length} Themen</p><div class="button-stack"><button data-action="install-help" class="secondary">Installationshilfe</button>${state.updateWorker?'<button data-action="apply-update" class="primary">Neue Version jetzt aktivieren</button>':""}</div></section>
   </div><footer class="settings-copyright">Copyright © Appeltauer Media</footer>`;
 }
 function searchView() {
   const q=state.searchQuery||"", results=q?searchVocabulary(q).slice(0,100):[];
-  return `<section class="content-head"><p class="eyebrow">GESAMTER WORTSCHATZ</p><h2>Vokabelsuche</h2></section><div class="search-field global panel"><span>⌕</span><input id="global-search" value="${esc(q)}" autofocus placeholder="Türkisch, Deutsch, Kapitel oder Kategorie" aria-label="Vokabel suchen"></div>
+  return `<section class="content-head"><p class="eyebrow">GESAMTER WORTSCHATZ</p><h2>Vokabelsuche</h2></section><div class="search-field global panel"><span>⌕</span><input id="global-search" value="${esc(q)}" autofocus placeholder="Türkisch, Deutsch, Kapitel oder Thema" aria-label="Vokabel suchen"></div>
+  <div class="search-filters"><select id="search-source"><option value="all">Alle Quellen</option><option value="chapter" ${state.searchSource==="chapter"?"selected":""}>Kapitelvokabular</option><option value="topic" ${state.searchSource==="topic"?"selected":""}>Themenwortschatz</option></select><select id="search-topic"><option value="all">Alle Themen</option>${topics.map(t=>`<option value="${t.id}" ${state.searchTopic===t.id?"selected":""}>${esc(t.title)}</option>`).join("")}</select></div>
   <p class="result-count" aria-live="polite">${q?`${results.length}${results.length===100?"+":""} Treffer`:"Suchbegriff eingeben"}</p>
-  <div class="result-list">${results.map(v=>{const p=getProgress(v.id);return `<article class="panel result"><div><h3 lang="tr">${esc(v.turkish)}</h3><p>${esc(v.german.join(" / "))}</p><small>Kapitel ${v.chapter} · ${p.status==="new"?"Neu":p.level>=5?"Gelernt":`Stufe ${p.level}`} ${p.favorite?"· ★ Favorit":""}</small></div><button data-learn-id="${v.id}" class="secondary">Lernen</button></article>`}).join("")}</div>`;
+  <div class="result-list">${results.map(v=>{const p=getProgress(v.id);return `<article class="panel result"><div><h3 lang="tr">${esc(v.turkish)}</h3><p>${esc(v.german.join(" / "))}</p><small>${sourceLabel(v)} · ${p.status==="new"?"Neu":p.level>=5?"Gelernt":`Stufe ${p.level}`} ${p.favorite?"· ★ Favorit":""}</small></div><button data-learn-id="${v.id}" class="secondary">Lernen</button></article>`}).join("")}</div>`;
 }
-function searchVocabulary(q) { const n=searchKey(q); return vocab.filter(v=>searchKey(`${v.turkish} ${v.german.join(" ")} ${v.chapter} ${v.chapterTitle} ${v.category}`).includes(n)); }
+function searchVocabulary(q) { const n=searchKey(q); return vocab.filter(v=>(state.searchSource==="all"||v.sourceType===state.searchSource)&&(state.searchTopic==="all"||v.topicId===state.searchTopic)&&searchKey(`${v.turkish} ${v.german.join(" ")} ${v.chapter||""} ${v.chapterTitle||""} ${v.topicTitle||""} ${v.category}`).includes(n)).sort((a,b)=>a.german[0].localeCompare(b.german[0],"de")); }
 
 function startSession(options={}) {
   const form=options.form, mode=options.mode||form?.get("mode")||"flashcards", direction=form?.get("direction")||"tr-de", count=Number(form?.get("count")||20), order=form?.get("order")||"random";
   const scope=form?.get("scope")||"selected", filter=options.filter||form?.get("filter")||"all";
-  let pool=options.ids ? options.ids.map(id=>byId.get(id)).filter(Boolean) : vocab.filter(v=>scope==="all"||state.selectedChapters.has(v.chapter));
+  let pool=options.ids ? options.ids.map(id=>byId.get(id)).filter(Boolean) : vocab.filter(v=>scope==="all"||(v.sourceType==="chapter"&&scope!=="topics"&&state.selectedChapters.has(v.chapter))||(v.sourceType==="topic"&&scope!=="chapters"&&state.selectedTopics.has(v.topicId)));
   pool=pool.filter(v=>matchesFilter(getProgress(v.id),filter));
   if (mode==="mistakes") pool=pool.filter(v=>getProgress(v.id).wrong>0);
   if (mode==="due") pool=pool.filter(v=>isDue(getProgress(v.id)));
   if (!pool.length) return toast("Für diese Auswahl sind keine passenden Vokabeln vorhanden.",true);
-  if (order==="random") pool.sort(()=>Math.random()-.5); else pool.sort((a,b)=>a.chapter-b.chapter||a.id.localeCompare(b.id));
+  if (order==="random") pool.sort(()=>Math.random()-.5); else pool.sort((a,b)=>(a.chapter||99)-(b.chapter||99)||a.id.localeCompare(b.id));
   state.session={items:pool.slice(0,count),index:0,mode,direction,results:[],revealed:false,answered:false};
   showSession();
 }
@@ -129,7 +137,7 @@ function showSession() {
   if (!s || s.index>=s.items.length) return finishSession();
   const v=s.items[s.index], dir=currentDirection(v), question=dir==="tr-de"?v.turkish:v.german.join(" / "), answer=dir==="tr-de"?v.german:v.turkish, p=getProgress(v.id);
   const modeTitle={flashcards:"Karteikarten",choice:"Multiple Choice",typing:"Texteingabe",self:"Selbstbewertung",mistakes:"Fehlerwiederholung",due:"Fällige Wiederholungen"}[s.mode];
-  $app.innerHTML=`<div class="session-shell"><header class="session-head"><button data-session-close class="icon-button" aria-label="Lernrunde schließen">×</button><div><b>${modeTitle}</b><small>Kapitel ${v.chapter} · ${dir==="tr-de"?"Türkisch → Deutsch":"Deutsch → Türkisch"}</small></div><span>${s.index+1} / ${s.items.length}</span></header><div class="session-progress">${progressBar(s.index,s.items.length)}</div>
+  $app.innerHTML=`<div class="session-shell"><header class="session-head"><button data-session-close class="icon-button" aria-label="Lernrunde schließen">×</button><div><b>${modeTitle}</b><small>${sourceLabel(v)} · ${dir==="tr-de"?"Türkisch → Deutsch":"Deutsch → Türkisch"}</small></div><span>${s.index+1} / ${s.items.length}</span></header><div class="session-progress">${progressBar(s.index,s.items.length)}</div>
   <main id="main" class="learning-main"><div class="card-tools"><button data-toggle="favorite" aria-pressed="${p.favorite}" aria-label="Favorit">${p.favorite?"★":"☆"}</button><button data-toggle="difficult" aria-pressed="${p.difficult}" aria-label="Als schwierig markieren">${p.difficult?"◆":"◇"}</button></div>${taskMarkup(v,question,answer,dir)}</main></div><div id="toast" class="toast" role="status" aria-live="polite"></div>`;
   bindSession();
 }
@@ -144,7 +152,7 @@ function taskMarkup(v,q,a,dir) {
   return `<button class="learn-card flip ${revealed?"revealed":""}" data-reveal aria-expanded="${revealed}"><p class="eyebrow">${revealed?"LÖSUNG":prompt}</p><h2 lang="${revealed?(dir==="tr-de"?"de":"tr"):(dir==="tr-de"?"tr":"de")}">${esc(revealed?(Array.isArray(a)?a.join(" / "):a):q)}</h2>${revealed&&v.pronunciation?`<small>Aussprache: ${esc(v.pronunciation)}</small>`:""}<span>${revealed?"Wie gut wusstest du es?":"Antippen, um die Lösung zu sehen"}</span></button>${revealed?ratingButtons(s.mode==="self"):''}`;
 }
 function distractors(v,dir) {
-  const same=vocab.filter(x=>x.id!==v.id&&(x.chapter===v.chapter||x.category&&x.category===v.category)).sort(()=>Math.random()-.5);
+  const same=vocab.filter(x=>x.id!==v.id&&((v.topicId&&x.topicId===v.topicId)||(v.chapter&&x.chapter===v.chapter)||x.category&&x.category===v.category)).sort(()=>Math.random()-.5);
   const rest=vocab.filter(x=>x.id!==v.id).sort(()=>Math.random()-.5);
   const values=[], seen=new Set();
   for(const x of [...same,...rest]){const val=dir==="tr-de"?x.german[0]:x.turkish;if(!seen.has(val)){seen.add(val);values.push(val);}if(values.length===3)break;} return values;
@@ -158,13 +166,17 @@ function bindCommon() {
   document.querySelector("[data-action='resume']")?.addEventListener("click",()=>navigate(state.meta.get("lastChapter")?"learn":"chapters"));
   document.querySelector("#learn-form")?.addEventListener("submit",(e)=>{e.preventDefault();startSession({form:new FormData(e.currentTarget)});});
   bindChapterActions(); bindSettings(); bindSearch();
+  document.querySelectorAll("[data-stats-source]").forEach(b=>b.addEventListener("click",()=>{state.statsSource=b.dataset.statsSource;render();}));
   document.querySelectorAll("[data-action='install-help']").forEach(b=>b.addEventListener("click",installHelp));
 }
 function bindChapterActions() {
   document.querySelectorAll("[data-chapter]").forEach(c=>c.addEventListener("change",()=>{const n=Number(c.dataset.chapter);c.checked?state.selectedChapters.add(n):state.selectedChapters.delete(n);render();}));
+  document.querySelectorAll("[data-topic]").forEach(c=>c.addEventListener("change",()=>{c.checked?state.selectedTopics.add(c.dataset.topic):state.selectedTopics.delete(c.dataset.topic);render();}));
   document.querySelectorAll("[data-start-chapter]").forEach(b=>b.addEventListener("click",()=>{state.selectedChapters=new Set([Number(b.dataset.startChapter)]);navigate("learn");}));
+  document.querySelectorAll("[data-start-topic]").forEach(b=>b.addEventListener("click",()=>{state.selectedTopics=new Set([b.dataset.startTopic]);navigate("learn");}));
   document.querySelector("[data-action='selected-start']")?.addEventListener("click",()=>navigate("learn"));
   document.querySelectorAll("[data-select]").forEach(b=>b.addEventListener("click",()=>{const action=b.dataset.select;if(action==="all")state.selectedChapters=new Set(Array.from({length:45},(_,i)=>i+1));if(action==="none")state.selectedChapters.clear();if(action==="invert")state.selectedChapters=new Set(Array.from({length:45},(_,i)=>i+1).filter(n=>!state.selectedChapters.has(n)));if(action==="range"){const input=prompt("Kapitelbereich, z. B. 5-12:");const m=input?.match(/^\\s*(\\d+)\\s*-\\s*(\\d+)\\s*$/);if(!m||+m[1]<1||+m[2]>45||+m[1]>+m[2])return toast("Bitte einen gültigen Bereich von 1 bis 45 eingeben.",true);state.selectedChapters=new Set(Array.from({length:+m[2]-+m[1]+1},(_,i)=>+m[1]+i));}render();}));
+  document.querySelectorAll("[data-topic-select]").forEach(b=>b.addEventListener("click",()=>{const ids=topics.map(t=>t.id), action=b.dataset.topicSelect;if(action==="all")state.selectedTopics=new Set(ids);if(action==="none")state.selectedTopics.clear();if(action==="invert")state.selectedTopics=new Set(ids.filter(id=>!state.selectedTopics.has(id)));render();}));
   document.querySelector("#chapter-search")?.addEventListener("input",(e)=>{state.chapterQuery=e.target.value;render();document.querySelector("#chapter-search")?.focus();});
   document.querySelector("#chapter-filter")?.addEventListener("change",(e)=>{state.chapterFilter=e.target.value;render();});
 }
@@ -181,6 +193,8 @@ function bindSettings() {
 function bindSearch() {
   document.querySelector("#global-search")?.addEventListener("input",(e)=>{state.searchQuery=e.target.value;render();const input=document.querySelector("#global-search");input?.focus();input?.setSelectionRange(input.value.length,input.value.length);});
   document.querySelectorAll("[data-learn-id]").forEach(b=>b.addEventListener("click",()=>startSession({ids:[b.dataset.learnId],mode:"flashcards"})));
+  document.querySelector("#search-source")?.addEventListener("change",e=>{state.searchSource=e.target.value;render();});
+  document.querySelector("#search-topic")?.addEventListener("change",e=>{state.searchTopic=e.target.value;render();});
 }
 function bindSession() {
   document.querySelector("[data-session-close]")?.addEventListener("click",()=>{if(confirm("Lernrunde wirklich beenden? Dein bisheriger Fortschritt ist gespeichert.")){state.session=null;render();}});
@@ -200,17 +214,17 @@ function answerTyping(e){e.preventDefault();if(state.session.answered)return;con
 function insertChar(char){const input=document.querySelector("#answer"),start=input.selectionStart,end=input.selectionEnd;input.setRangeText(char,start,end,"end");input.focus();}
 function nextTask(){state.session.index++;state.session.revealed=false;state.session.answered=false;showSession();}
 async function finishSession(){const s=state.session, results=s?.results||[], correct=results.filter(r=>["correct","easy"].includes(r.quality)).length;$app.innerHTML=shell(`<section class="finish panel"><div class="finish-icon">✓</div><p class="eyebrow">RUNDE ABGESCHLOSSEN</p><h2>${results.length} Aufgaben geschafft</h2><p>${correct} sicher beantwortet. Jeder Durchgang zählt.</p><div class="finish-stats"><div><b>${correct}</b><span>richtig</span></div><div><b>${results.filter(r=>r.quality==="wrong").length}</b><span>noch üben</span></div></div><button class="primary" data-nav="home">Zur Startseite</button><button class="secondary" data-nav="learn">Neue Runde</button></section>`);state.session=null;bindCommon();}
-async function recordDaily(quality){let day=state.daily.find(d=>d.date===today());if(!day){day={date:today(),answered:0,correct:0,wrong:0,ids:[]};state.daily.push(day);}day.answered++;if(["correct","easy"].includes(quality))day.correct++;if(quality==="wrong")day.wrong++;const v=state.session.items[state.session.index];if(!day.ids.includes(v.id))day.ids.push(v.id);await db.put("daily",day);await saveMeta("lastChapter",v.chapter);await saveMeta("lastMode",state.session.mode);await saveMeta("selectedChapters",[...state.selectedChapters]);}
+async function recordDaily(quality){let day=state.daily.find(d=>d.date===today());if(!day){day={date:today(),answered:0,correct:0,wrong:0,ids:[]};state.daily.push(day);}day.answered++;if(["correct","easy"].includes(quality))day.correct++;if(quality==="wrong")day.wrong++;const v=state.session.items[state.session.index];if(!day.ids.includes(v.id))day.ids.push(v.id);await db.put("daily",day);if(v.chapter)await saveMeta("lastChapter",v.chapter);if(v.topicId)await saveMeta("lastTopic",v.topicId);await saveMeta("lastMode",state.session.mode);await saveMeta("selectedChapters",[...state.selectedChapters]);await saveMeta("selectedTopics",[...state.selectedTopics]);}
 function currentStreak(){const active=new Set(state.daily.filter(d=>d.answered>0).map(d=>d.date));let count=0,date=new Date();if(!active.has(date.toLocaleDateString("sv-SE"))){date.setDate(date.getDate()-1);}while(active.has(date.toLocaleDateString("sv-SE"))){count++;date.setDate(date.getDate()-1);}return count;}
 async function saveMeta(key,value){const item={key,value};state.meta.set(key,item);await db.put("meta",item);}
 async function exportData(){const payload=createExport([...state.progress.values()],[...state.meta.values()],state.daily,APP_VERSION),blob=new Blob([JSON.stringify(payload,null,2)],{type:"application/json"}),a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=`tuerkisch-lernstand-${today()}.json`;a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000);toast("Lernstand wurde exportiert.");}
-async function importData(e){try{const text=await e.target.files[0]?.text();if(!text)return;let parsed;try{parsed=JSON.parse(text);}catch{return toast("Die Datei enthält kein gültiges JSON.",true);}const check=validateImport(parsed,new Set(byId.keys()));if(!check.valid)return toast(check.errors.slice(0,3).join(" "),true);if(!confirm(`${parsed.progress.length} Fortschrittseinträge importieren? Vorhandene Einträge werden ersetzt.`))return;await Promise.all(["progress","meta","daily"].map(s=>db.clear(s)));await db.bulkPut("progress",parsed.progress);await db.bulkPut("meta",parsed.meta);await db.bulkPut("daily",parsed.daily);await loadState();render();toast("Lernstand erfolgreich wiederhergestellt.");}catch(err){toast(`Import fehlgeschlagen: ${err.message}`,true);}}
+async function importData(e){try{const text=await e.target.files[0]?.text();if(!text)return;let parsed;try{parsed=JSON.parse(text);}catch{return toast("Die Datei enthält kein gültiges JSON.",true);}const check=validateImport(parsed,new Set(byId.keys()));if(!check.valid)return toast(check.errors.slice(0,3).join(" "),true);if(!confirm(`${check.data.progress.length} bekannte Fortschrittseinträge importieren?${check.warnings.length?` ${check.warnings.length} unbekannte IDs werden übersprungen.`:""} Vorhandene Einträge werden ersetzt.`))return;await Promise.all(["progress","meta","daily"].map(s=>db.clear(s)));await db.bulkPut("progress",check.data.progress);await db.bulkPut("meta",check.data.meta);await db.bulkPut("daily",check.data.daily);await loadState();render();toast(`Lernstand erfolgreich wiederhergestellt.${check.warnings.length?` ${check.warnings.length} unbekannte IDs übersprungen.`:""}`);}catch(err){toast(`Import fehlgeschlagen: ${err.message}`,true);}}
 async function resetData(){if(!confirm("Wirklich den vollständigen Lernstand löschen? Diese Aktion kann nicht rückgängig gemacht werden."))return;if(prompt('Zur Bestätigung bitte "LÖSCHEN" eingeben:')!=="LÖSCHEN")return toast("Zurücksetzen abgebrochen.",true);await Promise.all(["progress","meta","daily"].map(s=>db.clear(s)));state.progress.clear();state.meta.clear();state.daily=[];render();toast("Der Lernstand wurde vollständig zurückgesetzt.");}
 function navigate(view){state.view=view;history.pushState({view},"",`?view=${view}`);render();document.querySelector("#main")?.focus();}
 function toast(message,error=false){const t=document.querySelector("#toast");if(!t){alert(message);return;}t.textContent=message;t.className=`toast show ${error?"error":""}`;clearTimeout(state.toastTimer);state.toastTimer=setTimeout(()=>t.classList.remove("show"),5000);}
 function isStandalone(){return matchMedia("(display-mode: standalone)").matches||navigator.standalone===true;}
 async function installHelp(){if(state.installPrompt){state.installPrompt.prompt();await state.installPrompt.userChoice;state.installPrompt=null;render();return;}const ios=/iPad|iPhone|iPod/.test(navigator.userAgent);alert(ios?"So installierst du die App:\n\n1. In Safari öffnen.\n2. Auf das Teilen-Symbol tippen.\n3. „Zum Home-Bildschirm“ auswählen.\n4. Installation bestätigen.":"Öffne das Browsermenü und wähle „App installieren“ oder „Zum Startbildschirm hinzufügen“.");}
-async function loadState(){try{const [progress,meta,daily]=await Promise.all([db.all("progress"),db.all("meta"),db.all("daily")]);state.progress=new Map(progress.filter(p=>byId.has(p.id)).map(p=>[p.id,p]));state.meta=new Map(meta.map(m=>[m.key,m]));state.daily=daily;const selected=state.meta.get("selectedChapters")?.value;if(Array.isArray(selected)&&selected.length)state.selectedChapters=new Set(selected);}catch(err){console.error(err);$app.innerHTML=`<main class="fatal"><h1>Lokaler Speicher nicht verfügbar</h1><p>${esc(err.message)}</p><p>Prüfe den privaten Modus oder freien Gerätespeicher und lade die Seite neu.</p></main>`;throw err;}}
+async function loadState(){try{const [progress,meta,daily]=await Promise.all([db.all("progress"),db.all("meta"),db.all("daily")]);state.progress=new Map(progress.filter(p=>byId.has(p.id)).map(p=>[p.id,p]));state.meta=new Map(meta.map(m=>[m.key,m]));state.daily=daily;const selected=state.meta.get("selectedChapters")?.value, selectedTopics=state.meta.get("selectedTopics")?.value;if(Array.isArray(selected)&&selected.length)state.selectedChapters=new Set(selected);if(Array.isArray(selectedTopics))state.selectedTopics=new Set(selectedTopics.filter(id=>topics.some(t=>t.id===id)));}catch(err){console.error(err);$app.innerHTML=`<main class="fatal"><h1>Lokaler Speicher nicht verfügbar</h1><p>${esc(err.message)}</p><p>Prüfe den privaten Modus oder freien Gerätespeicher und lade die Seite neu.</p></main>`;throw err;}}
 function setupPWA(){
   window.addEventListener("beforeinstallprompt",e=>{e.preventDefault();state.installPrompt=e;render();});
   const localHost=["localhost","127.0.0.1","[::1]"].includes(location.hostname);

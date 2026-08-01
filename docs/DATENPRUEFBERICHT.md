@@ -1,9 +1,10 @@
 # Datenprüfbericht
 
-Stand: 2026-07-28
+Stand: 2026-08-01
 
+- Datensätze: 968
 - Fehler: 0
-- Hinweise: 0
+- Hinweise: 150
 
 ## Fehler
 
@@ -11,8 +12,157 @@ Keine.
 
 ## Hinweise
 
-Keine.
+- Quellzeile 29: Doppelter Eintrag; zuerst Quellzeile 13.
+- Quellzeile 29: Deutscher Begriff „bitte“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 33: Doppelter Eintrag; zuerst Quellzeile 14.
+- Quellzeile 104: Doppelter Eintrag; zuerst Quellzeile 65.
+- Quellzeile 128: Türkischer Begriff „simit“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 183: Doppelter Eintrag; zuerst Quellzeile 13.
+- Quellzeile 183: Deutscher Begriff „bitte“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 184: Doppelter Eintrag; zuerst Quellzeile 60.
+- Quellzeile 185: Doppelter Eintrag; zuerst Quellzeile 62.
+- Quellzeile 186: Doppelter Eintrag; zuerst Quellzeile 63.
+- Quellzeile 186: Deutscher Begriff „Guten Appetit“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 188: Doppelter Eintrag; zuerst Quellzeile 67.
+- Quellzeile 190: Doppelter Eintrag; zuerst Quellzeile 68.
+- Quellzeile 191: Doppelter Eintrag; zuerst Quellzeile 70.
+- Quellzeile 192: Türkischer Begriff „ne kadar?“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 202: Doppelter Eintrag; zuerst Quellzeile 65.
+- Quellzeile 203: Doppelter Eintrag; zuerst Quellzeile 66.
+- Quellzeile 206: Doppelter Eintrag; zuerst Quellzeile 127.
+- Quellzeile 208: Doppelter Eintrag; zuerst Quellzeile 71.
+- Quellzeile 220: Doppelter Eintrag; zuerst Quellzeile 205.
+- Quellzeile 221: Doppelter Eintrag; zuerst Quellzeile 110.
+- Quellzeile 386: Deutscher Begriff „halb“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 446: Türkischer Begriff „sonra“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 448: Doppelter Eintrag; zuerst Quellzeile 155.
+- Quellzeile 456: Türkischer Begriff „yapmak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 460: Türkischer Begriff „önce“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 470: Doppelter Eintrag; zuerst Quellzeile 385.
+- Quellzeile 480: Doppelter Eintrag; zuerst Quellzeile 301.
+- Quellzeile 481: Doppelter Eintrag; zuerst Quellzeile 388.
+- Quellzeile 482: Türkischer Begriff „çünkü“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 514: Doppelter Eintrag; zuerst Quellzeile 31.
+- Quellzeile 515: Türkischer Begriff „bagaj“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 560: Türkischer Begriff „manzara“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 570: Doppelter Eintrag; zuerst Quellzeile 502.
+- Quellzeile 572: Doppelter Eintrag; zuerst Quellzeile 417.
+- Quellzeile 573: Türkischer Begriff „sessiz“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 584: Doppelter Eintrag; zuerst Quellzeile 250.
+- Quellzeile 587: Türkischer Begriff „serbest“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 596: Doppelter Eintrag; zuerst Quellzeile 318.
+- Quellzeile 598: Doppelter Eintrag; zuerst Quellzeile 280.
+- Quellzeile 660: Türkischer Begriff „düz“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 668: Doppelter Eintrag; zuerst Quellzeile 301.
+- Quellzeile 671: Türkischer Begriff „yokuş“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 675: Doppelter Eintrag; zuerst Quellzeile 145.
+- Quellzeile 687: Türkischer Begriff „hazır“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 689: Türkischer Begriff „karanlık“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 696: Doppelter Eintrag; zuerst Quellzeile 417.
+- Quellzeile 700: Doppelter Eintrag; zuerst Quellzeile 321.
+- Quellzeile 710: Doppelter Eintrag; zuerst Quellzeile 560.
+- Quellzeile 710: Türkischer Begriff „manzara“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 723: Deutscher Begriff „Sonnenaufgang“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 725: Doppelter Eintrag; zuerst Quellzeile 573.
+- Quellzeile 725: Türkischer Begriff „sessiz“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 726: Doppelter Eintrag; zuerst Quellzeile 574.
+- Quellzeile 743: Doppelter Eintrag; zuerst Quellzeile 273.
+- Quellzeile 745: Doppelter Eintrag; zuerst Quellzeile 642.
+- Quellzeile 764: Türkischer Begriff „rahat“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 765: Deutscher Begriff „erneut“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 782: Doppelter Eintrag; zuerst Quellzeile 577.
+- Quellzeile 789: Türkischer Begriff „iskele“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 790: Türkischer Begriff „kalabalık“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 794: Doppelter Eintrag; zuerst Quellzeile 153.
+- Quellzeile 804: Doppelter Eintrag; zuerst Quellzeile 671.
+- Quellzeile 804: Türkischer Begriff „yokuş“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 806: Türkischer Begriff „sahil“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 819: Türkischer Begriff „dikkatli“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 825: Doppelter Eintrag; zuerst Quellzeile 274.
+- Quellzeile 850: Türkischer Begriff „hatıra“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 851: Doppelter Eintrag; zuerst Quellzeile 637.
+- Quellzeile 854: Doppelter Eintrag; zuerst Quellzeile 642.
+- Quellzeile 858: Doppelter Eintrag; zuerst Quellzeile 615.
+- Quellzeile 861: Türkischer Begriff „uygun“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 862: Deutscher Begriff „Schale“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 863: Türkischer Begriff „karar vermek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 864: Doppelter Eintrag; zuerst Quellzeile 749.
+- Quellzeile 878: Türkischer Begriff „devam etmek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 887: Doppelter Eintrag; zuerst Quellzeile 417.
+- Quellzeile 888: Doppelter Eintrag; zuerst Quellzeile 777.
+- Quellzeile 890: Doppelter Eintrag; zuerst Quellzeile 755.
+- Quellzeile 898: Doppelter Eintrag; zuerst Quellzeile 711.
+- Quellzeile 903: Doppelter Eintrag; zuerst Quellzeile 661.
+- Quellzeile 907: Deutscher Begriff „ich mag“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 913: Türkischer Begriff „yolunuz açık olsun“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 915: Doppelter Eintrag; zuerst Quellzeile 545.
+- Quellzeile 916: Türkischer Begriff „artık“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 931: Doppelter Eintrag; zuerst Quellzeile 739.
+- Quellzeile 936: Türkischer Begriff „yolcu“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 937: Doppelter Eintrag; zuerst Quellzeile 52.
+- Quellzeile 938: Doppelter Eintrag; zuerst Quellzeile 749.
+- Quellzeile 944: Deutscher Begriff „Ufer“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 947: Türkischer Begriff „kaybolmak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 11: Doppelter Eintrag; zuerst Quellzeile 313.
+- Quellzeile 40: Doppelter Eintrag; zuerst Quellzeile 353.
+- Quellzeile 41: Doppelter Eintrag; zuerst Quellzeile 354.
+- Quellzeile 42: Doppelter Eintrag; zuerst Quellzeile 355.
+- Quellzeile 52: Doppelter Eintrag; zuerst Quellzeile 278.
+- Quellzeile 64: Doppelter Eintrag; zuerst Quellzeile 346.
+- Quellzeile 67: Doppelter Eintrag; zuerst Quellzeile 291.
+- Quellzeile 69: Doppelter Eintrag; zuerst Quellzeile 292.
+- Quellzeile 73: Doppelter Eintrag; zuerst Quellzeile 300.
+- Quellzeile 74: Doppelter Eintrag; zuerst Quellzeile 358.
+- Quellzeile 76: Doppelter Eintrag; zuerst Quellzeile 361.
+- Quellzeile 84: Doppelter Eintrag; zuerst Quellzeile 820.
+- Quellzeile 91: Türkischer Begriff „yüz“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 92: Deutscher Begriff „Hals“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 98: Doppelter Eintrag; zuerst Quellzeile 274.
+- Quellzeile 108: Doppelter Eintrag; zuerst Quellzeile 830.
+- Quellzeile 111: Doppelter Eintrag; zuerst Quellzeile 837.
+- Quellzeile 120: Doppelter Eintrag; zuerst Quellzeile 384.
+- Quellzeile 121: Doppelter Eintrag; zuerst Quellzeile 153.
+- Quellzeile 122: Doppelter Eintrag; zuerst Quellzeile 795.
+- Quellzeile 128: Doppelter Eintrag; zuerst Quellzeile 91.
+- Quellzeile 129: Doppelter Eintrag; zuerst Quellzeile 38.
+- Quellzeile 130: Türkischer Begriff „metro“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 138: Doppelter Eintrag; zuerst Quellzeile 182.
+- Quellzeile 149: Doppelter Eintrag; zuerst Quellzeile 62.
+- Quellzeile 165: Doppelter Eintrag; zuerst Quellzeile 70.
+- Quellzeile 169: Türkischer Begriff „kabak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 176: Doppelter Eintrag; zuerst Quellzeile 817.
+- Quellzeile 181: Türkischer Begriff „balıkçı“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 188: Doppelter Eintrag; zuerst Quellzeile 172.
+- Quellzeile 199: Doppelter Eintrag; zuerst Quellzeile 60.
+- Quellzeile 204: Doppelter Eintrag; zuerst Quellzeile 64.
+- Quellzeile 206: Doppelter Eintrag; zuerst Quellzeile 67.
+- Quellzeile 207: Doppelter Eintrag; zuerst Quellzeile 66.
+- Quellzeile 217: Doppelter Eintrag; zuerst Quellzeile 69.
+- Quellzeile 218: Doppelter Eintrag; zuerst Quellzeile 71.
+- Quellzeile 227: Doppelter Eintrag; zuerst Quellzeile 288.
+- Quellzeile 229: Doppelter Eintrag; zuerst Quellzeile 289.
+- Quellzeile 236: Doppelter Eintrag; zuerst Quellzeile 68.
+- Quellzeile 244: Doppelter Eintrag; zuerst Quellzeile 865.
+- Quellzeile 260: Türkischer Begriff „koltuk“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 264: Doppelter Eintrag; zuerst Quellzeile 222.
+- Quellzeile 270: Doppelter Eintrag; zuerst Quellzeile 818.
+- Quellzeile 276: Türkischer Begriff „eş“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 277: Türkischer Begriff „eş“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 278: Doppelter Eintrag; zuerst Quellzeile 636.
+- Quellzeile 279: Doppelter Eintrag; zuerst Quellzeile 637.
+- Quellzeile 280: Doppelter Eintrag; zuerst Quellzeile 31.
+- Quellzeile 282: Doppelter Eintrag; zuerst Quellzeile 852.
+- Quellzeile 283: Doppelter Eintrag; zuerst Quellzeile 639.
+- Quellzeile 284: Doppelter Eintrag; zuerst Quellzeile 643.
+- Quellzeile 285: Doppelter Eintrag; zuerst Quellzeile 644.
+- Quellzeile 288: Doppelter Eintrag; zuerst Quellzeile 124.
+- Quellzeile 295: Doppelter Eintrag; zuerst Quellzeile 646.
+- Quellzeile 296: Doppelter Eintrag; zuerst Quellzeile 647.
+- Quellzeile 298: Doppelter Eintrag; zuerst Quellzeile 936.
+- Quellzeile 298: Türkischer Begriff „yolcu“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 302: Türkischer Begriff „kız“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 305: Doppelter Eintrag; zuerst Quellzeile 651.
 
 ## Datenquellen
 
-Die Vokabelwerte stammen unverändert aus dem Vokabel-Extrakt. Die 45 Kapitelbezeichnungen stammen aus der separat bereitgestellten Datei „Kapitelbezeichnungen_1-45.md“ und werden in `data/chapter-titles.json` gepflegt.
+Kapitelwerte stammen unverändert aus dem Vokabel-Extrakt. Themenwerte stammen unverändert aus `data/source/THEMENWORTSCHATZ_TUERKISCH.md` und werden mit `scripts/import-topics.js` erzeugt. Hinweise werden nicht automatisch bereinigt.

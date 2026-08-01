@@ -1,0 +1,820 @@
+{
+  "id": "personen",
+  "title": "Personen",
+  "vocabulary": [
+    {
+      "id": "thema-personen-001",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Apotheker"
+      ],
+      "turkish": "eczacı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 270,
+        "originalGerman": "Apotheker"
+      }
+    },
+    {
+      "id": "thema-personen-002",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Arbeiter"
+      ],
+      "turkish": "işçi",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 271,
+        "originalGerman": "Arbeiter"
+      }
+    },
+    {
+      "id": "thema-personen-003",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Arzt"
+      ],
+      "turkish": "doktor",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 272,
+        "originalGerman": "Arzt"
+      }
+    },
+    {
+      "id": "thema-personen-004",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Baby"
+      ],
+      "turkish": "bebek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 273,
+        "originalGerman": "Baby"
+      }
+    },
+    {
+      "id": "thema-personen-005",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Bruder"
+      ],
+      "turkish": "erkek kardeş",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 274,
+        "originalGerman": "Bruder"
+      }
+    },
+    {
+      "id": "thema-personen-006",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Chef"
+      ],
+      "turkish": "patron",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 275,
+        "originalGerman": "Chef"
+      }
+    },
+    {
+      "id": "thema-personen-007",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Ehefrau"
+      ],
+      "turkish": "eş",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 276,
+        "originalGerman": "Ehefrau"
+      }
+    },
+    {
+      "id": "thema-personen-008",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Ehemann"
+      ],
+      "turkish": "eş",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 277,
+        "originalGerman": "Ehemann"
+      }
+    },
+    {
+      "id": "thema-personen-009",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Enkel"
+      ],
+      "turkish": "torun",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 278,
+        "originalGerman": "Enkel"
+      }
+    },
+    {
+      "id": "thema-personen-010",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Familie"
+      ],
+      "turkish": "aile",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 279,
+        "originalGerman": "Familie"
+      }
+    },
+    {
+      "id": "thema-personen-011",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Fahrer"
+      ],
+      "turkish": "şoför",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 280,
+        "originalGerman": "Fahrer"
+      }
+    },
+    {
+      "id": "thema-personen-012",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Frau"
+      ],
+      "turkish": "kadın",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 281,
+        "originalGerman": "Frau"
+      }
+    },
+    {
+      "id": "thema-personen-013",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Freund"
+      ],
+      "turkish": "arkadaş",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 282,
+        "originalGerman": "Freund"
+      }
+    },
+    {
+      "id": "thema-personen-014",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Gast"
+      ],
+      "turkish": "misafir",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 283,
+        "originalGerman": "Gast"
+      }
+    },
+    {
+      "id": "thema-personen-015",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Großmutter"
+      ],
+      "turkish": "büyükanne",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 284,
+        "originalGerman": "Großmutter"
+      }
+    },
+    {
+      "id": "thema-personen-016",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Großvater"
+      ],
+      "turkish": "büyükbaba",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 285,
+        "originalGerman": "Großvater"
+      }
+    },
+    {
+      "id": "thema-personen-017",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Händler"
+      ],
+      "turkish": "tüccar",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 286,
+        "originalGerman": "Händler"
+      }
+    },
+    {
+      "id": "thema-personen-018",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Junge"
+      ],
+      "turkish": "oğlan",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 287,
+        "originalGerman": "Junge"
+      }
+    },
+    {
+      "id": "thema-personen-019",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Kellner"
+      ],
+      "turkish": "garson",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 288,
+        "originalGerman": "Kellner"
+      }
+    },
+    {
+      "id": "thema-personen-020",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Kind"
+      ],
+      "turkish": "çocuk",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 289,
+        "originalGerman": "Kind"
+      }
+    },
+    {
+      "id": "thema-personen-021",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Kunde"
+      ],
+      "turkish": "müşteri",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 290,
+        "originalGerman": "Kunde"
+      }
+    },
+    {
+      "id": "thema-personen-022",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Lehrer"
+      ],
+      "turkish": "öğretmen",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 291,
+        "originalGerman": "Lehrer"
+      }
+    },
+    {
+      "id": "thema-personen-023",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Mädchen"
+      ],
+      "turkish": "kız",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 292,
+        "originalGerman": "Mädchen"
+      }
+    },
+    {
+      "id": "thema-personen-024",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Mann"
+      ],
+      "turkish": "erkek",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 293,
+        "originalGerman": "Mann"
+      }
+    },
+    {
+      "id": "thema-personen-025",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Mensch"
+      ],
+      "turkish": "insan",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 294,
+        "originalGerman": "Mensch"
+      }
+    },
+    {
+      "id": "thema-personen-026",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Mutter"
+      ],
+      "turkish": "anne",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 295,
+        "originalGerman": "Mutter"
+      }
+    },
+    {
+      "id": "thema-personen-027",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Nachbar"
+      ],
+      "turkish": "komşu",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 296,
+        "originalGerman": "Nachbar"
+      }
+    },
+    {
+      "id": "thema-personen-028",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Polizist"
+      ],
+      "turkish": "polis",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 297,
+        "originalGerman": "Polizist"
+      }
+    },
+    {
+      "id": "thema-personen-029",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Reisender"
+      ],
+      "turkish": "yolcu",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 298,
+        "originalGerman": "Reisender"
+      }
+    },
+    {
+      "id": "thema-personen-030",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Schwester"
+      ],
+      "turkish": "kız kardeş",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 299,
+        "originalGerman": "Schwester"
+      }
+    },
+    {
+      "id": "thema-personen-031",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Sohn"
+      ],
+      "turkish": "oğul",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 300,
+        "originalGerman": "Sohn"
+      }
+    },
+    {
+      "id": "thema-personen-032",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Student"
+      ],
+      "turkish": "öğrenci",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 301,
+        "originalGerman": "Student"
+      }
+    },
+    {
+      "id": "thema-personen-033",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Tochter"
+      ],
+      "turkish": "kız",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 302,
+        "originalGerman": "Tochter"
+      }
+    },
+    {
+      "id": "thema-personen-034",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Tourist"
+      ],
+      "turkish": "turist",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 303,
+        "originalGerman": "Tourist"
+      }
+    },
+    {
+      "id": "thema-personen-035",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Verkäufer"
+      ],
+      "turkish": "satıcı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 304,
+        "originalGerman": "Verkäufer"
+      }
+    },
+    {
+      "id": "thema-personen-036",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Vater"
+      ],
+      "turkish": "baba",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 305,
+        "originalGerman": "Vater"
+      }
+    },
+    {
+      "id": "thema-personen-037",
+      "sourceType": "topic",
+      "topicId": "personen",
+      "topicTitle": "Personen",
+      "german": [
+        "Verwandter"
+      ],
+      "turkish": "akraba",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Personen",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 306,
+        "originalGerman": "Verwandter"
+      }
+    }
+  ]
+}

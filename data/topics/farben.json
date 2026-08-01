@@ -1,0 +1,314 @@
+{
+  "id": "farben",
+  "title": "Farben",
+  "vocabulary": [
+    {
+      "id": "thema-farben-001",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "beige"
+      ],
+      "turkish": "bej",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 63,
+        "originalGerman": "beige"
+      }
+    },
+    {
+      "id": "thema-farben-002",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "blau"
+      ],
+      "turkish": "mavi",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 64,
+        "originalGerman": "blau"
+      }
+    },
+    {
+      "id": "thema-farben-003",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "braun"
+      ],
+      "turkish": "kahverengi",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 65,
+        "originalGerman": "braun"
+      }
+    },
+    {
+      "id": "thema-farben-004",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "bunt"
+      ],
+      "turkish": "renkli",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 66,
+        "originalGerman": "bunt"
+      }
+    },
+    {
+      "id": "thema-farben-005",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "gelb"
+      ],
+      "turkish": "sarı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 67,
+        "originalGerman": "gelb"
+      }
+    },
+    {
+      "id": "thema-farben-006",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "grau"
+      ],
+      "turkish": "gri",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 68,
+        "originalGerman": "grau"
+      }
+    },
+    {
+      "id": "thema-farben-007",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "grün"
+      ],
+      "turkish": "yeşil",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 69,
+        "originalGerman": "grün"
+      }
+    },
+    {
+      "id": "thema-farben-008",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "lila"
+      ],
+      "turkish": "mor",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 70,
+        "originalGerman": "lila"
+      }
+    },
+    {
+      "id": "thema-farben-009",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "orange"
+      ],
+      "turkish": "turuncu",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 71,
+        "originalGerman": "orange"
+      }
+    },
+    {
+      "id": "thema-farben-010",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "rosa"
+      ],
+      "turkish": "pembe",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 72,
+        "originalGerman": "rosa"
+      }
+    },
+    {
+      "id": "thema-farben-011",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "rot"
+      ],
+      "turkish": "kırmızı",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 73,
+        "originalGerman": "rot"
+      }
+    },
+    {
+      "id": "thema-farben-012",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "schwarz"
+      ],
+      "turkish": "siyah",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 74,
+        "originalGerman": "schwarz"
+      }
+    },
+    {
+      "id": "thema-farben-013",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "türkis"
+      ],
+      "turkish": "turkuaz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 75,
+        "originalGerman": "türkis"
+      }
+    },
+    {
+      "id": "thema-farben-014",
+      "sourceType": "topic",
+      "topicId": "farben",
+      "topicTitle": "Farben",
+      "german": [
+        "weiß"
+      ],
+      "turkish": "beyaz",
+      "active": true,
+      "pronunciation": "",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "Farben",
+      "notes": "",
+      "examples": [],
+      "source": {
+        "file": "THEMENWORTSCHATZ_TUERKISCH.md",
+        "line": 76,
+        "originalGerman": "weiß"
+      }
+    }
+  ]
+}
