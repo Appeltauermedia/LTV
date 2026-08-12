@@ -1,7 +1,7 @@
 // Automatisch erzeugter Offline-Wortschatz.
 export default {
   "schemaVersion": 2,
-  "contentVersion": "2026.08.01",
+  "contentVersion": "2026.08.12",
   "language": {
     "source": "tr",
     "target": "de"
@@ -3345,6 +3345,27 @@ export default {
         "file": "Vokabel-Extrakt_Kapitel_1-45.md",
         "line": 208,
         "originalGerman": "Wasser"
+      },
+      "sourceType": "chapter"
+    },
+    {
+      "id": "k12-v012",
+      "chapter": 12,
+      "chapterTitle": "Ein Café in Kadıköy",
+      "turkish": "ve",
+      "german": [
+        "und"
+      ],
+      "pronunciation": "ve",
+      "additionalMeanings": [],
+      "partOfSpeech": "",
+      "category": "",
+      "notes": "",
+      "examples": [],
+      "active": true,
+      "source": {
+        "file": "chapter-additions.json",
+        "originalGerman": "und"
       },
       "sourceType": "chapter"
     },

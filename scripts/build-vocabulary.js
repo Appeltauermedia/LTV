@@ -4,6 +4,7 @@ import path from "node:path";
 const source = process.argv[2] || "C:/Users/apple/Downloads/Vokabel-Extrakt_Kapitel_1-45.md";
 const destination = process.argv[3] || "data/vocabulary.json";
 const titlesFile = process.argv[4] || "data/chapter-titles.json";
+const additionsFile = process.argv[5] || "data/chapter-additions.json";
 const chapterDefinitions = JSON.parse(fs.readFileSync(titlesFile, "utf8")).chapters;
 const chapterTitles = new Map(chapterDefinitions.map((item) => [item.number, item.title]));
 const raw = fs.readFileSync(source, "utf8");
@@ -40,6 +41,22 @@ for (const [lineIndex, line] of raw.split(/\r?\n/).entries()) {
     source: { file: path.basename(source), line: lineIndex + 1, originalGerman: cells[0] }
   });
 }
+if (fs.existsSync(additionsFile)) {
+  const ids = new Set(vocabulary.map((item) => item.id));
+  for (const item of JSON.parse(fs.readFileSync(additionsFile, "utf8")).vocabulary || []) {
+    if (ids.has(item.id)) throw new Error(`Ergänzungs-ID ${item.id} kollidiert mit dem Vokabel-Extrakt.`);
+    ids.add(item.id);
+    vocabulary.push({
+      ...item,
+      sourceType: "chapter",
+      chapterTitle: chapterTitles.get(item.chapter) || `Kapitel ${item.chapter}`,
+      additionalMeanings: item.additionalMeanings || [], partOfSpeech: item.partOfSpeech || "",
+      category: item.category || "", notes: item.notes || "", examples: item.examples || [],
+      source: { file: path.basename(additionsFile), originalGerman: item.german.join(" / ") }
+    });
+  }
+}
+vocabulary.sort((a, b) => a.chapter - b.chapter || a.id.localeCompare(b.id));
 const output = {
   schemaVersion: 1,
   contentVersion: "2026.07.28",

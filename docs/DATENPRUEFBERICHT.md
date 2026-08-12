@@ -2,7 +2,7 @@
 
 Stand: 2026-08-01
 
-- Datensätze: 968
+- Datensätze: 969
 - Fehler: 0
 - Hinweise: 150
 

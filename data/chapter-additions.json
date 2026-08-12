@@ -1,0 +1,12 @@
+{
+  "vocabulary": [
+    {
+      "id": "k12-v012",
+      "chapter": 12,
+      "german": ["und"],
+      "turkish": "ve",
+      "pronunciation": "ve",
+      "active": true
+    }
+  ]
+}

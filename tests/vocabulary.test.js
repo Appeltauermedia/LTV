@@ -5,8 +5,9 @@ import { validateVocabulary } from "../scripts/validate-vocabulary.js";
 import { searchKey } from "../src/utils/text.js";
 
 test("Kapitel- und Themenbestand sind vollständig und valide", () => {
-  const r=validateVocabulary(data);assert.deepEqual(r.errors,[]);assert.equal(data.chapters.length,45);assert.equal(data.topics.length,11);assert.equal(data.vocabulary.length,968);
+  const r=validateVocabulary(data);assert.deepEqual(r.errors,[]);assert.equal(data.chapters.length,45);assert.equal(data.topics.length,11);assert.equal(data.vocabulary.length,969);
 });
+test("Kapitel 12 enthält die feste Ergänzung und – ve",()=>{const item=data.vocabulary.find(v=>v.id==="k12-v012");assert.ok(item);assert.equal(item.chapter,12);assert.deepEqual(item.german,["und"]);assert.equal(item.turkish,"ve");assert.equal(item.sourceType,"chapter");});
 test("IDs sind stabil, eindeutig und kapitelbezogen", () => {
   const ids=data.vocabulary.map(v=>v.id);assert.equal(new Set(ids).size,ids.length);
   assert.ok(data.vocabulary.filter(v=>v.sourceType==="chapter").every(v=>v.id.startsWith(`k${String(v.chapter).padStart(2,"0")}-`)));
