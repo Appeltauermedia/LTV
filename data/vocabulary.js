@@ -3356,7 +3356,7 @@ export default {
       "german": [
         "und"
       ],
-      "pronunciation": "ve",
+      "pronunciation": "we",
       "additionalMeanings": [],
       "partOfSpeech": "",
       "category": "",
