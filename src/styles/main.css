@@ -65,8 +65,7 @@ body,#app{
 @media(min-width:700px){.search-filters,.source-tabs{grid-template-columns:repeat(2,1fr)}.source-tabs{grid-template-columns:repeat(3,1fr)}}
 @media(min-width:1050px){.vocabulary-selection{grid-template-columns:minmax(0,1.45fr) minmax(320px,1fr);align-items:start}.vocabulary-selection>section>.chapter-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.vocabulary-selection .topic-grid{grid-template-columns:1fr}.topic-heading{flex-direction:row;align-items:flex-end}.topic-heading .tool-buttons{width:auto;flex-wrap:nowrap}}
 .cover-wrap img{height:auto}
-.cover-wrap{display:flex;flex-direction:column;align-items:center;color:white;text-decoration:none}.cover-order-label{margin-top:.65rem;transform:rotate(4deg);font-size:.75rem;font-weight:800;line-height:1.25;text-align:center;white-space:nowrap;text-shadow:0 2px 8px rgba(0,0,0,.7)}.cover-wrap:hover .cover-order-label{text-decoration:underline}
-@media(max-width:699px){.cover-wrap{transform:translateY(-60px) rotate(-4deg)}}
+.book-order-button{display:block;width:100%;margin:0 0 1rem}
 .chapter-mastery small{
   color:var(--muted);
 }

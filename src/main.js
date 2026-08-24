@@ -46,10 +46,11 @@ function render() {
 function homeView() {
   const s=stat(), goal=Number(state.meta.get("dailyGoal")?.value || 20), last=state.meta.get("lastChapter")?.value;
   return `<section class="hero">
-    <a class="cover-wrap" href="https://www.amazon.de/Istanbula-Hos-Geldiniz-Sprachreise-Istanbul/dp/369574619X/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=3BSR0NCVAPC9R&amp;dib=eyJ2IjoiMSJ9.WJmXVHCuJ9iOwMfWGZCuCw.1lGVe3XtrgWZIWrEt3-fC8VcRQZSZK_mGQ8SoxGmmGM&amp;dib_tag=se&amp;keywords=978-3695746194&amp;qid=1787589989&amp;sprefix=978-3695746194%2Caps%2C132&amp;sr=8-1" target="_blank" rel="noopener noreferrer" title="Jetzt das Buch bestellen" aria-label="Jetzt das Buch bestellen"><img src="./images/lt-cover-front.webp" alt="Buchcover İstanbul'a Hoş Geldiniz – Türkisch für Anfänger" width="720" height="960"><span class="cover-order-label">Jetzt das Buch bestellen</span></a>
+    <div class="cover-wrap"><img src="./images/lt-cover-front.webp" alt="Buchcover İstanbul'a Hoş Geldiniz – Türkisch für Anfänger" width="720" height="960"></div>
     <div class="hero-copy"><p class="eyebrow">DEIN PERSÖNLICHER</p><h2>Vokabeltrainer</h2><p>${s.day.answered ? `Heute schon <strong>${s.day.answered}</strong> Aufgaben bearbeitet.` : "Bereit für ein paar neue Wörter?"}</p>
     <div class="hero-actions"><button class="primary" data-action="quick-start">Lernen starten</button><button class="secondary" data-action="today">Heute lernen <span>${s.due} fällig</span></button></div></div>
   </section>
+  <a class="primary book-order-button" href="https://www.amazon.de/Istanbula-Hos-Geldiniz-Sprachreise-Istanbul/dp/369574619X/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=3BSR0NCVAPC9R&amp;dib=eyJ2IjoiMSJ9.WJmXVHCuJ9iOwMfWGZCuCw.1lGVe3XtrgWZIWrEt3-fC8VcRQZSZK_mGQ8SoxGmmGM&amp;dib_tag=se&amp;keywords=978-3695746194&amp;qid=1787589989&amp;sprefix=978-3695746194%2Caps%2C132&amp;sr=8-1" target="_blank" rel="noopener noreferrer">Jetzt das Buch bestellen</a>
   <section class="dashboard-grid">
     <article class="panel goal-card"><div class="section-title"><h3>Tagesziel</h3><b>${Math.min(s.day.answered,goal)} / ${goal}</b></div>${progressBar(s.day.answered,goal)}<p>${s.day.answered>=goal?"Tagesziel erreicht – stark und sachlich weiter!":`${Math.max(0,goal-s.day.answered)} Aufgaben fehlen noch.`}</p></article>
     <article class="panel"><div class="section-title"><h3>Gesamtfortschritt</h3><b>${Math.round(s.learned/s.total*100)} %</b></div>${progressBar(s.learned,s.total)}<p>${s.learned} von ${s.total} Vokabeln sicher gelernt</p></article>
