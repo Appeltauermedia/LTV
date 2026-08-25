@@ -4,7 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <meta name="theme-color" content="#b4232f">
-    <meta name="description" content="Offline-fähiger Türkisch-Vokabeltrainer für Lerne Türkisch">
+    <meta name="description" content="Türkisch lernen für Anfänger: kostenloser Türkisch-Vokabeltrainer mit 45 Buchkapiteln, Themenwortschatz und dem Lehrbuch İstanbul'a Hoş Geldiniz.">
+    <meta name="keywords" content="Türkisch lernen, Türkisch für Anfänger, Türkisch Vokabeltrainer">
+    <meta name="robots" content="index, follow, max-image-preview:large">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="de_DE">
+    <meta property="og:title" content="Türkisch lernen für Anfänger | Vokabeltrainer & Lehrbuch">
+    <meta property="og:description" content="Kostenlos Türkisch lernen: persönlicher Vokabeltrainer und begleitendes Lehrbuch für Anfänger.">
+    <meta property="og:image" content="./images/lt-cover-front.webp">
+    <meta property="og:image:alt" content="Lehrbuch İstanbul'a Hoş Geldiniz – Türkisch für Anfänger">
+    <meta name="twitter:card" content="summary_large_image">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
@@ -16,7 +25,34 @@
     <link rel="icon" href="./icons/favicon-48.png?v=1.0.14" sizes="48x48" type="image/png">
     <link rel="apple-touch-icon" href="./icons/icon-192.png">
     <link rel="stylesheet" href="./src/styles/main.css">
-    <title>Lerne Türkisch – Vokabeltrainer</title>
+    <title>Türkisch lernen für Anfänger | Türkisch Vokabeltrainer</title>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebApplication",
+            "name": "Lerne Türkisch – Vokabeltrainer",
+            "applicationCategory": "EducationalApplication",
+            "operatingSystem": "Web",
+            "inLanguage": "de",
+            "description": "Kostenloser Türkisch-Vokabeltrainer für Anfänger mit 45 Kapiteln und Themenwortschatz.",
+            "offers": {"@type": "Offer", "price": "0", "priceCurrency": "EUR"}
+          },
+          {
+            "@type": "Book",
+            "name": "İstanbul'a Hoş Geldiniz – Türkisch für Anfänger",
+            "author": [
+              {"@type": "Person", "name": "Kai Appeltauer"},
+              {"@type": "Person", "name": "Hannah Appeltauer"}
+            ],
+            "isbn": "9783695746194",
+            "inLanguage": "de",
+            "url": "https://www.amazon.de/dp/369574619X"
+          }
+        ]
+      }
+    </script>
     <script src="./file-protocol-check.js"></script>
   </head>
   <body>
@@ -24,6 +60,7 @@
     <div id="app">
       <div class="boot" role="status"><span class="spinner"></span><p>Vokabeltrainer wird geladen …</p></div>
     </div>
+    <noscript><main><h1>Türkisch lernen für Anfänger</h1><p>Nutze den Türkisch-Vokabeltrainer mit 45 Kapiteln und ergänzendem Themenwortschatz. Für die Lernfunktionen muss JavaScript aktiviert sein.</p></main></noscript>
     <script type="module" src="./src/main.js"></script>
   </body>
 </html>

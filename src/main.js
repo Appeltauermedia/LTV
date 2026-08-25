@@ -11,7 +11,7 @@ const vocab = vocabularyData.vocabulary.filter((v) => v.active);
 const byId = new Map(vocab.map((v) => [v.id, v]));
 const topics = vocabularyData.topics || [];
 const state = {
-  view: new URLSearchParams(location.search).get("view") || "home", progress: new Map(), daily: [], meta: new Map(),
+  view: new URLSearchParams(location.search).get("view") || "landing", progress: new Map(), daily: [], meta: new Map(),
   selectedChapters: new Set([1]), selectedTopics: new Set(), learningSettings: {...DEFAULT_LEARN_SETTINGS}, statsSource: "all", searchSource: "all", searchTopic: "all",
   session: null, installPrompt: null, updateWorker: null, toastTimer: null
 };
@@ -39,9 +39,54 @@ function nav(extra="") {
   return `<nav class="nav ${extra}">${["home","learn","chapters","progress","settings"].map(v=>`<button data-nav="${v}" ${state.view===v?'aria-current="page"':""}><span aria-hidden="true">${icons[v]}</span><small>${{home:"Start",learn:"Lernen",chapters:"Kapitel",progress:"Fortschritt",settings:"Einstellungen"}[v]}</small></button>`).join("")}</nav>`;
 }
 function render() {
+  if (state.view === "landing") {
+    $app.innerHTML = landingView();
+    bindLanding();
+    return;
+  }
   const views = { home:homeView, learn:learnSetupView, chapters:chaptersView, progress:progressView, settings:settingsView, search:searchView };
   $app.innerHTML = shell((views[state.view] || homeView)());
   bindCommon();
+}
+function landingView() {
+  return `<div class="landing-page">
+    <header class="landing-header">
+      <a class="landing-brand" href="?view=landing" aria-label="Lerne Türkisch – Startseite"><img src="${teaIconUrl}" alt="" width="44" height="44"><span><b>Lerne Türkisch</b><small>Mit System. Mit Freude.</small></span></a>
+      <a class="landing-nav-link" href="?view=home" data-landing-view="home">Zum Vokabeltrainer <span aria-hidden="true">→</span></a>
+    </header>
+    <main class="landing-main" id="main">
+      <section class="landing-hero" aria-labelledby="landing-title">
+        <div class="landing-copy">
+          <p class="landing-kicker">TÜRKISCH LERNEN · ISTANBUL ERLEBEN</p>
+          <h1 id="landing-title">Türkisch lernen für Anfänger.</h1>
+          <p class="landing-lead">Deine Sprachreise beginnt hier: Lerne Türkisch Schritt für Schritt – mit einem kostenlosen Türkisch-Vokabeltrainer und dem liebevoll gestalteten Lehrbuch <em>İstanbul'a Hoş Geldiniz</em>.</p>
+          <div class="landing-actions">
+            <a class="landing-button landing-button-primary" href="?view=home" data-landing-view="home">Vokabeltrainer öffnen <span aria-hidden="true">→</span></a>
+            <a class="landing-button landing-button-quiet" href="#buch">Buch entdecken <span aria-hidden="true">↓</span></a>
+          </div>
+          <ul class="landing-benefits" aria-label="Vorteile des Vokabeltrainers">
+            <li><span aria-hidden="true">✓</span> Kostenlos &amp; ohne Anmeldung</li>
+            <li><span aria-hidden="true">✓</span> 45 Kapitel plus Themenwortschatz</li>
+            <li><span aria-hidden="true">✓</span> Lernstand bleibt auf deinem Gerät</li>
+          </ul>
+        </div>
+        <aside class="book-feature" id="buch" aria-label="Das begleitende Lehrbuch">
+          <div class="book-glow"></div>
+          <img src="./images/lt-cover-front.webp" alt="Cover des Lehrbuchs İstanbul'a Hoş Geldiniz – Türkisch für Anfänger" width="720" height="960">
+          <div class="book-feature-copy">
+            <p class="landing-kicker">DAS BUCH ZUM TRAINER</p>
+            <h2>Mehr als Vokabeln.</h2>
+            <p>Dialoge, Kultur und Alltagssituationen begleiten dich auf einer Sprachreise durch Istanbul und die Türkei.</p>
+            <a class="landing-button landing-button-book" href="https://www.amazon.de/Istanbula-Hos-Geldiniz-Sprachreise-Istanbul/dp/369574619X" target="_blank" rel="noopener noreferrer">Bei Amazon ansehen <span aria-hidden="true">↗</span></a>
+          </div>
+        </aside>
+      </section>
+    </main>
+    <footer class="landing-footer"><span>© Appeltauer Media</span><span>Türkisch lernen – selbstbestimmt und mit Freude.</span></footer>
+  </div>`;
+}
+function bindLanding() {
+  document.querySelectorAll("[data-landing-view]").forEach(link=>link.addEventListener("click",event=>{event.preventDefault();navigate(link.dataset.landingView);}));
 }
 function homeView() {
   const s=stat(), goal=Number(state.meta.get("dailyGoal")?.value || 20), last=state.meta.get("lastChapter")?.value;
@@ -274,7 +319,7 @@ function setupIOSKeyboardViewport(){
     setTimeout(()=>viewport.setAttribute("content",defaultContent),300);
   });
 }
-window.addEventListener("popstate",e=>{state.view=e.state?.view||new URLSearchParams(location.search).get("view")||"home";render();});
+window.addEventListener("popstate",e=>{state.view=e.state?.view||new URLSearchParams(location.search).get("view")||"landing";render();});
 window.addEventListener("online",()=>toast("Du bist wieder online."));
 window.addEventListener("offline",()=>toast("Offline-Modus: Alle Lernfunktionen bleiben verfügbar."));
 applyTheme();document.documentElement.classList.toggle("large-text",localStorage.getItem("largeText")==="true");setupIOSKeyboardViewport();
