@@ -10,8 +10,9 @@ const APP_VERSION = "1.1.1";
 const vocab = vocabularyData.vocabulary.filter((v) => v.active);
 const byId = new Map(vocab.map((v) => [v.id, v]));
 const topics = vocabularyData.topics || [];
+const isTrainerPage = location.pathname.endsWith("/trainer.html");
 const state = {
-  view: new URLSearchParams(location.search).get("view") || "landing", progress: new Map(), daily: [], meta: new Map(),
+  view: new URLSearchParams(location.search).get("view") || (isTrainerPage ? "home" : "landing"), progress: new Map(), daily: [], meta: new Map(),
   selectedChapters: new Set([1]), selectedTopics: new Set(), learningSettings: {...DEFAULT_LEARN_SETTINGS}, statsSource: "all", searchSource: "all", searchTopic: "all",
   session: null, installPrompt: null, updateWorker: null, toastTimer: null
 };
@@ -39,6 +40,7 @@ function nav(extra="") {
   return `<nav class="nav ${extra}">${["home","learn","chapters","progress","settings"].map(v=>`<button data-nav="${v}" ${state.view===v?'aria-current="page"':""}><span aria-hidden="true">${icons[v]}</span><small>${{home:"Start",learn:"Lernen",chapters:"Kapitel",progress:"Fortschritt",settings:"Einstellungen"}[v]}</small></button>`).join("")}</nav>`;
 }
 function render() {
+  updateDocumentMeta();
   if (state.view === "landing") {
     $app.innerHTML = landingView();
     bindLanding();
@@ -48,11 +50,25 @@ function render() {
   $app.innerHTML = shell((views[state.view] || homeView)());
   bindCommon();
 }
+function updateDocumentMeta() {
+  const landing = state.view === "landing" && !isTrainerPage;
+  const indexable = landing || state.view === "home";
+  const canonical = landing ? "https://appeltauermedia.github.io/LTV/" : "https://appeltauermedia.github.io/LTV/trainer.html";
+  const title = landing ? "Türkisch lernen für Anfänger | Vokabeltrainer & Lehrbuch" : "Türkisch Vokabeltrainer – kostenlos lernen | Lerne Türkisch";
+  const description = landing ? "Türkisch lernen für Anfänger: kostenloser Türkisch-Vokabeltrainer mit 45 Buchkapiteln, Themenwortschatz und dem Lehrbuch İstanbul'a Hoş Geldiniz." : "Kostenloser Türkisch-Vokabeltrainer für Anfänger: 969 Vokabeln aus 45 Kapiteln und 11 Themen, verschiedene Lernmodi und lokaler Lernfortschritt.";
+  document.title = title;
+  document.querySelector('meta[name="description"]')?.setAttribute("content", description);
+  document.querySelector('meta[name="robots"]')?.setAttribute("content", indexable ? "index, follow, max-image-preview:large" : "noindex, follow");
+  document.querySelector('link[rel="canonical"]')?.setAttribute("href", canonical);
+  document.querySelector('meta[property="og:title"]')?.setAttribute("content", title);
+  document.querySelector('meta[property="og:description"]')?.setAttribute("content", description);
+  document.querySelector('meta[property="og:url"]')?.setAttribute("content", canonical);
+}
 function landingView() {
   return `<div class="landing-page">
     <header class="landing-header">
       <a class="landing-brand" href="?view=landing" aria-label="Lerne Türkisch – Startseite"><img src="${teaIconUrl}" alt="" width="44" height="44"><span><b>Lerne Türkisch</b><small>Mit System. Mit Freude.</small></span></a>
-      <a class="landing-nav-link" href="?view=home" data-landing-view="home">Zum Vokabeltrainer <span aria-hidden="true">→</span></a>
+      <a class="landing-nav-link" href="./trainer.html">Zum Vokabeltrainer <span aria-hidden="true">→</span></a>
     </header>
     <main class="landing-main" id="main">
       <section class="landing-hero" aria-labelledby="landing-title">
@@ -61,7 +77,7 @@ function landingView() {
           <h1 id="landing-title">Türkisch lernen für Anfänger.</h1>
           <p class="landing-lead">Deine Sprachreise beginnt hier: Lerne Türkisch Schritt für Schritt – mit einem kostenlosen Türkisch-Vokabeltrainer und dem liebevoll gestalteten Lehrbuch <em>İstanbul'a Hoş Geldiniz</em>.</p>
           <div class="landing-actions">
-            <a class="landing-button landing-button-primary" href="?view=home" data-landing-view="home">Vokabeltrainer öffnen <span aria-hidden="true">→</span></a>
+            <a class="landing-button landing-button-primary" href="./trainer.html">Vokabeltrainer öffnen <span aria-hidden="true">→</span></a>
             <a class="landing-button landing-button-quiet" href="#buch">Buch entdecken <span aria-hidden="true">↓</span></a>
           </div>
           <ul class="landing-benefits" aria-label="Vorteile des Vokabeltrainers">
@@ -88,9 +104,7 @@ function landingView() {
     <footer class="landing-footer"><span>© Appeltauer Media</span><span>Türkisch lernen – selbstbestimmt und mit Freude.</span></footer>
   </div>`;
 }
-function bindLanding() {
-  document.querySelectorAll("[data-landing-view]").forEach(link=>link.addEventListener("click",event=>{event.preventDefault();navigate(link.dataset.landingView);}));
-}
+function bindLanding() {}
 function homeView() {
   const s=stat(), goal=Number(state.meta.get("dailyGoal")?.value || 20), last=state.meta.get("lastChapter")?.value;
   return `<section class="hero">
@@ -322,7 +336,7 @@ function setupIOSKeyboardViewport(){
     setTimeout(()=>viewport.setAttribute("content",defaultContent),300);
   });
 }
-window.addEventListener("popstate",e=>{state.view=e.state?.view||new URLSearchParams(location.search).get("view")||"landing";render();});
+window.addEventListener("popstate",e=>{state.view=e.state?.view||new URLSearchParams(location.search).get("view")||(isTrainerPage?"home":"landing");render();});
 window.addEventListener("online",()=>toast("Du bist wieder online."));
 window.addEventListener("offline",()=>toast("Offline-Modus: Alle Lernfunktionen bleiben verfügbar."));
 applyTheme();document.documentElement.classList.toggle("large-text",localStorage.getItem("largeText")==="true");setupIOSKeyboardViewport();
