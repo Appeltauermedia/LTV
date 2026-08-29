@@ -77,7 +77,10 @@ function landingView() {
             <p class="landing-kicker">DAS BUCH ZUM TRAINER</p>
             <h2>Mehr als Vokabeln.</h2>
             <p>Dialoge, Kultur und Alltagssituationen begleiten dich auf einer Sprachreise durch Istanbul und die Türkei.</p>
-            <a class="landing-button landing-button-book" href="https://www.amazon.de/Istanbula-Hos-Geldiniz-Sprachreise-Istanbul/dp/369574619X" target="_blank" rel="noopener noreferrer">Bei Amazon ansehen <span aria-hidden="true">↗</span></a>
+            <div class="book-feature-actions">
+              <a class="landing-button landing-button-book" href="https://www.amazon.de/Istanbula-Hos-Geldiniz-Sprachreise-Istanbul/dp/369574619X" target="_blank" rel="noopener noreferrer">Bei Amazon ansehen <span aria-hidden="true">↗</span></a>
+              <a class="landing-button landing-button-sample" href="https://www.bod.de/booksample?id=6547628&amp;referrer=shop" target="_blank" rel="noopener noreferrer">Blick ins Buch <span aria-hidden="true">↗</span></a>
+            </div>
           </div>
         </aside>
       </section>
