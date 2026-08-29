@@ -1,7 +1,7 @@
 {
   "name": "Lerne Türkisch – Vokabeltrainer",
   "short_name": "Türkisch",
-  "description": "Kostenlos Türkisch lernen für Anfänger – mit 45 Kapiteln, Themenwortschatz und persönlichem Lernfortschritt.",
+  "description": "Kostenlos Türkisch lernen für Anfänger – mit 2.969 Vokabeln, darunter die 2.000 gebräuchlichsten türkischen Wörter.",
   "id": "./",
   "start_url": "./trainer.html",
   "scope": "./",

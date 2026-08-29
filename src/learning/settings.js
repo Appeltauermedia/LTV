@@ -4,7 +4,7 @@ export const DEFAULT_LEARN_SETTINGS = Object.freeze({
 });
 
 const allowed = {
-  scope: new Set(["selected", "chapters", "topics", "all"]),
+  scope: new Set(["selected", "chapters", "topics", "collections", "all"]),
   filter: new Set(["all", "new", "due", "wrong", "difficult", "favorite"]),
   mode: new Set(["flashcards", "choice", "typing", "self", "mistakes", "due"]),
   direction: new Set(["tr-de", "de-tr", "mixed"]),

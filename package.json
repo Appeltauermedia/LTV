@@ -6,6 +6,7 @@
   "scripts": {
     "data:build": "node scripts/build-vocabulary.js",
     "data:topics": "node scripts/import-topics.js",
+    "data:frequency": "node scripts/import-frequency.js",
     "data:validate": "node scripts/validate-vocabulary.js",
     "dev": "vite --host 0.0.0.0",
     "build": "npm run data:validate && vite build",

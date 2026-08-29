@@ -5,15 +5,17 @@ import { validateVocabulary } from "../scripts/validate-vocabulary.js";
 import { searchKey } from "../src/utils/text.js";
 
 test("Kapitel- und Themenbestand sind vollständig und valide", () => {
-  const r=validateVocabulary(data);assert.deepEqual(r.errors,[]);assert.equal(data.chapters.length,45);assert.equal(data.topics.length,11);assert.equal(data.vocabulary.length,969);
+  const r=validateVocabulary(data);assert.deepEqual(r.errors,[]);assert.equal(data.chapters.length,45);assert.equal(data.topics.length,11);assert.equal(data.vocabulary.length,2969);
 });
 test("Kapitel 12 enthält die feste Ergänzung und – ve",()=>{const item=data.vocabulary.find(v=>v.id==="k12-v012");assert.ok(item);assert.equal(item.chapter,12);assert.deepEqual(item.german,["und"]);assert.equal(item.turkish,"ve");assert.equal(item.pronunciation,"we");assert.equal(item.sourceType,"chapter");});
 test("IDs sind stabil, eindeutig und kapitelbezogen", () => {
   const ids=data.vocabulary.map(v=>v.id);assert.equal(new Set(ids).size,ids.length);
   assert.ok(data.vocabulary.filter(v=>v.sourceType==="chapter").every(v=>v.id.startsWith(`k${String(v.chapter).padStart(2,"0")}-`)));
   assert.ok(data.vocabulary.filter(v=>v.sourceType==="topic").every(v=>v.id.startsWith(`thema-${v.topicId}-`)));
+  assert.ok(data.vocabulary.filter(v=>v.sourceType==="frequency").every(v=>/^freq-\d{4}$/.test(v.id)));
 });
 test("alle elf Themen und exakt 250 Originalzeilen wurden übernommen",()=>{const items=data.vocabulary.filter(v=>v.sourceType==="topic");assert.equal(items.length,250);assert.deepEqual(data.topics.map(t=>t.count),[24,22,14,32,13,34,18,22,20,14,37]);});
+test("Häufigkeitsrubrik enthält exakt 2.000 eindeutige Vokabeln und Ränge",()=>{const items=data.vocabulary.filter(v=>v.sourceType==="frequency");assert.equal(items.length,2000);assert.equal(new Set(items.map(v=>v.turkish)).size,2000);assert.equal(new Set(items.map(v=>v.frequencyRank)).size,2000);assert.deepEqual(data.collections.map(c=>[c.id,c.count]),[["haeufigste-2000",2000]]);});
 test("Kapitel und Themen lassen sich gemeinsam oder nach Quelle filtern",()=>{const chapters=new Set([1]), topicIds=new Set(["lebensmittel"]);const mixed=data.vocabulary.filter(v=>(v.sourceType==="chapter"&&chapters.has(v.chapter))||(v.sourceType==="topic"&&topicIds.has(v.topicId)));assert.ok(mixed.some(v=>v.sourceType==="chapter"));assert.ok(mixed.some(v=>v.topicId==="lebensmittel"));assert.ok(data.vocabulary.filter(v=>v.sourceType==="topic").every(v=>v.topicId));});
 test("Themensuche und türkische Sonderzeichen funktionieren",()=>{const hits=data.vocabulary.filter(v=>searchKey(`${v.turkish} ${v.german.join(" ")} ${v.topicTitle||""}`).includes(searchKey("Körperteile")));assert.equal(hits.length,32);assert.ok(data.vocabulary.some(v=>v.turkish==="ayçiçeği"));});
 test("alle türkischen Kernsonderzeichen sind im Bestand darstellbar", () => {

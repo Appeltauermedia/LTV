@@ -182,3 +182,6 @@ body,#app{
 @media(prefers-reduced-motion:reduce){.landing-button{transition:none}}
 @media(max-width:560px){.book-feature{background:#fff8ed;backdrop-filter:none;-webkit-backdrop-filter:none}}
 .book-feature-actions{display:grid;gap:.55rem;margin-top:.6rem}.book-feature-actions .landing-button{width:100%;margin-top:0}.landing-button-sample{color:#173f45;border:1px solid rgba(23,63,69,.32);background:rgba(255,255,255,.62)}.landing-button-sample:hover{background:#fff}
+.collection-section{grid-column:1/-1}.collection-grid{grid-template-columns:1fr}.collection-card>p{color:var(--muted);font-size:.82rem}.collection-card .secondary{width:100%;margin-top:.8rem}
+@media(min-width:700px){.source-tabs{grid-template-columns:repeat(4,1fr)}}
+@media(min-width:1050px){.topic-heading .tool-buttons{max-width:100%;flex-wrap:wrap;overflow:hidden}}

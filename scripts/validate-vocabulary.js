@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import { TOPICS } from "./import-topics.js";
+import { FREQUENCY_COLLECTION } from "./import-frequency.js";
 
 export function validateVocabulary(data) {
   const errors = [], warnings = [], ids = new Set(), exact = new Map();
@@ -13,18 +14,21 @@ export function validateVocabulary(data) {
   const topicTitles = new Map((data.topics || []).map((item) => [item.id, item.title]));
   if (!Array.isArray(data.topics) || data.topics.length !== TOPICS.length) errors.push("Es müssen genau elf Themenrubriken vorhanden sein.");
   for (const topic of TOPICS) if (topicTitles.get(topic.id) !== topic.title) errors.push(`Themenrubrik ${topic.id} fehlt oder besitzt einen falschen Titel.`);
+  const collectionTitles = new Map((data.collections || []).map((item) => [item.id, item.title]));
+  if (collectionTitles.get(FREQUENCY_COLLECTION.id) !== FREQUENCY_COLLECTION.title) errors.push(`Rubrik ${FREQUENCY_COLLECTION.id} fehlt oder besitzt einen falschen Titel.`);
   const german = new Map(), turkish = new Map();
   for (const [index, item] of (data.vocabulary || []).entries()) {
     const at = item?.source?.line ? `Quellzeile ${item.source.line}` : `Datensatz ${index + 1}`;
     if (!item?.id || typeof item.id !== "string") errors.push(`${at}: ID fehlt oder ist ungültig.`);
     else if (ids.has(item.id)) errors.push(`${at}: Doppelte ID ${item.id}.`);
     else ids.add(item.id);
-    if (!["chapter","topic"].includes(item?.sourceType)) errors.push(`${at}: sourceType ungültig.`);
+    if (!["chapter","topic","frequency"].includes(item?.sourceType)) errors.push(`${at}: sourceType ungültig.`);
     if (!item?.turkish || typeof item.turkish !== "string") errors.push(`${at}: Türkischer Begriff fehlt.`);
     if (!Array.isArray(item?.german) || !item.german.length || item.german.some((x) => typeof x !== "string" || !x.trim())) errors.push(`${at}: Deutsche Übersetzung fehlt/ungültig.`);
     if (typeof item?.active !== "boolean") errors.push(`${at}: active muss boolesch sein.`);
     if (item?.sourceType === "chapter" && (!Number.isInteger(item.chapter) || item.chapter < 1 || item.chapter > 45 || item.chapterTitle !== chapterTitles.get(item.chapter))) errors.push(`${at}: Kapitelzuordnung inkonsistent.`);
     if (item?.sourceType === "topic" && (!topicTitles.has(item.topicId) || item.topicTitle !== topicTitles.get(item.topicId) || !item.id.startsWith(`thema-${item.topicId}-`))) errors.push(`${at}: Themenzuordnung oder stabile ID inkonsistent.`);
+    if (item?.sourceType === "frequency" && (item.collectionId !== FREQUENCY_COLLECTION.id || item.collectionTitle !== FREQUENCY_COLLECTION.title || !/^freq-\d{4}$/.test(item.id) || !Number.isInteger(item.frequencyRank) || item.frequencyRank < 1 || item.frequencyRank > 2000 || !Number.isInteger(item.alphabeticalIndex) || item.alphabeticalIndex < 1 || item.alphabeticalIndex > 2000)) errors.push(`${at}: Häufigkeitsrubrik oder stabile ID inkonsistent.`);
     const key = `${item?.turkish?.trim().toLocaleLowerCase("tr")}|${item?.german?.join("/").toLocaleLowerCase("de")}`;
     if (exact.has(key)) warnings.push(`${at}: Doppelter Eintrag; zuerst ${exact.get(key)}.`);
     else exact.set(key, at);
@@ -34,6 +38,7 @@ export function validateVocabulary(data) {
   }
   for (let c = 1; c <= 45; c++) if (!(data.vocabulary || []).some((v) => v.chapter === c)) errors.push(`Kapitel ${c} enthält keine Vokabeln.`);
   for (const topic of TOPICS) { const actual=(data.vocabulary||[]).filter(v=>v.topicId===topic.id).length, declared=(data.topics||[]).find(t=>t.id===topic.id)?.count; if(!actual||actual!==declared) errors.push(`Rubrik ${topic.title}: deklarierte und tatsächliche Zeilenzahl stimmen nicht überein.`); }
+  { const actual=(data.vocabulary||[]).filter(v=>v.sourceType==="frequency").length, declared=(data.collections||[]).find(c=>c.id===FREQUENCY_COLLECTION.id)?.count; if(actual!==2000||declared!==2000) errors.push(`Rubrik ${FREQUENCY_COLLECTION.title}: Es müssen exakt 2.000 deklarierte und tatsächliche Einträge vorhanden sein.`); }
   return { errors, warnings };
 }
 
@@ -45,7 +50,7 @@ if (process.argv[1] && import.meta.url === new URL(`file:///${process.argv[1].re
   const result = validateVocabulary(JSON.parse(text));
   result.errors.unshift(...encodingErrors);
   fs.mkdirSync("docs", { recursive: true });
-  fs.writeFileSync("docs/DATENPRUEFBERICHT.md", `# Datenprüfbericht\n\nStand: 2026-08-01\n\n- Datensätze: ${(JSON.parse(text).vocabulary||[]).length}\n- Fehler: ${result.errors.length}\n- Hinweise: ${result.warnings.length}\n\n## Fehler\n\n${result.errors.map(x=>`- ${x}`).join("\n") || "Keine."}\n\n## Hinweise\n\n${result.warnings.map(x=>`- ${x}`).join("\n") || "Keine."}\n\n## Datenquellen\n\nKapitelwerte stammen unverändert aus dem Vokabel-Extrakt. Themenwerte stammen unverändert aus \`data/source/THEMENWORTSCHATZ_TUERKISCH.md\` und werden mit \`scripts/import-topics.js\` erzeugt. Hinweise werden nicht automatisch bereinigt.\n`, "utf8");
+  fs.writeFileSync("docs/DATENPRUEFBERICHT.md", `# Datenprüfbericht\n\nStand: 2026-08-29\n\n- Datensätze: ${(JSON.parse(text).vocabulary||[]).length}\n- Fehler: ${result.errors.length}\n- Hinweise: ${result.warnings.length}\n\n## Fehler\n\n${result.errors.map(x=>`- ${x}`).join("\n") || "Keine."}\n\n## Hinweise\n\n${result.warnings.map(x=>`- ${x}`).join("\n") || "Keine."}\n\n## Datenquellen\n\nKapitelwerte stammen unverändert aus dem Vokabel-Extrakt. Themenwerte stammen unverändert aus \`data/source/THEMENWORTSCHATZ_TUERKISCH.md\`. Die Häufigkeitsrubrik stammt unverändert aus \`data/source/2000_GEBRAEUCHLICHE_TUERKISCHE_VOKABELN_ALPHABETISCH.md\`. Hinweise werden nicht automatisch bereinigt.\n`, "utf8");
   if (result.warnings.length) console.warn(result.warnings.join("\n"));
   if (result.errors.length) { console.error(result.errors.join("\n")); process.exit(1); }
   console.log(`${dataCount(file)} Vokabeln geprüft: keine Fehler, ${result.warnings.length} Hinweise.`);

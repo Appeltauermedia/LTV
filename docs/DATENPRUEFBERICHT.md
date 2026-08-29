@@ -1,10 +1,10 @@
 # Datenprüfbericht
 
-Stand: 2026-08-01
+Stand: 2026-08-29
 
-- Datensätze: 969
+- Datensätze: 2969
 - Fehler: 0
-- Hinweise: 150
+- Hinweise: 580
 
 ## Fehler
 
@@ -162,7 +162,437 @@ Keine.
 - Quellzeile 298: Türkischer Begriff „yolcu“ besitzt mehrere deutsche Bezeichnungen.
 - Quellzeile 302: Türkischer Begriff „kız“ besitzt mehrere deutsche Bezeichnungen.
 - Quellzeile 305: Doppelter Eintrag; zuerst Quellzeile 651.
+- Quellzeile 18: Deutscher Begriff „Schwester“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 26: Türkischer Begriff „açık“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 32: Türkischer Begriff „açmak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 33: Doppelter Eintrag; zuerst Quellzeile 49.
+- Quellzeile 34: Türkischer Begriff „ada“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 36: Deutscher Begriff „Mann“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 39: Türkischer Begriff „adım“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 42: Türkischer Begriff „adres“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 44: Türkischer Begriff „ağaç“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 47: Türkischer Begriff „ağız“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 53: Doppelter Eintrag; zuerst Quellzeile 637.
+- Quellzeile 56: Deutscher Begriff „weiß“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 65: Türkischer Begriff „akşam“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 67: Deutscher Begriff „rot“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 77: Türkischer Begriff „alın“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 81: Türkischer Begriff „almak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 83: Doppelter Eintrag; zuerst Quellzeile 88.
+- Quellzeile 85: Doppelter Eintrag; zuerst Quellzeile 468.
+- Quellzeile 94: Türkischer Begriff „anahtar“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 98: Türkischer Begriff „anı“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 101: Türkischer Begriff „anlam“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 106: Türkischer Begriff „anlatmak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 107: Deutscher Begriff „Sinn/Sinne“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 108: Doppelter Eintrag; zuerst Quellzeile 646.
+- Quellzeile 112: Türkischer Begriff „araba“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 125: Türkischer Begriff „arkadaş“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 126: Türkischer Begriff „artık“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 136: Türkischer Begriff „aslan“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 137: Türkischer Begriff „aslında“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 138: Türkischer Begriff „aşağı“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 142: Türkischer Begriff „at“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 145: Türkischer Begriff „ateş“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 153: Türkischer Begriff „ayak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 154: Türkischer Begriff „ayakkabı“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 156: Türkischer Begriff „ayı“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 165: Türkischer Begriff „ayrılmak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 176: Doppelter Eintrag; zuerst Quellzeile 651.
+- Quellzeile 177: Türkischer Begriff „bacak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 183: Türkischer Begriff „bahçe“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 191: Türkischer Begriff „bakmak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 192: Türkischer Begriff „bal“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 193: Türkischer Begriff „balık“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 194: Türkischer Begriff „banka“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 200: Deutscher Begriff „mindastens“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 208: Türkischer Begriff „baş“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 219: Türkischer Begriff „başlangıç“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 229: Türkischer Begriff „bazen“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 231: Türkischer Begriff „bebek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 236: Türkischer Begriff „beklemek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 245: Türkischer Begriff „belki“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 247: Doppelter Eintrag; zuerst Quellzeile 35.
+- Quellzeile 248: Türkischer Begriff „bence“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 249: Türkischer Begriff „benzemek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 253: Türkischer Begriff „beri“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 256: Deutscher Begriff „Herr/Herren“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 257: Doppelter Eintrag; zuerst Quellzeile 361.
+- Quellzeile 258: Türkischer Begriff „beyin“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 261: Türkischer Begriff „biber“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 266: Türkischer Begriff „bilet“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 278: Türkischer Begriff „biraz“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 290: Türkischer Begriff „birlikte“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 292: Türkischer Begriff „bisiklet“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 295: Türkischer Begriff „bitki“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 302: Türkischer Begriff „boğaz“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 308: Türkischer Begriff „boş“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 312: Türkischer Begriff „boyun“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 314: Deutscher Begriff „Größe/Format“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 325: Türkischer Begriff „bu“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 326: Doppelter Eintrag; zuerst Quellzeile 155.
+- Quellzeile 330: Türkischer Begriff „buluşmak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 331: Türkischer Begriff „bulut“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 334: Türkischer Begriff „burun“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 349: Türkischer Begriff „cadde“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 351: Türkischer Begriff „cami“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 353: Türkischer Begriff „canlı“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 355: Deutscher Begriff „Gemeinde/Gemeinden“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 360: Türkischer Begriff „cesaret“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 362: Türkischer Begriff „cevap“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 366: Türkischer Begriff „cilt“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 388: Deutscher Begriff „Tasche/Taschen“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 388: Türkischer Begriff „çanta“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 394: Türkischer Begriff „çay“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 399: Deutscher Begriff „Zug/Züge“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 400: Türkischer Begriff „çekmek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 406: Türkischer Begriff „çevirmek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 408: Doppelter Eintrag; zuerst Quellzeile 391.
+- Quellzeile 411: Türkischer Begriff „çıkarmak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 417: Türkischer Begriff „çiçek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 423: Doppelter Eintrag; zuerst Quellzeile 289.
+- Quellzeile 427: Türkischer Begriff „çok“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 432: Türkischer Begriff „çünkü“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 441: Türkischer Begriff „daha“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 442: Deutscher Begriff „auch/ebenfalls“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 443: Türkischer Begriff „dahil“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 447: Türkischer Begriff „dal“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 454: Deutscher Begriff „Einladung/Aufruf“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 457: Deutscher Begriff „auch/ebenfalls“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 466: Türkischer Begriff „değişiklik“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 468: Türkischer Begriff „değişmek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 478: Türkischer Begriff „denemek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 483: Türkischer Begriff „deniz“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 506: Türkischer Begriff „dik“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 507: Türkischer Begriff „dikkat“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 508: Türkischer Begriff „dikkatli“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 509: Türkischer Begriff „dil“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 513: Türkischer Begriff „dinlemek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 519: Türkischer Begriff „diş“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 522: Doppelter Eintrag; zuerst Quellzeile 96.
+- Quellzeile 533: Türkischer Begriff „doktor“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 534: Doppelter Eintrag; zuerst Quellzeile 87.
+- Quellzeile 539: Türkischer Begriff „dolu“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 546: Türkischer Begriff „dönmek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 555: Türkischer Begriff „duvar“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 560: Deutscher Begriff „Sinn/Sinne“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 564: Doppelter Eintrag; zuerst Quellzeile 447.
+- Quellzeile 574: Türkischer Begriff „düz“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 588: Deutscher Begriff „Herr/Herren“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 590: Türkischer Begriff „eğer“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 597: Türkischer Begriff „ekmek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 602: Doppelter Eintrag; zuerst Quellzeile 93.
+- Quellzeile 604: Türkischer Begriff „elbise“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 609: Deutscher Begriff „sieben“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 612: Türkischer Begriff „elma“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 613: Türkischer Begriff „emanet“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 619: Türkischer Begriff „en“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 628: Türkischer Begriff „erkek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 629: Türkischer Begriff „erken“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 634: Türkischer Begriff „eskiden“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 635: Türkischer Begriff „eş“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 639: Doppelter Eintrag; zuerst Quellzeile 203.
+- Quellzeile 650: Doppelter Eintrag; zuerst Quellzeile 20.
+- Quellzeile 650: Deutscher Begriff „ja“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 663: Deutscher Begriff „Tätigkeit/Tätigkeiten“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 669: Deutscher Begriff „Differenz“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 669: Türkischer Begriff „fark“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 670: Türkischer Begriff „farklı“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 679: Deutscher Begriff „Idee/Meinung“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 679: Türkischer Begriff „fikir“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 682: Deutscher Begriff „Wert/Werte“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 688: Türkischer Begriff „fotoğraf“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 699: Deutscher Begriff „seltsam/merkwürdig“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 706: Doppelter Eintrag; zuerst Quellzeile 388.
+- Quellzeile 713: Türkischer Begriff „geçmek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 720: Türkischer Begriff „gelişmek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 722: Doppelter Eintrag; zuerst Quellzeile 158.
+- Quellzeile 723: Türkischer Begriff „gemi“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 728: Türkischer Begriff „genellikle“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 732: Türkischer Begriff „gerçek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 745: Türkischer Begriff „gezmek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 747: Türkischer Begriff „gibi“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 750: Türkischer Begriff „giriş“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 753: Türkischer Begriff „gitmek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 758: Türkischer Begriff „göğüs“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 759: Deutscher Begriff „Himmel“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 765: Türkischer Begriff „görev“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 766: Doppelter Eintrag; zuerst Quellzeile 457.
+- Quellzeile 774: Doppelter Eintrag; zuerst Quellzeile 176.
+- Quellzeile 776: Doppelter Eintrag; zuerst Quellzeile 83.
+- Quellzeile 780: Doppelter Eintrag; zuerst Quellzeile 68.
+- Quellzeile 785: Türkischer Begriff „gül“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 793: Türkischer Begriff „güneş“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 800: Türkischer Begriff „güzel“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 818: Türkischer Begriff „haklı“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 826: Deutscher Begriff „Frau/Frauen“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 828: Türkischer Begriff „hareket“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 831: Deutscher Begriff „Karte/Karten“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 839: Türkischer Begriff „hatırlamak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 843: Deutscher Begriff „Flughafen/Flughäfen“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 851: Türkischer Begriff „hazır“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 856: Türkischer Begriff „hediye“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 857: Deutscher Begriff „Arzt/Ärzte“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 860: Türkischer Begriff „hemen“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 861: Türkischer Begriff „henüz“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 866: Deutscher Begriff „jeder/alle“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 866: Türkischer Begriff „herkes“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 867: Türkischer Begriff „hesap“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 874: Deutscher Begriff „schnell/rasch“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 874: Türkischer Begriff „hızlı“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 882: Deutscher Begriff „Recht/Rechte“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 910: Türkischer Begriff „için“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 913: Türkischer Begriff „içmek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 917: Deutscher Begriff „wetten/wette“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 930: Türkischer Begriff „ile“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 931: Türkischer Begriff „ilerlemek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 953: Türkischer Begriff „inmek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 954: Türkischer Begriff „insan“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 964: Deutscher Begriff „Name“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 968: Türkischer Begriff „istemek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 975: Türkischer Begriff „işçi“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 982: Deutscher Begriff „Funktion/Funktionen“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1008: Doppelter Eintrag; zuerst Quellzeile 281.
+- Quellzeile 1011: Türkischer Begriff „kahvaltı“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1012: Türkischer Begriff „kahve“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1013: Türkischer Begriff „kalabalık“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1015: Deutscher Begriff „Tor/Tore“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1025: Deutscher Begriff „Herz/Herzen“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1025: Türkischer Begriff „kalp“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1040: Türkischer Begriff „kapalı“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1044: Türkischer Begriff „kapatmak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1045: Türkischer Begriff „kapı“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1053: Türkischer Begriff „karanlık“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1057: Deutscher Begriff „Frau/Frauen“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1058: Türkischer Begriff „karın“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1063: Türkischer Begriff „karşı“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1065: Türkischer Begriff „karşılaşmak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1066: Deutscher Begriff „Antwort/antworten“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1070: Deutscher Begriff „Karte/Karten“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1079: Türkischer Begriff „katılmak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1086: Türkischer Begriff „kaya“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1088: Türkischer Begriff „kaybolmak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1096: Türkischer Begriff „kedi“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1097: Türkischer Begriff „kelime“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1098: Türkischer Begriff „kemer“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1099: Deutscher Begriff „Beine/Bein“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1099: Türkischer Begriff „kemik“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1103: Deutscher Begriff „mal/Male“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1111: Deutscher Begriff „mal/Male“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1111: Türkischer Begriff „kez“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1115: Doppelter Eintrag; zuerst Quellzeile 113.
+- Quellzeile 1117: Doppelter Eintrag; zuerst Quellzeile 300.
+- Quellzeile 1121: Türkischer Begriff „kıyı“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1122: Türkischer Begriff „kız“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1123: Deutscher Begriff „rot“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1126: Türkischer Begriff „kilise“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1128: Türkischer Begriff „kilo“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1133: Türkischer Begriff „kimse“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1146: Deutscher Begriff „Arm/Arme“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1146: Türkischer Begriff „kol“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1147: Türkischer Begriff „kolay“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1148: Türkischer Begriff „koltuk“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1152: Türkischer Begriff „komşu“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1161: Türkischer Begriff „konuşmak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1166: Türkischer Begriff „korumak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1170: Türkischer Begriff „koymak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1172: Türkischer Begriff „koyun“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1173: Türkischer Begriff „kök“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1176: Türkischer Begriff „köpek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1177: Türkischer Begriff „köprü“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1182: Türkischer Begriff „köy“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1188: Türkischer Begriff „kulak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1189: Türkischer Begriff „kule“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1191: Türkischer Begriff „kullanmak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1212: Türkischer Begriff „kusursuz“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1213: Türkischer Begriff „kuş“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1218: Türkischer Begriff „kuvvetli“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1232: Türkischer Begriff „lezzetli“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1239: Doppelter Eintrag; zuerst Quellzeile 13.
+- Quellzeile 1239: Deutscher Begriff „bitte“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1264: Türkischer Begriff „manzara“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1269: Türkischer Begriff „masa“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1275: Doppelter Eintrag; zuerst Quellzeile 346.
+- Quellzeile 1280: Doppelter Eintrag; zuerst Quellzeile 484.
+- Quellzeile 1290: Türkischer Begriff „metro“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1298: Deutscher Begriff „Fragepartikel“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1299: Türkischer Begriff „mide“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1301: Deutscher Begriff „Welle/Wellen“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1310: Doppelter Eintrag; zuerst Quellzeile 639.
+- Quellzeile 1315: Deutscher Begriff „Fragepartikel“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1319: Deutscher Begriff „unbedingt/durchaus“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1319: Türkischer Begriff „mutlaka“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1322: Deutscher Begriff „Fragepartikel“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1327: Deutscher Begriff „perfekt/vollkommen“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1328: Doppelter Eintrag; zuerst Quellzeile 276.
+- Quellzeile 1330: Türkischer Begriff „müşteri“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1340: Deutscher Begriff „wie“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1369: Türkischer Begriff „o“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1371: Türkischer Begriff „oda“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1374: Türkischer Begriff „oğul“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1378: Türkischer Begriff „okumak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1384: Deutscher Begriff „Möglichkeit/Möglichkeiten“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1394: Doppelter Eintrag; zuerst Quellzeile 93.
+- Quellzeile 1412: Türkischer Begriff „otel“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1413: Türkischer Begriff „otobüs“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1416: Türkischer Begriff „oturmak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1417: Doppelter Eintrag; zuerst Quellzeile 100.
+- Quellzeile 1430: Deutscher Begriff „Preis/Preise“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1432: Türkischer Begriff „öğrenci“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1436: Türkischer Begriff „öğretmen“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1442: Deutscher Begriff „Leben“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1444: Türkischer Begriff „önce“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1445: Türkischer Begriff „önceden“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1456: Deutscher Begriff „hinsichtlich“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1465: Deutscher Begriff „frei“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1467: Türkischer Begriff „özlemek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1474: Türkischer Begriff „pahalı“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1481: Türkischer Begriff „park“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1483: Doppelter Eintrag; zuerst Quellzeile 88.
+- Quellzeile 1487: Türkischer Begriff „patates“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1489: Deutscher Begriff „Teil/Teile“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1491: Türkischer Begriff „pazar“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1494: Doppelter Eintrag; zuerst Quellzeile 72.
+- Quellzeile 1499: Deutscher Begriff „Tief“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1503: Doppelter Eintrag; zuerst Quellzeile 67.
+- Quellzeile 1504: Türkischer Begriff „pilot“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1507: Türkischer Begriff „plan“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1511: Türkischer Begriff „polis“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1518: Deutscher Begriff „positiv“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1530: Deutscher Begriff „Punkt/Punkte“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1537: Deutscher Begriff „obwohl/Trotz“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1538: Türkischer Begriff „rahat“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1547: Türkischer Begriff „rehber“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1552: Deutscher Begriff „Farbe/Farben“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1552: Türkischer Begriff „renk“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1553: Türkischer Begriff „renkli“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1571: Türkischer Begriff „saat“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1576: Doppelter Eintrag; zuerst Quellzeile 477.
+- Quellzeile 1579: Türkischer Begriff „sağ“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1584: Deutscher Begriff „Strand/Küste“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1584: Türkischer Begriff „sahil“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1588: Türkischer Begriff „sakin“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1597: Deutscher Begriff „Industrien“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1601: Deutscher Begriff „meinen/denken“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1602: Doppelter Eintrag; zuerst Quellzeile 376.
+- Quellzeile 1603: Türkischer Begriff „sarı“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1606: Türkischer Begriff „satmak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1619: Türkischer Begriff „seçim“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1621: Doppelter Eintrag; zuerst Quellzeile 77.
+- Quellzeile 1630: Türkischer Begriff „serbest“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1631: Deutscher Begriff „schauen/Schau“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1634: Türkischer Begriff „servis“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1635: Türkischer Begriff „ses“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1636: Deutscher Begriff „ruhig/still“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1636: Türkischer Begriff „sessiz“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1638: Deutscher Begriff „Liebe“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1642: Deutscher Begriff „Stand/Niveau“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1643: Türkischer Begriff „sevmek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1648: Türkischer Begriff „sıcak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1649: Deutscher Begriff „Wärme“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1662: Deutscher Begriff „Folge/Folgen“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1666: Türkischer Begriff „sırt“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1678: Doppelter Eintrag; zuerst Quellzeile 358.
+- Quellzeile 1679: Deutscher Begriff „Politik/Politiken“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1680: Doppelter Eintrag; zuerst Quellzeile 37.
+- Quellzeile 1683: Deutscher Begriff „Straße/Straßen“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1683: Türkischer Begriff „sokak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1685: Türkischer Begriff „sol“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1687: Türkischer Begriff „son“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1689: Türkischer Begriff „sonra“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1693: Türkischer Begriff „sonunda“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1698: Deutscher Begriff „Problem/Probleme“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1706: Deutscher Begriff „Wort/Wörter“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1713: Doppelter Eintrag; zuerst Quellzeile 71.
+- Quellzeile 1720: Türkischer Begriff „sürdürmek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1725: Türkischer Begriff „sürmek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1729: Deutscher Begriff „Kurs/Kurse“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1730: Doppelter Eintrag; zuerst Quellzeile 210.
+- Quellzeile 1743: Türkischer Begriff „şart“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1747: Türkischer Begriff „şeker“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1748: Türkischer Begriff „şekil“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1752: Deutscher Begriff „Kraft/Gewalt“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1755: Doppelter Eintrag; zuerst Quellzeile 236.
+- Quellzeile 1760: Türkischer Begriff „şoför“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1763: Türkischer Begriff „şu“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1786: Türkischer Begriff „tamam“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1798: Deutscher Begriff „Seite/Seiten“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1804: Deutscher Begriff „diskutieren/besprechen“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1806: Deutscher Begriff „planen/entwerfen“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1808: Türkischer Begriff „taşımak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1814: Türkischer Begriff „tavsiye“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1815: Türkischer Begriff „tavuk“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1828: Türkischer Begriff „tekrar“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1834: Deutscher Begriff „Grund/Basis“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1852: Türkischer Begriff „testi“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1856: Deutscher Begriff „Tante/Tanten“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1870: Deutscher Begriff „sozial/gesellschaftlich“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1875: Deutscher Begriff „Zug/Züge“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1875: Türkischer Begriff „tren“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1879: Deutscher Begriff „Summe/Betrag“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1880: Türkischer Begriff „tutmak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1884: Türkischer Begriff „tuz“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1885: Deutscher Begriff „ganz/alle“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1887: Deutscher Begriff „Lied/Lieder“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1894: Türkischer Begriff „ucuz“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1896: Türkischer Begriff „uçak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1907: Türkischer Begriff „un“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1908: Türkischer Begriff „unutmak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1909: Deutscher Begriff „Meister“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1915: Türkischer Begriff „uygun“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1918: Türkischer Begriff „uyumak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1932: Türkischer Begriff „ücretsiz“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1959: Türkischer Begriff „vadi“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1962: Türkischer Begriff „var“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1964: Türkischer Begriff „varmak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1968: Doppelter Eintrag; zuerst Datensatz 144.
+- Quellzeile 1969: Türkischer Begriff „veda“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1982: Deutscher Begriff „Körper/Leib“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 1982: Türkischer Begriff „vücut“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1989: Türkischer Begriff „yabancı“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 1990: Türkischer Begriff „yağ“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2001: Türkischer Begriff „yaklaşmak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2011: Deutscher Begriff „Antwort/antworten“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 2014: Deutscher Begriff „brennen/verbrennen“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 2015: Türkischer Begriff „yansımak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2017: Deutscher Begriff „Gebäude/Bau“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 2019: Türkischer Begriff „yapmak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2020: Türkischer Begriff „yaprak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2024: Deutscher Begriff „nutzen/Vorteil“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 2026: Türkischer Begriff „yardım“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2030: Doppelter Eintrag; zuerst Quellzeile 187.
+- Quellzeile 2031: Doppelter Eintrag; zuerst Quellzeile 404.
+- Quellzeile 2034: Deutscher Begriff „Gesetz/Gesetze“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 2035: Türkischer Begriff „yasak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2043: Türkischer Begriff „yatak“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2046: Türkischer Begriff „yavaş“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2056: Deutscher Begriff „Literatur/Literaturen“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 2060: Doppelter Eintrag; zuerst Quellzeile 90.
+- Quellzeile 2061: Türkischer Begriff „yemek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2062: Deutscher Begriff „Eid/Schwur“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 2064: Türkischer Begriff „yeniden“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2068: Deutscher Begriff „lich“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 2068: Türkischer Begriff „yerel“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2074: Doppelter Eintrag; zuerst Quellzeile 292.
+- Quellzeile 2077: Türkischer Begriff „yeterli“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2083: Deutscher Begriff „Jahr“ besitzt mehrere türkische Übersetzungen.
+- Quellzeile 2084: Türkischer Begriff „yılan“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2086: Türkischer Begriff „yıldız“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2089: Doppelter Eintrag; zuerst Quellzeile 757.
+- Quellzeile 2090: Doppelter Eintrag; zuerst Quellzeile 115.
+- Quellzeile 2094: Türkischer Begriff „yok“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2097: Türkischer Begriff „yolcu“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2098: Türkischer Begriff „yolculuk“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2101: Türkischer Begriff „yorgun“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2109: Türkischer Begriff „yukarı“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2110: Türkischer Begriff „yumurta“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2116: Türkischer Begriff „yükselmek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2117: Türkischer Begriff „yürümek“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2119: Türkischer Begriff „yüz“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2124: Türkischer Begriff „yüzyıl“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2142: Türkischer Begriff „ziyaret“ besitzt mehrere deutsche Bezeichnungen.
+- Quellzeile 2143: Türkischer Begriff „zor“ besitzt mehrere deutsche Bezeichnungen.
 
 ## Datenquellen
 
-Kapitelwerte stammen unverändert aus dem Vokabel-Extrakt. Themenwerte stammen unverändert aus `data/source/THEMENWORTSCHATZ_TUERKISCH.md` und werden mit `scripts/import-topics.js` erzeugt. Hinweise werden nicht automatisch bereinigt.
+Kapitelwerte stammen unverändert aus dem Vokabel-Extrakt. Themenwerte stammen unverändert aus `data/source/THEMENWORTSCHATZ_TUERKISCH.md`. Die Häufigkeitsrubrik stammt unverändert aus `data/source/2000_GEBRAEUCHLICHE_TUERKISCHE_VOKABELN_ALPHABETISCH.md`. Hinweise werden nicht automatisch bereinigt.
