@@ -15,3 +15,7 @@ export function matchesProgressFilter(progress, filter, due = () => false) {
 export function selectedIncompleteChapters(selected, masteredChapters) {
   return new Set([...selected].filter((chapter) => !masteredChapters.has(chapter)));
 }
+
+export function usesGlobalLearnedPool(filter) {
+  return filter === "learned";
+}

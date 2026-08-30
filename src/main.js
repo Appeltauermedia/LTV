@@ -3,7 +3,7 @@ import teaIconUrl from "./assets/tea-icon.png";
 import { db } from "./database/db.js";
 import { emptyProgress, isDue, schedule } from "./learning/spaced-repetition.js";
 import { DEFAULT_LEARN_SETTINGS, normalizeLearnSettings } from "./learning/settings.js";
-import { matchesProgressFilter, selectedIncompleteChapters } from "./learning/selection.js";
+import { matchesProgressFilter, selectedIncompleteChapters, usesGlobalLearnedPool } from "./learning/selection.js";
 import { playBing, playTadaa } from "./learning/sounds.js";
 import { evaluateAnswer, searchKey } from "./utils/text.js";
 import { createExport, validateImport } from "./storage/backup.js";
@@ -193,7 +193,7 @@ function searchVocabulary(q) { const n=searchKey(q); return vocab.filter(v=>(sta
 function startSession(options={}) {
   const form=options.form, mode=options.mode||form?.get("mode")||"flashcards", direction=form?.get("direction")||"tr-de", count=Number(form?.get("count")||20), order=form?.get("order")||"random";
   const scope=form?.get("scope")||"selected", filter=options.filter||form?.get("filter")||"all";
-  let pool=options.ids ? options.ids.map(id=>byId.get(id)).filter(Boolean) : vocab.filter(v=>scope==="all"||(v.sourceType==="chapter"&&["selected","chapters"].includes(scope)&&state.selectedChapters.has(v.chapter))||(v.sourceType==="topic"&&["selected","topics"].includes(scope)&&state.selectedTopics.has(v.topicId))||(v.sourceType==="frequency"&&["selected","collections"].includes(scope)&&state.selectedCollections.has(v.collectionId)));
+  let pool=options.ids ? options.ids.map(id=>byId.get(id)).filter(Boolean) : usesGlobalLearnedPool(filter) ? [...vocab] : vocab.filter(v=>scope==="all"||(v.sourceType==="chapter"&&["selected","chapters"].includes(scope)&&state.selectedChapters.has(v.chapter))||(v.sourceType==="topic"&&["selected","topics"].includes(scope)&&state.selectedTopics.has(v.topicId))||(v.sourceType==="frequency"&&["selected","collections"].includes(scope)&&state.selectedCollections.has(v.collectionId)));
   pool=pool.filter(v=>matchesFilter(getProgress(v.id),filter));
   if (mode==="mistakes") pool=pool.filter(v=>getProgress(v.id).wrong>0);
   if (mode==="due") pool=pool.filter(v=>isDue(getProgress(v.id)));
