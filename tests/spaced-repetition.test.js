@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { emptyProgress, schedule, isDue, LEVEL_INTERVALS } from "../src/learning/spaced-repetition.js";
+import { countDue, emptyProgress, schedule, isDue, LEVEL_INTERVALS } from "../src/learning/spaced-repetition.js";
 
 test("Lernsystem besitzt fünf aktive Stufen", () => assert.deepEqual(LEVEL_INTERVALS, [0,0,1,3,7,21]));
 test("richtige Antwort erhöht die Stufe und plant Wiederholung", () => {
@@ -17,3 +17,8 @@ test("falsche Antwort stuft zurück", () => {
   assert.equal(schedule(p,"wrong",Date.now()).level,3);
 });
 test("Fälligkeit wird korrekt erkannt", () => assert.equal(isDue({nextReviewAt:"2020-01-01T00:00:00.000Z"},Date.now()),true));
+test("fällige Einträge werden mit der aktuellen Zeit statt dem Listenindex gezählt",()=>{
+  const now=new Date("2026-08-30T12:00:00.000Z").getTime();
+  const progress=[{nextReviewAt:"2026-08-29T12:00:00.000Z"},{nextReviewAt:"2026-08-31T12:00:00.000Z"},{nextReviewAt:null}];
+  assert.equal(countDue(progress,now),1);
+});

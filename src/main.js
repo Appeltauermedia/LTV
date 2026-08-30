@@ -1,7 +1,7 @@
 import vocabularyData from "../data/vocabulary.js";
 import teaIconUrl from "./assets/tea-icon.png";
 import { db } from "./database/db.js";
-import { emptyProgress, isDue, schedule } from "./learning/spaced-repetition.js";
+import { countDue, emptyProgress, isDue, schedule } from "./learning/spaced-repetition.js";
 import { DEFAULT_LEARN_SETTINGS, normalizeLearnSettings } from "./learning/settings.js";
 import { matchesProgressFilter, selectedIncompleteChapters, usesGlobalLearnedPool } from "./learning/selection.js";
 import { playBing, playTadaa } from "./learning/sounds.js";
@@ -30,7 +30,7 @@ function applyTheme(value = theme()) { document.documentElement.dataset.theme = 
 function sourceLabel(v) { return v.sourceType === "topic" ? `Thema: ${v.topicTitle}` : v.sourceType === "frequency" ? `${v.collectionTitle} · Rang ${v.frequencyRank}` : `Kapitel ${v.chapter}`; }
 function stat(source="all") {
   const list=vocab.filter(v=>source==="all"||v.sourceType===source), ps=list.map(v=>getProgress(v.id)), day = state.daily.find((d) => d.date === today()) || { answered:0, correct:0, wrong:0, ids:[] };
-  return { total:list.length, newCount:ps.filter(p=>p.status==="new").length, started:ps.filter(p=>p.level>0&&p.level<5).length, learned:ps.filter(p=>p.level>=5).length, due:ps.filter(isDue).length, favorite:ps.filter(p=>p.favorite).length, difficult:ps.filter(p=>p.difficult).length, day };
+  return { total:list.length, newCount:ps.filter(p=>p.status==="new").length, started:ps.filter(p=>p.level>0&&p.level<5).length, learned:ps.filter(p=>p.level>=5).length, due:countDue(ps), favorite:ps.filter(p=>p.favorite).length, difficult:ps.filter(p=>p.difficult).length, day };
 }
 function shell(content) {
   const labels = { home:"Start", learn:"Lernen", chapters:"Kapitel", progress:"Fortschritt", settings:"Einstellungen", search:"Vokabelsuche" };
@@ -156,10 +156,10 @@ function selectionCard(c,type) { const topic=type==="topic", key=topic?c.topicId
 function chapterStats(chapter) {
   const list=vocab.filter(v=>v.chapter===chapter), ps=list.map(v=>getProgress(v.id));
   const mastery=Math.round(ps.reduce((sum,p)=>sum+Math.max(0,Math.min(5,p.level||0)),0)/(Math.max(1,list.length)*5)*100);
-  return {chapter,title:vocabularyData.chapters.find(c=>c.number===chapter)?.title||`Kapitel ${chapter}`,total:list.length,newCount:ps.filter(p=>p.status==="new").length,started:ps.filter(p=>p.level>0&&p.level<5).length,due:ps.filter(isDue).length,learned:ps.filter(p=>p.level>=5).length,mastery};
+  return {chapter,title:vocabularyData.chapters.find(c=>c.number===chapter)?.title||`Kapitel ${chapter}`,total:list.length,newCount:ps.filter(p=>p.status==="new").length,started:ps.filter(p=>p.level>0&&p.level<5).length,due:countDue(ps),learned:ps.filter(p=>p.level>=5).length,mastery};
 }
-function topicStats(topicId) { const def=topics.find(t=>t.id===topicId), list=vocab.filter(v=>v.topicId===topicId), ps=list.map(v=>getProgress(v.id)), mastery=Math.round(ps.reduce((n,p)=>n+Math.max(0,Math.min(5,p.level||0)),0)/(Math.max(1,list.length)*5)*100); return {topicId,title:def?.title||topicId,total:list.length,newCount:ps.filter(p=>p.status==="new").length,started:ps.filter(p=>p.level>0&&p.level<5).length,due:ps.filter(isDue).length,learned:ps.filter(p=>p.level>=5).length,mastery}; }
-function collectionStats(collectionId) { const def=collections.find(c=>c.id===collectionId), list=vocab.filter(v=>v.collectionId===collectionId), ps=list.map(v=>getProgress(v.id)), mastery=Math.round(ps.reduce((n,p)=>n+Math.max(0,Math.min(5,p.level||0)),0)/(Math.max(1,list.length)*5)*100); return {collectionId,title:def?.title||collectionId,description:def?.description||"",total:list.length,newCount:ps.filter(p=>p.status==="new").length,started:ps.filter(p=>p.level>0&&p.level<5).length,due:ps.filter(isDue).length,learned:ps.filter(p=>p.level>=5).length,mastery}; }
+function topicStats(topicId) { const def=topics.find(t=>t.id===topicId), list=vocab.filter(v=>v.topicId===topicId), ps=list.map(v=>getProgress(v.id)), mastery=Math.round(ps.reduce((n,p)=>n+Math.max(0,Math.min(5,p.level||0)),0)/(Math.max(1,list.length)*5)*100); return {topicId,title:def?.title||topicId,total:list.length,newCount:ps.filter(p=>p.status==="new").length,started:ps.filter(p=>p.level>0&&p.level<5).length,due:countDue(ps),learned:ps.filter(p=>p.level>=5).length,mastery}; }
+function collectionStats(collectionId) { const def=collections.find(c=>c.id===collectionId), list=vocab.filter(v=>v.collectionId===collectionId), ps=list.map(v=>getProgress(v.id)), mastery=Math.round(ps.reduce((n,p)=>n+Math.max(0,Math.min(5,p.level||0)),0)/(Math.max(1,list.length)*5)*100); return {collectionId,title:def?.title||collectionId,description:def?.description||"",total:list.length,newCount:ps.filter(p=>p.status==="new").length,started:ps.filter(p=>p.level>0&&p.level<5).length,due:countDue(ps),learned:ps.filter(p=>p.level>=5).length,mastery}; }
 function collectionCard(def) { const c=collectionStats(def.id), selected=state.selectedCollections.has(def.id); return `<article class="chapter-card panel collection-card ${selected?"selected":""}"><label class="chapter-check"><input type="checkbox" data-collection="${esc(def.id)}" ${selected?"checked":""}><span>${esc(c.title)}</span></label><p>${esc(c.description)}</p><div class="chapter-counts"><span>${c.total} Vokabeln</span><span>${c.newCount} neu</span><span>${c.started} in Arbeit</span><span>${c.learned} gelernt</span><span>${c.due} fällig</span></div><div class="section-title chapter-mastery"><small>Lernstand</small><b>${c.mastery}%</b></div>${progressBar(c.mastery,100)}<button data-start-collection="${esc(def.id)}" class="secondary">Rubrik lernen</button></article>`; }
 function progressView() {
   const s=stat(state.statsSource), scoped=vocab.filter(v=>state.statsSource==="all"||v.sourceType===state.statsSource), levels=Array.from({length:6},(_,l)=>[l,scoped.filter(v=>getProgress(v.id).level===l).length]);

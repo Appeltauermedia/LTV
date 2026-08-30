@@ -22,3 +22,6 @@ export function schedule(progress, quality, now = Date.now()) {
 export function isDue(progress, now = Date.now()) {
   return progress?.nextReviewAt && new Date(progress.nextReviewAt).getTime() <= now;
 }
+export function countDue(progressList, now = Date.now()) {
+  return progressList.filter((progress) => isDue(progress, now)).length;
+}
