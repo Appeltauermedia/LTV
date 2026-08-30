@@ -3,10 +3,12 @@ import teaIconUrl from "./assets/tea-icon.png";
 import { db } from "./database/db.js";
 import { emptyProgress, isDue, schedule } from "./learning/spaced-repetition.js";
 import { DEFAULT_LEARN_SETTINGS, normalizeLearnSettings } from "./learning/settings.js";
+import { matchesProgressFilter, selectedIncompleteChapters } from "./learning/selection.js";
+import { playBing, playTadaa } from "./learning/sounds.js";
 import { evaluateAnswer, searchKey } from "./utils/text.js";
 import { createExport, validateImport } from "./storage/backup.js";
 
-const APP_VERSION = "1.2.0";
+const APP_VERSION = "1.3.0";
 const vocab = vocabularyData.vocabulary.filter((v) => v.active);
 const byId = new Map(vocab.map((v) => [v.id, v]));
 const topics = vocabularyData.topics || [];
@@ -131,7 +133,7 @@ function learnSetupView() {
    <fieldset class="panel"><legend>Wortschatz</legend><button type="button" class="chapter-summary" data-nav="chapters">${state.selectedChapters.size} Kapitel · ${state.selectedTopics.size} Themen · ${state.selectedCollections.size} Rubriken ausgewählt <span>Ändern →</span></button>
     <label><input type="radio" name="scope" value="selected" ${saved.scope==="selected"?"checked":""}> Gesamte Auswahl</label><label><input type="radio" name="scope" value="chapters" ${saved.scope==="chapters"?"checked":""}> Nur ausgewählte Kapitel</label><label><input type="radio" name="scope" value="topics" ${saved.scope==="topics"?"checked":""}> Nur ausgewählte Themen</label><label><input type="radio" name="scope" value="collections" ${saved.scope==="collections"?"checked":""}> Nur ausgewählte Rubriken</label><label><input type="radio" name="scope" value="all" ${saved.scope==="all"?"checked":""}> Gesamtes Vokabular</label></fieldset>
    <fieldset class="panel"><legend>Auswahl</legend><div class="option-grid">
-    ${[["all","Alle passenden"],["new","Nur neue"],["due",`Fällige (${s.due})`],["wrong","Falsch beantwortete"],["difficult","Schwierige"],["favorite","Favoriten"]].map(([v,l])=>`<label><input type="radio" name="filter" value="${v}" ${saved.filter===v?"checked":""}> ${l}</label>`).join("")}</div></fieldset>
+    ${[["all","Alle passenden"],["new","Nur neue"],["learned",`Gelernte überprüfen (${s.learned})`],["due",`Fällige (${s.due})`],["wrong","Falsch beantwortete"],["difficult","Schwierige"],["favorite","Favoriten"]].map(([v,l])=>`<label><input type="radio" name="filter" value="${v}" ${saved.filter===v?"checked":""}> ${l}</label>`).join("")}</div></fieldset>
    <fieldset class="panel"><legend>Lernmodus</legend><div class="mode-grid">
     ${[["flashcards","Karteikarten","Umdrehen & bewerten"],["choice","Multiple Choice","Antwort auswählen"],["typing","Texteingabe","Aktiv erinnern"],["self","Selbstbewertung","Eigenständig prüfen"],["mistakes","Fehlerwiederholung","Gezielt festigen"],["due","Fällige Wiederholungen","Nach Lernplan"]].map(([v,t,d])=>`<label class="mode"><input type="radio" name="mode" value="${v}" ${saved.mode===v?"checked":""}><span><b>${t}</b><small>${d}</small></span></label>`).join("")}</div></fieldset>
    <fieldset class="panel"><legend>Richtung & Umfang</legend><div class="field-row"><label>Richtung<select name="direction"><option value="tr-de" ${saved.direction==="tr-de"?"selected":""}>Türkisch → Deutsch</option><option value="de-tr" ${saved.direction==="de-tr"?"selected":""}>Deutsch → Türkisch</option><option value="mixed" ${saved.direction==="mixed"?"selected":""}>Gemischt</option></select></label><label>Aufgaben<select name="count">${[["10","10"],["20","20"],["30","30"],["50","50"],["9999","Alle"]].map(([v,l])=>`<option value="${v}" ${saved.count===v?"selected":""}>${l}</option>`).join("")}</select></label><label>Reihenfolge<select name="order"><option value="random" ${saved.order==="random"?"selected":""}>Zufällig</option><option value="chapter" ${saved.order==="chapter"?"selected":""}>Nach Kapitel</option></select></label></div></fieldset>
@@ -169,10 +171,11 @@ function progressView() {
 }
 function settingsView() {
   const goal=state.meta.get("dailyGoal")?.value||20;
+  const excludeMastered=state.meta.get("excludeMasteredChapters")?.value===true;
   return `<section class="content-head"><p class="eyebrow">PERSÖNLICH & LOKAL</p><h2>Einstellungen</h2><p>Deine Daten verlassen dieses Gerät nicht.</p></section>
   <div class="settings-grid">
    <section class="panel"><h3>Darstellung</h3><label>Farbmodus<select id="theme-select"><option value="system" ${theme()==="system"?"selected":""}>Systemeinstellung</option><option value="light" ${theme()==="light"?"selected":""}>Hell</option><option value="dark" ${theme()==="dark"?"selected":""}>Dunkel</option></select></label><label class="switch"><input id="large-text" type="checkbox" ${localStorage.getItem("largeText")==="true"?"checked":""}><span>Größere Schrift verwenden</span></label><label class="switch"><input id="tolerant" type="checkbox" ${localStorage.getItem("tolerant")!=="false"?"checked":""}><span>„Fast richtig“ erkennen</span></label></section>
-   <section class="panel"><h3>Lernziel</h3><label>Tägliche Aufgaben<input id="daily-goal" type="number" min="1" max="500" value="${goal}"></label><p class="hint">Ein Lerntag zählt, sobald mindestens eine Aufgabe bewertet wurde. Unterbrechungen werden nicht bestraft.</p></section>
+   <section class="panel"><h3>Lernziel</h3><label>Tägliche Aufgaben<input id="daily-goal" type="number" min="1" max="500" value="${goal}"></label><label class="switch"><input id="exclude-mastered" type="checkbox" ${excludeMastered?"checked":""}><span>Zu 100 % gelernte Kapitel automatisch aus der Lern-Auswahl entfernen</span></label><p class="hint">Ein Lerntag zählt, sobald mindestens eine Aufgabe bewertet wurde. Unterbrechungen werden nicht bestraft.</p></section>
    <section class="panel"><h3>Lernstand sichern</h3><p>Exportiere eine lokale JSON-Sicherung oder stelle sie wieder her.</p><div class="button-stack"><button data-action="export" class="secondary">Lernstand exportieren</button><label class="file-button secondary">Lernstand importieren<input id="import-file" type="file" accept="application/json,.json"></label></div></section>
    <section class="panel danger"><h3>Zurücksetzen</h3><p>Entfernt den vollständigen Lernstand unwiderruflich von diesem Gerät.</p><button data-action="reset" class="danger-button">Lernstand vollständig zurücksetzen</button></section>
    <section class="panel"><h3>Installation & App</h3><p>Version ${APP_VERSION} · Daten ${vocabularyData.contentVersion}<br>${vocab.length} Vokabeln · 45 Kapitel · ${topics.length} Themen · ${collections.length} weitere Rubrik</p><div class="button-stack"><button data-action="install-help" class="secondary">Installationshilfe</button>${state.updateWorker?'<button data-action="apply-update" class="primary">Neue Version jetzt aktivieren</button>':""}</div></section>
@@ -199,7 +202,16 @@ function startSession(options={}) {
   state.session={items:pool.slice(0,count),index:0,mode,direction,results:[],revealed:false,answered:false};
   showSession();
 }
-function matchesFilter(p,f){return f==="all"||(f==="new"&&p.status==="new")||(f==="due"&&isDue(p))||(f==="wrong"&&p.wrong>0)||(f==="difficult"&&p.difficult)||(f==="favorite"&&p.favorite);}
+function matchesFilter(p,f){return matchesProgressFilter(p,f,isDue);}
+function masteredChapterNumbers(){return new Set(Array.from({length:45},(_,i)=>i+1).filter(chapter=>chapterStats(chapter).mastery===100));}
+async function removeMasteredChapterSelections(){
+  if(state.meta.get("excludeMasteredChapters")?.value!==true)return false;
+  const next=selectedIncompleteChapters(state.selectedChapters,masteredChapterNumbers());
+  if(next.size===state.selectedChapters.size)return false;
+  state.selectedChapters=next;
+  await saveVocabularySelection();
+  return true;
+}
 function currentDirection(v) { const s=state.session; return s.direction==="mixed" ? (s.index%2?"de-tr":"tr-de") : s.direction; }
 function showSession() {
   const s=state.session;
@@ -257,6 +269,7 @@ function bindSettings() {
   document.querySelector("#large-text")?.addEventListener("change",(e)=>{localStorage.setItem("largeText",e.target.checked);document.documentElement.classList.toggle("large-text",e.target.checked);});
   document.querySelector("#tolerant")?.addEventListener("change",(e)=>localStorage.setItem("tolerant",e.target.checked));
   document.querySelector("#daily-goal")?.addEventListener("change",async(e)=>{const value=Math.max(1,Math.min(500,Number(e.target.value)||20));await saveMeta("dailyGoal",value);toast("Tagesziel gespeichert.");});
+  document.querySelector("#exclude-mastered")?.addEventListener("change",async(e)=>{await saveMeta("excludeMasteredChapters",e.target.checked);const removed=e.target.checked&&await removeMasteredChapterSelections();toast(removed?"Einstellung gespeichert. Vollständig gelernte Kapitel wurden aus der Auswahl entfernt.":"Einstellung gespeichert.");});
   document.querySelector("[data-action='export']")?.addEventListener("click",exportData);
   document.querySelector("#import-file")?.addEventListener("change",importData);
   document.querySelector("[data-action='reset']")?.addEventListener("click",resetData);
@@ -280,7 +293,7 @@ function bindSession() {
 }
 function sessionKeys(e){if(!state.session)return;if(e.key==="Escape")document.querySelector("[data-session-close]")?.click();if(e.key===" "&&document.activeElement?.tagName!=="INPUT"){e.preventDefault();document.querySelector("[data-reveal]")?.click();}}
 async function toggleFlag(flag){const v=state.session.items[state.session.index],p=getProgress(v.id);p[flag]=!p[flag];state.progress.set(v.id,p);await db.put("progress",p);showSession();}
-async function recordRating(quality){const v=state.session.items[state.session.index],p=schedule(getProgress(v.id),quality);state.progress.set(v.id,p);await db.put("progress",p);await recordDaily(quality);state.session.results.push({id:v.id,quality});nextTask();}
+async function recordRating(quality){const v=state.session.items[state.session.index],before=getProgress(v.id),chapterWasMastered=v.chapter?chapterStats(v.chapter).mastery===100:false,p=schedule(before,quality);state.progress.set(v.id,p);const becameLearned=before.level<5&&p.level>=5,chapterBecameMastered=Boolean(v.chapter)&&!chapterWasMastered&&chapterStats(v.chapter).mastery===100;if(becameLearned)playBing();if(chapterBecameMastered)playTadaa(becameLearned?0.28:0);await db.put("progress",p);if(chapterBecameMastered)await removeMasteredChapterSelections();await recordDaily(quality);state.session.results.push({id:v.id,quality});nextTask();}
 function answerChoice(button){if(state.session.answered)return;state.session.answered=true;const correct=button.dataset.choice===button.dataset.correct;document.querySelectorAll("[data-choice]").forEach(b=>{b.disabled=true;if(b.dataset.choice===b.dataset.correct)b.classList.add("correct");else if(b===button)b.classList.add("wrong");});const f=document.querySelector("#feedback");f.innerHTML=`<p>${correct?"Richtig!":"Nicht ganz – die richtige Antwort ist markiert."}</p><button class="primary" id="choice-next">Weiter</button>`;document.querySelector("#choice-next").onclick=()=>recordRating(correct?"correct":"wrong");}
 function answerTyping(e){e.preventDefault();if(state.session.answered)return;const v=state.session.items[state.session.index],dir=currentDirection(v),accepted=dir==="tr-de"?v.german:v.turkish,result=evaluateAnswer(document.querySelector("#answer").value,accepted,dir==="tr-de"?"de":"tr");state.session.answered=true;const quality=result.result==="correct"?"correct":result.result==="almost"?"unsure":"wrong";const f=document.querySelector("#feedback");f.className=`feedback ${result.result}`;f.innerHTML=`<p>${esc(result.message)}</p><p><strong>Korrekte Schreibweise:</strong> ${esc(Array.isArray(accepted)?accepted.join(" / "):accepted)}</p><button class="primary" id="typing-next">Weiter</button>`;document.querySelector("#typing-next").onclick=()=>recordRating(quality);}
 function insertChar(char){const input=document.querySelector("#answer"),start=input.selectionStart,end=input.selectionEnd;input.setRangeText(char,start,end,"end");input.focus();}
