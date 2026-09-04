@@ -8,7 +8,8 @@ import { playBing, playTadaa } from "./learning/sounds.js";
 import { evaluateAnswer, searchKey } from "./utils/text.js";
 import { createExport, validateImport } from "./storage/backup.js";
 
-const APP_VERSION = "1.3.0";
+const APP_VERSION = "1.3.1";
+const APP_UPDATED_AT = "04.09.2026";
 const vocab = vocabularyData.vocabulary.filter((v) => v.active);
 const byId = new Map(vocab.map((v) => [v.id, v]));
 const topics = vocabularyData.topics || [];
@@ -178,7 +179,7 @@ function settingsView() {
    <section class="panel"><h3>Lernziel</h3><label>Tägliche Aufgaben<input id="daily-goal" type="number" min="1" max="500" value="${goal}"></label><label class="switch"><input id="exclude-mastered" type="checkbox" ${excludeMastered?"checked":""}><span>Zu 100 % gelernte Kapitel automatisch aus der Lern-Auswahl entfernen</span></label><p class="hint">Ein Lerntag zählt, sobald mindestens eine Aufgabe bewertet wurde. Unterbrechungen werden nicht bestraft.</p></section>
    <section class="panel"><h3>Lernstand sichern</h3><p>Exportiere eine lokale JSON-Sicherung oder stelle sie wieder her.</p><div class="button-stack"><button data-action="export" class="secondary">Lernstand exportieren</button><label class="file-button secondary">Lernstand importieren<input id="import-file" type="file" accept="application/json,.json"></label></div></section>
    <section class="panel danger"><h3>Zurücksetzen</h3><p>Entfernt den vollständigen Lernstand unwiderruflich von diesem Gerät.</p><button data-action="reset" class="danger-button">Lernstand vollständig zurücksetzen</button></section>
-   <section class="panel"><h3>Installation & App</h3><p>Version ${APP_VERSION} · Daten ${vocabularyData.contentVersion}<br>${vocab.length} Vokabeln · 45 Kapitel · ${topics.length} Themen · ${collections.length} weitere Rubrik</p><div class="button-stack"><button data-action="install-help" class="secondary">Installationshilfe</button>${state.updateWorker?'<button data-action="apply-update" class="primary">Neue Version jetzt aktivieren</button>':""}</div></section>
+   <section class="panel"><h3>Installation & App</h3><p>Version ${APP_VERSION} · App-Stand ${APP_UPDATED_AT}<br>Datenbestand ${vocabularyData.contentVersion}<br>${vocab.length} Vokabeln · 45 Kapitel · ${topics.length} Themen · ${collections.length} weitere Rubrik</p><div class="button-stack"><button data-action="install-help" class="secondary">Installationshilfe</button>${state.updateWorker?'<button data-action="apply-update" class="primary">Neue Version jetzt aktivieren</button>':""}</div></section>
   </div><footer class="settings-copyright">Copyright © Appeltauer Media</footer>`;
 }
 function searchView() {
