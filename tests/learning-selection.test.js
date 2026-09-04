@@ -17,6 +17,6 @@ test("gelernte Vokabeln sind unabhängig von der Kapitelwahl überprüfbar",()=>
 });
 
 test("Multiple Choice schließt die richtige Antwort aus den Ablenkern aus",()=>{
-  const items=[{answer:"bitte"},{answer:"danke"},{answer:"bitte"},{answer:"ja"},{answer:"nein"}];
+  const items=[{answer:"bitte"},{answer:"danke"},{answer:"Bitte"},{answer:" bitte "},{answer:"ja"},{answer:"nein"}];
   assert.deepEqual(uniqueDistractorValues(items,item=>item.answer,"bitte"),["danke","ja","nein"]);
 });

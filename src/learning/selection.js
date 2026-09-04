@@ -22,11 +22,13 @@ export function usesGlobalLearnedPool(filter) {
 
 export function uniqueDistractorValues(items, valueFor, correct, count = 3) {
   const values = [];
-  const seen = new Set([correct]);
+  const keyFor = (value) => String(value ?? "").normalize("NFKC").trim().toLocaleLowerCase("de");
+  const seen = new Set([keyFor(correct)]);
   for (const item of items) {
     const value = valueFor(item);
-    if (!seen.has(value)) {
-      seen.add(value);
+    const key = keyFor(value);
+    if (!seen.has(key)) {
+      seen.add(key);
       values.push(value);
     }
     if (values.length === count) break;
