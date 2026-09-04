@@ -3,7 +3,7 @@ import teaIconUrl from "./assets/tea-icon.png";
 import { db } from "./database/db.js";
 import { countDue, emptyProgress, isDue, schedule } from "./learning/spaced-repetition.js";
 import { DEFAULT_LEARN_SETTINGS, normalizeLearnSettings } from "./learning/settings.js";
-import { matchesProgressFilter, selectedIncompleteChapters, usesGlobalLearnedPool } from "./learning/selection.js";
+import { matchesProgressFilter, selectedIncompleteChapters, uniqueDistractorValues, usesGlobalLearnedPool } from "./learning/selection.js";
 import { playBing, playTadaa } from "./learning/sounds.js";
 import { evaluateAnswer, searchKey } from "./utils/text.js";
 import { createExport, validateImport } from "./storage/backup.js";
@@ -225,18 +225,17 @@ function showSession() {
 function taskMarkup(v,q,a,dir) {
   const s=state.session, prompt=`${dir==="tr-de"?"Was bedeutet":"Wie heißt das auf Türkisch"}?`;
   if (s.mode==="choice") {
-    const correct=Array.isArray(a)?a[0]:a, candidates=[correct,...distractors(v,dir)].sort(()=>Math.random()-.5);
+    const correct=Array.isArray(a)?a[0]:a, candidates=[correct,...distractors(v,dir,correct)].sort(()=>Math.random()-.5);
     return `<section class="learn-card"><p class="eyebrow">${prompt}</p><h2 lang="${dir==="tr-de"?"tr":"de"}">${esc(q)}</h2>${v.pronunciation&&dir==="tr-de"?`<small>Aussprache: ${esc(v.pronunciation)}</small>`:""}</section><div class="choice-list">${candidates.map(x=>`<button data-choice="${esc(x)}" data-correct="${esc(correct)}">${esc(x)}</button>`).join("")}</div><div id="feedback" class="feedback" aria-live="polite"></div>`;
   }
   if (s.mode==="typing") return `<section class="learn-card"><p class="eyebrow">${prompt}</p><h2 lang="${dir==="tr-de"?"tr":"de"}">${esc(q)}</h2></section><form id="answer-form" class="answer-box"><label for="answer">Deine Antwort</label><input id="answer" autocomplete="off" autocapitalize="none" spellcheck="false"><div class="turkish-keys">${["ç","ğ","ı","İ","ö","ş","ü"].map(c=>`<button type="button" data-char="${c}">${c}</button>`).join("")}</div><button class="primary">Antwort prüfen</button></form><div id="feedback" class="feedback" aria-live="polite"></div>`;
   const revealed=s.revealed;
   return `<button class="learn-card flip ${revealed?"revealed":""}" data-reveal aria-expanded="${revealed}"><p class="eyebrow">${revealed?"LÖSUNG":prompt}</p><h2 lang="${revealed?(dir==="tr-de"?"de":"tr"):(dir==="tr-de"?"tr":"de")}">${esc(revealed?(Array.isArray(a)?a.join(" / "):a):q)}</h2>${revealed&&v.pronunciation?`<small>Aussprache: ${esc(v.pronunciation)}</small>`:""}<span>${revealed?"Wie gut wusstest du es?":"Antippen, um die Lösung zu sehen"}</span></button>${revealed?ratingButtons(s.mode==="self"):''}`;
 }
-function distractors(v,dir) {
+function distractors(v,dir,correct) {
   const same=vocab.filter(x=>x.id!==v.id&&((v.topicId&&x.topicId===v.topicId)||(v.chapter&&x.chapter===v.chapter)||x.category&&x.category===v.category)).sort(()=>Math.random()-.5);
   const rest=vocab.filter(x=>x.id!==v.id).sort(()=>Math.random()-.5);
-  const values=[], seen=new Set();
-  for(const x of [...same,...rest]){const val=dir==="tr-de"?x.german[0]:x.turkish;if(!seen.has(val)){seen.add(val);values.push(val);}if(values.length===3)break;} return values;
+  return uniqueDistractorValues([...same,...rest],x=>dir==="tr-de"?x.german[0]:x.turkish,correct);
 }
 function ratingButtons(self=false){ const opts=self?[["wrong","Falsch"],["partial","Teilweise richtig"],["correct","Richtig"]]:[["wrong","Nicht gewusst"],["unsure","Unsicher"],["correct","Gewusst"],["easy","Sehr sicher"]];return `<div class="rating">${opts.map(([q,l])=>`<button data-rate="${q}">${l}</button>`).join("")}</div>`;}
 function bindCommon() {

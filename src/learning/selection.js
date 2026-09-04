@@ -19,3 +19,17 @@ export function selectedIncompleteChapters(selected, masteredChapters) {
 export function usesGlobalLearnedPool(filter) {
   return filter === "learned";
 }
+
+export function uniqueDistractorValues(items, valueFor, correct, count = 3) {
+  const values = [];
+  const seen = new Set([correct]);
+  for (const item of items) {
+    const value = valueFor(item);
+    if (!seen.has(value)) {
+      seen.add(value);
+      values.push(value);
+    }
+    if (values.length === count) break;
+  }
+  return values;
+}
